@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.14"]
+[White "Bogoliubon"]
+[Black "bytbox"]
+[ECO "D06"]
+[ChesscomGameID "1462249477"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+[WhiteElo "907"]
+[BlackElo "932"]
+{Inaccuracies(?!): 1 = 6.7% of moves | Mistakes(?): 1 = 6.7% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  Nf6 {(Book Move)} 
+3. Nf3 {(0.12)}  Bg4 {(0.58)} 
+4. e3 {(0.31)}  c6 {(0.27)} 
+5. Be2 {(0.27)}  Bxf3 {(0.53)} 
+6. Bxf3 {(0.53)}  e6 {(0.53)} 
+7. O-O {(0.5)}  Bb4 {(0.71)} 
+8. Bd2 $6 {(0.27) INACCURACY - Perhaps better was 8. Qb3} 
+({BEST MOVE (0.66)} 8. Qb3 Qe7 9. a3 Ba5 10. cxd5 exd5 11. Nc3 Qc7   $14)
+({INACCURACY (0.27)} 8. Bd2 Bxd2 9. Nxd2 O-O 10. Qb3 Qc7 11. Rac1 Nbd7   $10)
+8... Bxd2 {(0.31)} 
+9. Nxd2 {(0.25)}  b6 {(0.96)} 
+10. Rc1 {(0.89)}  O-O {(0.84)} 
+11. cxd5 {(0.83)}  cxd5 {(0.8)} 
+12. e4 {(0.83)}  dxe4 {(0.87)} 
+13. Nxe4 {(0.77)}  Nxe4 {(1.68)} 
+14. Bxe4 {(1.67)}  Qf6 $4 {(5.6) BLUNDER - Lucky you! Your opponent blundered! The best move was 14... Nd7} 
+({BEST MOVE (1.65)} 14... Nd7 15. Bxa8 Qxa8 16. Qa4 Nf6 17. Rc6 Nd5 18. Rfc1   $18)
+({BLUNDER (5.6)} 14... Qf6 15. Bxa8 Qf4 16. Qd3 Nd7 17. Bf3 Qb8 18. Qc4   $18)
+15. Bxa8 {(5.77)}  Rd8 {(6)} 
+16. Re1 $2 {(5.69) MISTAKE - That was a mistake. Much better was 16. Qa4} 
+({BEST MOVE (6.3)} 16. Qa4 a6 17. Rfd1 Qf4 18. Bf3 Qd6 19. Qc4 a5   $18)
+({MISTAKE (5.69)} 16. Re1 Nd7 17. Qa4 Nf8 18. Qxa7 Qxd4 19. Bf3 Qxb2   $18)
+16... Rxd4 $2 {(+Mat03) MISTAKE - Your opponent made a mistake! Better was 16... Nd7} 
+({BEST MOVE (5.82)} 16... Nd7 17. Qa4 Nf8 18. Qxa7 Qxd4 19. Bf3 Qxb2 20. Rb1   $18)
+({MISTAKE (+Mat03)} 16... Rxd4 17. Rc8+ Rd8 18. Rxd8+ Qxd8 19. Qxd8#   $18)
+17. Rc8+ {(+Mat03)}  Rd8 {(+Mat02) WHITE WINS - Play might have continued...} 
+({CONTINUATION (+Mat02)} 17... Rd8 18. Rxd8+ Qxd8 19. Qxd8#   $18)
+1-0
+

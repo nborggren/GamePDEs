@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[White "onatu"]
+[Black "Bogoliubon"]
+[ECO "C02"]
+[ChesscomGameID "1462494939"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "onatu won by resignation"]
+[TimeControl "2|1"]
+[WhiteElo "926"]
+[BlackElo "873"]
+{Inaccuracies(?!): 2 = 25.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. e5 {(Book Move)}  c5 {(Book Move)} 
+4. c3 {(Book Move)}  Nc6 {(Book Move)} 
+5. Nf3 {(Book Move)}  f6 $6 {(0.51) INACCURACY - Perhaps better was 5... Qb6} 
+({BEST MOVE (-0.03)} 5... Qb6 6. a3 Nge7 7. dxc5 Qc7 8. Nbd2 Ng6 9. b4   $10)
+({INACCURACY (0.51)} 5... f6 6. Bb5 Qb6 7. Qe2 cxd4 8. Nxd4 Bd7 9. Nxc6   $14)
+6. Bb5 {(0.44)}  Bd7 {(0.58)} 
+7. Bxc6 {(0.58)}  Bxc6 {(0.62)} 
+8. O-O {(0.62)}  fxe5 {(0.71) ALTERNATIVE - With that last move you went from roughly equal to having a worse position. Your best continuation was 8... Bd7} 
+({BEST MOVE (0.65)} 8... Bd7 9. Re1 Qb6 10. a4 h5 11. Qc2 O-O-O 12. Be3   $14)
+({ALTERNATIVE (0.71)} 8... fxe5 9. Nxe5 Nf6 10. Re1 Bd6 11. Nxc6 bxc6 12. dxc5   $16)
+9. Nxe5 {(0.75)}  Nf6 {(0.65)} 
+10. Bg5 {(0.39)}  Be7 $6 {(0.71) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 10... Bd6} 
+({BEST MOVE (0.34)} 10... Bd6 11. Qe2 cxd4 12. Nxc6 bxc6 13. Qxe6+ Qe7 14. Qxe7+   $14)
+({INACCURACY (0.71)} 10... Be7 11. Re1 O-O 12. Nxc6 bxc6 13. Rxe6 Qd7 14. Qe2   $16)
+11. Bxf6 {(0.5)}  Bxf6 {(0.45)} 
+12. Qh5+ {(0.27)}  g6 {(0.32) WHITE WINS - Play might have continued...} 
+({CONTINUATION (0.32)} 12... g6 13. Qe2 Qe7 14. Nd2 O-O 15. Ndf3 Qe8 16. Nxc6   $14)
+1-0
+

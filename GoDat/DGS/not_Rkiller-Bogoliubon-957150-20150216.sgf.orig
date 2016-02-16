@@ -1,0 +1,70 @@
+(
+;FF[4]GM[1]
+<<<<<<< local
+AP[DGS:1.19.9]
+=======
+AP[DGS:1.19.5]
+>>>>>>> other
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+DT[2015-01-08,2015-02-16]
+GN[not_Rkiller-Bogoliubon-957150-20150216]
+SO[http://www.dragongoserver.net/game.php?gid=957150]
+EV[(Dragon Round Robin) Tournament #10: Dragon Round-Robin 2015 - 19x19, Dan division]
+<<<<<<< local
+RO[Round 2 of 2]
+=======
+RO[Round 1 of 1]
+>>>>>>> other
+PB[Nathan Borggren (Bogoliubon)]
+PW[Алексей (not_Rkiller)]
+BR[1d]
+WR[5d]
+XM[31]
+GC[Game ID: 957150
+Game Type: GO (1:1)
+(Dragon Round Robin) Tournament #10: Dragon Round-Robin 2015 - 19x19, Dan division; with 45 participants
+Rated: Y
+
+White Start Rating: 6d (-48%) - ELO 2551
+Black Start Rating: 1d (-7%) - ELO 2092
+White End Rating: 5d (-31%) - ELO 2468
+Black End Rating: 1d (+15%) - ELO 2114]
+OT[1 day + 14 days per 14 stones]
+RU[Japanese]
+SZ[19]
+KM[6.5]
+RE[B+Time]
+;B[pd]
+;W[dp]
+;B[pq]
+;W[po]
+;B[cd]
+;W[nc]
+;B[jc]
+;W[fd]
+;B[oc]
+;W[nd]
+;B[pf]
+;W[nf]
+;B[qm]
+;W[on]
+;B[om]
+;W[nm]
+;B[ol]
+;W[qn]
+;B[nn]
+;W[no]
+;B[mn]
+;W[mo]
+;B[ln]
+;W[rm]
+;B[ql]
+;W[rl]
+;B[rk]
+;W[ro]
+;B[lo]
+;W[mq]
+;B[or]
+;W[]
+C[Result: B+Time]
+)

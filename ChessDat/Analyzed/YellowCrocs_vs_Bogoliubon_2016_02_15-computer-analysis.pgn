@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[White "YellowCrocs"]
+[Black "Bogoliubon"]
+[ECO "A40"]
+[ChesscomGameID "1462491541"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[BlackElo "887"]
+[Termination "YellowCrocs won by resignation"]
+[WhiteElo "992"]
+[TimeControl "2|1"]
+{Inaccuracies(?!): 1 = 9.1% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 9.1% of moves}
+
+1. d4 {(Book Move)}  e6 {(Book Move)} 
+2. c4 {(Book Move)}  d5 {(0.13)} 
+3. Nc3 {(0.17)}  Nf6 {(0.2)} 
+4. cxd5 {(0)}  Nxd5 $6 {(0.4) INACCURACY - Perhaps better was 4... exd5} 
+({BEST MOVE (0)} 4... exd5 5. Bg5 c6 6. e3 Bf5 7. Bd3 Bxd3 8. Qxd3   $10)
+({INACCURACY (0.4)} 4... Nxd5 5. Nf3 c5 6. e4 Nxc3 7. bxc3 Be7 8. Bc4   $14)
+5. e4 {(0.36)}  Nxc3 {(0.31)} 
+6. bxc3 {(0.42)}  Nc6 {(0.56)} 
+7. Nf3 {(0.62)}  Bd6 {(0.69)} 
+8. Bd3 {(0.68)}  Bd7 {(0.98) ALTERNATIVE - With that last move you went from roughly equal to having a worse position. Your best continuation was 8... b6} 
+({BEST MOVE (0.75)} 8... b6 9. O-O Bb7 10. d5 exd5 11. exd5 Ne7 12. Bb5+   $16)
+({ALTERNATIVE (0.98)} 8... Bd7 9. e5 Be7 10. O-O Na5 11. c4 Bc6 12. Bd2   $16)
+9. Qc2 {(0.67)}  e5 {(0.67)} 
+10. d5 {(0.51)}  Ne7 {(0.51)} 
+11. O-O {(0.41)}  O-O {(0.44)} 
+12. c4 {(0.47)}  Bc6 $4 {(3.9) BLUNDER - Oops! That was a serious blunder. From equal to losing in a flash. Best was 12... b6} 
+({BEST MOVE (0.43)} 12... b6 13. a4 a5 14. Be3 Ng6 15. g3 Qf6 16. Nd2   $14)
+({BLUNDER (3.9)} 12... Bc6 13. c5 Be8 14. cxd6 cxd6 15. Qb3 b5 16. Bd2   $18)
+13. dxc6 $2 {(2.97) WHITE WINS - Play might have continued...} 
+({BEST MOVE (3.9)} 13. c5 Be8 14. cxd6 cxd6 15. Qb3 b5 16. Bd2 a5   $18)
+({MISTAKE (2.97)} 13. dxc6 Nxc6 14. Be3 b6 15. c5 Nb4 16. Qc3 Nxd3   $18)
+({CONTINUATION (2.97)} 13. dxc6 Nxc6 14. Be3 b6 15. c5 Nb4 16. Qc3 Nxd3   $18)
+1-0
+

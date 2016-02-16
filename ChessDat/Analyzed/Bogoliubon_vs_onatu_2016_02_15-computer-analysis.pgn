@@ -1,0 +1,85 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[White "Bogoliubon"]
+[Black "onatu"]
+[ECO "D11"]
+[ChesscomGameID "1462511585"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1/2-1/2"]
+[BlackElo "907"]
+[Termination "Game drawn by repetition"]
+[TimeControl "2|1"]
+[WhiteElo "893"]
+{Inaccuracies(?!): 5 = 14.7% of moves | Mistakes(?): 3 = 8.8% of moves | Blunders(??): 1 = 2.9% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  c6 {(Book Move)} 
+3. Nf3 {(Book Move)}  dxc4 {(0.35)} 
+4. e3 {(0.48)}  b5 {(0.73)} 
+5. Nc3 $6 {(-0.07) INACCURACY - Perhaps better was 5. a4} 
+({BEST MOVE (0.75)} 5. a4 e6 6. axb5 cxb5 7. b3 Nf6 8. bxc4 bxc4   $16)
+({INACCURACY (-0.07)} 5. Nc3 Nf6 6. a4 b4 7. Ne2 e6 8. Nf4 Ba6   $10)
+5... Nf6 {(-0.08)} 
+6. Be2 {(-0.12)}  e6 {(-0.12)} 
+7. O-O {(-0.12)}  Bd6 {(0.13)} 
+8. e4 {(0.16)}  Bc7 {(0.37)} 
+9. e5 {(0.27)}  Nd5 {(0.26)} 
+10. Nxd5 $6 {(-0.53) INACCURACY - Perhaps better was 10. a4} 
+({BEST MOVE (0.21)} 10. a4 Bb7 11. axb5 Nxc3 12. bxc3 cxb5 13. Ng5 h6   $10)
+({INACCURACY (-0.53)} 10. Nxd5 exd5 11. Qc2 h6 12. b3 O-O 13. Rb1 a5   $15)
+10... cxd5 {(-0.24)} 
+11. Bg5 {(-0.38)}  Qd7 {(-0.75)} 
+12. Qd2 $6 {(-1.03) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 12. b3} 
+({BEST MOVE (-0.63)} 12. b3 Ba6 13. Rc1 Bb7 14. Rb1 Ba5 15. Bd2 Bxd2   $15)
+({INACCURACY (-1.03)} 12. Qd2 Nc6 13. b3 Ba5 14. Qe3 h6 15. Bf4 g5   $17)
+12... Bd8 {(-0.39)} 
+13. Qb4 $6 {(-1.25) INACCURACY - Perhaps better was 13. a4} 
+({BEST MOVE (-0.43)} 13. a4 bxa4 14. Bxd8 Qxd8 15. Rxa4 Nc6 16. b3 cxb3   $15)
+({INACCURACY (-1.25)} 13. Qb4 Nc6 14. Qd2 Ba5 15. Qe3 Bb7 16. Rfc1 O-O   $17)
+13... Bxg5 {(-1.09)} 
+14. Nxg5 {(-1.22)}  a5 {(-1.23)} 
+15. Qd2 {(-1.17)}  O-O {(-1.05)} 
+16. Qf4 $6 {(-1.44) INACCURACY - Perhaps better was 16. Qc2} 
+({BEST MOVE (-1.05)} 16. Qc2 f5 17. Nh3 Nc6 18. Rfd1 b4 19. Nf4 Ba6   $17)
+({INACCURACY (-1.44)} 16. Qf4 Nc6 17. Qe3 b4 18. Rfc1 h6 19. Nf3 Bb7   $17)
+16... Qe7 {(-1.35)} 
+17. h4 {(-1.47)}  f6 {(-1.32)} 
+18. Nf3 {(-1.46)}  fxe5 {(-1.39)} 
+19. Qxe5 {(-1.4)}  Nc6 {(-1.4)} 
+20. Qh5 $2 {(-2.54) MISTAKE - That was a mistake. Much better was 20. Qe3} 
+({BEST MOVE (-1.43)} 20. Qe3 Bd7 21. Rfe1 b4 22. a3 h6 23. Rec1 Qf6   $17)
+({MISTAKE (-2.54)} 20. Qh5 Rf5 21. Ng5 g6 22. Qh6 Nxd4 23. Rae1 a4   $19)
+20... Qf6 $2 {(-1.66) MISTAKE - Your opponent made a mistake! Better was 20... Rf5} 
+({BEST MOVE (-2.75)} 20... Rf5 21. Ng5 g6 22. Qh6 Nxd4 23. Rae1 e5 24. Bg4   $19)
+({MISTAKE (-1.66)} 20... Qf6 21. Rfd1 Bb7 22. Qg5 Rae8 23. g3 Qf5 24. Qe3   $19)
+21. Ng5 $2 {(-2.75) MISTAKE - That was a mistake. Much better was 21. Rfd1} 
+({BEST MOVE (-1.7)} 21. Rfd1 Bd7 22. a3 h6 23. Qg4 Rf7 24. Rac1 Qf4   $19)
+({MISTAKE (-2.75)} 21. Ng5 h6 22. Nf3 Nxd4 23. Nxd4 Qxd4 24. Rab1 a4   $19)
+21... h6 {(-2.73)} 
+22. Nf3 {(-2.8)}  Nxd4 {(-2.72)} 
+23. Nxd4 {(-2.98)}  Qxd4 {(-2.93)} 
+24. Bg4 $2 {(-3.9) MISTAKE - Your position is getting even worse - you are now losing. The best line was 24. Bf3} 
+({BEST MOVE (-2.88)} 24. Bf3 Bd7 25. Rae1 Rac8 26. Qe5 Qxh4 27. Qd6 Rcd8   $19)
+({MISTAKE (-3.9)} 24. Bg4 Qxb2 25. Qg6 Qf6 26. Qxf6 gxf6 27. Rfd1 b4   $19)
+24... Qxb2 {(-3.87)} 
+25. Rae1 {(-3.83)}  Qxa2 {(-3.56)} 
+26. Bxe6+ {(-3.73)}  Bxe6 {(-3.84)} 
+27. Rxe6 {(-3.79)}  Rae8 $4 {(5.37) BLUNDER - Lucky you! Your opponent blundered! The best move was 27... Qd2} 
+({BEST MOVE (-4.08)} 27... Qd2 28. Rd6 Rad8 29. Rxd8 Rxd8 30. Rd1 Qb2 31. Rxd5   $19)
+({BLUNDER (5.37)} 27... Rae8 28. Rxe8 Qd2 29. Rxf8+ Kxf8 30. Rd1 Qf4 31. Qxd5   $18)
+28. Rxh6 $4 {(0) BLUNDER - You have now equalized! } 
+({BEST MOVE (5.43)} 28. Rxe8 Qd2 29. Rxf8+ Kxf8 30. Rd1 Qf4 31. Qxd5 Qxh4   $18)
+({BLUNDER (0)} 28. Rxh6 gxh6 29. Qg6+ Kh8 30. Qxh6+ Kg8 31. Qg6+ Kh8   $10)
+28... gxh6 {(0)} 
+29. Qg6+ {(0)}  Kh8 
+30. Qxh6+ {(0)}  Kg8 
+31. Qg6+ {(0)}  Kh8 
+32. Qh6+ {(0)}  Kg8 
+33. Qg6+ {(0)}  Kh8 
+34. Qh6+ {(0)}  Kg8 
+35. Qg6+ {(0)}  Kh8 
+36. Qh6+ {(0)}  Kg8 
+37. Qg6+ {(0)}  Kh8 {() DRAW - Play might have continued...} 
+1/2-1/2
+

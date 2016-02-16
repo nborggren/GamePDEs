@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[White "napoleoncito"]
+[Black "Bogoliubon"]
+[ECO "C01"]
+[ChesscomGameID "1462484993"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "napoleoncito won by resignation"]
+[TimeControl "2|1"]
+[WhiteElo "992"]
+[BlackElo "899"]
+{Inaccuracies(?!): 2 = 33.3% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 16.7% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. exd5 {(Book Move)}  exd5 {(Book Move)} 
+4. c4 {(Book Move)}  Nf6 {(0.12)} 
+5. Nf3 {(0.06)}  Bd6 {(0.08)} 
+6. cxd5 {(0.08)}  Nxd5 {(0.03)} 
+7. Bd3 {(-0.4)}  Be6 $6 {(0.27) INACCURACY - Perhaps better was 7... Qe7+} 
+({BEST MOVE (-0.3)} 7... Qe7+ 8. Be2 Bb4+ 9. Bd2 Nf4 10. Kf1 Bxd2 11. Qxd2   $10)
+({INACCURACY (0.27)} 7... Be6 8. O-O Be7 9. Nc3 Nc6 10. a3 O-O 11. Re1   $10)
+8. O-O {(0.32)}  Nf4 $6 {(0.96) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 8... Nc6} 
+({BEST MOVE (0.32)} 8... Nc6 9. Nc3 Be7 10. Re1 O-O 11. a3 Re8 12. Be4   $14)
+({INACCURACY (0.96)} 8... Nf4 9. Bxf4 Bxf4 10. Nc3 O-O 11. Qe2 g6 12. Qe4   $16)
+9. Nc3 {(0.51)}  Qg5 $4 {(13.11) BLUNDER - Your position is getting even worse - you are now losing. The best line was 9... Nxd3} 
+({BEST MOVE (0.53)} 9... Nxd3 10. Qxd3 Be7 11. d5 O-O 12. Bf4 Bg4 13. h3   $14)
+({BLUNDER (13.11)} 9... Qg5 10. Nxg5 Nxd3 11. Qxd3 Nc6 12. d5 O-O-O 13. Qe4   $18)
+10. Nxg5 {(13.34) WHITE WINS - Play might have continued...} 
+({CONTINUATION (13.34)} 10. Nxg5 Nxd3 11. Qxd3 Nc6 12. d5 O-O-O 13. Qe4 Bxd5   $18)
+1-0
+

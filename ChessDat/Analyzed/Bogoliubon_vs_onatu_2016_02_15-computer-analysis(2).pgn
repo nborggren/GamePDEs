@@ -1,0 +1,48 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.15"]
+[White "Bogoliubon"]
+[Black "onatu"]
+[ECO "D11"]
+[ChesscomGameID "1462492981"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "880"]
+[TimeControl "2|1"]
+[Termination "onatu won by checkmate"]
+[BlackElo "919"]
+{Inaccuracies(?!): 2 = 16.7% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 2 = 16.7% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  c6 {(Book Move)} 
+3. Nf3 {(Book Move)}  Bg4 {(0.89)} 
+4. e3 $6 {(0.31) INACCURACY - Perhaps better was 4. Ne5} 
+({BEST MOVE (0.89)} 4. Ne5 Be6 5. cxd5 cxd5 6. e3 Nd7 7. Nc3 a6   $16)
+({INACCURACY (0.31)} 4. e3 e6 5. Nc3 Nf6 6. Bd3 Nbd7 7. O-O Be7   $14)
+4... e5 {(0.84)} 
+5. Be2 $6 {(0.16) INACCURACY - Perhaps better was 5. Qb3} 
+({BEST MOVE (0.75)} 5. Qb3 Bxf3 6. Qxb7 Nd7 7. gxf3 exd4 8. exd4 Rb8   $16)
+({INACCURACY (0.16)} 5. Be2 e4 6. Ne5 Bxe2 7. Qxe2 Nd7 8. Nc3 Bb4   $10)
+5... e4 {(0.19)} 
+6. Ne5 {(0.17)}  Bxe2 {(0.15)} 
+7. Qxe2 {(0.13)}  Nd7 {(0.19)} 
+8. Nxd7 {(-0.09)}  Qxd7 {(-0.09)} 
+9. O-O {(-0.13)}  Nf6 {(-0.08)} 
+10. Nc3 {(-0.29)}  Bd6 {(-0.12)} 
+11. cxd5 {(-0.17)}  Nxd5 {(0.78)} 
+12. Nxe4 {(0.78)}  Bb8 {(1.02)} 
+13. Nc5 {(1.15)}  Qc7 {(1.25)} 
+14. Re1 $4 {(-Mat02) BLUNDER - Oh no! You went from a slight advantage to game over so quickly! You could have kept the momentum with 14. f4} 
+({BEST MOVE (1.25)} 14. f4 Qe7 15. e4 O-O 16. Qf2 Nf6 17. e5 Nd5   $16)
+({BLUNDER (-Mat02)} 14. Re1 Qxh2+ 15. Kf1 Qh1#   $19)
+14... b6 $4 {(-1.12) BLUNDER - Lucky you! Your opponent blundered! The best move was 14... Qxh2+} 
+({BEST MOVE (-Mat02)} 14... Qxh2+ 15. Kf1 Qh1#   $19)
+({BLUNDER (-1.12)} 14... b6 15. g3 bxc5 16. e4 Ne7 17. dxc5 Qd7 18. f4   $17)
+15. e4 $4 {(-Mat02) BLUNDER - Oh no - a blunder! You should have played 15. g3} 
+({BEST MOVE (-1.23)} 15. g3 bxc5 16. e4 Ne7 17. dxc5 Qc8 18. f4 Bc7   $17)
+({BLUNDER (-Mat02)} 15. e4 Qxh2+ 16. Kf1 Qh1#   $19)
+15... Qxh2+ {(-Mat02)} 
+16. Kf1  Qh1# {(-Mat01) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-Mat01)} 16... Qh1#   $19)
+0-1
+
