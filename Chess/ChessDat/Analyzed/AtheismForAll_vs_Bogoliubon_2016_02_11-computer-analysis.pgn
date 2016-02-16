@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.11"]
+[White "AtheismForAll"]
+[Black "Bogoliubon"]
+[ECO ""]
+[ChesscomGameID "1458417268"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won - game abandoned"]
+[WhiteElo "717"]
+[BlackElo "842"]
+{Inaccuracies(?!): 3 = 23.1% of moves | Mistakes(?): 2 = 15.4% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. f3 {(Book Move)}  Nf6 {(-0.43)} 
+2. e4 {(-0.65)}  e6 $6 {(-0.24) INACCURACY - Perhaps better was 2... e5} 
+({BEST MOVE (-0.7)} 2... e5 3. Nc3 Nc6 4. f4 d5 5. fxe5 Nxe4 6. Nf3   $15)
+({INACCURACY (-0.24)} 2... e6 3. Nc3 Be7 4. d4 d5 5. Be3 O-O 6. e5   $10)
+3. c3 {(-1.12)}  d5 $2 {(0) MISTAKE - That was a mistake. Much better was 3... Nxe4} 
+({BEST MOVE (-1.14)} 3... Nxe4 4. g3 Nf6 5. d4 d5 6. Bg2 Be7 7. Ne2   $17)
+({MISTAKE (0)} 3... d5 4. e5 Nfd7 5. d4 Be7 6. f4 c5 7. Nf3   $10)
+4. d3 {(-0.72)}  c5 $6 {(-0.12) INACCURACY - Perhaps better was 4... Nc6} 
+({BEST MOVE (-0.74)} 4... Nc6 5. Be3 Be7 6. Ne2 e5 7. Ng3 d4 8. Bf2   $17)
+({INACCURACY (-0.12)} 4... c5 5. e5 Nfd7 6. f4 Be7 7. Nf3 O-O 8. Be2   $10)
+5. e5 {(-0.2)}  Nfd7 {(-0.18)} 
+6. f4 {(-0.18)}  Nc6 {(-0.13)} 
+7. g3 {(-0.36)}  c4 $2 {(0.64) MISTAKE - That was a mistake. Much better was 7... b5} 
+({BEST MOVE (-0.33)} 7... b5 8. Nf3 b4 9. Bg2 Be7 10. O-O O-O 11. Nbd2   $15)
+({MISTAKE (0.64)} 7... c4 8. dxc4 Be7 9. cxd5 exd5 10. Qxd5 O-O 11. b4   $14)
+8. h4 $2 {(-0.44) MISTAKE - Your opponent made a mistake! Better was 8. dxc4} 
+({BEST MOVE (0.79)} 8. dxc4 Nb6 9. Nd2 Be7 10. Ngf3 O-O 11. Bd3 Nxc4   $16)
+({MISTAKE (-0.44)} 8. h4 b5 9. Nf3 Nc5 10. Be3 Bb7 11. dxc4 bxc4   $15)
+8... cxd3 {(-0.24)} 
+9. Bxd3 {(-0.19)}  Qb6 {(-0.09)} 
+10. h5 {(-0.44)}  Nc5 {(-0.54)} 
+11. Qf3 {(-1.19)}  Nxd3+ {(-0.9)} 
+12. Qxd3 {(-0.97)}  Bc5 $6 {(-0.54) INACCURACY - You slipped from a better position to an equal one. You should have played 12... f6} 
+({BEST MOVE (-1.03)} 12... f6 13. exf6 gxf6 14. Nd2 Qd8 15. Ndf3 Be7 16. Qe2   $17)
+({INACCURACY (-0.54)} 12... Bc5 13. Ne2 a5 14. Nd2 Bd7 15. Nb3 Bf2+ 16. Kf1   $15)
+13. Nf3 {(-0.54)}  h6 {(-0.49) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-0.49)} 13... h6 14. Rh2 Bd7 15. g4 Rc8 16. Nbd2 Nb8 17. Nb3   $15)
+0-1
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.06"]
+[White "GaryTomJoe"]
+[Black "Bogoliubon"]
+[ECO ""]
+[ChesscomGameID "1452186582"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "865"]
+[BlackElo "856"]
+[Termination "GaryTomJoe won by resignation"]
+[TimeControl "2|1"]
+{Inaccuracies(?!): 2 = 25.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 12.5% of moves}
+
+1. e3 {(Book Move)}  e6 {(0.17)} 
+2. Ne2 {(-0.24)}  d5 {(-0.3)} 
+3. Ng3 {(-0.27)}  Bd6 {(-0.22)} 
+4. Be2 {(-0.24)}  Qg5 $6 {(0.44) INACCURACY - Perhaps better was 4... c5} 
+({BEST MOVE (-0.19)} 4... c5 5. O-O Nf6 6. d4 cxd4 7. exd4 O-O 8. c4   $10)
+({INACCURACY (0.44)} 4... Qg5 5. d4 Qd8 6. e4 dxe4 7. Nxe4 Be7 8. c3   $14)
+5. O-O {(0.45)}  Nf6 {(0.49)} 
+6. d3 {(-0.28)}  Bxg3 $6 {(0.58) INACCURACY - Perhaps better was 6... h5} 
+({BEST MOVE (-0.28)} 6... h5 7. f4 Qh6 8. Nc3 Bd7 9. d4 Nc6 10. Nb5   $10)
+({INACCURACY (0.58)} 6... Bxg3 7. hxg3 Qg6 8. c4 Nc6 9. Nc3 a6 10. d4   $14)
+7. fxg3 {(0.54)}  Nc6 {(0.46)} 
+8. e4 {(0.17)}  dxe4 $4 {(10.87) BLUNDER - Oops! That was a serious blunder. From equal to losing in a flash. Best was 8... Qe5} 
+({BEST MOVE (0.32)} 8... Qe5 9. exd5 Nd4 10. Bf3 Nxd5 11. Be4 f5 12. Bxd5   $14)
+({BLUNDER (10.87)} 8... dxe4 9. Bxg5 exd3 10. Bxd3 Bd7 11. Bxf6 gxf6 12. Rxf6   $18)
+9. Bxg5 {(10.9) WHITE WINS - Play might have continued...} 
+({CONTINUATION (10.9)} 9. Bxg5 Nd7 10. Nc3 exd3 11. Nb5 O-O 12. cxd3 b6   $18)
+1-0
+

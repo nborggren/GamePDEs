@@ -1,0 +1,58 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.11"]
+[White "Bogoliubon"]
+[Black "anonUGA"]
+[ECO "A40"]
+[ChesscomGameID "1458419457"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "836"]
+[TimeControl "2|1"]
+[Termination "anonUGA won on time"]
+[BlackElo "909"]
+{Inaccuracies(?!): 4 = 23.5% of moves | Mistakes(?): 1 = 5.9% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  g6 {(Book Move)} 
+2. c4 {(Book Move)}  Bg7 {(Book Move)} 
+3. Nf3 {(0.41)}  d6 {(0.61)} 
+4. e3 {(0.4)}  Bg4 {(0.62)} 
+5. Be2 {(0.65)}  Nc6 {(0.75)} 
+6. Nc3 {(0.75)}  e5 {(0.85)} 
+7. Qa4 $6 {(0.15) INACCURACY - You slipped from a better position to an equal one. You should have played 7. d5} 
+({BEST MOVE (0.86)} 7. d5 Nb8 8. O-O Nf6 9. e4 O-O 10. Bg5 Nbd7   $16)
+({INACCURACY (0.15)} 7. Qa4 Bd7 8. dxe5 Nxe5 9. Qb3 Nxf3+ 10. Bxf3 Rb8   $10)
+7... exd4 {(0.39)} 
+8. Nxd4 $6 {(-0.12) INACCURACY - Perhaps better was 8. exd4} 
+({BEST MOVE (0.37)} 8. exd4 Bxf3 9. Bxf3 Bxd4 10. O-O Ne7 11. Bh6 Qd7   $14)
+({INACCURACY (-0.12)} 8. Nxd4 Bd7 9. Qc2 Nxd4 10. exd4 Ne7 11. Bg5 O-O   $10)
+8... Bxd4 {(0.66)} 
+9. exd4 {(0.82)}  Bxe2 {(0.63)} 
+10. Nxe2 {(0.69)}  Qd7 {(0.7)} 
+11. O-O {(0.8)}  O-O-O $2 {(2.65) MISTAKE - Your opponent made a mistake! Better was 11... Nge7} 
+({BEST MOVE (0.8)} 11... Nge7 12. Bg5 Nf5 13. Nf4 O-O 14. Nd5 Qc8 15. Rad1   $16)
+({MISTAKE (2.65)} 11... O-O-O 12. d5 Nb8 13. Qxa7 Ne7 14. b3 Rde8 15. Nc3   $18)
+12. d5 {(2.83)}  Ne5 {(3.27)} 
+13. Qxa7 {(3.48)}  Qg4 {(3.96)} 
+14. Qa8+ $2 {(2.1) MISTAKE - That was a mistake. Much better was 14. Nd4} 
+({BEST MOVE (4.08)} 14. Nd4 Ne7 15. h3 Qh4 16. f4 Nd3 17. Nb5 Kd7   $18)
+({MISTAKE (2.1)} 14. Qa8+ Kd7 15. Qa4+ Ke7 16. f4 Nd3 17. Nd4 Nf6   $18)
+14... Kd7 
+15. Qa4+ {(2.13)}  c6 $2 {(3.27) MISTAKE - Your opponent made a mistake! Better was 15... Ke7} 
+({BEST MOVE (2.13)} 15... Ke7 16. f4 Nd3 17. Qd1 Nxc1 18. Rxc1 Nh6 19. h3   $18)
+({MISTAKE (3.27)} 15... c6 16. f4 Nd3 17. dxc6+ bxc6 18. Qa7+ Kc8 19. Nd4   $18)
+16. dxc6+ $6 {(2.92) INACCURACY - Perhaps better was 16. f4} 
+({BEST MOVE (3.37)} 16. f4 Nd3 17. dxc6+ bxc6 18. Qa7+ Kc8 19. Nd4 Qd7   $18)
+({INACCURACY (2.92)} 16. dxc6+ Nxc6 17. Nc3 Ke8 18. b3 f6 19. Nd5 Kf7   $18)
+16... Nxc6 {(2.95)} 
+17. Nc3 {(2.99)}  Nge7 {(3.67)} 
+18. Be3 {(3.28)}  Ra8 {(3.39)} 
+19. Qb5 $6 {(3.23) INACCURACY - Perhaps better was 19. Qb3} 
+({BEST MOVE (3.62)} 19. Qb3 Kc8 20. Nb5 Qe6 21. Bb6 Ra6 22. Nc7 Rxb6   $18)
+({INACCURACY (3.23)} 19. Qb5 Kc8 20. Rad1 Rd8 21. Bb6 Rd7 22. Rfe1 h5   $18)
+19... Rhb8 $2 {(3.85) BLACK WINS - Play might have continued...} 
+({BEST MOVE (2.9)} 19... Kc8 20. Rad1 Ra5 21. Qb3 Ra6 22. Nb5 Nf5 23. Nxd6+   $18)
+({MISTAKE (3.85)} 19... Rhb8 20. Nd5 Qf5 21. Nb6+ Ke8 22. Nxa8 Rxa8 23. Qxb7   $18)
+({CONTINUATION (3.85)} 19... Rhb8 20. Nd5 Qf5 21. Nb6+ Ke8 22. Nxa8 Rxa8 23. Qxb7   $18)
+0-1
+

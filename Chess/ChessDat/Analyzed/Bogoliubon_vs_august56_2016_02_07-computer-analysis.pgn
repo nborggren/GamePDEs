@@ -1,0 +1,58 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.07"]
+[White "Bogoliubon"]
+[Black "august56"]
+[ECO "A84"]
+[ChesscomGameID "1453426497"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1193"]
+[Termination "Bogoliubon won by resignation"]
+[BlackElo "1157"]
+[TimeControl "10|0"]
+{Inaccuracies(?!): 5 = 35.7% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  f5 {(Book Move)} 
+2. c4 {(Book Move)}  Nf6 {(Book Move)} 
+3. Nf3 {(0.51)}  e6 {(0.48)} 
+4. Nc3 {(0.42)}  h6 {(0.76)} 
+5. Bf4 $6 {(0.34) INACCURACY - Perhaps better was 5. Bd2} 
+({BEST MOVE (0.66)} 5. Bd2 Bb4 6. e3 Nc6 7. d5 Ne7 8. a3 Bxc3   $14)
+({INACCURACY (0.34)} 5. Bf4 Bb4 6. Bd2 O-O 7. e3 Nc6 8. Bd3 b6   $14)
+5... Bb4 {(0.34)} 
+6. Qa4 {(0.01)}  Bxc3+ {(0.03)} 
+7. bxc3 {(0.03)}  b6 {(0.04)} 
+8. Ne5 {(-0.17)}  Bb7 {(-0.13)} 
+9. Ng6 {(-0.04)}  Rg8 {(-0.14)} 
+10. c5 $6 {(-0.71) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 10. e3} 
+({BEST MOVE (0.01)} 10. e3 Nc6 11. d5 Ne7 12. Nxe7 Qxe7 13. Bxc7 Ne4   $10)
+({INACCURACY (-0.71)} 10. c5 Nc6 11. e3 Kf7 12. Ne5+ Nxe5 13. Bxe5 Ne4   $17)
+10... Bc6 $2 {(0.33) MISTAKE - Your opponent made a mistake! Better was 10... Nc6} 
+({BEST MOVE (-0.59)} 10... Nc6 11. e3 Kf7 12. Ne5+ Nxe5 13. Bxe5 Ne4 14. Bd3   $15)
+({MISTAKE (0.33)} 10... Bc6 11. Qb3 bxc5 12. e3 Nd5 13. h4 Qf6 14. h5   $14)
+11. Qc4 $6 {(-0.22) INACCURACY - The game is now roughly equal. } 
+({BEST MOVE (0.14)} 11. Qb3 bxc5 12. e3 cxd4 13. exd4 Nd5 14. Bd2 Qf6   $10)
+({INACCURACY (-0.22)} 11. Qc4 bxc5 12. e3 Bd5 13. Qa4 cxd4 14. c4 Be4   $10)
+11... Bd5 {(-0.35)} 
+12. Qd3 {(-0.52)}  Nc6 {(-0.44)} 
+13. Qg3 $6 {(-1.05) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 13. f3} 
+({BEST MOVE (-0.26)} 13. f3 Kf7 14. Ne5+ Nxe5 15. dxe5 Nh5 16. Be3 bxc5   $10)
+({INACCURACY (-1.05)} 13. Qg3 Ne4 14. Qe3 Kf7 15. f3 Nxc5 16. dxc5 Kxg6   $17)
+13... Rc8 {(-0.34)} 
+14. f3 {(-0.53) ALTERNATIVE - The game is now roughly equal. } 
+({BEST MOVE (-0.42)} 14. e3 Kf7 15. Bd3 bxc5 16. O-O c4 17. Bc2 Ne4   $15)
+({ALTERNATIVE (-0.53)} 14. f3 bxc5 15. e3 cxd4 16. exd4 Kf7 17. Bd3 Nh5   $15)
+14... Ne7 {(0.09)} 
+15. Ne5 $6 {(-0.81) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 15. e4} 
+({BEST MOVE (0)} 15. e4 fxe4 16. Nxe7 Kxe7 17. Ba6 exf3 18. gxf3 Nh5   $10)
+({INACCURACY (-0.81)} 15. Ne5 Nh5 16. Qh4 Nxf4 17. Qxf4 d6 18. Nd3 g5   $17)
+15... Nc6 $2 {(+Mat02) MISTAKE - Your opponent made a mistake! Better was 15... Nh5} 
+({BEST MOVE (-0.86)} 15... Nh5 16. Qh4 Nxf4 17. Qxf4 d6 18. Nd3 g5 19. Qc1   $17)
+({MISTAKE (+Mat02)} 15... Nc6 16. Qg6+ Kf8 17. Qf7#   $18)
+16. Ng6 {(-0.69) WHITE WINS - Play might have continued...} 
+({BEST MOVE (+Mat02)} 16. Qg6+ Kf8 17. Qf7#   $18)
+({FORCED_MATE (-0.69)} 16. Ng6 bxc5 17. e3 Kf7 18. Bd3 cxd4 19. exd4 Nh5   $15)
+({CONTINUATION (-0.69)} 16. Ng6 bxc5 17. e3 Kf7 18. Bd3 cxd4 19. exd4 Nh5   $15)
+1-0
+
