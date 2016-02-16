@@ -1,0 +1,848 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.08.29"]
+[White "Mihnea_2012"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1649"]
+[BlackElo "1485"]
+[TimeControl "1 in 3 days"]
+[Termination "Mihnea_2012 won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 Nf6 6.Bxc6 Bxc6 7.Qd3 Be7 8.dxe5 Ng4 9.exd6 Bxd6 10.O-O O-O
+ 11.h3 Ne5 12.Nxe5 Bxe5 13.Re1 Qe7 14.Bd2 Rad8 15.Nd5 Qe6 16.c4 Bxb2 17.Rab1 Be5 18.f4 Bd6 19.f5 Bc5+ 20.Kh1 Qd6
+ 21.Bf4 Qd7 22.Qg3 Bd4 23.Red1 Bxd5 24.Rxd4 c6 25.cxd5 cxd5 26.Rxd5 Qa4 27.Bh6 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.08.29"]
+[White "Bogoliubon"]
+[Black "Mihnea_2012"]
+[Result "0-1"]
+[WhiteElo "1472"]
+[BlackElo "1659"]
+[TimeControl "1 in 3 days"]
+[Termination "Mihnea_2012 won by resignation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.dxe5 dxe5 8.Nxe5 Qxd1+ 9.Bxd1 Re8 10.Bf4 Nxe4
+ 11.O-O Nxc3 12.bxc3 Bxe5 13.Re1 f6 14.Rb1 Nc6 15.Bf3 Bf5 16.Rxb7 Bxf4 17.Rd1 Rad8 18.Rf1 Be4 19.Bxe4 Rxe4 20.g3 Bd6
+ 21.c5 Bxc5 22.Rxc7 Re6 23.Rb1 Bb6 24.Rb7 Na5 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.02"]
+[White "Mizman10"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1124"]
+[BlackElo "1478"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won on time"]
+
+1.e4 c5 2.c4 Nc6 3.a3 Nf6 4.e5 Nxe5 5.d4 cxd4 6.Qxd4 Nc6 7.Qc3 e5 8.b4 Bd6 9.c5 Bc7 10.b5 Ba5
+ 11.Qd2 Bxd2+ 12.Bxd2 Nd4 13.Ra2 O-O 14.Rb2 Re8 15.g3 Ne4 16.Be3 Nxc5 17.Bc4 d5 18.Nc3 dxc4 19.Bxd4 Nd3+ 20.Kd2 Nxb2
+ 21.Kc2 exd4 22.Nd1 Nxd1 23.Kxd1 Qa5 24.Nf3 Qxa3 25.Nxd4 Qd3+ 26.Kc1 Qxd4 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.07"]
+[White "Bogoliubon"]
+[Black "Spluge"]
+[Result "1-0"]
+[WhiteElo "1285"]
+[BlackElo "938"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbbkqnr/pppppppp/8/8/8/8/PPPPPPPP/NRBBKQNR w KQkq - 0 1"]
+
+1.b4 b6 2.e3 Bb7 3.Bg4 f6 4.Qd3 Bxg2 5.Qxd7+ Kf7 6.Qe6+ Ke8 7.Qd7+ Kf7 8.Bf3 Bxh1 9.Bxh1 g5 10.Bd5+ Kg6
+ 11.Nf3 b5 12.h4 Qh6 13.hxg5 Qh1+ 14.Ke2 Nb6 15.Ne5+ Kg7 16.gxf6+ Nxf6 17.Bxh1 Nfxd7 18.Nxd7 Nxd7 19.Bb2+ Nf6 20.Rg1+ Kf7
+ 21.Nb3 Rg8 22.Rxg8 Nxg8 23.Nd4 e5 24.Nc6 Rc8 25.Nxe5+ Ke7 26.Nc6+ Kd7 27.Nxa7 Ra8 28.Bxa8 h5 29.Nxb5 h4 30.a4 h3
+ 31.a5 Kc8 32.Nd4 Kb8 33.Bh1 Nf6 34.Kf3 Nh5 35.Kg4 Nf6+ 36.Kxh3 Be7 37.Nc6+ Kb7 38.Nxe7+ Kb8 39.Bxf6 c5 40.Be5+ Ka7
+ 41.b5 c4 42.Nc8# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.07"]
+[White "Bogoliubon"]
+[Black "PinBurst"]
+[Result "1-0"]
+[WhiteElo "1332"]
+[BlackElo "1061"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RNKRBBQN w KQkq - 0 1"]
+
+1.f4 f5 2.Nc3 Bg6 3.d4 Nc6 4.g3 e5 5.dxe5 d6 6.exd6 cxd6 7.Bf2 Re8 8.Bg2 Bf7 9.Nb5 Bd5 10.Bxd5 Re4
+ 11.Nxd6+ Kc7 12.Bxg8 Bxd6 13.Bd5 Rc4 14.Bxc4 Ng6 15.Rd5 Nge7 16.Rb5 a6 17.Rb3 b5 18.Be6 Re8 19.Rc3 Nd5 20.Bxd5 Rxe2
+ 21.Rxc6+ Kd7 22.Qd1 Bb4 23.Qxe2 g5 24.Qe6+ Kd8 25.Rc8# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.15"]
+[White "Bogoliubon"]
+[Black "dantpatrick"]
+[Result "1-0"]
+[WhiteElo "1493"]
+[BlackElo "1360"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.Nc3 a6 5.Ba4 b5 6.Bb3 Na5 7.Nxe5 Nxb3 8.axb3 d6 9.Nf3 Ng6 10.O-O Be7
+ 11.Nd5 O-O 12.c4 Be6 13.Ne3 b4 14.d4 a5 15.Qc2 c6 16.c5 dxc5 17.dxc5 Qc7 18.Nd4 Bd7 19.Nef5 Bf6 20.Be3 Bxd4
+ 21.Bxd4 Bxf5 22.exf5 Nf4 23.Rfe1 f6 24.Re3 Rfd8 25.Qc4+ Kf8 26.Rae1 Qd7 27.Re7 Qd5 28.Bxf6 Qxc4 29.Bxg7+ Kg8 30.bxc4 Nd3
+ 31.Rd1 Nxb2 32.Rxd8+ Rxd8 33.g4 Nd3 34.f6 b3 35.Bh6 b2 36.f7+ Kh8 37.Re8+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.08.29"]
+[White "Bogoliubon"]
+[Black "Al-Ghamdi"]
+[Result "1-0"]
+[WhiteElo "1503"]
+[BlackElo "1279"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won on time"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 c5 5.Nf3 Nc6 6.Bb5 Nf6 7.Nc3 Be7 8.O-O O-O 9.Re1 a6 10.Ba4 b5
+ 11.Bxb5 axb5 12.Nxb5 Ba6 13.Nc3 Bb7 14.Nd5 Nxd5 15.exd5 Nb4 16.c4 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.20"]
+[White "Bogoliubon"]
+[Black "toppem"]
+[Result "1-0"]
+[WhiteElo "1507"]
+[BlackElo "1027"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won on time"]
+
+1.c4 b6 2.Nc3 c5 3.Nf3 d6 4.e3 g5 5.d4 e5 6.Bd3 Be6 7.Be4 Nf6 8.Bxa8 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.15"]
+[White "SACOSACO"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1312"]
+[BlackElo "1517"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 c5 2.Bc4 d6 3.h3 Nf6 4.Nc3 Nc6 5.Bb5 Bd7 6.Bc4 g6 7.a3 Bg7 8.Qf3 Ne5 9.Qe2 O-O 10.Bb3 Rc8
+ 11.Bd5 Nxd5 12.exd5 Bf5 13.d3 a6 14.g4 Bd7 15.f4 Nxd3+ 16.Qxd3 e5 17.Nf3 Re8 18.O-O Bb5 19.Nxb5 e4 20.Qb3 exf3
+ 21.Rxf3 axb5 22.Qxb5 Re1+ 23.Rf1 Re7 24.Ra2 c4 25.b3 Rc5 26.Qb4 cxb3 27.Qxb3 Qa5 28.Rd1 Rc3 29.Bd2 Qc5+ 30.Kf1 Rxb3
+ 31.cxb3 Qxd5 32.Rc2 Qxb3 33.Rdc1 Qxh3+ 34.Kf2 Bd4+ 35.Be3 Rxe3 36.Re2 Qf3+ 37.Kg1 Rxe2# 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.20"]
+[White "Bogoliubon"]
+[Black "reygav"]
+[Result "1/2-1/2"]
+[WhiteElo "1518"]
+[BlackElo "1542"]
+[TimeControl "1 in 3 days"]
+[Termination "Game drawn by agreement"]
+
+1.c4 e5 2.Nc3 d6 3.g3 Nc6 4.Bg2 Bd7 5.Nf3 h6 6.O-O Nge7 7.Rb1 a6 8.b4 Na7 9.d4 exd4 10.Nxd4 Rb8
+ 11.c5 dxc5 12.bxc5 Nac6 13.Bf4 Ng6 14.e3 Bxc5 15.Nxc6 bxc6 16.Ne4 Bb6 17.Qa4 a5 18.Nd2 Ne7 19.Nc4 Nd5 20.Be5 O-O
+ 21.Nxa5 Ra8 22.Nxc6 Bxc6 23.Qxc6 Ra5 24.Rfd1 Re8 25.Rxd5 Rxd5 26.Qxd5 Qxd5 27.Bxd5 Rxe5 28.Rb5 Kf8 29.a4 Re7 30.a5 Ba7
+ 31.Rb7 Bc5 32.a6 c6 33.Rxe7 Kxe7 34.Bxc6 f6 35.Kg2 g5 36.g4 Ke6 37.e4 Ke5 38.Kg3 Bd4 39.Kf3 Bb6 40.Ke2 Kf4
+ 41.h3 Bd4 42.Kd3 Ke5 43.f3 Bf2 44.Kc4 Kd6 45.Bb7 Be3 46.Kb5 Kc7 47.Kc4 Kd6 48.Kd3 Bg1 49.Ke2 Bb6 50.Kf1 Ke5
+ 51.Kg2 Kf4 52.h4 Bd4 53.hxg5 hxg5 54.Bd5 Be3 55.Bb7 1/2-1/2
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.15"]
+[White "Bogoliubon"]
+[Black "Mikeliu"]
+[Result "0-1"]
+[WhiteElo "1501"]
+[BlackElo "1527"]
+[TimeControl "1 in 3 days"]
+[Termination "Mikeliu won by checkmate"]
+
+1.d4 d5 2.Nf3 Bg4 3.Nc3 Bxf3 4.gxf3 Nf6 5.Bf4 a6 6.Qd3 e6 7.O-O-O Nc6 8.e4 dxe4 9.fxe4 Bb4 10.Rg1 Bxc3
+ 11.bxc3 O-O 12.Qg3 g6 13.Bd3 Rc8 14.Bg5 Nh5 15.Qg2 Qd6 16.e5 Qa3+ 17.Kb1 Qxc3 18.Be2 Nb4 19.Rd2 c5 20.Bxh5 cxd4
+ 21.Bxg6 fxg6 22.Qxb7 Qa3 23.Re2 Qxa2+ 24.Kc1 Rxc2+ 25.Kd1 Qb1+ 26.Bc1 Qxc1# 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.15"]
+[White "TorenJohnson"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1387"]
+[BlackElo "1513"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Qh5 Nf6 3.Qxc5 Nxe4 4.Qe3 d5 5.h3 e6 6.d3 Nd6 7.Nc3 Nc6 8.a3 d4 9.Qg3 dxc3 10.bxc3 Nf5
+ 11.Qg4 Qa5 12.Bd2 Ne5 13.Qe4 Bd6 14.d4 Nc6 15.d5 Nce7 16.dxe6 Bxe6 17.Qxb7 Rb8 18.Qf3 O-O 19.c4 Qe5+ 20.Ne2 Qxa1+
+ 21.Nc1 Bxa3 22.Qf4 Rb1 23.g4 Nd6 24.Bg2 Nxc4 25.O-O Rd8 26.Nd3 Rxf1+ 27.Bxf1 Nxd2 28.Qxd2 Bc4 29.Qe2 Bxd3 30.cxd3 Nd5
+ 31.Qe4 Nc3 32.Qc6 Ne2+ 33.Kg2 Nf4+ 34.Kg1 Qd4 35.Qf3 Nxd3 36.h4 Bc5 37.Bxd3 Qxd3 38.Qc6 Bxf2+ 39.Kxf2 Qd2+ 40.Kg3 Rd3+
+ 41.Qf3 Rxf3+ 42.Kxf3 Qd4 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "Bogoliubon"]
+[Black "alejoap"]
+[Result "1-0"]
+[WhiteElo "1533"]
+[BlackElo "1596"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Nbxd2 Ne4 7.Qc2 O-O 8.Bg2 Nf6 9.O-O h6 10.Rac1 Nc6
+ 11.Rfd1 Nb4 12.Qa4 Nc6 13.cxd5 exd5 14.Nb3 Bd7 15.Nc5 Bg4 16.Nxb7 Qd6 17.Nxd6 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "Bogoliubon"]
+[Black "Vicas"]
+[Result "1-0"]
+[WhiteElo "1539"]
+[BlackElo "1255"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 Be7 6.e3 h6 7.Bh4 O-O 8.Rc1 b6 9.Bd3 c5 10.O-O dxc4
+ 11.Bxc4 a5 12.Rc2 Ba6 13.Nb5 Nc6 14.b3 Ne4 15.Bxe7 Qxe7 16.Qd3 f5 17.a3 cxd4 18.Nfxd4 Nxd4 19.Nxd4 Qxa3 20.Bxa6 Nc5
+ 21.Qc4 Nxa6 22.Nxe6 b5 23.Qd5 Rf7 24.Qxb5 Re7 25.Qxf5 Qxb3 26.Rfc1 Qb8 27.Ng5 Re8 28.Qd5+ Kf8 29.Qf7# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "romangomezmarin"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1401"]
+[BlackElo "1517"]
+[TimeControl "1 in 3 days"]
+[Termination "romangomezmarin won by checkmate"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.e3 g6 5.a3 Bg7 6.Bd3 O-O 7.Nf3 d6 8.h3 Nbd7 9.Nc3 bxc4 10.Bxc4 Nb6
+ 11.Bd3 Nbxd5 12.Nxd5 Nxd5 13.Be4 Bb7 14.Bxd5 Bxd5 15.Qxd5 Rb8 16.Rb1 Rb6 17.O-O Qb8 18.b3 Rc8 19.Ng5 e6 20.Qf3 Rc7
+ 21.Rd1 Rxb3 22.Rxb3 Qxb3 23.Rxd6 Qc3 24.Rd8+ Bf8 25.Nxe6 Qxc1+ 26.Kh2 fxe6 27.Qxf8# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.15"]
+[White "Mikeliu"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1513"]
+[BlackElo "1532"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 Nf6 2.Bf4 e6 3.h3 Nc6 4.e3 b6 5.Nf3 Bb7 6.Be2 Bb4+ 7.c3 Be7 8.Nbd2 O-O 9.Ne5 Nxe5 10.O-O Ng6
+ 11.Bh2 d5 12.f4 Nh4 13.Nf3 Nf5 14.Qd2 Ne4 15.Qd3 c5 16.dxc5 bxc5 17.g4 c4 18.Qb1 Nxe3 19.Re1 Bc5 20.Nd4 Qh4
+ 21.Bf3 Qf2+ 22.Kh1 Nd2 23.Qc1 Nxf3 24.Re2 Qf1+ 25.Qxf1 Nxf1 26.Nxf3 Nxh2 27.Kxh2 Rad8 28.Rd1 Bd6 29.Kg3 h6 30.h4 Rfe8
+ 31.g5 h5 32.Rde1 Bc5 33.f5 d4 34.cxd4 Bxf3 35.Kxf3 Bxd4 36.fxe6 fxe6 37.Rxe6 Rxe6 38.Rxe6 Bxb2 39.Ra6 Rc8 40.Rxa7 c3
+ 41.a4 c2 42.g6 c1=Q 43.a5 Qd1+ 44.Kg3 Be5+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "Bogoliubon"]
+[Black "Dugout17"]
+[Result "0-1"]
+[WhiteElo "1520"]
+[BlackElo "1607"]
+[TimeControl "1 in 3 days"]
+[Termination "Dugout17 won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.c3 Nf6 6.d3 h6 7.Nbd2 a6 8.Ba4 b5 9.Bb3 Na5 10.Bc2 c6
+ 11.d4 Qc7 12.Qe2 g5 13.Nb3 Nb7 14.dxe5 dxe5 15.Rd1 Nc5 16.h3 g4 17.hxg4 Bxg4 18.Qe3 Ne6 19.Rd3 Nf4 20.Rd1 h5
+ 21.Nc5 Bh6 22.Kf1 Nxg2 23.Qd3 Bh3 24.Kg1 Rg8 25.Kh2 Ng4+ 26.Kg3 Bf4+ 27.Kxh3 Nxf2# 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.20"]
+[White "Morphy2250"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1140"]
+[BlackElo "1524"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qd6 9.Nxe4 Qg6 10.Nd6+ Kd8
+ 11.Nxc8 Rxc8 12.Nxd4 Bd6 13.Nb5 h5 14.Bf4 Ne7 15.Bxd6 cxd6 16.Nxd6 Rxc2 17.Nxf7+ Ke8 18.Nxh8 Qf5 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.30"]
+[White "mikejemo"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1596"]
+[BlackElo "1541"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.d4 c5 2.Bf4 d5 3.Nf3 e6 4.e3 Nf6 5.Ne5 Bd6 6.c3 Qc7 7.Bb5+ Bd7 8.Bd3 O-O 9.Qc2 c4 10.Be2 b5
+ 11.a3 a5 12.h3 Ne4 13.f3 Nf6 14.Nd2 Nc6 15.Nxd7 Nxd7 16.Bxd6 Qxd6 17.O-O Rfb8 18.f4 b4 19.Qc1 bxc3 20.bxc3 Ra6
+ 21.a4 Rab6 22.Qa3 Qxa3 23.Rxa3 Rb2 24.Rd1 Nf6 25.Kf1 Ne7 26.Ke1 Nf5 27.Kf2 Rc2 28.Nf1 Rbb2 29.Re1 Ne4+ 30.Kf3 Nxc3
+ 31.Bd1 Rf2+ 32.Kg4 Rxg2+ 33.Kh5 g6# 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.13"]
+[White "textofte"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1230"]
+[BlackElo "1545"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.d3 Nc6 3.Be3 e6 4.a3 d5 5.f3 Nf6 6.g4 Bd6 7.Nh3 O-O 8.c4 Ne5 9.Nc3 d4 10.f4 Nexg4
+ 11.e5 Nxe3 12.Qc1 Nxf1 13.Rxf1 dxc3 14.Qxc3 Be7 15.exf6 Bxf6 16.Qd2 b6 17.Rg1 Bb7 18.Qe2 Bh4+ 19.Kd2 Qd4 20.Rab1 Rad8
+ 21.Rg4 Bf6 22.f5 Qd6 23.Rf1 exf5 24.Rxf5 Bc8 25.Rd5 Bxg4 26.Qxg4 Qxh2+ 27.Kc1 Qxb2+ 28.Kd1 Rxd5 29.cxd5 Qb3+ 30.Ke2 Re8+
+ 31.Kf3 Qxd3+ 32.Kg2 Re2+ 33.Nf2 Qxd5+ 34.Kf1 Ra2 35.Ne4 Qc4+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.30"]
+[White "Bogoliubon"]
+[Black "SuleimanArif"]
+[Result "1-0"]
+[WhiteElo "1553"]
+[BlackElo "1361"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.c4 a6 2.e4 e5 3.Nf3 h6 4.Nxe5 d6 5.Nf3 Nf6 6.Nc3 Bg4 7.Be2 Nc6 8.O-O Bxf3 9.Bxf3 Be7 10.d4 O-O
+ 11.Bf4 d5 12.exd5 Na5 13.c5 Bd6 14.cxd6 cxd6 15.Be2 Qb6 16.b3 Qb5 17.Nxb5 Ne4 18.Nxd6 Nc3 19.Qd2 Nxd5 20.Bf3 Nxf4
+ 21.Qxf4 Nc6 22.Rac1 Nb4 23.a3 Nd3 24.Qf5 Nxc1 25.Rxc1 b5 26.Bxa8 Rxa8 27.Qxf7+ Kh7 28.Rc7 Rg8 29.Ne8 h5 30.Qxh5#
+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.13"]
+[White "Bogoliubon"]
+[Black "mn050685"]
+[Result "1-0"]
+[WhiteElo "1559"]
+[BlackElo "1335"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.c4 e5 2.Nc3 c6 3.e4 Bb4 4.Nf3 Bxc3 5.bxc3 d6 6.Rb1 Bg4 7.Rxb7 d5 8.cxd5 Bxf3 9.Qxf3 Nf6 10.d4 exd4
+ 11.cxd4 O-O 12.Bd3 Qe8 13.Ba3 cxd5 14.e5 Qc6 15.Bxf8 Qxb7 16.exf6 Kxf8 17.fxg7+ Kxg7 18.O-O Nc6 19.Qxd5 Rd8 20.Qg5+ Kf8
+ 21.d5 Nb4 22.Qxd8+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.30"]
+[White "dbrownjr"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1523"]
+[BlackElo "1571"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.Ng5 e6 5.d4 Nc6 6.dxc5 Qa5+ 7.Nc3 Qxc5 8.Qd3 Ne5 9.Bb5+ Bd7 10.Be3 Nxd3+
+ 11.cxd3 Qb4 12.Bxd7+ Nxd7 13.O-O Qxb2 14.Rfc1 Nc5 15.Bd4 Nxd3 16.Rcb1 Qd2 17.Rxb7 Qxg5 18.Rab1 Be7 19.Rb8+ Rxb8 20.Rxb8+ Bd8
+ 21.Be3 Qa5 22.Rc8 O-O 23.h3 Bb6 24.Bxb6 axb6 25.Rxf8+ Kxf8 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "kiraatje"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1593"]
+[BlackElo "1559"]
+[TimeControl "1 in 3 days"]
+[Termination "kiraatje won by checkmate"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 h6 10.Bh4 e5
+ 11.Nf3 exf4 12.Qxf4 g5 13.Bxg5 hxg5 14.Qxg5+ Kh8 15.Qh6+ Nh7 16.h4 Bg4 17.Ng5 Bxg5+ 18.hxg5 Qxg5+ 19.Qxg5 Rg8 20.Qf6+ Rg7
+ 21.Rxd6 Rag8 22.Rxh7+ Kxh7 23.Qh6# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.13"]
+[White "vahid_sun2000"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1566"]
+[BlackElo "1571"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 e6 2.c4 Nf6 3.Bg5 c5 4.e3 Be7 5.Nf3 b6 6.Be2 Bb7 7.O-O O-O 8.Nc3 Ne4 9.Bxe7 Qxe7 10.Nxe4 Bxe4
+ 11.Bd3 Bb7 12.Nd2 Nc6 13.Qh5 f5 14.dxc5 Qxc5 15.Nf3 h6 16.Nh4 Ne5 17.Ng6 Nxg6 18.Qxg6 Rf6 19.Qg3 Kh7 20.Rac1 Rg6
+ 21.Qf4 Bxg2 22.Rfe1 Be4+ 23.Kf1 Bxd3+ 24.Re2 Bxe2+ 25.Kxe2 Rg4 26.Qf3 Rc8 27.b3 d5 28.Rd1 dxc4 29.h3 Re4 30.Qg3 cxb3
+ 31.Rg1 g5 32.h4 Rxh4 33.axb3 Rg4 34.Qh2 Rxg1 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "barsea"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1541"]
+[BlackElo "1582"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.c4 cxd4 5.Nxd4 e5 6.Nf3 Nc6 7.cxd5 Nxd5 8.Bb5 Qd6 9.Bxc6+ bxc6 10.Nc3 Be7
+ 11.O-O O-O 12.b3 Nxc3 13.Qxd6 Bxd6 14.Bb2 e4 15.Nd4 c5 16.Nb5 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.30"]
+[White "Bogoliubon"]
+[Black "dbrownjr"]
+[Result "0-1"]
+[WhiteElo "1568"]
+[BlackElo "1502"]
+[TimeControl "1 in 3 days"]
+[Termination "dbrownjr won by resignation"]
+
+1.c4 e5 2.Nc3 Bc5 3.Nf3 d6 4.e3 Nf6 5.Be2 Nc6 6.O-O h6 7.d4 exd4 8.exd4 Bb4 9.Bd2 O-O 10.Re1 Bg4
+ 11.a3 Bxc3 12.Bxc3 Ne4 13.Rc1 Nxc3 14.Rxc3 Qf6 15.b4 Rfe8 16.c5 Bxf3 17.Bxf3 Qxd4 18.Rce3 Rxe3 19.Rxe3 Qxd1+ 20.Bxd1 Kf8
+ 21.Bf3 Rd8 22.Kf1 dxc5 23.bxc5 Rd4 24.Be2 Ra4 25.Bb5 Ra5 26.Bxc6 bxc6 27.Rc3 Ke7 28.Ke2 Ke6 29.Kd3 Kd5 30.Kc2 Rxc5
+ 31.Rxc5+ Kxc5 32.Kc3 Kb5 33.Kb3 c5 34.a4+ Ka5 35.Kc4 Kxa4 36.Kxc5 a5 37.Kc4 Ka3 38.Kc3 Ka2 39.Kc2 a4 40.h3 c5
+ 41.f3 Ka3 42.Kc3 Ka2 43.Kc2 c4 44.g3 Ka3 45.Kc3 f5 46.g4 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "shoshoelagoz"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1610"]
+[BlackElo "1581"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 a6 5.a4 e6 6.Bg5 Be7 7.e5 dxe5 8.Nc3 Nc6 9.O-O O-O 10.Re1 Nd4
+ 11.Nxe5 Bd7 12.Bxf6 Bxf6 13.Ng4 Bg5 14.Ne4 f5 15.Nxg5 Qxg5 16.Ne3 Rf6 17.c3 Nc6 18.g3 f4 19.Ng2 fxg3 20.fxg3 Raf8
+ 21.d4 Kh8 22.d5 exd5 23.Bxd5 Rf2 24.Nf4 R2xf4 25.Bxc6 Bxc6 26.b4 cxb4 27.cxb4 Rxb4 28.Qd6 Qf5 29.Ra2 Rxa4 30.Rae2 Re4
+ 31.Qd2 Rxe2 32.Qxe2 Qd5 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "Bogoliubon"]
+[Black "shoshoelagoz"]
+[Result "0-1"]
+[WhiteElo "1571"]
+[BlackElo "1615"]
+[TimeControl "1 in 3 days"]
+[Termination "shoshoelagoz won by resignation"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Bf5 5.Nf3 e6 6.Bd3 Bxd3 7.Qxd3 Nf6 8.Qb5+ Nbd7 9.Qxb7 Rb8 10.Qxa7 Bb4
+ 11.Bd2 O-O 12.Qa6 Nb6 13.O-O c5 14.Qd3 c4 15.Qe2 Bxc3 16.Bxc3 Nfd5 17.Ba5 Qd6 18.Rfe1 Ra8 19.Bxb6 Nxb6 20.b3 c3
+ 21.a4 Nd5 22.Qe4 Rfe8 23.Ng5 g6 24.Qh4 h5 25.Ne4 Qe7 26.Qg3 Qb4 27.Red1 Kg7 28.Rd3 Red8 29.Nxc3 Nxc3 30.Rxc3 Qxd4
+ 31.Qd3 Qf6 32.Qf3 Qe7 33.h3 Ra5 34.Rd3 Rf5 35.Qe2 Rc8 36.c4 Qf6 37.Rad1 Kh6 38.Rf3 Rb8 39.Rxf5 Qxf5 40.Qe3+ g5
+ 41.c5 Qc2 42.Rd3 Rc8 43.Rc3 Qd1+ 44.Kh2 Rc6 45.a5 f5 46.b4 Qd7 47.b5 Rc8 48.c6 Qd6+ 49.g3 f4 50.Qd3 fxg3+
+ 51.fxg3 Qb4 52.Ra3 Qb2+ 53.Kg1 Rf8 54.Qe3 Qb1+ 55.Kg2 Qf1+ 56.Kh2 Rf2+ 57.Qxf2 Qxf2+ 58.Kh1 Qf1+ 59.Kh2 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.25"]
+[White "Bogoliubon"]
+[Black "Mizman10"]
+[Result "1-0"]
+[WhiteElo "1572"]
+[BlackElo "1094"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.d4 Nc6 2.Nf3 f6 3.e4 e5 4.dxe5 fxe5 5.Bb5 a6 6.Ba4 b5 7.Bb3 Bb7 8.O-O Nf6 9.Bg5 d5 10.exd5 Ne7
+ 11.Nxe5 c6 12.Bxf6 gxf6 13.Qh5+ Ng6 14.Nxg6 hxg6 15.Qxh8 cxd5 16.Re1+ Kd7 17.Nc3 d4 18.Rad1 Qb6 19.Ne4 f5 20.Rxd4+ Kc7
+ 21.Qh7+ Kc8 22.Qd7+ Kb8 23.Qd8+ Qxd8 24.Rxd8+ Kc7 25.Rxa8 Bxa8 26.Ng5 a5 27.Ne6+ Kd7 28.Nxf8+ Kc6 29.Nxg6 a4 30.Be6 b4
+ 31.Bxf5 Kc5 32.h4 b3 33.axb3 axb3 34.cxb3 Kb4 35.h5 Kxb3 36.Re3+ Kxb2 37.h6 Kc1 38.h7 Bd5 39.h8=Q Kd1 40.Qa1+ Kd2
+ 41.Qc3+ Kd1 42.Qc2# 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.13"]
+[White "Bogoliubon"]
+[Black "Atilla87"]
+[Result "0-1"]
+[WhiteElo "1556"]
+[BlackElo "1350"]
+[TimeControl "1 in 3 days"]
+[Termination "Atilla87 won by resignation"]
+
+1.c4 Nf6 2.d4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Bxd2 b6 7.Bg5 Bb7 8.e3 d6 9.Bd3 h6 10.Bh4 g5
+ 11.Bg3 Nh5 12.Qc2 Qf6 13.Be4 Bxe4 14.Qxe4 Nd7 15.O-O Nxg3 16.fxg3 Qg6 17.Qxg6+ fxg6 18.Rf2 Nf6 19.Nd2 Ng4 20.Rxf8+ Rxf8
+ 21.e4 Ne3 22.Rc1 Ng4 23.Nf3 e5 24.d5 Nf6 25.Re1 g4 26.Nh4 Kg7 27.b4 Nh7 28.c5 b5 29.cxd6 cxd6 30.Rc1 Nf6
+ 31.Rc7+ Rf7 32.Rxf7+ Kxf7 33.Kf2 Nxe4+ 34.Ke3 Nc3 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "Bogoliubon"]
+[Black "barsea"]
+[Result "0-1"]
+[WhiteElo "1547"]
+[BlackElo "1596"]
+[TimeControl "1 in 3 days"]
+[Termination "barsea won by resignation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nf5 g6 7.Ne3 Bg7 8.Bc4 O-O 9.O-O d6 10.Qf3 Nd4
+ 11.Qd1 b6 12.Ned5 Bb7 13.Be3 Rc8 14.Nxf6+ Qxf6 15.Bd5 Bxd5 16.exd5 Nf5 17.Re1 Qh4 18.Nb5 Qa4 19.Nc3 Qb4 20.Rb1 Rfe8
+ 21.f3 Nd4 22.Bg5 f6 23.Bd2 Nb5 24.Ne4 Qd4+ 25.Be3 Qxd1 26.Rexd1 Rxc2 27.a4 Nc7 28.Nxd6 Rd8 29.Nb5 Nxb5 30.axb5 Bf8
+ 31.h4 Bc5 32.Bxc5 Rxc5 33.d6 Rxb5 34.Kf2 Kf7 35.Rd2 Ke6 36.Rbd1 Rc5 37.d7 Rc7 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.24"]
+[White "Bogoliubon"]
+[Black "SamboEddy"]
+[Result "0-1"]
+[WhiteElo "1539"]
+[BlackElo "1647"]
+[TimeControl "1 in 3 days"]
+[Termination "SamboEddy won by checkmate"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2 Qa4 8.Qb1 c4 9.h4 Qa6 10.g4 Bd7
+ 11.h5 Ba4 12.f4 b5 13.Nf3 Ne7 14.Bh3 Nd7 15.f5 exf5 16.gxf5 O-O-O 17.Bg5 Rde8 18.f6 gxf6 19.Bxf6 Rhg8 20.Qd1 Qa5
+ 21.Qd2 h6 22.Ra2 Kd8 23.Qe3 Nxf6 24.Kd2 Ne4+ 25.Kc1 Qxc3 26.Qxc3 Nxc3 27.Rb2 Rg3 28.Ng1 Reg8 29.Kd2 Ne4+ 30.Ke2 Rxg1
+ 31.Rh2 R8g3 32.Ra2 c3 33.e6 b4 34.exf7 Bb5# 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.24"]
+[White "SamboEddy"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1788"]
+[BlackElo "1535"]
+[TimeControl "1 in 3 days"]
+[Termination "SamboEddy won by resignation"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 e6 4.Nf3 a6 5.d3 b5 6.g3 d5 7.e5 Nge7 8.Bg2 Bb7 9.O-O Nf5 10.Ne2 Be7
+ 11.c3 O-O 12.g4 Nh6 13.h3 f6 14.d4 fxe5 15.dxe5 Qb6 16.Kh1 Rad8 17.Qb3 Na5 18.Qc2 Nc4 19.b3 Na5 20.Be3 Qc7
+ 21.Ng3 Qd7 22.Rad1 Nc6 23.f5 exf5 24.Bxh6 gxh6 25.gxf5 Bg5 26.Nxg5 hxg5 27.Nh5 Nxe5 28.Qf2 c4 29.bxc4 bxc4 30.Qb6 Qf7
+ 31.Qe3 Rde8 32.Qxg5+ Kh8 33.Rd4 Rg8 34.Qf6+ Qxf6 35.Nxf6 Rc8 36.Nxg8 Kxg8 37.Bxd5+ Bxd5+ 38.Rxd5 Nd3 39.Ra5 Rc6 40.Ra4 Kf7
+ 41.f6 Ne5 42.Rf4 Rxf6 43.Rxf6+ Kxf6 44.Rxa6+ Kf5 45.Ra5 Ke4 46.Rxe5+ Kxe5 47.a4 Kd6 48.Kg2 Kc6 49.Kf3 Kb6 50.Ke4 Ka5
+ 51.Kd5 Kxa4 52.Kxc4 Ka5 53.Kc5 Ka4 54.c4 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.24"]
+[White "Oehoehoe"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1672"]
+[BlackElo "1529"]
+[TimeControl "1 in 3 days"]
+[Termination "Oehoehoe won by resignation"]
+
+1.e4 c5 2.Bc4 Nc6 3.Qf3 Nf6 4.Qg3 Nxe4 5.Bxf7+ Kxf7 6.Qf4+ Nf6 7.Qc4+ Ke8 8.Qxc5 e6 9.Qe3 b6 10.Nc3 Bc5
+ 11.Qf3 Rf8 12.Qd1 Nd5 13.Nf3 Nxc3 14.bxc3 e5 15.O-O Qf6 16.Re1 Bb7 17.d4 Bd6 18.dxe5 Nxe5 19.Bg5 Qf5 20.Qxd6
+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "DominicSvatos"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1352"]
+[BlackElo "1534"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.f4 d5 2.Nf3 Bg4 3.e3 Nf6 4.Be2 Nbd7 5.Ne5 Bf5 6.O-O e6 7.b3 Nxe5 8.fxe5 Ne4 9.Bd3 Bc5 10.Bxe4 Bxe4
+ 11.d3 Bf5 12.g4 Qg5 13.Qf3 O-O 14.Kh1 Bxg4 15.Qg3 Bxe3 16.Bxe3 Qg6 17.Rf4 Bd1 18.Nc3 Bxc2 19.Raf1 Bxd3 20.R1f2 a6
+ 21.Qxg6 Bxg6 22.Rg4 Rad8 23.Ne2 Bb1 24.Bg5 Rd7 25.Nc3 Bf5 26.Rg3 d4 27.Na4 Rd5 28.Bh6 Bg6 29.Bg5 Rxe5 30.h4 Re1+
+ 31.Kh2 Be4 32.Rg1 Rxg1 33.Kxg1 f6 34.Re2 Bf5 35.Bd2 b6 36.Rg2 Rd8 37.h5 e5 38.h6 g6 39.Bb4 d3 40.Be7 d2
+ 41.Nb2 d1=Q+ 42.Nxd1 Rxd1+ 43.Kh2 Be4 44.Rf2 f5 45.a4 Kf7 46.Bb4 Ke6 47.Rd2 Rxd2+ 48.Bxd2 Bc2 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.23"]
+[White "elfdangorbis"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1542"]
+[BlackElo "1544"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 e5 4.Nf3 g6 5.d3 Bg7 6.c3 d6 7.O-O Nge7 8.Be3 O-O 9.Nbd2 b6 10.Nc4 Ba6
+ 11.b3 Rb8 12.a3 d5 13.exd5 Nxd5 14.Ng5 Nxe3 15.Nxe3 Qxg5 16.Bxc6 Rfd8 17.c4 Bb7 18.Bd5 Bxd5 19.Nxd5 e4 20.Ra2 Rd6
+ 21.dxe4 Re6 22.Re1 Be5 23.Kh1 Qh5 24.Qxh5 gxh5 25.f4 Bg7 26.f5 Re5 27.f6 Bh6 28.Ne7+ Rxe7 29.fxe7 Re8 30.Rg2 Rxe7
+ 31.g4 Kf8 32.g5 Bg7 33.h4 Rd7 34.Re3 Rd1+ 35.Rg1 Rxg1+ 36.Kh2 Bd4 37.Rf3 Ra1 38.a4 Re1 39.Rf5 Rxe4 40.Kh3 Re3+
+ 41.Kg2 Rxb3 42.Rd5 Ke7 43.Rf5 Rb4 44.Rf4 Rxa4 45.Re4+ Kd6 46.Re8 Rxc4 47.Rh8 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.23"]
+[White "connerbookhardt"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1322"]
+[BlackElo "1548"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.d4 e6 3.e5 d5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Ne2 Qb6 8.dxc5 Qxc5 9.Be3 Qa5 10.b4 Qc7
+ 11.Bd4 Ne7 12.Nd2 Nf5 13.f4 Be7 14.g4 Nxd4 15.Nxd4 O-O 16.b5 Bd7 17.a4 Qxc3 18.Ne2 Bh4+ 19.Kf1 Qh3+ 20.Kg1 Qxg4+
+ 21.Kf1 f6 22.h3 Qg6 23.Nf3 fxe5 24.Nxe5 Qe4 25.Rg1 Qxe5 26.Rg4 Be7 27.Rc1 Qh5 28.Qd4 Qxh3+ 29.Ke1 Qxg4 30.Qf2 Bh4
+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "mgoulart"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1652"]
+[BlackElo "1541"]
+[TimeControl "1 in 3 days"]
+[Termination "mgoulart won by resignation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Bb5 Bd7 7.Bf4 a6 8.Nxc6 bxc6 9.Bd3 Qb6 10.b3 Qb4+
+ 11.Qd2 Qd4 12.c3 Qb6 13.b4 c5 14.Qe3 d4 15.Qg3 dxc3 16.Nxc3 cxb4 17.Ne4 Bb5 18.Nd6+ Bxd6 19.Bxb5+ Qxb5 20.Qxg7 Qc4
+ 21.exd6 Qc3+ 22.Qxc3 bxc3 23.Be5 Nf6 24.Bxf6 Rg8 25.O-O c2 26.f3 Kd7 27.Be5 Rab8 28.Rac1 Rbc8 29.Rf2 Rg5 30.f4
+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "Bogoliubon"]
+[Black "bharathmngl"]
+[Result "1-0"]
+[WhiteElo "1545"]
+[BlackElo "1312"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxc4 6.Qa4+ Bd7 7.Qxc4 b5 8.Qd3 h6 9.Nf3 f6 10.e4 a6
+ 11.Be2 g5 12.O-O h5 13.e5 Bc6 14.exf6 g4 15.Ne5 Nxf6 16.Qg6+ Ke7 17.Qg7+ Kd6 18.Nf7+ Kd7 19.Nxd8+ Kxd8 20.Qxf6+
+ 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "pierre1701"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1540"]
+[BlackElo "1554"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.d5 a5 8.O-O Nbd7 9.h3 Nc5 10.Bg5 Qd7
+ 11.Bd3 a4 12.Bc2 a3 13.b3 h6 14.Be3 b6 15.Nh4 Qe7 16.Qd2 Nfxe4 17.Nxe4 Nxe4 18.Bxe4 Qxh4 19.Bd3 e4 20.Be2 Bxa1
+ 21.Rxa1 Qf6 22.Rc1 g5 23.Kh2 Kh7 24.Bd4 Qf4+ 25.Qxf4 gxf4 26.Bh5 Bf5 27.Re1 Rae8 28.f3 e3 29.Bg4 Bxg4 30.hxg4 f5
+ 31.gxf5 Rxf5 32.Kg1 Rg8 33.Re2 h5 34.Kh2 h4 35.Kh3 Kh6 36.Bc3 Rg3+ 37.Kh2 h3 38.Be1 Rxg2+ 39.Rxg2 hxg2 40.Kxg2 b5
+ 41.Bh4 bxc4 42.bxc4 Rf8 43.Be1 Rb8 44.Ba5 Rb2+ 45.Kf1 Rxa2 46.Bxc7 Rb2 47.Bxd6 a2 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.08"]
+[White "Bogoliubon"]
+[Black "jurgis730204"]
+[Result "0-1"]
+[WhiteElo "1544"]
+[BlackElo "1550"]
+[TimeControl "1 in 3 days"]
+[Termination "jurgis730204 won by resignation"]
+
+1.e4 e5 2.Nf3 Qf6 3.Nc3 h6 4.Nd5 Qd6 5.b3 Nf6 6.Nc3 a6 7.Bb2 Nc6 8.Be2 Nd4 9.O-O Nxf3+ 10.Bxf3 Qd4
+ 11.Re1 Bc5 12.Qe2 b5 13.Rab1 Qd6 14.a3 Qb6 15.b4 Be7 16.Nd5 Nxd5 17.exd5 d6 18.Bxe5 dxe5 19.Qxe5 Qd6 20.Qxg7 Rf8
+ 21.Rxe7+ Kxe7 22.Re1+ Kd8 23.Re5 Bd7 24.Rh5 Qe7 25.h3 Rc8 26.Rxh6 Re8 27.Rh8 Rxh8 28.Qxh8+ Be8 29.Qd4 Qd6 30.d3 c6
+ 31.Qb6+ Rc7 32.Qxa6 Ke7 33.c4 cxd5 34.Qxd6+ Kxd6 35.Bxd5 bxc4 36.dxc4 Ra7 37.b5 Rxa3 38.b6 Rb3 39.b7 f6 40.g4 Bc6
+ 41.Bf7 Rxb7 42.Bd5 Bxd5 43.cxd5 Kxd5 44.Kg2 Ke5 45.Kg3 Rb3+ 46.f3 f5 47.gxf5 Kxf5 48.h4 Rb4 49.Kh3 Kf4 50.Kg2 Rb2+
+ 51.Kh3 Kxf3 52.h5 Kf4 53.h6 Kg5 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.08"]
+[White "Bogoliubon"]
+[Black "WowlX"]
+[Result "0-1"]
+[WhiteElo "1536"]
+[BlackElo "1571"]
+[TimeControl "1 in 3 days"]
+[Termination "WowlX won by resignation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Nf3 d6 6.Be2 Re8 7.O-O e5 8.d5 c6 9.Be3 cxd5 10.cxd5 Bg4
+ 11.h3 Bxf3 12.Bxf3 Nbd7 13.Rc1 a6 14.Bg5 Qb6 15.Rc2 Nc5 16.Be3 Qb4 17.a3 Qa5 18.Bxc5 Qxc5 19.b4 Qa7 20.h4 Rac8
+ 21.h5 Rc4 22.hxg6 hxg6 23.Re1 Qd4 24.Ne2 Qxd1 25.Rxd1 Rxc2 26.g4 Nxe4 27.Bxe4 Rxe2 28.Bf3 Rc2 29.Kg2 Rec8 30.Kg3 g5
+ 31.Be4 Rc1 32.Rh1 Rxh1 33.Bxh1 Rc3+ 34.f3 Rxa3 35.Bg2 Rb3 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.08"]
+[White "barricarte"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1646"]
+[BlackElo "1530"]
+[TimeControl "1 in 3 days"]
+[Termination "barricarte won by resignation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 f5 9.Rd1 Na6 10.a3 Nd6
+ 11.b3 g5 12.d5 Qe8 13.Bxg5 Rf7 14.Bf4 Rg7 15.Be5 Rg6 16.dxe6 dxe6 17.Bxd6 Bxd6 18.Nh4 Be4 19.Nxe4 fxe4 20.Nxg6 hxg6
+ 21.Bxe4 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.08"]
+[White "WowlX"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1560"]
+[BlackElo "1539"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 Ne5 7.Nc3 Nxd3+ 8.Qxd3 g6 9.O-O-O Bg7 10.Qd2 Ng4
+ 11.Bg5 Qb6 12.Nd5 Qc5 13.Bxe7 Be6 14.h3 Ne5 15.Bf6 Bxf6 16.Nxf6+ Ke7 17.Nxe6 Kxe6 18.Nd5 Rhc8 19.f3 a5 20.Rhf1 b5
+ 21.Qf2 Qc4 22.Nb6 Qxa2 23.Nxc8 Nc4 24.c3 Rxc8 25.Kc2 Qxb2+ 26.Kd3 Ne5+ 27.Ke3 Qxc3+ 28.Ke2 Qb2+ 29.Rd2 Rc2 30.Rfd1 Nc4
+ 31.Rxc2 Qxc2+ 32.Ke1 Qxf2+ 33.Kxf2 b4 34.Ra1 b3 35.Ke2 b2 36.Rb1 a4 37.Kd3 a3 38.Rxb2 axb2 39.Kc2 Ke5 40.g3 Kd4
+ 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.10.23"]
+[White "Bogoliubon"]
+[Black "belmonthuck"]
+[Result "1-0"]
+[WhiteElo "1547"]
+[BlackElo "1502"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 f6 3.d4 d6 4.Bc4 Ne7 5.Nc3 Bg4 6.O-O Bxf3 7.Qxf3 c6 8.Bg5 Ng6 9.Rad1 h6 10.Qf5 hxg5
+ 11.Qxg6+ Kd7 12.Qf7+ Kc8 13.Be6+ Nd7 14.d5 Qe7 15.dxc6 Qxf7 16.cxd7+ Qxd7 17.Bxd7+ Kxd7 18.Rd3 Rc8 19.Rfd1 a6 20.h3 b5
+ 21.Nd5 Rxc2 22.R3d2 Rxd2 23.Rxd2 Be7 24.Rc2 Bd8 25.Kh2 g4 26.Kg3 gxh3 27.gxh3 g5 28.f3 Rh4 29.b4 Ke6 30.Rc8 Kd7
+ 31.Ra8 Be7 32.Ra7+ Kd8 33.Rxe7 Rf4 34.Ra7 f5 35.Nxf4 exf4+ 36.Kf2 g4 37.hxg4 fxe4 38.fxe4 Ke8 39.Kf3 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "ars1969kar"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1510"]
+[BlackElo "1555"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.Nf3 Nc6 5.Bb5 Qa5+ 6.Nc3 Ne4 7.Bxc6+ bxc6 8.O-O Nxc3 9.bxc3 Qxc3 10.dxc5 Qxc5
+ 11.Qd4 Qxc2 12.Rfc1 Qe4 13.Rxc6 Qxd4 14.Nxd4 Bd7 15.Rc7 e6 16.Be5 a5 17.Rb1 f6 18.Bg3 Bb4 19.a3 Be7 20.Rbb7 Rc8
+ 21.h3 Rxc7 22.Rxc7 e5 23.Ra7 exd4 24.Ra8+ Bd8 25.Bc7 Ke7 26.Bxd8+ Rxd8 27.Rxa5 Ke6 28.exd4 Rc8 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "Bogoliubon"]
+[Black "ars1969kar"]
+[Result "0-1"]
+[WhiteElo "1546"]
+[BlackElo "1562"]
+[TimeControl "1 in 3 days"]
+[Termination "ars1969kar won by resignation"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxc4 6.Qa4+ Nc6 7.Qxc4 Nf6 8.Nf3 O-O 9.Bg5 h6 10.Bh4 g5
+ 11.Bg3 Ne4 12.e3 Nxg3 13.hxg3 Qf6 14.e4 Qg6 15.e5 Ne7 16.Bd3 Qg7 17.Qxc7 Nd5 18.Qc4 b6 19.Nd2 a5 20.Ne4 Ba6
+ 21.Qxa6 Rxa6 22.Bxa6 Qg6 23.Bd3 Qg7 24.c4 f5 25.cxd5 fxe4 26.Bxe4 exd5 27.Bxd5+ Kh8 28.Rd1 Rd8 29.Bf3 Qg6 30.g4 Kg7
+ 31.d5 Qf7 32.e6 Qe7 33.Rd3 Qc5 34.O-O Rd6 35.Re1 Kf8 36.Be4 b5 37.Bg6 Ke7 38.Re5 Qc1+ 39.Kh2 0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White "Bogoliubon"]
+[Black "bsezen"]
+[Result "1-0"]
+[WhiteElo "1555"]
+[BlackElo "1535"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 f6 4.Qa4+ Nc6 5.Qxc4 e6 6.Nc3 a6 7.e4 Bb4 8.Bd2 Bxc3 9.Bxc3 Nge7 10.Be2 O-O
+ 11.O-O b5 12.Qd3 b4 13.Bd2 a5 14.Rac1 Ba6 15.Qe3 g5 16.e5 Nf5 17.Qe4 Bxe2 18.Qxc6 Nxd4 19.Nxd4 Qxd4 20.Qxe6+ Kg7
+ 21.exf6+ Qxf6 22.Rxc7+ Rf7 23.Rxf7+ Qxf7 24.Qxe2 h6 25.a3 b3 26.Qe5+ Qf6 27.Qxf6+ Kxf6 28.Re1 Kg6 29.a4 Rc8 30.Bxa5 Rc2
+ 31.Bc3 Kf5 32.a5 1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "Bogoliubon"]
+[Black "traeumer11"]
+[Result "1-0"]
+[WhiteElo "1560"]
+[BlackElo "1390"]
+[TimeControl "1 in 3 days"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 d5 2.c4 c5 3.cxd5 Qxd5 4.Nf3 Nc6 5.Nc3 Qf5 6.e4 Qd7 7.Bb5 a6 8.Bxc6 Qxc6 9.O-O Bg4 10.Qd3 Bxf3
+ 11.Qxf3 cxd4 12.Nd5 e6 13.Nf4 f5 14.Qh5+ g6 15.Nxg6 hxg6 16.Qxh8 Kf7 17.exf5 exf5 18.Qxd4 Bg7 19.Qd3 Qe6 20.Qb3 Qxb3
+ 21.axb3 Rc8 22.Rd1 Ke6 23.f4 Nf6 24.Re1+ Ne4 25.Re2 Bd4+ 26.Kf1 Rh8 27.Be3 Bxe3 28.Rxe3 Rxh2 29.Kg1 Rh4 30.g3 Rg4
+ 31.Kg2 Kf6 32.Rd1 g5 33.fxg5+ Kxg5 34.Rd7 b5 35.Rg7+ Kh5 36.Rxg4 Kxg4 37.b4 Nf6 38.Ra3 Ne4 39.Rxa6 Nxg3 40.Rg6+ Kh4
+ 41.Rxg3 1-0
+
+

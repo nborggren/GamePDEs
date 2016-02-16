@@ -1,0 +1,164 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.18"]
+[White "Bogoliubon"]
+[Black "ahmedimran"]
+[Result "1-0"]
+[WhiteElo "1172"]
+[BlackElo "1114"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 d6 4.d4 exd4 5.Nxd4 Nf6 6.Bb5 Bd7 7.O-O Be7 8.Re1 O-O 9.Be3 Bg4 10.Qd2 Nxd4
+ 11.Bxd4 a5 12.Nd5 Nxd5 13.exd5 Bf6 14.Qf4 Bxd4 15.Qxd4 Bh5 16.Bd3 Bg6 17.Bxg6 fxg6 18.Re2 c6 19.dxc6 bxc6 20.Rd1 d5
+ 21.Qg4 Qb6 22.Qe6+ Kh8 23.b3 a4 24.Rde1 axb3 25.axb3 d4 26.Qh3 c5 27.Re4 c4 28.Rh4 h5 29.g4 d3 30.Rf1 d2
+ 31.gxh5 g5 32.h6 g4 33.hxg7+ Kxg7 34.Qxg4+ Kf7 35.Rh7+ Ke8 36.Qd7# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.18"]
+[White "Bogoliubon"]
+[Black "pablerasthebest"]
+[Result "1-0"]
+[WhiteElo "1179"]
+[BlackElo "1125"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 a6 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 d6 7.Bd3 f6 8.O-O h5 9.Nd5 h4 10.e5 h3
+ 11.exf6 hxg2 12.Re1+ Kd7 13.Qa4+ c6 14.Bf5# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "Bogoliubon"]
+[Black "vjrao2002"]
+[Result "1-0"]
+[WhiteElo "1188"]
+[BlackElo "1204"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 e6 4.d4 Bb4 5.exd5 cxd5 6.Bd2 Bxc3 7.Bxc3 Ne7 8.Ne5 Nf5 9.Qh5 Qf6 10.Bd3 Nd7
+ 11.O-O-O Nxe5 12.dxe5 Qg6 13.Qxg6 fxg6 14.g3 O-O 15.Rhe1 d4 16.Bb4 Rf7 17.Bxf5 Rxf5 18.f4 a5 19.Bc5 Rf7 20.Rxd4 Rd7
+ 21.Red1 b5 22.Rxd7 Bxd7 23.Rxd7 Rc8 24.Bb6 a4 25.Rd8+ Rxd8 26.Bxd8 Kf7 27.Kd2 h6 28.Kc3 Ke8 29.Ba5 Kd7 30.Kd4 Kc6
+ 31.c3 g5 32.fxg5 hxg5 33.Bd8 g4 34.Be7 g6 35.Bf6 Kb6 36.Ke3 Kc5 37.Kf4 b4 38.cxb4+ Kxb4 39.Kxg4 Kc4 40.Kg5 Kd3
+ 41.Kxg6 Kc2 42.h4 Kxb2 43.Be7 Kxa2 44.h5 a3 45.Bxa3 Kxa3 46.h6 Kb4 47.h7 Kc5 48.h8=Q Kd5 49.Kf6 Ke4 50.g4 Kf4
+ 51.g5 Ke4 52.g6 Kd5 53.g7 Ke4 54.g8=Q Kd5 55.Qd8+ Ke4 56.Qh4+ Ke3 57.Qdd4+ Kf3 58.Qhe4+ Kg3 59.Qdd3+ Kf2 60.Qee2+ Kg1
+ 61.Qdd1# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "Bogoliubon"]
+[Black "osbranyi"]
+[Result "0-1"]
+[WhiteElo "1181"]
+[BlackElo "1236"]
+[TimeControl "10|0"]
+[Termination "osbranyi won by resignation"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Bb4 4.Ne2 c5 5.exd5 exd5 6.c3 Ba5 7.d4 Bb6 8.Bg5 Nf6 9.dxc5 Bxc5 10.Bxf6 Qxf6
+ 11.Qxd5 Na6 12.Qe5+ Qxe5 13.Nxe5 O-O 14.Ng4 Bxg4 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "hamidmaryam"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1268"]
+[BlackElo "1175"]
+[TimeControl "10|0"]
+[Termination "hamidmaryam won by resignation"]
+
+1.d4 d5 2.c4 Nf6 3.Nf3 Bg4 4.Qa4+ Nc6 5.Ne5 Qd6 6.Nxg4 Nxg4 7.h3 Nf6 8.e3 Ne4 9.Nc3 Nxc3 10.bxc3 e6
+ 11.cxd5 exd5 12.Bb5 Be7 13.O-O O-O 14.Bxc6 Qxc6 15.Qxc6 bxc6 16.a4 Rab8 17.Ba3 Rfe8 18.Bxe7 Rxe7 19.Rfb1 Ree8 20.Rb4 Rxb4
+ 21.cxb4 Rb8 22.Rb1 Kf8 23.a5 Ke7 24.g4 g5 25.Kg2 f5 26.f3 Kf6 27.Rc1 fxg4 28.hxg4 Rxb4 29.Rxc6+ Kg7 30.Rxc7+
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "IoanDorel"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1170"]
+[BlackElo "1167"]
+[TimeControl "10|0"]
+[Termination "IoanDorel won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nf6 7.Nc3 O-O 8.O-O Re8 9.Bg5 d6 10.h3 Nh5
+ 11.Qd1 Bxg5 12.Qxh5 Be6 13.Bxe6 Rxe6 14.f4 Bf6 15.f5 Re7 16.Rae1 Bxc3 17.bxc3 Qe8 18.Qg4 f6 19.h4 d5 20.Rf4 Qa4
+ 21.Re2 Rae8 22.exd5 Qxa2 23.Rxe7 Rxe7 24.Re4 Rxe4 25.Qxe4 Kf7 26.Qe6+ Kf8 27.Qc8+ Kf7 28.Qxc7+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "Bogoliubon"]
+[Black "Pigasoss"]
+[Result "1-0"]
+[WhiteElo "1175"]
+[BlackElo "1138"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e6 2.Nf3 d6 3.d4 Nc6 4.c4 d5 5.Nc3 dxe4 6.Nxe4 Bb4+ 7.Bd2 Bxd2+ 8.Qxd2 Nf6 9.Bd3 Nxd4 10.Nxd4 Qxd4
+ 11.Nxf6+ gxf6 12.O-O e5 13.Rad1 Bg4 14.Be2 Qxd2 15.Rxd2 Bxe2 16.Rxe2 O-O-O 17.f4 exf4 18.Rxf4 Rd1+ 19.Kf2 Rd6 20.Re7 Rf8
+ 21.Rfe4 Kd8 22.Ke3 f5 23.R4e5 Re8 24.Rxe8+ Kd7 25.R8e7+ Kc6 26.Rxf7 Rg6 27.g3 f4+ 28.Kxf4 Kd6 29.Ref5 Ke6 30.Rxc7 Rh6
+ 31.h4 Rg6 32.Rff7 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "Bogoliubon"]
+[Black "grishogrisho"]
+[Result "0-1"]
+[WhiteElo "1166"]
+[BlackElo "1154"]
+[TimeControl "10|0"]
+[Termination "grishogrisho won by resignation"]
+
+1.e4 e5 2.Nf3 Bc5 3.Nc3 Nf6 4.Be2 Bxf2+ 5.Kxf2 Ng4+ 6.Ke1 O-O 7.d4 exd4 8.Nxd4 Qh4+ 9.g3 Qf6 10.Bxg4 d5
+ 11.Nxd5 Qe5 12.Bf5 Bxf5 13.Bf4 Qxe4+ 14.Kd2 Qxd4+ 15.Kc1 Nc6 16.Qxd4 Nxd4 17.Ne7+ Kh8 18.Nxf5 Nxf5 19.c3 c6 20.Kc2 h6
+ 21.Rad1 g5 22.Be5+ f6 23.Bd6 Rfd8 24.Bc7 Rxd1 25.Rxd1 Ne3+ 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "Bogoliubon"]
+[Black "TOP9595"]
+[Result "1-0"]
+[WhiteElo "1174"]
+[BlackElo "1171"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Qf6 5.Nc3 c6 6.Bd3 Nd7 7.Nf3 Ne5 8.Nxe5 dxe5 9.Be3 Be7 10.Qf3 Qg6
+ 11.h3 h5 12.O-O-O Bg4 13.hxg4 hxg4 14.Qg3 Bh4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.19"]
+[White "bjr001"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1193"]
+[BlackElo "1183"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.d3 Nf6 4.g3 d5 5.exd5 Nxd5 6.Bg2 Bc5 7.O-O O-O 8.Nbd2 Nd4 9.Ne4 Qe7 10.Nxc5 Qxc5
+ 11.c3 Nxf3+ 12.Bxf3 Bh3 13.Bg2 Bxg2 14.Kxg2 f5 15.Qe2 Rae8 16.c4 f4 17.cxd5 f3+ 18.Qxf3 Rxf3 19.Kxf3 Qxd5+ 20.Ke2 e4
+ 21.dxe4 Rxe4+ 22.Kf3 Re1+ 0-1
+
+

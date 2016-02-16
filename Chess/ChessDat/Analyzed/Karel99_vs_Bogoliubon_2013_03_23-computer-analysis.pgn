@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.03.23"]
+[White ""]
+[Black ""]
+[ECO "C44"]
+[ChesscomGameID "478913627"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "1214"]
+[BlackElo "1274"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 0 = 0.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 9.1% of moves}
+
+1. e4 {(Book Move)}  e5 {(Book Move)} 
+2. Nf3 {(Book Move)}  Nc6 {(Book Move)} 
+3. Be2 {(Book Move)}  Nf6 {(0.08)} 
+4. d3 {(-0.12)}  Bc5 {(-0.04)} 
+5. Nc3 {(0.04)}  O-O {(0.04)} 
+6. O-O {(-0.04)}  d6 {(-0.04)} 
+7. Bg5 {(-0.04)}  h6 {(0.16)} 
+8. Bxf6 {(0)}  Qxf6 {(0.2)} 
+9. Nd5 {(0.04)}  Qd8 {(-0)} 
+10. c3 {(0.16)}  Ne7 {(0.24)} 
+11. Nxe7+ {(-0.12)}  Qxe7 {(-0.16)} 
+12. a4 {(-0.16)}  Bg4 $4 {(3.27) BLUNDER - Oops! That was a serious blunder. From equal to losing in a flash. Best was 12... a5} 
+({BEST MOVE (-0.32)} 12... a5 13. Rc1 Bd7 14. d4 exd4 15. cxd4 Bb6 16. Bd3 Rfe8 17. h3 Qf6 18. Re1 Bc6 19. Bb5 Rxe4 20. Bxc6 Rxe1+   $15)
+({BLUNDER (3.27)} 12... Bg4 13. b4 Bxb4 14. cxb4 c6 15. Qb3 a5 16. bxa5 Rxa5 17. Rfb1 Rc5 18. Rb2 b5 19. axb5 Rxb5   $18)
+13. b4 {(3.27)}  Bxf2+ {(3.27) BLACK WINS - Play might have continued...} 
+({CONTINUATION (3.27)} 13... Bxf2+ 14. Rxf2 Bd7 15. d4 exd4 16. Nxd4 Rae8 17. Bd3 c5 18. Nf5 Qe5 19. Bb5 Bxf5 20. exf5   $18)
+0-1
+

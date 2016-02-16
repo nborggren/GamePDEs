@@ -1,0 +1,48 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.02.01"]
+[White "Bogoliubon"]
+[Black "osmium76"]
+[Result "0-1"]
+[WhiteElo "1176"]
+[BlackElo "1213"]
+[TimeControl "10|0"]
+[Termination "osmium76 won by resignation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 g6 4.Ng5 e6 5.O-O Qxg5 6.Nc3 Bg7 7.d4 Qe7 8.dxc5 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.02.02"]
+[White "punjabinizam"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1235"]
+[BlackElo "1169"]
+[TimeControl "10|0"]
+[Termination "punjabinizam won on time"]
+
+1.d4 d5 2.c4 Nf6 3.e3 Nc6 4.Nf3 Bg4 5.cxd5 Nxd5 6.Be2 e6 7.Qa4 Bb4+ 8.Bd2 O-O 9.Bxb4 Ncxb4 10.e4 Nf4
+ 11.Qxb4 Nxg2+ 12.Kf1 Bh3 13.Kg1 Qf6 14.Nbd2 Qg6 15.Nf1 Ne3+ 16.Ng3 Nc2 17.Qxb7 Nxa1 18.Qxc7 Rac8 19.Qf4 Nc2 20.Ne5 Qh6
+ 21.Qxh6 gxh6 22.f4 Nxd4 23.Kf2 Rc2 24.Rd1 Nxe2 25.Nxe2 Rxb2 26.Nd7 Rc8 27.Nf6+ Kg7 28.Nh5+ Kg6 29.f5+ Kxh5 30.fxe6 fxe6
+ 31.Kg3 Rxe2 32.Kxh3 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.02.02"]
+[White "kidd_charlemagne"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1222"]
+[BlackElo "1162"]
+[TimeControl "10|0"]
+[Termination "kidd_charlemagne won by resignation"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Bg5 Be7 5.Nf3 Na5 6.Bb5 c6 7.Ba4 b5 8.Bb3 Nxb3 9.axb3 Qb6 10.Be3 Qc7
+ 11.Qe2 Ng4 12.O-O Nxe3 13.fxe3 Bc5 14.d4 exd4 15.exd4 Be7 16.e5 O-O 17.Nbd2 c5 18.d5 Qb6 19.Kh1 Bb7 20.d6 Bd8
+ 21.Qe3 Re8 22.Qf4 Re6 23.Ng5 f6 24.Nxe6 Qc6 25.Qg3 dxe6 26.exf6 g6 27.f7+ Kf8 28.Qh3 Qxd6 29.Rad1 Bc7 30.Ne4 Qc6
+ 31.Ng5 Qxg2+ 32.Qxg2 Bxg2+ 33.Kxg2 Bxh2 34.Kxh2 Kg7 35.Nxe6+ Kh6 36.f8=Q+ Rxf8 37.Rxf8 1-0
+
+

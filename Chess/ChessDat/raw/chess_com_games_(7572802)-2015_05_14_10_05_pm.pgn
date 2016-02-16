@@ -1,0 +1,807 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "Bogoliubon"]
+[Black "ioround3"]
+[Result "1-0"]
+[WhiteElo "935"]
+[BlackElo "873"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 f6 3.Nc3 d6 4.d4 Bg4 5.Be2 Bxf3 6.Bxf3 exd4 7.Qxd4 c5 8.Qd2 Nd7 9.O-O Ne7 10.e5 Nxe5
+ 11.Bxb7 Rb8 12.Be4 Nc4 13.Qe2 f5 14.Bxf5 g6 15.Bd3 Ne5 16.Re1 Bg7 17.Nd5 O-O 18.Nxe7+ Qxe7 19.f4 c4 20.Bxc4+ Kh8
+ 21.fxe5 a5 22.exd6 Qxd6 23.Rd1 Qc5+ 24.Kh1 Rbe8 25.Qd3 Rd8 26.Qxd8 Rxd8 27.Rxd8+ Bf8 28.Bh6 Qxc4 29.Rxf8+ Qg8 30.Rxg8+ Kxg8
+ 31.Re1 Kf7 32.c4 g5 33.c5 Kg6 34.Bf8 h5 35.Rf1 g4 36.c6 Kg5 37.c7 Kh4 38.c8=Q g3 39.h3 Kg5 40.Qf5+ Kh4
+ 41.Qf4# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "ioround3"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "866"]
+[BlackElo "942"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.e4 e5 2.d3 Nc6 3.c3 Nf6 4.Bg5 Be7 5.h3 d5 6.g4 dxe4 7.Be3 exd3 8.Bxd3 e4 9.g5 Qxd3 10.Nd2 Nd5
+ 11.Ne2 Nxe3 12.fxe3 Qxe3 13.Qc2 Bxh3 14.O-O-O Bxg5 15.Rhe1 O-O-O 16.Nd4 Qf4 17.Rxe4 Qf2 18.Re2 Qf6 19.Kb1 Nxd4 20.cxd4 Qxd4
+ 21.Rh2 Bg4 22.Re1 Bxd2 23.Rxd2 Qxd2 24.Qxd2 Rxd2 25.Kc1 Rd7 26.Rg1 f5 27.Kc2 Rhd8 28.Kc3 h5 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "skootamassa"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1021"]
+[BlackElo "936"]
+[TimeControl "2|1"]
+[Termination "skootamassa won by checkmate"]
+
+1.d4 d5 2.c4 e6 3.Nc3 dxc4 4.e3 Nc6 5.Bxc4 Nf6 6.a3 Bd7 7.Nf3 Qe7 8.O-O O-O-O 9.b4 a6 10.e4 e5
+ 11.d5 Nd4 12.Be3 Nxf3+ 13.Qxf3 h5 14.a4 Ng4 15.b5 h4 16.h3 Nxe3 17.Qxe3 a5 18.b6 Rh5 19.bxc7 Re8 20.Nb5 Bxb5
+ 21.Bxb5 Qg5 22.Qxg5 Rxg5 23.Rac1 Re7 24.d6 Re6 25.d7# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "Bogoliubon"]
+[Black "skootamassa"]
+[Result "0-1"]
+[WhiteElo "930"]
+[BlackElo "1027"]
+[TimeControl "2|1"]
+[Termination "skootamassa won on time"]
+
+1.e4 c5 2.Nf3 d6 3.c3 e6 4.d4 cxd4 5.Nxd4 Nc6 6.Be3 g6 7.Bb5 Bd7 8.Nd2 Bg7 9.O-O a6 10.Ba4 b5
+ 11.Bc2 Nf6 12.Bg5 O-O 13.Re1 Qc7 14.N2f3 e5 15.Nxc6 Bxc6 16.Re2 Qb7 17.Qxd6 Nxe4 18.Bxe4 Bxe4 19.Nxe5 Bxg2 20.Rae1 Bh1
+ 21.f4 f6 22.Nd7 fxg5 23.Nxf8 Bxf8 24.Qe6+ Kh8 25.Qf6+ Bg7 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "CriticalState"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "949"]
+[BlackElo "939"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.Bd5 Bd7 5.d4 exd4 6.Nxd4 Nxd4 7.Qxd4 c6 8.Bb3 Nf6 9.O-O Be7 10.e5 dxe5
+ 11.Qxe5 O-O 12.Qg3 Be6 13.Nc3 Bxb3 14.axb3 Bd6 15.f4 Nh5 16.Qf2 Qf6 17.Ne4 Qe6 18.Nxd6 Qxd6 19.f5 Nf6 20.Bg5 Ng4
+ 21.Qf3 Qxh2# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "nhplayer"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "853"]
+[BlackElo "945"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 e6 4.c3 d5 5.e5 Nge7 6.d4 cxd4 7.cxd4 Nf5 8.Bb5 Bd7 9.O-O Qb6 10.Nc3 Ncxd4
+ 11.Nxd4 Nxd4 12.Be3 Nxb5 13.Bxb6 axb6 14.Nxb5 Bxb5 15.Rf3 Bc5+ 16.Kh1 O-O 17.Qb3 Bc6 18.Rc1 Rfd8 19.Qd3 d4 20.a3 Bxf3
+ 21.gxf3 Rd7 22.b4 Be7 23.Qb5 Rad8 24.Qxb6 d3 25.Rc7 d2 26.Rxd7 Rxd7 27.Qg1 d1=Q 28.Qxd1 Rxd1+ 29.Kg2 Ra1 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.24"]
+[White "Bogoliubon"]
+[Black "kingpavn"]
+[Result "1-0"]
+[WhiteElo "953"]
+[BlackElo "919"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d3 Bb4 5.Bd2 d6 6.Be2 Bg4 7.O-O Nd4 8.a3 Nxe2+ 9.Qxe2 Bxc3 10.Bxc3 c6
+ 11.Qe3 Qb6 12.Qxb6 axb6 13.Ng5 h6 14.Nf3 Bxf3 15.gxf3 Nh5 16.Bd2 Nf4 17.Bxf4 exf4 18.Rae1 h5 19.e5 Kd7 20.exd6 Kxd6
+ 21.Re4 g5 22.Rfe1 g4 23.fxg4 f3 24.Rf4 hxg4 25.Rxf7 Rag8 26.Ree7 g3 27.hxg3 Rh3 28.Rd7+ Kc5 29.b4+ Kb5 30.Rxb7 Rgh8
+ 31.Rf5+ Ka4 32.Ra7# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "dorin_ir"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "896"]
+[BlackElo "944"]
+[TimeControl "2|1"]
+[Termination "dorin_ir won on time"]
+
+1.e3 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 d6 5.b3 Bd7 6.Bb2 Be7 7.Nge2 O-O 8.d3 Ng4 9.Qd2 f5 10.h3 Nf6
+ 11.h4 e4 12.d4 Rf7 13.Nf4 Be6 14.Nxe6 Qd7 15.Nf4 Raf8 16.h5 Ng4 17.d5 Nce5 18.Ne6 Re8 19.O-O-O c6 20.Nf4 Bg5
+ 21.Nh3 Bh6 22.Ne2 cxd5 23.Qxd5 Rd8 24.Bxe5 dxe5 25.Qc4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "Bogoliubon"]
+[Black "ekimoz"]
+[Result "1-0"]
+[WhiteElo "954"]
+[BlackElo "1018"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.exf5 e4 5.Ng1 a6 6.Bf1 d6 7.Nc3 Bxf5 8.d3 Nf6 9.dxe4 Nxe4 10.Bd3 Nxc3
+ 11.bxc3 Qe7+ 12.Ne2 Bg4 13.O-O O-O-O 14.f3 Bh5 15.Re1 Re8 16.Bb2 Qd7 17.Be4 Bg6 18.Bxg6 hxg6 19.Nd4 Nxd4 20.cxd4 Be7
+ 21.c4 Bf6 22.Rxe8+ Qxe8 23.Bc3 Qd7 24.Rb1 d5 25.Qb3 b6 26.c5 Kb7 27.cxb6 Kc8 28.bxc7 Qxc7 29.a4 Qxh2+ 30.Kf2 Bh4+
+ 31.Ke3 Re8+ 32.Kd3 Qc7 33.Ba5 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "Bogoliubon"]
+[Black "tossed"]
+[Result "0-1"]
+[WhiteElo "948"]
+[BlackElo "1043"]
+[TimeControl "2|1"]
+[Termination "tossed won by checkmate"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d3 Nf6 5.Bd2 Qf5 6.Nf3 Nc6 7.Be2 e6 8.O-O Bd6 9.d4 Qg4 10.Ne5 Qxd4
+ 11.Nxc6 bxc6 12.Be3 Qe5 13.Bd4 Qxh2# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "geurilla"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "786"]
+[BlackElo "936"]
+[TimeControl "2|1"]
+[Termination "geurilla won by checkmate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.Ng5 Qxg5 5.h4 Qd8 6.g4 Nf6 7.g5 Nxe4 8.f3 Nc5 9.f4 Be6 10.fxe5 Bxc4
+ 11.d4 Ne6 12.b3 Ba6 13.c4 Ncxd4 14.Nc3 dxe5 15.Be3 c5 16.Bxd4 cxd4 17.Ne4 Nc5 18.Qf3 b6 19.O-O Bb7 20.Qxf7#
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "Bogoliubon"]
+[Black "kjartan_laupstad"]
+[Result "0-1"]
+[WhiteElo "927"]
+[BlackElo "900"]
+[TimeControl "2|1"]
+[Termination "kjartan_laupstad won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bc5 4.d3 Nf6 5.Bg5 h6 6.Bh4 g5 7.Bg3 Ng4 8.h3 Nxf2 9.Qd2 Nxh1 10.Nxe5 Nxe5
+ 11.Bxe5 Qe7 12.d4 Bd6 13.O-O-O Bxe5 14.dxe5 Qxe5 15.Bc4 Ng3 16.Qf2 Rf8 17.Rd5 Qf4+ 18.Qxf4 gxf4 19.Bb5 c6 20.Re5+ Kd8
+ 21.Bc4 d6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "cococola2012"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "960"]
+[BlackElo "920"]
+[TimeControl "2|1"]
+[Termination "cococola2012 won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Be2 d6 4.O-O Nf6 5.c3 Nxe4 6.d3 Nf6 7.Nbd2 Bg4 8.b4 Be7 9.Bb2 d5 10.c4 Bxb4
+ 11.cxd5 Nxd5 12.Ne4 O-O 13.Nxe5 Nxe5 14.Bxg4 Nxg4 15.Qxg4 Nf6 16.Nxf6+ Kh8 17.Nxh7 Qxd3 18.Nxf8 Bc3 19.Bxc3 Qxc3 20.Rac1 Qf6
+ 21.Nd7 Qg6 22.Qh4+ Kg8 23.Rxc7 Re8 24.Rxb7 f5 25.Qc4+ Kh7 26.Rxa7 Re4 27.Qd3 Rg4 28.g3 f4 29.Ne5 Qxd3 30.Nxd3 fxg3
+ 31.hxg3 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.25"]
+[White "Bogoliubon"]
+[Black "bulldozerrrr"]
+[Result "0-1"]
+[WhiteElo "911"]
+[BlackElo "892"]
+[TimeControl "2|1"]
+[Termination "bulldozerrrr won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 Bc5 4.d3 d6 5.Bg5 Nf6 6.Be2 h6 7.Bh4 O-O 8.O-O Bg4 9.Nbd2 a6 10.Nc4 b5
+ 11.Na3 a5 12.Nc2 b4 13.cxb4 Nxb4 14.Ne3 Bxe3 15.fxe3 g5 16.Bg3 Nc6 17.d4 exd4 18.exd4 Re8 19.d5 Nb4 20.Qb3 Nxe4
+ 21.Bf2 Nd2 22.Nxd2 Rxe2 23.Qc3 Nxd5 24.Qd3 Nf4 25.Qg3 Bh5 26.Rfe1 Rxd2 27.Re3 Ne2+ 28.Rxe2 Rxe2 29.Qd3 Qf6 30.Bd4 Qf4
+ 31.Rf1 Qg4 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "Bogoliubon"]
+[Black "lewprint"]
+[Result "0-1"]
+[WhiteElo "903"]
+[BlackElo "899"]
+[TimeControl "2|1"]
+[Termination "lewprint won on time"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 h6 4.Nc3 Nf6 5.d3 Nc6 6.Be3 Bg4 7.a4 Nd4 8.Bxd4 exd4 9.Nb5 c5 10.h3 Qa5+
+ 11.Qd2 Qxd2+ 12.Nxd2 O-O-O 13.hxg4 Kb8 14.O-O-O a6 15.Na3 Nxg4 16.Rdf1 g5 17.Bxf7 Bg7 18.Nac4 Rdf8 19.Nxd6 Kc7 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "rockinroly"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1011"]
+[BlackElo "897"]
+[TimeControl "2|1"]
+[Termination "rockinroly won by resignation"]
+
+1.d4 d5 2.c4 e6 3.c5 Nc6 4.Bf4 Nf6 5.Nc3 a6 6.e3 Be7 7.Nf3 b6 8.b4 Nxb4 9.Qa4+ Nc6 10.Qxc6+
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "haanosist"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "888"]
+[BlackElo "889"]
+[TimeControl "2|1"]
+[Termination "haanosist won on time"]
+
+1.d4 d5 2.c4 dxc4 3.Nc3 Nf6 4.Bg5 e6 5.Bxf6 gxf6 6.e3 e5 7.Bxc4 Nc6 8.Nf3 exd4 9.Nxd4 Nxd4 10.Qxd4 Qxd4
+ 11.exd4 Bb4 12.O-O Be6 13.Rfe1 Kd7 14.Bxe6+ fxe6 15.a3 Bd6 16.d5 e5 17.Ne4 Be7 18.Rab1 Rhg8 19.b4 f5 20.Nc5+ Bxc5
+ 21.bxc5 b6 22.cxb6 axb6 23.Rxe5 Rxa3 24.Rxf5 Rga8 25.g3 Ra1 26.Rxa1 Rxa1+ 27.Kg2 Rd1 28.Rf7+ Kd6 29.Rxh7 b5 30.Rh5 Rxd5
+ 31.Rxd5+ Kxd5 32.Kf1 b4 33.Ke1 Kc4 34.Kd1 c5 35.Kc1 b3 36.g4 Kd5 37.Kb2 c4 38.g5 Ke6 39.h4 Kf5 40.f3
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "Bogoliubon"]
+[Black "winklerd"]
+[Result "0-1"]
+[WhiteElo "880"]
+[BlackElo "868"]
+[TimeControl "2|1"]
+[Termination "winklerd won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 h6 4.Nc3 Nf6 5.d4 d5 6.exd5 exd4 7.dxc6 dxc3 8.Qxd8+ Kxd8 9.cxb7 Bxb7 10.b3 Bc5
+ 11.O-O Re8 12.Re1 Ne4 13.Be3 Ba3 14.Rad1+ Ke7 15.Bd4 Kf8 16.Nh4 g5 17.Nf5 Bc8 18.Nxh6 Be6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "ninni28"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "853"]
+[BlackElo "871"]
+[TimeControl "2|1"]
+[Termination "ninni28 won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.Bb5 Bd7 6.Bxc6 Bxc6 7.exd5 Bxd5 8.Rg1 Ng4 9.Qxg4 Bc5 10.b4 Bd4
+ 11.c3 Bb6 12.a4 c6 13.a5 Bc7 14.c4 Be6 15.Nxe6 fxe6 16.Qh5+ g6 17.Qg4 Qf6 18.h3 O-O 19.f3 e4 20.Ra3 exf3
+ 21.Rxf3 Qe5+ 22.Re3 Qf5 23.Rf3 Qxg4 24.Rxf8+ Rxf8 25.hxg4 Bg3+ 26.Kd1 Rf4 27.d3 Rxg4 28.Nc3 Rd4 29.Kc2 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "Y_SO_SERIOUS"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "931"]
+[BlackElo "864"]
+[TimeControl "2|1"]
+[Termination "Y_SO_SERIOUS won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.Bxc6+ bxc6 6.O-O Bg4 7.d4 exd4 8.Ne2 Bxf3 9.gxf3 d5 10.exd5 Qxd5
+ 11.Nxd4 O-O-O 12.Qd3 Qxd4 13.Qf5+ Kb8 14.Be3 Qd5 15.Qxd5 Nxd5 16.Bg5 f6 17.Bd2 Bd6 18.Rae1 Nf4 19.c4 Nd3 20.Re3 Nxb2
+ 21.Rb3+ Kc8 22.Rxb2 Rhe8 23.Rfb1 Bc5 24.Bf4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "Bogoliubon"]
+[Black "ninni28"]
+[Result "0-1"]
+[WhiteElo "856"]
+[BlackElo "866"]
+[TimeControl "2|1"]
+[Termination "ninni28 won by resignation"]
+
+1.e4 d5 2.e5 d4 3.Nf3 c5 4.d3 b6 5.Nbd2 f6 6.exf6 gxf6 7.Nc4 e5 8.Be2 Ne7 9.Nd6+ Qxd6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "pedrorandrade"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "907"]
+[BlackElo "849"]
+[TimeControl "2|1"]
+[Termination "pedrorandrade won by resignation"]
+
+1.e4 e5 2.d3 Nc6 3.f4 d6 4.f5 g6 5.fxg6 hxg6 6.Nf3 Bg4 7.Be2 Bh6 8.Nc3 Qd7 9.Nd5 O-O-O 10.Ng5 Bxe2
+ 11.Qxe2 Nd4 12.Qd2 Qg4 13.O-O Bxg5 14.Qxg5 Ne2+ 15.Kh1 Ng3+ 16.Kg1 Ne2+ 17.Kh1 Ng3+ 18.Kg1 Qxg5 19.Bxg5 Nxf1 20.Rxf1 Rf8
+ 21.a4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.26"]
+[White "gonzogary"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "929"]
+[BlackElo "859"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.Nc3 Bd7 5.O-O Nf6 6.d3 Be7 7.Nd5 Nxd5 8.exd5 Nb8 9.Bxd7+ Nxd7 10.Re1 O-O
+ 11.Be3 Nb6 12.d4 Nxd5 13.Bd2 exd4 14.Nxd4 Bf6 15.Nf3 b6 16.Bc3 Nxc3 17.bxc3 Bxc3 18.Rb1 Bxe1 19.Qxe1 Re8 20.Qd2 Qf6
+ 21.h3 Re6 22.Qd3 Rae8 23.c4 Re2 24.a4 Ra2 25.Qd1 Ree2 26.Nd4 Rxf2 27.Nf3 Rxg2+ 28.Kh1 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "mehtab"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "847"]
+[BlackElo "867"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Qh5 Nc6 3.Bc4 Qf6 4.Qf3 Qxf3 5.Nxf3 Nf6 6.Ng5 d5 7.exd5 Nd4 8.Bb3 Nxb3 9.cxb3 Nxd5 10.d3 Be7
+ 11.Ne4 O-O 12.Ng5 f6 13.Ne6 Bxe6 14.Na3 Nb4 15.Be3 Nxd3+ 16.Kd2 Rad8 17.Nb5 Nxf2+ 18.Ke2 Nxh1 19.Rxh1 Rd5 20.Nxc7 Rd6
+ 21.Nb5 Rc6 22.Nxa7 Rc2+ 23.Kf3 Rxb2 24.Nb5 Rxa2 25.Nc7 Bxb3 26.Bb6 Ra3 27.Nb5 Ra6 28.Bc7 Bd5+ 29.Ke2 Rc8 30.Ba5 b6
+ 31.Bd2 Bc4+ 32.Ke3 Bxb5 33.Rf1 Ra3+ 34.Kf2 Bc5+ 35.Ke1 Rd8 36.Bc1 Ra1 37.Rf3 Rxc1# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "apassio"]
+[Result "1-0"]
+[WhiteElo "873"]
+[BlackElo "792"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 c6 4.Nxe5 Qe7 5.Nf3 Na6 6.d3 d5 7.Be2 dxe4 8.dxe4 Nxe4 9.O-O Qe6 10.Bxa6 bxa6
+ 11.Nxe4 Qxe4 12.Re1 Qxe1+ 13.Qxe1+ Kd7 14.Bf4 Bd6 15.Ne5+ Kc7 16.Qa5+ Kb8 17.Nxc6+ Kb7 18.Bxd6 Bd7 19.Qc7# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "gokudra"]
+[Result "1-0"]
+[WhiteElo "883"]
+[BlackElo "952"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 d6 4.d3 Bg4 5.Be2 Nf6 6.d4 exd4 7.Nxd4 Nxd4 8.Qxd4 Bxe2 9.Nxe2 c5 10.Qa4+ Qd7
+ 11.Qxd7+ Nxd7 12.O-O Be7 13.Be3 O-O 14.Rad1 Ne5 15.Nc3 Nc4 16.b3 Nxe3 17.fxe3 Bf6 18.Nd5 Rad8 19.Nxf6+ gxf6 20.Rxf6 Kg7
+ 21.Rfxd6 Rxd6 22.Rxd6 b6 23.Rd7 Ra8 24.Kf2 Kf6 25.Kf3 Ke6 26.Rd5 Re8 27.Kf4 Kf6 28.Rf5+ Kg6 29.e5 Re6 30.g4 h6
+ 31.h4 a6 32.h5+ Kg7 33.g5 hxg5+ 34.Rxg5+ Kh6 35.Kg4 f6 36.Rg6+ Kh7 37.exf6 Rxe3 38.f7 Re4+ 39.Kf5 Re7 40.f8=Q Rf7+
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "lepetitpois"]
+[Result "1-0"]
+[WhiteElo "891"]
+[BlackElo "882"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 d6 3.Nc3 c6 4.d4 exd4 5.Nxd4 Nf6 6.Bg5 h6 7.Bh4 Be7 8.Bc4 O-O 9.O-O b5 10.Bd3 a6
+ 11.Nf3 b4 12.Ne2 c5 13.e5 Nd5 14.exd6 Qxd6 15.Re1 Bg4 16.Bxe7 Qxe7 17.Nf4 Qd6 18.Nxd5 Bxf3 19.Ne7+ Kh8 20.Qxf3 Nd7
+ 21.Qf5 Rae8 22.Qh7# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "bigjj12"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "841"]
+[BlackElo "882"]
+[TimeControl "2|1"]
+[Termination "bigjj12 won by resignation"]
+
+1.g3 d5 2.b3 e5 3.Bg2 Nf6 4.Bb2 Nc6 5.Nc3 Be6 6.e3 Bb4 7.Nge2 O-O 8.O-O Qd7 9.e4 d4 10.Nb1 Ne7
+ 11.c3 dxc3 12.dxc3 Bc5 13.Qxd7 Bxd7 14.c4 Bc6 15.Bxe5 Nxe4 16.Bxe4 Bxe4 17.Bxc7 Rac8 18.Bf4 Bd3 19.Re1 Nf5 20.Nec3 Bd4
+ 21.Be3 Bxe3 22.fxe3 Rfe8 23.Rd1 Nxe3 24.Rxd3 Nc2 25.Na3 Nxa1 26.Rd1 Nxb3 27.axb3 Re3 28.Nab5 a6 29.Nd5 axb5 30.Nxe3 bxc4
+ 31.Nxc4 Kf8 32.Nd6 Rc3 33.Nxb7 Rxb3 34.Rd8+ Ke7 35.Rb8 Kd7 36.Nc5+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "bigjj12"]
+[Result "0-1"]
+[WhiteElo "873"]
+[BlackElo "850"]
+[TimeControl "2|1"]
+[Termination "bigjj12 won by resignation"]
+
+1.e4 g6 2.d4 b6 3.Nf3 e6 4.Nc3 Bb7 5.Bg5 Be7 6.Be3 Nf6 7.Bh6 Bxe4 8.Nxe4 Nxe4 9.Qd3 d5 10.Ne5 Bd6
+ 11.Bg7 Rg8 12.Qf3 Rxg7 13.Bd3 Bxe5 14.dxe5 Nc5 15.O-O-O Nxd3+ 16.Rxd3 Nc6 17.c3 Nxe5 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "alfac"]
+[Result "0-1"]
+[WhiteElo "864"]
+[BlackElo "856"]
+[TimeControl "2|1"]
+[Termination "alfac won by checkmate"]
+
+1.e4 e5 2.Nf3 Qf6 3.Nc3 c6 4.d3 Bc5 5.Bg5 Qg6 6.g3 d6 7.Qd2 Bg4 8.Bg2 f6 9.Bh4 Ne7 10.h3 Bxf3
+ 11.Bxf3 Nd7 12.O-O-O Qf7 13.g4 Nb6 14.Bg2 Bb4 15.f4 Na4 16.fxe5 Bxc3 17.bxc3 Qxa2 18.Bxf6 Qb2# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Rosmeria"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "906"]
+[BlackElo "857"]
+[TimeControl "2|1"]
+[Termination "Rosmeria won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Nf6 5.O-O Be7 6.dxe5 dxe5 7.Bxf7+ Kxf7 8.Ng5+ Ke8 9.h3 Qxd1 10.Rxd1 Bd7
+ 11.Nc3 h6 12.Nf3 Rd8 13.Be3 Kf7 14.a3 Na5 15.b4 Nc4 16.Bc5 Bxc5 17.bxc5 b6 18.cxb6 axb6 19.Nd5 c6 20.Nxf6 gxf6
+ 21.Rab1 b5 22.Rb3 Be6 23.Rbd3 Rxd3 24.Rxd3 Nb2 25.Rd6 Rc8 26.Nd2 Nd1 27.g4 Nc3 28.Nb3 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "ArielMarks"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "969"]
+[BlackElo "868"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 exd4 5.Nxd4 Bd7 6.Nxc6 Bxc6 7.Bxc6+ bxc6 8.O-O Nf6 9.b3 Be7 10.Nc3 O-O
+ 11.Bb2 Re8 12.Re1 d5 13.e5 Nd7 14.Rc1 Bb4 15.Qf3 Nxe5 16.Rxe5 Rxe5 17.Na4 Qe8 18.Bxe5 Qxe5 19.Kf1 Re8 20.c3 Ba3
+ 21.Rd1 d4 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "Bogoliubon"]
+[Black "zeek34"]
+[Result "0-1"]
+[WhiteElo "858"]
+[BlackElo "778"]
+[TimeControl "2|1"]
+[Termination "zeek34 won on time"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nc6 4.d4 b6 5.dxc5 bxc5 6.Bb5 Bd7 7.O-O Nf6 8.Re1 Qc7 9.Bg5 g6 10.Bxf6 exf6
+ 11.Qe2 Bg7 12.Nbd2 O-O 13.Rad1 Rfe8 14.Nc4 Re6 15.Nfd2 Rb8 16.a4 Rd8 17.f4 Bc8 18.Nf3 d5 19.Ncd2 dxe4 20.Nxe4 Qxf4
+ 21.Bxc6 Rxd1 22.Rxd1 Rxc6 23.Rd8+ Bf8 24.Nxf6+ Qxf6 25.Qe8 Qg7 26.Rxc8 Rxc8 27.Qxc8 Qf6 28.b4 cxb4 29.cxb4 Qa1+ 30.Kf2 Qxa4
+ 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.27"]
+[White "zeek34"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "788"]
+[BlackElo "848"]
+[TimeControl "2|1"]
+[Termination "zeek34 won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.c3 Bd7 5.O-O Nf6 6.Re1 Be7 7.h3 O-O 8.d4 exd4 9.cxd4 d5 10.e5 Ne4
+ 11.Nbd2 Bf5 12.Nxe4 Bxe4 13.Bd3 Nxd4 14.Nxd4 Bg5 15.Bxg5 Qxg5 16.Bxe4 Qxe5 17.Bf3 Qd6 18.b3 c5 19.Nb5 Qd7 20.Nc3 d4
+ 21.Nd5 Rad8 22.Re5 f6 23.Re7 Qd6 24.Rxb7 Rfe8 25.Rxa7 Re5 26.Re7 Rxe7 27.Nxe7+ Qxe7 28.Rc1 d3 29.Qd2 Rd4 30.Rc3 Qd6
+ 31.Bd1 Kf7 32.a3 f5 33.Rc4 g5 34.Rxd4 Qxd4 35.Bf3 Qa1+ 36.Kh2 Qd4 37.Bh5+ Kf6 38.Bf3 Qe5+ 39.g3 Qd4 40.a4 f4
+ 41.g4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "chilipalmer"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "788"]
+[BlackElo "855"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.Nf3 d5 2.g3 Nc6 3.Bg2 Nf6 4.O-O e5 5.d4 e4 6.Nfd2 Nxd4 7.e3 Nc6 8.c3 Bg4 9.Qe1 Bd6 10.f3 exf3
+ 11.Bxf3 Bxf3 12.Nxf3 Qd7 13.Kg2 O-O-O 14.Nd4 Nxd4 15.cxd4 Rhe8 16.a4 Ne4 17.Nd2 h5 18.Nxe4 Rxe4 19.a5 h4 20.a6 h3+
+ 21.Kg1 b6 22.Rf3 Rde8 23.Ra4 Qxa4 24.Kf2 Qc2+ 25.Qd2 Bxg3+ 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "Bogoliubon"]
+[Black "chilipalmer"]
+[Result "1-0"]
+[WhiteElo "861"]
+[BlackElo "782"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.Nc3 O-O 5.h4 Nh5 6.d3 c6 7.g4 Nf6 8.e3 d6 9.g5 Nh5 10.Bf3 Bf5
+ 11.e4 Be6 12.Bxh5 gxh5 13.Qxh5 Qd7 14.Qf3 Bg4 15.Qg3 c5 16.h5 Be5 17.Bf4 Bxf4 18.Qxf4 Nc6 19.Rh4 Be6 20.Nd5 Bxd5
+ 21.cxd5 Ne5 22.Nf3 Nxf3+ 23.Qxf3 Rac8 24.Kd2 c4 25.Rah1 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "Bogoliubon"]
+[Black "Duskdeath"]
+[Result "0-1"]
+[WhiteElo "852"]
+[BlackElo "847"]
+[TimeControl "2|1"]
+[Termination "Duskdeath won on time"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d6 4.e3 Be6 5.b3 Be7 6.Ne2 Nbd7 7.Nec3 Nc5 8.Qc2 c6 9.O-O d5 10.d4 Ncd7
+ 11.cxd5 cxd5 12.Nb5 a6 13.Nc7+ Kf8 14.Nxa8 Qxa8 15.dxe5 Ng4 16.e4 dxe4 17.Bxe4 Ngxe5 18.Bb2 Ng4 19.Qc7 Nc5 20.Qf4 Qd8
+ 21.Qe5 Bd6 22.Qxg7+ Ke7 23.Bf6+ Kd7 24.Bxd8 Nxe4 25.Qxh8 Ne5 26.Na3 Nd3 27.Rad1 Bxa3 28.Rxd3+ Kc6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "N6455v"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "725"]
+[BlackElo "857"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.b3 g6 2.Bb2 Nf6 3.e3 Bg7 4.Nf3 O-O 5.Be2 Nc6 6.h3 d5 7.O-O Re8 8.c4 e5 9.Nc3 e4 10.Ne1 Ne5
+ 11.f4 Ned7 12.Nxd5 Nxd5 13.Bxg7 Kxg7 14.cxd5 Nb6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "Bogoliubon"]
+[Black "N6455v"]
+[Result "1-0"]
+[WhiteElo "862"]
+[BlackElo "720"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.c4 e6 2.Nf3 d5 3.cxd5 exd5 4.g3 Nf6 5.Bg2 Be7 6.d3 O-O 7.Nc3 c6 8.h4 Nbd7 9.h5 Bb4 10.h6 Bxc3+
+ 11.bxc3 g6 12.Bg5 Qa5 13.Qd2 b5 14.c4 Qxd2+ 15.Kxd2 bxc4 16.dxc4 Ba6 17.cxd5 cxd5 18.Nd4 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.28"]
+[White "Bogoliubon"]
+[Black "paconuve"]
+[Result "0-1"]
+[WhiteElo "855"]
+[BlackElo "912"]
+[TimeControl "2|1"]
+[Termination "paconuve won on time"]
+
+1.c4 e5 2.Nf3 d6 3.g3 Nf6 4.Bg2 c6 5.Nc3 Be7 6.b3 Bd7 7.Bb2 Qc8 8.d4 exd4 9.Nxd4 Bh3 10.Bxh3 Qxh3
+ 11.Qd3 Qg2 12.O-O-O O-O 13.Nf5 Re8 14.Nxe7+ Rxe7 15.Qxd6 Re8 16.Na4 Na6 17.Bxf6 Qxf2 18.Rdf1 Qe3+ 19.Kb1 c5 20.Bxg7 Kxg7
+ 21.Qf6+ Kg8 22.Qxf7+ Kh8 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.29"]
+[White "Bogoliubon"]
+[Black "marcus5555"]
+[Result "0-1"]
+[WhiteElo "847"]
+[BlackElo "880"]
+[TimeControl "2|1"]
+[Termination "marcus5555 won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 h6 4.c3 d6 5.d3 Be7 6.Be3 a6 7.Nbd2 Nf6 8.Nf1 Bd7 9.Qb3 O-O 10.Ng3 Bc8
+ 11.d4 exd4 12.Nxd4 Ne5 13.O-O Nxe4 14.Nxe4 Qd7 15.Rfd1 Bd8 16.Bf4 Qe7 17.Re1 Bf5 18.Bxe5 Bxe4 19.Rxe4 dxe5 20.Nf5 Qf6
+ 21.g4 b5 22.Bd3 c5 23.Qc2 c4 24.Be2 Bb6 25.Bf3 Qg5 26.Rae1 g6 27.Ng3 Qf6 28.Rxe5 Qxf3 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.04.29"]
+[White "marcus5555"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "871"]
+[BlackElo "856"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.e3 dxc4 6.Bxc4 Nc6 7.Bd2 Bd7 8.h3 O-O 9.Bb3 Re8 10.Bc2 e5
+ 11.d5 Bxc3 12.Bxc3 Ne7 13.Bb3 Bf5 14.Nxe5 Nexd5 15.O-O Nxc3 16.bxc3 Rxe5 17.Qf3 c6 18.Rad1 Qe7 19.Rd2 Be4 20.Qf4 h6
+ 21.Rfd1 Rg5 22.h4 Rxg2+ 23.Kf1 Re8 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.02"]
+[White "LJPL"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1260"]
+[BlackElo "1199"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won on time"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Qc2 d6 6.a3 Bxc3 7.Qxc3 Be6 8.Bg2 O-O 9.O-O Re8 10.Ng5 d5
+ 11.Nxe6 Rxe6 12.cxd5 Nxd5 13.Qb3 Nb6 14.d3 Nd4 15.Qd1 c6 16.b4 f6 17.Bb2 Qd6 18.Rc1 Rd8 19.Bc3 f5 20.Bh3 Rh6
+ 21.Kg2 Rh5 22.e4 Qh6 23.Bxd4 Rxh3 24.Bxe5 fxe4 25.Rh1 Rxd3 26.Qg4 Rh5 27.Qxe4 Rd5 28.Bf4 Qf6 29.Rcd1 Na4 30.Rxd5 Rxd5
+ 31.Qe8+ Qf8 32.Qe6+ Qf7 33.Qc8+ Qf8 34.Qe6+ Kh8 35.Re1 Rd8 36.Bc7 Rc8 37.Bd6 Qg8 38.Qd7 Qd5+ 39.Kg1 Qg8 40.Re7 Nc3
+ 41.Be5 Ne2+ 42.Kg2 Qd5+ 43.Qxd5 cxd5 44.Rxg7 h5 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.02"]
+[White "rafinhaln"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "820"]
+[BlackElo "847"]
+[TimeControl "2|1"]
+[Termination "rafinhaln won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.Nc3 Nf6 5.d3 Bd7 6.O-O Be7 7.Be3 a6 8.Bxc6 Bxc6 9.Qd2 O-O 10.a3 b5
+ 11.h3 Bb7 12.Qe2 c6 13.b4 Qc7 14.Nh2 d5 15.exd5 cxd5 16.Bd2 Bd6 17.Qe1 e4 18.dxe4 Bxh2+ 19.Kh1 Be5 20.exd5 Nxd5
+ 21.Nxd5 Bxd5 22.Rc1 Rfe8 23.Qd1 Bb7 24.Be3 f5 25.Bg5 f4 26.f3 Bb2 27.Rb1 Bxa3 28.c3 Qxc3 29.Qd7 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.02"]
+[White "paalrg"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "964"]
+[BlackElo "841"]
+[TimeControl "2|1"]
+[Termination "paalrg won on time"]
+
+1.e3 e5 2.Bc4 c6 3.a3 d5 4.Ba2 Nf6 5.Nf3 Nbd7 6.d3 Bc5 7.h3 Nf8 8.Nc3 Ng6 9.Na4 Bd6 10.b4 O-O
+ 11.Bb2 e4 12.Nd4 exd3 13.Qxd3 Ne5 14.Qd2 Re8 15.O-O-O Be6 16.Nb3 Ne4 17.Qe2 Nc4 18.Nbc5 Nxb2 19.Nxb2 Nxc5 20.bxc5 Bxc5
+ 21.Nd3 Bxa3+ 22.Kb1 Qb6+ 23.Ka1 c5 24.Rb1 Qc6 25.Nf4 c4 26.Nxe6 Rxe6 27.c3 Qa4 28.Qd1 Rb6 29.Rxb6 axb6 30.Qxa4 Rxa4
+ 31.Rd1 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.02"]
+[White "Bogoliubon"]
+[Black "ElRaxon"]
+[Result "1-0"]
+[WhiteElo "851"]
+[BlackElo "933"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.Bb5 Bd7 5.d3 Nf6 6.Bg5 a6 7.Bxc6 Bxc6 8.O-O Rc8 9.Nh4 Qd7 10.Nf5 e6
+ 11.Nh4 d5 12.exd5 Nxd5 13.Nxd5 Bxd5 14.c4 Bc6 15.Re1 Bd6 16.f4 b5 17.f5 f6 18.fxe6 Qe7 19.Nf5 fxg5 20.Nxe7 Bxe7
+ 21.Qg4 h6 22.Rad1 bxc4 23.Qxc4 Bb5 24.Qe4 Bc6 25.Qg6+ Kd8 26.Qxg7 Kc7 27.Qxe7+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.06"]
+[White "Bogoliubon"]
+[Black "kakabobo"]
+[Result "0-1"]
+[WhiteElo "845"]
+[BlackElo "948"]
+[TimeControl "2|1"]
+[Termination "kakabobo won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.Nc3 Nf6 5.d4 exd4 6.Nxd4 Bb4 7.Nxc6 bxc6 8.Qd4 O-O 9.O-O Re8 10.Bxf7+ Kxf7
+ 11.Qxb4 a5 12.Qd4 Ba6 13.Re1 d5 14.e5 Nd7 15.Qf4+ Kg8 16.e6 Nf6 17.h3 Re7 18.Bd2 Rb8 19.b3 Qe8 20.Qe3 Rb4
+ 21.Na4 Re4 22.Qf3 Rxe1+ 23.Rxe1 Ne4 24.Bg5 Rxe6 25.Nc5 Nxc5 26.Rxe6 Qxe6 27.Qh5 Ne4 28.Bd8 Qg6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.06"]
+[White "cloud36"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "931"]
+[BlackElo "839"]
+[TimeControl "2|1"]
+[Termination "cloud36 won by checkmate"]
+
+1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 f6 6.Qb3 Qe7 7.Nc3 d6 8.Nf3 Bg4 9.Nd2 b6 10.O-O c5
+ 11.Bb5+ Bd7 12.Nd5 Qd8 13.Ba6 Nc6 14.Bb7 Rb8 15.Ba6 Ne5 16.Be2 Bc6 17.Bh5+ g6 18.Be2 Ne7 19.Nxf6# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.06"]
+[White "Harrisons"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "871"]
+[BlackElo "848"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+
+1.Nf3 d5 2.g3 Nc6 3.Bg2 e6 4.d3 Nf6 5.O-O Be7 6.Nc3 Bd7 7.d4 O-O 8.Re1 a6 9.e4 dxe4 10.Nxe4 Nxe4
+ 11.Rxe4 Nb4 12.c3 Nd5 13.Ne5 c5 14.f4 cxd4 15.cxd4 Rc8 16.f5 exf5 17.Re1 Nf6 18.Bg5 Rc7 19.Rf1 Ng4 20.Nxg4 Bxg5
+ 21.Ne5 Be3+ 22.Kh1 Bc6 23.Nxc6 bxc6 24.Rxf5 Qxd4 25.Rf1 Qxd1 26.Raxd1 h6 27.Rd6 Rfc8 28.Rf3 Bc5 29.Rd1 Bd6 30.Rc3 Be5
+ 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.05.06"]
+[White "bostonboston999"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "760"]
+[BlackElo "838"]
+[TimeControl "2|1"]
+[Termination "bostonboston999 won by resignation"]
+
+1.e4 e5 2.Bc4 Nc6 3.Nf3 Nf6 4.d3 Be7 5.O-O d6 6.c3 O-O 7.b4 Bg4 8.h3 Bxf3 9.Qxf3 a5 10.bxa5 Nxa5
+ 11.Bg5 Nxc4 12.Bxf6 Bxf6 13.dxc4 Ra4 14.Nd2 c6 15.Rfb1 b6 16.a3 Bg5 17.Nf1 Rxc4 18.Ne3 Bxe3 19.Qxe3 Qa8 20.Rxb6 Qa4
+ 21.f3 Qc2 22.Qe1 Rxc3 23.a4 c5 24.a5 Qd3 25.a6 c4 26.a7 h6 27.Rb8 Qd4+ 28.Kh2 1-0
+
+

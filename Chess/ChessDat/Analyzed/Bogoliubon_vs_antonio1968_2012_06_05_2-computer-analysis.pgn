@@ -1,0 +1,56 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2012.06.05"]
+[White ""]
+[Black ""]
+[ECO "C10"]
+[ChesscomGameID "308195557"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "1052"]
+[BlackElo "1193"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 2 = 22.2% of moves | Mistakes(?): 5 = 55.6% of moves | Blunders(??): 1 = 11.1% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. Nc3 {(Book Move)}  c5 {(Book Move)} 
+4. Nf3 $6 {(0.8) INACCURACY - Perhaps better was 4. exd5} 
+({BEST MOVE (1.13)} 4. exd5 Nf6 5. Bb5+ Bd7 6. dxe6 Bxb5 7. exf7+ Kxf7 8. Nxb5 Nc6 9. c3 cxd4 10. Qb3+ Qd5 11. Nxd4 Nxd4 12. cxd4 Qxb3 13. axb3 Bb4+ 14. Bd2   $16)
+({INACCURACY (0.8)} 4. Nf3 Nf6 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4 8. Qxd4 Nc6 9. Qxd5 exd5 10. O-O-O Be6 11. Bd3 Bd6   $16)
+4... Nc6 {(0.84)} 
+5. Bb5 $6 {(0.28) INACCURACY - You slipped from a better position to an equal one. You should have played 5. exd5} 
+({BEST MOVE (0.84)} 5. exd5 exd5 6. Bb5 a6 7. Bxc6+ bxc6 8. Ne5 Nf6 9. O-O Qc7 10. Re1 Be6 11. Bf4 cxd4 12. Ng6 Qb6 13. Na4   $16)
+({INACCURACY (0.28)} 5. Bb5 dxe4 6. Nxe4 Bd7 7. O-O cxd4 8. Qd3 Nf6 9. Bg5 Be7 10. Bxf6 gxf6 11. Bxc6 Bxc6 12. Nxd4 f5 13. Nxc6 Qxd3   $10)
+5... Qb6 $4 {(2.62) BLUNDER - Lucky you! Your opponent blundered! The best move was 5... dxe4} 
+({BEST MOVE (0.28)} 5... dxe4 6. Nxe4 Bd7 7. O-O cxd4 8. Re1 Nf6 9. Nxf6+ Qxf6 10. Bg5 Qf5 11. Bd3 Qa5 12. c3 h6 13. Bd2 Qb6   $10)
+({BLUNDER (2.62)} 5... Qb6 6. exd5 exd5 7. Qe2+ Be7 8. Nxd5 Qd8 9. Nxe7 Nxe7 10. dxc5 O-O 11. O-O Nf5 12. Bc4 Nfd4 13. Nxd4 Qxd4   $18)
+6. dxc5 $2 {(1.45) MISTAKE - That was a mistake. Much better was 6. exd5} 
+({BEST MOVE (3.03)} 6. exd5 a6 7. Ba4 exd5 8. Nxd5 Qa5+ 9. Qd2 Qd8 10. dxc5 Be6 11. Nb6 Qxd2+ 12. Bxd2 Rd8   $18)
+({MISTAKE (1.45)} 6. dxc5 Bxc5 7. exd5 exd5 8. Qe2+ Ne7 9. Nxd5 Qd8 10. Nxe7 Qxe7 11. Ne5 O-O 12. Nxc6 Qxe2+ 13. Kxe2 bxc6 14. Bxc6 Rb8 15. b3 Rb6 16. Bf3 Bf5 17. c3 Rc8   $16)
+6... Bxc5 {(1.37)} 
+7. Bxc6+ $2 {(0.32) MISTAKE - You slipped from a better position to an equal one. You should have played 7. exd5} 
+({BEST MOVE (1.29)} 7. exd5 a6 8. Bxc6+ bxc6 9. O-O cxd5 10. Na4 Qa5 11. Nxc5 Qxc5 12. Be3 Qb4 13. a3 Qc4 14. Qd2 Ne7 15. b3   $16)
+({MISTAKE (0.32)} 7. Bxc6+ bxc6 8. O-O Nf6 9. Na4 Qa5 10. Nxc5 Qxc5 11. Be3 Qb5 12. Qd4 O-O 13. e5 Ne4 14. c4 Qxc4   $14)
+7... bxc6 {(0.48)} 
+8. O-O {(0.48)}  Nf6 {(0.36)} 
+9. e5 $2 {(-1.41) MISTAKE - With that last move you went from roughly equal to having a worse position. Your best continuation was 9. Na4} 
+({BEST MOVE (0.36)} 9. Na4 Qa5 10. Nxc5 Qxc5 11. e5 Ne4 12. Nd4 Ba6 13. Re1 Qb6 14. f3 Nc5 15. Be3 Qxb2 16. Nxc6 Qb5 17. Nd4 Qc4   $14)
+({MISTAKE (-1.41)} 9. e5 Ng4 10. Qe1 Ba6 11. Na4 Qb5 12. Nxc5 Qxc5 13. h3 Bxf1 14. Qxf1 Nh6 15. Qd3 Rb8 16. b3 Nf5 17. g4 Ne7 18. Be3 Qa5 19. Bd2 Qb5 20. c4 dxc4   $17)
+9... Ng4 {(-1.45)} 
+10. Qd2 $2 {(-2.34) MISTAKE - That was a mistake. Much better was 10. Qe1} 
+({BEST MOVE (-1.41)} 10. Qe1 Ba6 11. Na4 Qb5 12. Nxc5 Qxc5 13. h3 Bxf1 14. Qxf1 Nh6 15. Bxh6 gxh6 16. c3 Rb8 17. Qc1 Rg8 18. Qc2 Qc4 19. Nd4 Rg6 20. Rb1 Qxa2 21. Nxc6 Rb7   $17)
+({MISTAKE (-2.34)} 10. Qd2 Ba6 11. h3 Bxf1 12. hxg4 Bb5 13. Nxb5 Qxb5 14. c3 h5 15. g5 a5 16. b3 O-O 17. Qc2 Rfc8   $19)
+10... Ba6 {(-2.5)} 
+11. Na4 $2 {(-4) MISTAKE - Your position is getting even worse - you are now losing. The best line was 11. h3} 
+({BEST MOVE (-2.46)} 11. h3 Bxf1 12. hxg4 Bb5 13. Nxb5 cxb5 14. b4 Be7 15. Qd3 O-O 16. Be3 Qc7 17. c3 Rfc8 18. Bg5 a5 19. Bxe7 Qxe7   $19)
+({MISTAKE (-4)} 11. Na4 Qb5 12. c4 Qxa4 13. b3 Qb4 14. Qc2 Qb6 15. Bf4 dxc4 16. bxc4 Bd4 17. Rad1 O-O-O 18. Bg3 Qc5 19. Nxd4 Rxd4 20. Qb2   $19)
+11... Qb5 {(-4)} 
+12. Nxc5 $4 {(-Mat01) BLUNDER - Now checkmate is inevitable. Your best defense was 12. c4} 
+({BEST MOVE (-4)} 12. c4 Qxa4 13. b3 Qb4 14. Qc2 Qb6 15. Bf4 Rb8 16. Rab1 Nh6 17. Bxh6 gxh6 18. Rfc1 Ba3 19. Rd1 O-O 20. Qd3 c5 21. Ne1 dxc4 22. bxc4   $19)
+({BLUNDER (-Mat01)} 12. Nxc5 Qxf1#   $19)
+12... Qxf1# {(-Mat01) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-Mat01)} 12... Qxf1#   $19)
+0-1
+

@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2012.09.11"]
+[White ""]
+[Black ""]
+[ECO "A20"]
+[ChesscomGameID "360262978"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1/2-1/2"]
+[WhiteElo "1168"]
+[BlackElo "1131"]
+[TimeControl "10|0"]
+[Termination "Game drawn by agreement"]
+{Inaccuracies(?!): 2 = 28.6% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. c4 {(Book Move)}  e5 {(Book Move)} 
+2. e3 {(Book Move)}  c6 {(Book Move)} 
+3. Nf3 {(0.16)}  d6 $6 {(0.72) INACCURACY - Perhaps better was 3... e4} 
+({BEST MOVE (0.16)} 3... e4 4. Nd4 Nf6 5. Be2 Be7 6. Nc3 O-O 7. d3 d5 8. cxd5 cxd5 9. O-O Nc6 10. Qb3 Nxd4 11. exd4 Bd6   $10)
+({INACCURACY (0.72)} 3... d6 4. Nc3 Nf6 5. d4 e4 6. Nd2 d5 7. Qa4 Bd7 8. Be2 Bd6 9. c5 Bc7 10. Qb3 b5   $16)
+4. Nc3 {(0.56)}  Nf6 {(0.56)} 
+5. d4 {(0.64)}  exd4 $6 {(1.01) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 5... e4} 
+({BEST MOVE (0.48)} 5... e4 6. Nd2 d5 7. f3 exf3 8. Nxf3 Bb4 9. Bd3 Ne4 10. Bd2 Bxc3 11. Bxc3 Nxc3 12. bxc3   $14)
+({INACCURACY (1.01)} 5... exd4 6. exd4 Be7 7. Bd3 O-O 8. O-O d5 9. Re1 dxc4 10. Bxc4 b5 11. Qe2 Bd6 12. Bd3 Bg4 13. Ne4   $16)
+6. Nxd4 {(0.28)}  Be7 {(0.24)} 
+7. Be2 {(0.2)}  O-O {(0.32)} 
+8. O-O {(0.32)}  Nbd7 {(0.52)} 
+9. e4 {(0.56)}  Ne5 {(0.56) DRAW - Play might have continued...} 
+({CONTINUATION (0.56)} 9... Ne5 10. f4 Ng6 11. Be3 c5 12. Nf3 Re8 13. f5 Ng4 14. Bd2 N6e5 15. Nd5 Nxf3+ 16. Bxf3 Ne5 17. Qb3 Bg5 18. Rad1   $14)
+1/2-1/2
+

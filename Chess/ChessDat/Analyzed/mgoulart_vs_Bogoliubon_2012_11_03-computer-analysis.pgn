@@ -1,0 +1,73 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.11.03"]
+[White ""]
+[Black ""]
+[ECO "C02"]
+[ChesscomGameID "60539652"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1652"]
+[BlackElo "1541"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+{Inaccuracies(?!): 3 = 11.5% of moves | Mistakes(?): 2 = 7.7% of moves | Blunders(??): 3 = 11.5% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. e5 {(Book Move)}  c5 {(Book Move)} 
+4. Nf3 {(Book Move)}  cxd4 {(0.04)} 
+5. Nxd4 {(0.08)}  Nc6 {(-0.16)} 
+6. Bb5 {(-0.16)}  Bd7 {(0.04)} 
+7. Bf4 {(-0.84)}  a6 $6 {(-0.28) INACCURACY - Perhaps better was 7... Nge7} 
+({BEST MOVE (-0.72)} 7... Nge7 8. O-O Ng6 9. Bg3 Nxd4 10. Bxd7+ Qxd7 11. Qxd4 Qc6 12. Nc3 Bc5 13. Qa4 Qxa4 14. Nxa4 Rc8 15. Rad1 Ke7 16. c3   $16)
+({INACCURACY (-0.28)} 7... a6 8. Nxc6 bxc6 9. Bd3 Qb6 10. O-O Qxb2 11. Nd2 Nh6 12. Nb3 Be7 13. Qh5 Nf5   $10)
+8. Nxc6 {(-0.6)}  bxc6 {(-0.52)} 
+9. Bd3 {(-0.52)}  Qb6 {(-0.44)} 
+10. b3 $4 {(-5.37) BLUNDER - Lucky you! Your opponent blundered! The best move was 10. Nd2} 
+({BEST MOVE (-0.44)} 10. Nd2 Qxb2 11. Rb1 Qxa2 12. Nf3 Qa4 13. Bd2 Nh6 14. O-O c5 15. Ra1 Qc6 16. c4 Be7 17. cxd5 exd5   $15)
+({BLUNDER (-5.37)} 10. b3 Qd4 11. Nd2 Qxf4 12. O-O Qxe5 13. c4 Qc3 14. Nf3 Ba3 15. cxd5 cxd5 16. Qe2 Nf6 17. Ne5 O-O 18. Nxd7 Nxd7   $19)
+10... Qb4+ $4 {(-0.28) BLUNDER - Oh no - a blunder! You should have played 10... Qd4} 
+({BEST MOVE (-5.41)} 10... Qd4 11. Nd2 Qxf4 12. O-O Qxe5 13. c4 Qb2 14. Nf3 Nf6 15. Re1 Bc5 16. Re2 Qa3 17. Rc2 O-O 18. Ne5 Be8 19. Qd2 Bd6 20. Qe3 Rd8   $18)
+({BLUNDER (-0.28)} 10... Qb4+ 11. Qd2 Qb8 12. O-O Ne7 13. Bg3 Ng6 14. Qe3 Be7 15. c3 O-O 16. Nd2 c5 17. f4 Qc7 18. Nf3   $10)
+11. Qd2 {(-0.28)}  Qd4 $6 {(0.12) INACCURACY - Perhaps better was 11... Qb8} 
+({BEST MOVE (-0.24)} 11... Qb8 12. O-O Ne7 13. Qe3 Ng6 14. Bg3 Be7 15. c3 O-O 16. Nd2 c5 17. f4 Bb5 18. Rfd1 Bxd3 19. Qxd3   $10)
+({INACCURACY (0.12)} 11... Qd4 12. c3 Qb6 13. h4 Ne7 14. h5 Nf5 15. Bxf5 exf5 16. h6 gxh6 17. Bxh6 Qc7   $10)
+12. c3 {(0.24)}  Qb6 {(0.24)} 
+13. b4 {(-0.52)}  c5 {(-0.68)} 
+14. Qe3 {(-0.52)}  d4 {(-0.48)} 
+15. Qg3 {(-0.32)}  dxc3 $2 {(1.21) MISTAKE - With that last move you went from roughly equal to having a worse position. Your best continuation was 15... cxb4} 
+({BEST MOVE (-0.2)} 15... cxb4 16. cxb4 Bb5 17. O-O Ne7 18. Bxb5+ Qxb5 19. Nd2 Nd5 20. a3 Rc8 21. Rfc1 Nc3   $10)
+({MISTAKE (1.21)} 15... dxc3 16. Nxc3 Qxb4 17. Be4 Rd8 18. O-O Qa5 19. Bg5 f6 20. Bh4 c4 21. Rfd1 Qxe5 22. Qxe5 fxe5 23. Bxd8 Kxd8   $17)
+16. Nxc3 {(1.09)}  cxb4 {(1.33)} 
+17. Ne4 {(1.25)}  Bb5 {(1.93)} 
+18. Nd6+ $2 {(0.52) MISTAKE - Your opponent made a mistake! Better was 18. Rd1} 
+({BEST MOVE (2.02)} 18. Rd1 b3 19. O-O bxa2 20. Nd6+ Bxd6 21. exd6 Kf8 22. d7 Bxd7 23. Be4 Ra7 24. Be3 Qc7 25. Bxa7 Qxa7 26. Qa3+ Ne7 27. Qxa2 f5 28. Bd3 Kf7   $18)
+({MISTAKE (0.52)} 18. Nd6+ Bxd6 19. Bxb5+ Kf8 20. Ba4 Bc5 21. Qf3 Rc8 22. O-O Ne7 23. Rac1 Nf5 24. Rfd1 Nh4 25. Qe3 Ng6 26. Bg5 f6 27. exf6 Bxe3   $14)
+18... Bxd6 {(0.4)} 
+19. Bxb5+ {(0.48)}  Qxb5 {(0)} 
+20. Qxg7 {(0)}  Qc4 $4 {(2.02) BLUNDER - With that last move you went from roughly equal to having a worse position. Your best continuation was 20... Bf8} 
+({BEST MOVE (-1.81)} 20... Bf8 21. Qxh8 Ne7 22. Qf6 Rd8 23. Bg5 h6 24. Bc1 Ng6 25. Bd2 Nxe5 26. O-O-O Qe2 27. Be3 Rxd1+ 28. Rxd1 Nd3+ 29. Rxd3   $18)
+({BLUNDER (2.02)} 20... Qc4 21. exd6 Qc3+ 22. Qxc3 bxc3 23. Rc1 Rc8 24. Be5 f6 25. Bxc3 Kd7 26. Ke2 h5 27. Rhd1 e5 28. f4 Nh6 29. fxe5 Rhe8 30. Bd2 Rxe5+   $19)
+21. exd6 {(2.02)}  Qc3+ {(2.02)} 
+22. Qxc3 {(2.02)}  bxc3 {(1.89)} 
+23. Be5 {(2.02)}  Nf6 $4 {(4.6) BLUNDER - Your position is getting even worse - you are now losing. The best line was 23... f6} 
+({BEST MOVE (2.02)} 23... f6 24. Bxc3 Kd7 25. Ke2 e5 26. Rab1 Rc8 27. Rb7+ Kxd6 28. Rd1+ Ke6 29. Rb6+ Kf5 30. Rd3 Ne7 31. Rf3+ Ke4 32. Rxa6 Nc6 33. Rxf6 Nd4+ 34. Bxd4 exd4 35. f3+   $19)
+({BLUNDER (4.6)} 23... Nf6 24. Bxf6 Rg8 25. g3 Kd7 26. Bxc3 Rac8 27. Rc1 Rg5 28. Ke2 Rgc5 29. Bd2 Rxc1 30. Rxc1 Rxc1 31. Bxc1 Kxd6   $19)
+24. Bxf6 {(4.6)}  Rg8 {(4.6)} 
+25. O-O {(4.72)}  c2 {(4.84)} 
+26. f3 {(4.88)}  Kd7 {(4.88)} 
+27. Be5 $2 {(3.71) MISTAKE - Your opponent made a mistake! Better was 27. Rac1} 
+({BEST MOVE (4.92)} 27. Rac1 Rgc8 28. Rf2 Rab8 29. Rfxc2 Rxc2 30. Rxc2 Kxd6 31. Rd2+ Kc6 32. Kf2 Rb5 33. Ke3 Rf5 34. Bd4 Rb5 35. Rc2+ Kd5 36. Bf6 Rb7   $18)
+({MISTAKE (3.71)} 27. Be5 Rgc8 28. Rac1 Rab8 29. Kf2 Rb5 30. Rfe1 h6 31. f4 Rb4 32. Ke3 Ra4 33. Kd2 Rxa2 34. Re3   $18)
+27... Rab8 {(3.71)} 
+28. Rac1 {(3.95)}  Rbc8 $6 {(4.76) INACCURACY - Perhaps better was 28... Rgc8} 
+({BEST MOVE (4.08)} 28... Rgc8 29. Rfe1 Rb5 30. Kf2 Rc4 31. Re2 Ra5 32. Bb2 Rxa2 33. Rcxc2 Rxc2 34. Rxc2 f6 35. Ke3 a5 36. Kd3   $19)
+({INACCURACY (4.76)} 28... Rbc8 29. Rf2 Rc5 30. f4 Rgc8 31. Rd2 Rc4 32. g3 a5 33. Kf2 f5 34. Ke3 R8c5 35. Kd3 Rd5+ 36. Kxc4   $19)
+29. Rf2 {(4.84)}  Rg5 $2 {(6.62) MISTAKE - That was a mistake. Much better was 29... Rc5} 
+({BEST MOVE (4.8)} 29... Rc5 30. f4 Rgc8 31. Rd2 Rc4 32. g3 h6 33. Kf2 R4c5 34. Ke3 a5 35. g4 Rc4 36. Rf2 f5   $19)
+({MISTAKE (6.62)} 29... Rg5 30. f4 Rgg8 31. Rfxc2 Rxc2 32. Rxc2 Rc8 33. Rb2 f6 34. Bxf6 Kxd6 35. Rd2+ Kc6 36. Be5 Kb5 37. Rb2+ Kc6 38. Rc2+   $19)
+30. f4 {(6.9) WHITE WINS - Play might have continued...} 
+({CONTINUATION (6.9)} 30. f4 Rgg8 31. Rfxc2 Rxc2 32. Rxc2 Rc8 33. Rb2 f6 34. Bxf6 Kxd6 35. Rd2+ Kc6 36. Be5 Kb5 37. Rb2+ Kc6 38. Rc2+ Kd7 39. Rxc8 Kxc8 40. Kf2   $18)
+1-0
+

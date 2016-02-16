@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.03.23"]
+[White ""]
+[Black ""]
+[ECO "C44"]
+[ChesscomGameID "479002813"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1157"]
+[BlackElo "1273"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 0 = 0.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 2 = 40.0% of moves}
+
+1. e4 {(Book Move)}  e5 {(Book Move)} 
+2. Nf3 {(Book Move)}  Nc6 {(Book Move)} 
+3. d4 {(Book Move)}  d6 {(Book Move)} 
+4. dxe5 {(0.68)}  dxe5 {(0.76)} 
+5. Qxd8+ {(0.76)}  Kxd8 {(0.68)} 
+6. Ng5 {(0.08)}  Ke7 {(0.52)} 
+7. Nc3 {(0.4)}  g6 $4 {(4.4) BLUNDER - Oops! That was a serious blunder. From equal to losing in a flash. Best was 7... Nb4} 
+({BEST MOVE (0.32)} 7... Nb4 8. Kd1 Bg4+ 9. f3 Bh5 10. Be3 h6 11. Nh3 Nf6 12. Kc1 a6 13. a3 Nc6 14. Bc4 Rd8 15. g4 Bg6   $14)
+({BLUNDER (4.4)} 7... g6 8. Nd5+ Kd7 9. Nxf7 Bg7 10. c3 Nf6 11. Nxf6+ Bxf6 12. Nxh8 Ke7 13. Nxg6+ hxg6 14. Be2 Be6 15. Be3 Rd8 16. O-O a6 17. Rfd1   $18)
+8. Nd5+ {(4.32)}  Ke8 $4 {(7.15) WHITE WINS - Play might have continued...} 
+({BEST MOVE (4.16)} 8... Kd7 9. Nxf7 Bg7 10. Bg5 Nd4 11. O-O-O c6 12. c3 h6 13. Be3 Rh7 14. cxd4 exd4 15. Bxd4 Bxd4 16. Rxd4 cxd5 17. Ne5+ Ke6   $18)
+({BLUNDER (7.15)} 8... Ke8 9. Nxc7+ Ke7 10. Nxa8 Nf6 11. Bd3 h6 12. Nf3 Bg4 13. Nc7 Bxf3 14. gxf3 Nd4   $18)
+({CONTINUATION (7.15)} 8... Ke8 9. Nxc7+ Ke7 10. Nxa8 Nf6 11. Bd3 h6 12. Nf3 Bg4 13. Nc7 Bxf3 14. gxf3 Nd4   $18)
+1-0
+

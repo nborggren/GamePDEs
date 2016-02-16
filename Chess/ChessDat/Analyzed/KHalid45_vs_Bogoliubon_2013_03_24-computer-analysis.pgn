@@ -1,0 +1,61 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.03.24"]
+[White ""]
+[Black ""]
+[ECO "D00"]
+[ChesscomGameID "479527070"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "1373"]
+[BlackElo "1291"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 6 = 24.0% of moves | Mistakes(?): 1 = 4.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. Bf4 {(Book Move)}  Nf6 {(Book Move)} 
+3. h3 {(Book Move)}  Nc6 {(-0.44)} 
+4. c3 {(-0.52)}  e6 {(-0.52)} 
+5. e3 {(-0.44)}  Bd6 {(-0.44)} 
+6. Bxd6 {(-0.44)}  Qxd6 $6 {(-0.12) INACCURACY - Perhaps better was 6... cxd6} 
+({BEST MOVE (-0.48)} 6... cxd6 7. Nf3 O-O 8. Be2 e5 9. O-O Qe7 10. Na3 a6 11. c4 Be6 12. Ng5 Ne4 13. Nxe6 Qxe6 14. dxe5   $15)
+({INACCURACY (-0.12)} 6... Qxd6 7. Bb5 O-O 8. Nf3 Bd7 9. O-O a6 10. Bxc6 Qxc6 11. Nbd2 Qb6 12. Qc2 Bb5 13. c4 Bxc4 14. Nxc4 dxc4   $10)
+7. Nf3 {(-0.2)}  O-O {(-0.12)} 
+8. Be2 {(-0.52)}  e5 {(-0.36)} 
+9. dxe5 {(-0.36)}  Nxe5 {(-0.36)} 
+10. Nxe5 {(-0.48)}  Qxe5 {(-0.48)} 
+11. O-O {(-0.64)}  Qg5 {(-0.64)} 
+12. Kh2 {(-0.96)}  Re8 {(-0.96)} 
+13. Nd2 {(-0.8)}  Qe5+ $6 {(-0.24) INACCURACY - You slipped from a better position to an equal one. You should have played 13... Qg6} 
+({BEST MOVE (-0.84)} 13... Qg6 14. Rg1 Bd7 15. g4 Rab8 16. Rg3 Bc6 17. Kg1 Rbd8 18. Qb3 Ne4 19. Nxe4 dxe4   $17)
+({INACCURACY (-0.24)} 13... Qe5+ 14. Kg1 c6 15. Bd3 c5 16. Nf3 Qd6 17. Re1 h6 18. c4 Be6 19. Qb3 dxc4   $10)
+14. Kh1 {(-0.44)}  Ne4 $6 {(-0.04) INACCURACY - Perhaps better was 14... c5} 
+({BEST MOVE (-0.44)} 14... c5 15. Nf3 Qc7 16. Qc2 Bd7 17. Kg1 Bc6 18. c4 dxc4 19. Bxc4 Ne4 20. Rad1   $15)
+({INACCURACY (-0.04)} 14... Ne4 15. Nxe4 dxe4 16. Qd4 c6 17. Qxe5 Rxe5 18. Rfd1 Be6 19. b3 f6 20. c4 Re8 21. Kh2   $10)
+15. Nf3 {(-0.48)}  Qd6 {(-0.44)} 
+16. Qd4 {(-0.84)}  c5 {(-0.64)} 
+17. Qd3 {(-0.84)}  Bf5 {(-0.76)} 
+18. Qd1 {(-0.88)}  h6 {(-0.64) ALTERNATIVE - You slipped from a better position to an equal one. You should have played 18... Rad8} 
+({BEST MOVE (-0.8)} 18... Rad8 19. Kg1 Bd7 20. Nd2 Nxd2 21. Qxd2 Qg6 22. Kh1 Bf5 23. g4 Bd7 24. Rfd1 Bc6 25. Bf3 d4   $17)
+({ALTERNATIVE (-0.64)} 18... h6 19. Kg1 Rad8 20. Qb3 c4 21. Qb4 Qxb4 22. cxb4 c3 23. bxc3 Nxc3 24. Nd4 Nxe2+ 25. Nxe2 Bd3 26. Rfe1 Bxe2 27. Rxe2 d4   $15)
+19. Bd3 {(-0.68)}  g5 $6 {(-0.44) INACCURACY - Perhaps better was 19... Rad8} 
+({BEST MOVE (-0.76)} 19... Rad8 20. Qe2 Qg6 21. Rad1 Bd7 22. Bb5 Qb6 23. Bxd7 Rxd7 24. Kg1 Qa5 25. a3 Qb6 26. c4   $17)
+({INACCURACY (-0.44)} 19... g5 20. Kg1 Rad8 21. Qe2 Bd7 22. Rad1 Ba4 23. Rc1 b6 24. Bb5 Bxb5   $15)
+20. Bxe4 {(-0.56)}  Bxe4 {(-0.68)} 
+21. c4 {(-1.05)}  g4 $2 {(-0.16) MISTAKE - That was a mistake. Much better was 21... Red8} 
+({BEST MOVE (-1.13)} 21... Red8 22. cxd5 Qxd5 23. Qxd5 Rxd5 24. Kh2 Bxf3 25. gxf3 Rd2 26. b3 Rad8 27. Kg3 b6 28. Rfc1   $17)
+({MISTAKE (-0.16)} 21... g4 22. hxg4 Rad8 23. cxd5 Bxd5 24. Rc1 b6 25. Qe2 Qe6 26. b3 Qxg4 27. Rfd1 Bxf3 28. gxf3 Qh4+   $10)
+22. hxg4 {(-0.4)}  Qe6 {(0.08)} 
+23. cxd5 {(-0.32)}  Bxd5 $6 {(-0.12) INACCURACY - Perhaps better was 23... Qxg4} 
+({BEST MOVE (-0.6)} 23... Qxg4 24. Ne1 Qf5 25. d6 Rad8 26. f3 Bc6 27. Qd2 Qe5 28. Rd1 Qxe3 29. Qxe3 Rxe3 30. Rf2 Re6 31. Rc2 Rexd6   $15)
+({INACCURACY (-0.12)} 23... Bxd5 24. Kg1 Bc6 25. Rc1 Rad8 26. Qe2 b6 27. Rfd1 Qxg4 28. b3 Bxf3 29. Qxf3 Qxf3 30. gxf3 Kg7 31. Kg2   $10)
+24. b3 {(-0.84)}  Rad8 {(-1.05)} 
+25. Qe2 {(-1.77)}  Qxg4 {(-2.18)} 
+26. Rfd1 {(-2.22)}  Re5 $6 {(-2.02) INACCURACY - Perhaps better was 26... Kh7} 
+({BEST MOVE (-2.42)} 26... Kh7 27. e4 Rg8 28. Qf1 Bxe4 29. Rxd8 Rxd8 30. Nh2 Qf4 31. f3 Bf5 32. Rd1 Rd4 33. Rxd4 cxd4 34. Qc4 Be6 35. Qe2 Qc1+ 36. Nf1   $19)
+({INACCURACY (-2.02)} 26... Re5 27. e4 Rxe4 28. Qf1 Rf4 29. Nh2 Qh5 30. f3 Rh4 31. Qg1 b6 32. Rac1 Qe5 33. Rc4 Rh5 34. Re4 Qb2 35. Rg4+ Rg5 36. Rxg5+   $19)
+27. Kg1 {(-2.66)}  Rg5 {(-2.74) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-2.74)} 27... Rg5 28. g3 Rh5 29. e4 Re8 30. Rxd5 Rxd5 31. Re1 Rh5 32. e5 b6 33. Qe4 Qh3 34. Nh4 Rhxe5 35. Qxe5 Rxe5 36. Rxe5 Qd7 37. Nf5 Qd2 38. Re7 Qxa2 39. Nxh6+ Kg7   $19)
+0-1
+

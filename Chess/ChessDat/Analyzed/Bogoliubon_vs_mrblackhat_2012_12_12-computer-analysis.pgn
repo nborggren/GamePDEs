@@ -1,0 +1,52 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2012.12.12"]
+[White ""]
+[Black ""]
+[ECO "B54"]
+[ChesscomGameID "414354063"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1258"]
+[BlackElo "1117"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 1 = 4.5% of moves | Mistakes(?): 1 = 4.5% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. e4 {(Book Move)}  c5 {(Book Move)} 
+2. Nf3 {(Book Move)}  d6 {(Book Move)} 
+3. d4 {(Book Move)}  cxd4 {(Book Move)} 
+4. Nxd4 {(Book Move)}  Nc6 {(Book Move)} 
+5. Bb5 {(Book Move)}  Bd7 {(Book Move)} 
+6. Nc3 {(0.48)}  Nxd4 {(0.96)} 
+7. Bxd7+ {(0.8)}  Qxd7 {(0.96)} 
+8. Qxd4 {(0.96)}  a6 {(1.25)} 
+9. O-O {(1.17)}  e5 {(1.37)} 
+10. Qd3 {(1.17)}  Nf6 {(1.33)} 
+11. Bg5 {(1.33)}  Be7 {(1.29)} 
+12. Rad1 {(1.33)}  h6 {(1.85)} 
+13. Bxf6 {(1.53)}  Bxf6 {(1.85)} 
+14. Qxd6 {(1.69)}  Qxd6 {(1.85)} 
+15. Rxd6 {(1.81)}  O-O {(2.1)} 
+16. Rd7 {(1.97)}  b5 {(2.1)} 
+17. Nd5 {(2.02)}  Bg5 {(2.26)} 
+18. Rd1 {(2.26)}  Rfd8 {(2.26)} 
+19. Nb6 {(2.1)}  Rxd7 {(1.85)} 
+20. Rxd7 {(1.89)}  Rd8 {(1.89)} 
+21. Rxd8+ {(1.89)}  Bxd8 {(1.89)} 
+22. Nd7 $6 {(1.45) INACCURACY - Perhaps better was 22. Nd5} 
+({BEST MOVE (1.89)} 22. Nd5 Kf8 23. Kf1 Ke8 24. Ke2 Kd7 25. Kd3 Kd6 26. g3 f5 27. a3 Ke6   $18)
+({INACCURACY (1.45)} 22. Nd7 Bc7 23. Kf1 f6 24. a3 Kf7 25. Ke2 a5 26. b4 h5 27. Nc5 Bb6 28. Nb7 axb4 29. axb4 Ke6   $16)
+22... f6 {(1.37)} 
+23. b4 {(1.17)}  Kf7 {(1.09)} 
+24. Nc5 {(1.09)}  Be7 $2 {(2.06) MISTAKE - Your opponent made a mistake! Better was 24... Bb6} 
+({BEST MOVE (1.09)} 24... Bb6 25. Nxa6 Ke6 26. Kf1 Kd6 27. Ke2 Kc6 28. h4 Bd4 29. h5 Kb6 30. Nc5 Bxc5 31. bxc5+ Kxc5 32. c3 Kd6 33. Kd3   $16)
+({MISTAKE (2.06)} 24... Be7 25. Nxa6 Bd8 26. Nc5 Bb6 27. Nd3 Bd4 28. Kf1 Ke6 29. Ke2 Kd7 30. Kd2 Kd6   $18)
+25. Nxa6 {(2.06)}  Ke6 {(2.74)} 
+26. Nc7+ {(2.82)}  Kd7 {(2.78)} 
+27. Nxb5 $2 {(1.73) WHITE WINS - Play might have continued...} 
+({BEST MOVE (2.86)} 27. Nd5 Bd6 28. Kf1 Bb8 29. Ke2 Ba7 30. c3 Kd6 31. f3 f5 32. Kd3 Bg1 33. h3 fxe4+   $18)
+({MISTAKE (1.73)} 27. Nxb5 Bxb4 28. Kf1 Kc6 29. a4 Kb6 30. Ke2 Ka5 31. Nc7 Kxa4 32. f3 Bc5 33. Ne8   $18)
+({CONTINUATION (1.73)} 27. Nxb5 Bxb4 28. Kf1 Kc6 29. a4 Kb6 30. Ke2 Ka5 31. Nc7 Kxa4 32. f3 Bc5 33. Ne8   $18)
+1-0
+

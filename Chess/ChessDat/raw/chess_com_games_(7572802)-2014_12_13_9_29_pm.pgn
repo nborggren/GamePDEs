@@ -1,0 +1,171 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "13alzac"]
+[Black "Bogoliubon"]
+[Result "1/2-1/2"]
+[WhiteElo "1198"]
+[BlackElo "1183"]
+[TimeControl "10|0"]
+[Termination "Game drawn by repetition"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 h6 4.d4 d6 5.dxe5 Nxe5 6.Nxe5 dxe5 7.Qxd8+ Kxd8 8.Bxf7 Nf6 9.Nc3 Bb4 10.Bd2 Bxc3
+ 11.Bxc3 Ke7 12.Bxe5 Kxf7 13.Bxc7 Nxe4 14.O-O-O Rf8 15.Rd4 Bf5 16.g4 Bh7 17.Rd7+ Kg8 18.Be5 Rf7 19.Rhd1 Nxf2 20.Rd8+ Rxd8
+ 21.Rxd8+ Rf8 22.Rd7 Rf7 23.Rd8+ Rf8 24.Rd7 Rf7 25.Rd8+ Rf8 1/2-1/2
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "fastwalker"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1193"]
+[BlackElo "1175"]
+[TimeControl "10|0"]
+[Termination "fastwalker won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.dxe5 Nxe5 6.Bxd7+ Qxd7 7.Nxe5 dxe5 8.Qxd7+ Kxd7 9.Nc3 Rd8 10.f4 f6
+ 11.fxe5 fxe5 12.Bg5 Be7 13.O-O-O+ Kc8 14.Bxe7 Nxe7 15.Nd5 Nxd5 16.exd5 Rhf8 17.c4 Rf4 18.b3 Rf2 19.Rd2 Rf4 20.Re1 Re8
+ 21.Rde2 Rf5 22.g4 Rg5 23.h3 Kd7 24.Rf1 Kd6 25.Rf7 Re7 26.Ref2 e4 27.Rxe7 Kxe7 28.Kd2 Re5 29.Re2 Kd6 30.Ke3 g5
+ 31.Kd4 c5+ 32.dxc6 bxc6 33.Rxe4 Rxe4+ 34.Kxe4 Ke6 35.Kd4 Kd6 36.a4 a5 37.Kc3 Kc5 38.Kc2 Kd4 39.Kb2 Ke4 40.Kc3 c5
+ 41.Kd2 Kf3 42.b4 cxb4 43.c5 Kg3 44.c6 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "rngen"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1203"]
+[BlackElo "1184"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.b3 e5 2.Ba3 d6 3.d3 Nc6 4.Nd2 Nf6 5.h3 Be7 6.Bb2 Be6 7.a3 d5 8.g3 Qd7 9.Bg2 d4 10.Qb1 Bd5
+ 11.f3 Nh5 12.Kf2 O-O 13.Nf1 f5 14.Bc1 f4 15.h4 fxg3+ 16.Ke1 Qf5 17.Bd2 Bd6 18.Qc1 Nf4 19.Nxg3 Nxg2+ 20.Kf2 Qg6
+ 21.h5 Qf6 22.Kxg2 Rae8 23.Bg5 Qe6 24.h6 g6 25.Ne4 Bxe4 26.dxe4 Be7 27.Nh3 Nd8 28.f4 exf4 29.Bxf4 Qg4+ 30.Kf1 Ne6
+ 31.Ke1 Nxf4 32.Nxf4 Qxf4 33.Rf1 Qxf1+ 34.Kd2 Bg5+ 35.Kd3 Bxc1 36.Ra2 Qd1+ 37.Kc4 Rf4 38.b4 Rfxe4 39.Kb3 Rxe2 40.Ka4 R8e3
+ 41.Ra1 Rxc2 42.Rb1 Rc5+ 43.Rb3 Rcc3 44.Kb5 Qxb3 45.a4 a6+ 46.Ka5 Re5+ 47.b5 Rxb5+ 48.axb5 Qxb5# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "Bogoliubon"]
+[Black "ghostsquad-1SO"]
+[Result "1-0"]
+[WhiteElo "1192"]
+[BlackElo "1196"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Bc5 3.Nc3 Nf6 4.Be2 Bxf2+ 5.Kxf2 Qe7 6.Re1 Nc6 7.Kg1 Ng4 8.Nd5 Qc5+ 9.d4 Nxd4 10.Nxd4 exd4
+ 11.Bxg4 O-O 12.Kh1 c6 13.Nf4 f5 14.Bxf5 g6 15.Nd3 Qe7 16.Qg4 b6 17.Bh6 Re8 18.Bxg6 d5 19.Bxe8+ Bxg4 20.Bxc6 Rc8
+ 21.Bxd5+ Be6 22.Nf4 Bxd5 23.Nxd5 Qd6 24.Rf1 d3 25.Nf6+ Kh8 26.c3 d2 27.Rad1 Rc6 28.Rxd2 Qb8 29.Nd7 Rxh6 30.Nxb8 Rg6
+ 31.Rf7 Kg8 32.Rdd7 h6 33.Rfe7 Kh8 34.Rd8+ Rg8 35.Rxg8+ Kxg8 36.Rxa7 Kf8 37.e5 Ke8 38.e6 h5 39.Nc6 b5 40.Ra8#
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "ram64ram64"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1218"]
+[BlackElo "1184"]
+[TimeControl "10|0"]
+[Termination "ram64ram64 won on time"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Nd5 7.Bc4 Qc7 8.f4 e6 9.O-O Bc5+ 10.Kh1 Qb6
+ 11.a3 Be3 12.b4 Bxc1 13.Bxd5 cxd5 14.Qxc1 Ba6 15.Rg1 O-O 16.Qd2 Rfc8 17.Ra2 d4 18.Rd1 Rc4 19.Qf2 Rac8 20.c3 dxc3
+ 21.Qxb6 c2 22.Rxc2 axb6 23.Rxc4 Rxc4 24.Nd2 Rd4 25.Kg1 Be2 26.Rc1 Kf8 27.Kf2 Rxd2 28.Ke1 Ra2 29.b5 Rxa3 30.Kxe2 Rb3
+ 31.Rc7 Ke7 32.Rb7 Rxb5 33.g3 Rb2+ 34.Kf3 Rxh2 35.Rxb6 f6 36.exf6+ gxf6 37.f5 e5 38.g4 h6 39.Kg3 Rc2 40.Kh4 Rc6
+ 41.Rb5 Kd6 42.Kh5 e4 43.Kxh6 e3 44.Rb1 Rc4 45.Kh5 Re4 46.Rd1+ Ke5 47.Rxd7 e2 48.Re7+ Kf4 49.Rxe4+ Kxe4 50.g5
+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "Bogoliubon"]
+[Black "ram64ram64"]
+[Result "0-1"]
+[WhiteElo "1177"]
+[BlackElo "1225"]
+[TimeControl "10|0"]
+[Termination "ram64ram64 won by checkmate"]
+
+1.e4 b6 2.Nf3 Bb7 3.Nc3 e6 4.d4 Bb4 5.Bd3 Bxc3+ 6.bxc3 c5 7.Qe2 a5 8.O-O Nf6 9.Bg5 h6 10.Bh4 g5
+ 11.Bg3 Nh5 12.Ne5 Nxg3 13.fxg3 f6 14.Ng4 O-O 15.Nxh6+ Kg7 16.Ng4 Ba6 17.e5 f5 18.Ne3 g4 19.Rab1 Rh8 20.Bxa6 Nxa6
+ 21.Nc4 Rb8 22.Nd6 cxd4 23.Qxa6 dxc3 24.Qd3 Qc7 25.Qe3 Kg6 26.Rb3 Qc5 27.Qxc5 bxc5 28.Rxc3 Rh7 29.Rxc5 Rbh8 30.Rc8 Rxh2
+ 31.Rxh8 Rxh8 32.Rb1 Rf8 33.Rb7 f4 34.Rxd7 fxg3 35.c4 Rf4 36.Ra7 Rd4 37.Rxa5 Rd1# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "ram64ram64"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1216"]
+[BlackElo "1186"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nxc6 bxc6 6.a3 Nf6 7.Bd3 Bc5 8.O-O Rb8 9.b4 Bb6 10.Bg5 Qc7
+ 11.Bxf6 gxf6 12.c3 Rg8 13.g3 Qe5 14.Qd2 c5 15.Ra2 h5 16.f4 Qd6 17.Kh1 Bb7 18.Qe2 Qf8 19.Nd2 h4 20.gxh4 Qh6
+ 21.Rg1 Rh8 22.Nf3 Qxf4 23.b5 f5 24.Rf1 fxe4 25.Ng5 exd3+ 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "yakovmash"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1191"]
+[BlackElo "1178"]
+[TimeControl "10|0"]
+[Termination "yakovmash won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.d5 Nce7 5.c4 Nf6 6.Bd3 Ng6 7.h3 Be7 8.Nc3 Nh5 9.Ne2 O-O 10.g4 Nhf4
+ 11.Bxf4 Nxf4 12.Nxf4 exf4 13.Qd2 g5 14.h4 h6 15.hxg5 hxg5 16.O-O-O Bxg4 17.Be2 Kg7 18.Rh2 Rh8 19.Rdh1 Rxh2 20.Nxh2 Bxe2
+ 21.Qxe2 Qd7 22.Ng4 Rh8 23.Rxh8 Kxh8 24.f3 Kg7 25.Qh2 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "Bogoliubon"]
+[Black "bitbyadog"]
+[Result "0-1"]
+[WhiteElo "1171"]
+[BlackElo "1209"]
+[TimeControl "10|0"]
+[Termination "bitbyadog won on time"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c5 4.Nf3 cxd4 5.Nxd4 Nf6 6.Bb5+ Bd7 7.Bg5 Be7 8.exd5 Nxd5 9.Bxe7 Nxe7 10.O-O O-O
+ 11.Re1 a6 12.Bd3 Nbc6 13.Nf3 Nb4 14.Bxh7+ Kxh7 15.Ng5+ Kg6 16.Qg4 Kh6 17.Qh4+ Kg6 18.Qxb4 Kxg5 19.Re5+ Kg6 20.Qg4+ Kh7
+ 21.Ne4 Ng6 22.Rh5+ Kg8 23.Rd1 Qe7 24.Rd3 e5 25.Qxd7 Qxd7 26.Rxd7 Nf4 27.Rxe5 Rfd8 28.Ree7 Rxd7 29.Rxd7 Rc8 30.c3 b5
+ 31.Nd6 Rc6 32.Nxf7 Re6 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.13"]
+[White "Bogoliubon"]
+[Black "weisswasser"]
+[Result "1-0"]
+[WhiteElo "1179"]
+[BlackElo "1152"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 e6 2.Nf3 c5 3.d4 Nf6 4.Nc3 Qb6 5.Be2 Nc6 6.d5 exd5 7.exd5 Nd4 8.O-O Be7 9.Re1 d6 10.Nxd4 cxd4
+ 11.Bb5+ Bd7 12.Bxd7+ Nxd7 13.Ne4 h6 14.Ng3 Ne5 15.Nf5 Rc8 16.Nxe7 Kxe7 17.f4 d3+ 18.Kh1 dxc2 19.Qg4 g5 20.fxe5 Rhe8
+ 21.e6 f6 22.Qh5 Rh8 23.Qf7+ 1-0
+
+

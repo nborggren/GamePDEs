@@ -1,0 +1,46 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.02.22"]
+[White ""]
+[Black ""]
+[ECO "B20"]
+[ChesscomGameID "65811336"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1372"]
+[BlackElo "1633"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+{Inaccuracies(?!): 3 = 18.8% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 2 = 12.5% of moves}
+
+1. e4 {(Book Move)}  c5 {(Book Move)} 
+2. Bc4 {(Book Move)}  e6 {(0.44)} 
+3. e5 {(-0.36)}  d5 {(-0.52)} 
+4. Bb5+ {(-0.36)}  Bd7 {(-0.48)} 
+5. Bxd7+ {(-0.68)}  Nxd7 {(-0.72)} 
+6. Nf3 {(-0.64)}  Ne7 {(-0.52)} 
+7. d3 {(-1.25)}  Nf5 $6 {(-0.44) INACCURACY - Perhaps better was 7... Ng6} 
+({BEST MOVE (-1.21)} 7... Ng6 8. Nc3 Ndxe5 9. Nxe5 Nxe5 10. O-O Bd6 11. Nb5 Ng6 12. Qg4 O-O 13. Bg5 Qb6 14. Nxd6 Qxd6 15. Qg3 Qxg3 16. fxg3 f6   $17)
+({INACCURACY (-0.44)} 7... Nf5 8. O-O Be7 9. c4 dxc4 10. dxc4 Qb6 11. Nc3 O-O-O 12. Qa4 Nd4 13. Re1 Nxf3+ 14. gxf3   $15)
+8. Nc3 {(-0.64)}  Be7 {(-0.56)} 
+9. O-O {(-0.64)}  Qc7 {(-0.48)} 
+10. Bf4 {(-0.44)}  O-O {(-0.52)} 
+11. d4 {(-0.96)}  cxd4 $6 {(-0.64) INACCURACY - Perhaps better was 11... Nxd4} 
+({BEST MOVE (-0.96)} 11... Nxd4 12. Nxd4 cxd4 13. Nb5 Qb6 14. Nxd4 g5 15. Bg3 h5 16. Nb3 Rfc8 17. h4 gxh4 18. Bh2 Qb4 19. c3 Qg4   $17)
+({INACCURACY (-0.64)} 11... cxd4 12. Nb5 Qc4 13. Nbxd4 Nxd4 14. Nxd4 Rfc8 15. Qd2 Nc5 16. b3 Qa6 17. Rfd1 Ne4 18. Qd3 Qxd3 19. Rxd3 a6 20. Rad1   $15)
+12. Nxd4 {(-1.25)}  Nxd4 {(-1.29)} 
+13. Qxd4 {(-1.17)}  Bc5 {(-1.13)} 
+14. Qa4 {(-1.61)}  Nxe5 $6 {(-1.09) INACCURACY - Perhaps better was 14... a6} 
+({BEST MOVE (-1.65)} 14... a6 15. Rad1 Nxe5 16. Ne2 f6 17. Nd4 b5 18. Qb3 Bxd4 19. Rxd4 g5 20. Qg3   $19)
+({INACCURACY (-1.09)} 14... Nxe5 15. Nb5 Qb8 16. Rae1 f6 17. c3 a6 18. Nd4 Qd6 19. Qd1 Rae8 20. Nb3 Bb6 21. Qh5 Bc7 22. Re3 g6 23. Qh6   $17)
+15. Nb5 {(-1.13)}  Qb8 {(-1.13)} 
+16. Rae1 {(-1.13)}  Nf3+ $4 {(2.26) BLUNDER - Oh no - a blunder! You should have played 16... f6} 
+({BEST MOVE (-1.17)} 16... f6 17. c3 Rf7 18. Nd4 Qd6 19. Re3 Raf8 20. Rd1 a6 21. Qb3 b5 22. Qc2 g5   $17)
+({BLUNDER (2.26)} 16... Nf3+ 17. gxf3 Qe8 18. Qa5 f6 19. Nc3 b6 20. Qa4 e5 21. Qxe8 Raxe8 22. Bd2 Rd8 23. Kg2 d4 24. Ne4   $18)
+17. gxf3 {(2.14)}  Qxf4 $4 {(11.23) BLUNDER - Your position is getting even worse - you are now losing. The best line was 17... Qd8} 
+({BEST MOVE (2.02)} 17... Qd8 18. Bg3 Qb6 19. Qb3 Rac8 20. c3 a6 21. Nd6 Rc7 22. Qxb6 Bxb6 23. f4 d4 24. f5 dxc3 25. fxe6 fxe6   $18)
+({BLUNDER (11.23)} 17... Qxf4 18. Qxf4 Rac8 19. c3 Rfd8 20. Kg2 h6 21. Nd4 Bd6 22. Qg4 a6   $18)
+18. Qxf4 {(11.27) WHITE WINS - Play might have continued...} 
+({CONTINUATION (11.27)} 18. Qxf4 Rac8 19. c3 Rfd8 20. Kg2 a6 21. Nd4 Bd6 22. Qh4 Re8 23. Qg4 g6   $18)
+1-0
+

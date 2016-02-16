@@ -1,0 +1,174 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.04"]
+[White "naseerkarukappadath"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1084"]
+[BlackElo "1133"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 c5 2.a3 Nc6 3.Nc3 Nf6 4.d3 e6 5.Nb5 d5 6.exd5 exd5 7.Bg5 Qa5+ 8.Nc3 d4 9.Bd2 dxc3 10.Bxc3 Qd8
+ 11.Qe2+ Qe7 12.Qxe7+ Bxe7 13.O-O-O O-O 14.Re1 Be6 15.Nf3 Nd5 16.Ne5 Nxc3 17.Nxc6 bxc6 18.bxc3 Rab8 19.Kd2 Rb2 20.Ra1 Bg5+
+ 21.Kd1 Rd8 22.Be2 c4 23.d4 Bf5 24.Rc1 c5 25.Bxc4 cxd4 26.cxd4 Rxd4+ 27.Bd3 Bxd3 28.cxd3 Rxd3+ 29.Ke1 Bxc1 30.f3 Rdd2
+ 31.Rg1 Re2+ 32.Kd1 Be3 33.Re1 Rbd2+ 34.Kc1 Rxe1# 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.08"]
+[White "Bogoliubon"]
+[Black "Dwong-007"]
+[Result "0-1"]
+[WhiteElo "1124"]
+[BlackElo "1109"]
+[TimeControl "10|0"]
+[Termination "Dwong-007 won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bc5 4.Bb5 d6 5.d4 Bb4 6.d5 Bxc3+ 7.bxc3 a6 8.Ba4 b5 9.Bb3 Na5 10.O-O Nf6
+ 11.Re1 Bg4 12.Bg5 O-O 13.Qd3 h6 14.Bh4 g5 15.Bg3 Nh5 16.Nd2 Qf6 17.c4 bxc4 18.Nxc4 Nxc4 19.Bxc4 Nxg3 20.Qxg3 h5
+ 21.Rab1 Kg7 22.Rb7 Qe7 23.Qd3 Kg6 24.f3 Bc8 25.Rb4 h4 26.Reb1 Bd7 27.Rb7 Qd8 28.Bxa6 h3 29.g3 g4 30.f4 exf4
+ 31.gxf4 Qf6 32.f5+ Kh5 33.Rxc7 Ba4 34.Rb4 Qa1+ 35.Kf2 Qxa2 36.Bc4 Bxc2 37.Qd2 Qa5 38.Rbb7 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.08"]
+[White "Bogoliubon"]
+[Black "dsp41"]
+[Result "0-1"]
+[WhiteElo "1116"]
+[BlackElo "1123"]
+[TimeControl "10|0"]
+[Termination "dsp41 won by resignation"]
+
+1.e4 e5 2.Nf3 d6 3.c3 f6 4.d4 Nd7 5.Bb5 c6 6.Bc4 b5 7.Bb3 Ne7 8.dxe5 dxe5 9.Be3 Ng6 10.O-O Qc7
+ 11.Nh4 Nxh4 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.08"]
+[White "Bogoliubon"]
+[Black "cfort"]
+[Result "1-0"]
+[WhiteElo "1123"]
+[BlackElo "1082"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bg5 e6 4.e4 Be7 5.Nc3 O-O 6.Bd3 h6 7.Bh4 Nbd7 8.Qd2 c5 9.O-O-O cxd4 10.Nxd4 Nxe4
+ 11.Bxe7 Nxd2 12.Bxd8 Rxd8 13.Rxd2 a6 14.Rhd1 d5 15.Nce2 Ne5 16.f4 Nxd3+ 17.Rxd3 Bd7 18.Nb3 Bb5 19.Re3 Rac8 20.Nbd4 Bd7
+ 21.Ng3 Rc5 22.f5 Rdc8 23.c3 exf5 24.Ngxf5 Bxf5 25.Nxf5 R5c7 26.Ne7+ 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.08"]
+[White "cfort"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1075"]
+[BlackElo "1130"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nc3 Nxc3 5.bxc3 e6 6.Nf3 Nc6 7.e4 Be7 8.Bb5 Bd7 9.d5 exd5 10.exd5 Na5
+ 11.Be2 O-O 12.O-O Re8 13.c4 Bf6 14.Rb1 b6 15.Bb2 Re4 16.Bxf6 Qxf6 17.Bd3 Rg4 18.Ne5 Qxe5 19.Re1 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.08"]
+[White "Bogoliubon"]
+[Black "Jetnes"]
+[Result "1-0"]
+[WhiteElo "1139"]
+[BlackElo "1171"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.e4 e5 2.Nf3 Qf6 3.Nc3 Bb4 4.Nd5 Qd6 5.Bc4 c6 6.Nxb4 Qxb4 7.Qe2 d5 8.exd5 cxd5 9.Qxe5+ Be6 10.Bxd5 Nd7
+ 11.Qxg7 Bxd5 12.Qxh8 O-O-O 13.Qc3+ Qxc3 14.dxc3 Re8+ 15.Be3 f5 16.O-O Ngf6 17.Nd4 Nh5 18.Nxf5 Rg8 19.g3 Kc7 20.Rad1 Bxa2
+ 21.b3 Ne5 22.Kg2 a5 23.Ra1 a4 24.Rxa2 axb3 25.cxb3 Nd3 26.Rd1 Ne5 27.Ne7 Rg7 28.Nd5+ Kc6 29.Ra5 b6 30.Ra6 Nd7
+ 31.Bxb6 Nxb6 32.Rxb6+ Kc5 33.b4+ Kc4 34.Rd4+ Kb3 35.Rh6 Rg5 36.b5 Ng7 37.b6 Nf5 38.b7 Nxd4 39.b8=Q+ Kc4 40.Qb4+ Kxd5
+ 41.Qxd4# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.09"]
+[White "WillNorman"]
+[Black "Bogoliubon"]
+[Result "1/2-1/2"]
+[WhiteElo "1489"]
+[BlackElo "1432"]
+[TimeControl "15|10"]
+[Termination "Game drawn - insufficient material"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 Bb4 7.Qd3 Bxc3+ 8.bxc3 O-O 9.Rb1 Ne5 10.Qb5 Neg4
+ 11.Bg5 Qc7 12.Bxf6 Qxc3+ 13.Ke2 Nxf6 14.Qd3 Qxd3+ 15.cxd3 b6 16.Nb5 d5 17.e5 Nd7 18.d4 Ba6 19.Kd2 Bxb5 20.Bxb5 Rfd8
+ 21.Rhc1 a6 22.Ba4 b5 23.Bc2 Nb6 24.f4 Rdc8 25.Bb3 Nc4+ 26.Bxc4 Rxc4 27.Kd3 Rac8 28.Rxc4 Rxc4 29.a3 Kf8 30.g4 Ke8
+ 31.h4 Kd7 32.h5 Kc6 33.g5 h6 34.Rg1 Ra4 35.Ra1 b4 36.Rc1+ Kb6 37.axb4 Rxb4 38.Rc8 Rb3+ 39.Ke2 Rh3 40.g6 fxg6
+ 41.hxg6 Rg3 42.Re8 Rxg6 43.Rb8+ Kc7 44.Rh8 a5 45.Kd2 Kb6 46.Kc3 Rg3+ 47.Kb2 Kb5 48.Rb8+ Kc4 49.Rc8+ Kxd4 50.Rc6 Ke4
+ 51.Rxe6 Kxf4 52.Re8 d4 53.e6 Re3 54.e7 Kg5 55.Kc2 Kf6 56.Rd8 Rxe7 57.Rxd4 Ke5 58.Rd2 Rc7+ 59.Kb3 Rc5 60.Re2+ Kd6
+ 61.Rd2+ Rd5 62.Rg2 g5 63.Rh2 h5 64.Rxh5 g4 65.Rh6+ Kc5 66.Rh1 Rg5 67.Rc1+ Kb5 68.Ka3 g3 69.Rb1+ Ka6 70.Rg1 g2
+ 71.Kb3 Kb5 72.Ka3 Rg3+ 73.Kb2 Kb4 74.Kc2 a4 75.Kd2 a3 76.Ke2 a2 77.Kf2 Ra3 78.Kxg2 a1=Q 79.Rxa1 Rxa1 80.Kf3 Re1
+ 81.Kf4 Kc5 82.Kf5 Kd5 83.Kf4 Re4+ 84.Kf5 Kd4 85.Kf6 Kd5 86.Kf5 Re5+ 87.Kf4 Ke6 88.Kf3 Kf5 89.Kg3 Re3+ 90.Kh4 Kf4
+ 91.Kh5 Rg3 92.Kh4 Rg8 93.Kh5 Kg3 94.Kh6 Kf4 95.Kh7 Rg5 96.Kh6 Kf5 97.Kh7 Kf6 98.Kh6 Kf7 99.Kxg5 1/2-1/2
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.09"]
+[White "Bogoliubon"]
+[Black "simantsid"]
+[Result "1-0"]
+[WhiteElo "1146"]
+[BlackElo "1091"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by resignation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Nxc6 bxc6 7.Bc4 d5 8.exd5 cxd5 9.Nxd5 Nxd5 10.Bxd5 Rb8
+ 11.Bxf7+ Kxf7 12.Qxd8 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.09"]
+[White "jasoneheard"]
+[Black "Bogoliubon"]
+[Result "1-0"]
+[WhiteElo "1211"]
+[BlackElo "1139"]
+[TimeControl "10|0"]
+[Termination "jasoneheard won by resignation"]
+
+1.d4 d5 2.Nf3 Nc6 3.c3 Nf6 4.Ne5 Nxe5 5.dxe5 Ne4 6.f3 Nc5 7.e4 dxe4 8.Qxd8+ Kxd8 9.f4 e6 10.Be3 f5
+ 11.exf6 gxf6 12.Nd2 f5 13.O-O-O Bd7 14.Nc4 Rg8 15.Ne5 Nd3+ 16.Bxd3 exd3 17.Rxd3 Bd6 18.Bc5 Ke7 19.Nxd7 Kxd7 20.Rhd1 Rgd8
+ 21.Bxd6 cxd6 22.Rxd6+ Ke7 23.R6d4 Rac8 24.Kb1 Rxd4 25.Rxd4 Rd8 26.h3 Rxd4 27.cxd4 Kd6 28.Kc2 Kd5 29.Kd3 h5 30.g3 b6
+ 31.b4 a6 32.a4 b5 33.a5 Kd6 34.Ke3 Kd5 35.Kd3 Kd6 36.Ke3 Kd5 37.Kf3 Kxd4 38.g4 hxg4+ 39.hxg4 fxg4+ 40.Kxg4 Ke4
+ 41.Kg5 Kd4 42.Kf6 Kc4 43.Kxe6 Kxb4 44.f5 Kxa5 45.f6 b4 46.f7 Ka4 47.f8=Q a5 48.Qe8+ Ka3 49.Qb5 a4 50.Kd5 b3
+ 51.Kc4 Ka2 52.Kc3 a3 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.12.09"]
+[White "Integr8r"]
+[Black "Bogoliubon"]
+[Result "0-1"]
+[WhiteElo "1130"]
+[BlackElo "1147"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+
+1.c4 e5 2.e4 Nf6 3.d3 Nc6 4.Nf3 d6 5.Bg5 Be7 6.Be2 Be6 7.h4 Ng4 8.Nbd2 h6 9.Bxe7 Qxe7 10.Ng1 Nf6
+ 11.Qb3 O-O-O 12.Ngf3 Bg4 13.Ng1 Nd4 14.Qa4 Kb8 15.f3 Bd7 16.Qd1 Nh5 17.g4 Nf4 18.Nb3 Ng2+ 19.Kf2 Nxh4 20.Nxd4 exd4
+ 21.a4 Ng6 22.b4 b6 23.a5 Nf4 24.axb6 cxb6 25.Nh3 Qh4+ 26.Kg1 Qg3+ 27.Kf1 Qg2+ 28.Ke1 Qxh1+ 29.Kd2 Qxd1+ 30.Bxd1 Nxh3
+ 31.b5 Ng5 32.Ke2 h5 33.Kd2 hxg4 34.fxg4 Rh4 35.Kc2 Bxg4 36.Kb3 Bxd1+ 37.Rxd1 Rh3 38.Rd2 f6 39.e5 fxe5 40.c5 dxc5
+ 41.Kc4 Nf3 42.Rg2 g5 43.Kb3 Kc7 44.Kb2 Rg8 45.Rf2 g4 46.Ka3 Kd6 47.Kb3 Ke6 48.Kc4 Ne1 49.Rd2 g3 50.Rd1 Rh1
+ 51.Kb3 g2 52.Rd2 g1=Q 53.Ka2 Rg2 54.Rxg2 Qxg2+ 55.Kb3 Qc2+ 56.Ka3 Qb1 57.Ka4 Qb4# 0-1
+
+

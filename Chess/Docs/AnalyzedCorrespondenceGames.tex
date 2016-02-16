@@ -1,0 +1,45 @@
+%\documentclass[twocolumn]{article}
+\documentclass[a4paper,12pt,twoside]{article}
+ \usepackage{amsfonts}
+ \usepackage{texmate}
+ \usepackage{epsfig}    
+ \usepackage{graphicx}  
+ \usepackage{multicol}
+ \usepackage{subfigure}
+ \usepackage{color}
+ %\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+ \begin{document}
+ \topmargin=.05in
+ \leftmargin=.05in
+ \rightmargin=.05in
+ \title{Analyzed Correspondence Chess Games}
+ \author{NAB}
+ \date{\today}
+ \maketitle{}
+
+%\normalboard
+\begin{multicols}{3}
+\tableofcontents
+
+\section{d4}
+
+\include{./AnalyzedGames/tex/ars1969kar_vs_Bogoliubon_2012_11_03-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/barricarte_vs_Bogoliubon_2012_11_08-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/Bogoliubon_vs_ars1969kar_2012_11_03-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/Bogoliubon_vs_bharathmngl_2012_11_03-computer-analysis.pgn}
+
+\subsubsection{D21: Queen's Gambit Accepted: Normal Variation}
+\include{./AnalyzedGames/tex/Bogoliubon_vs_bsezen_2012_11_03-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/Bogoliubon_vs_davidhusser_2012_10_23-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/Bogoliubon_vs_jurgis730204_2012_11_08-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/Bogoliubon_vs_WowlX_2012_11_08-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/mgoulart_vs_Bogoliubon_2012_11_03-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/pierre1701_vs_Bogoliubon_2012_11_03-computer-analysis.pgn}
+%\include{./AnalyzedGames/tex/WowlX_vs_Bogoliubon_2012_11_08-computer-analysis.pgn}
+
+\end{multicols}
+
+\bibliography{bibliography}
+\bibliographystyle{unsrtnat}
+
+\end{document}

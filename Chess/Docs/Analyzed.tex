@@ -1,0 +1,30 @@
+%\documentclass[twocolumn]{article}
+\documentclass[a4paper,12pt,twoside]{article}
+ \usepackage{amsfonts}
+ \usepackage{texmate}
+ \usepackage{epsfig}    
+ \usepackage{graphicx}  
+ \usepackage{multicol}
+ \usepackage{subfigure}
+ \usepackage{color}
+ %\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+ \begin{document}
+ \topmargin=.05in
+ \leftmargin=.05in
+ \rightmargin=.05in
+ \title{Chess Games}
+ \author{NAB}
+ \date{\today}
+ \maketitle{}
+
+%\normalboard
+\begin{multicols}{3}
+
+\section{Analyzed Games}
+\include{ana_games}
+\end{multicols}
+
+\bibliography{bibliography}
+\bibliographystyle{unsrtnat}
+
+\end{document}

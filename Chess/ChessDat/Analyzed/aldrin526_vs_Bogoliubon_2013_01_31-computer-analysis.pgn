@@ -1,0 +1,59 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.01.31"]
+[White ""]
+[Black ""]
+[ECO "D00"]
+[ChesscomGameID "445483726"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1269"]
+[BlackElo "1212"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 3 = 18.8% of moves | Mistakes(?): 1 = 6.2% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. e3 {(Book Move)}  Nf6 {(0.24)} 
+3. Bb5+  Bd7 {(-0.12)} 
+4. Bd3 {(-0.12)}  Nc6 {(0.16)} 
+5. f4 {(-0.36)}  e6 {(-0.36)} 
+6. Nf3 {(-0.36)}  Be7 {(-0.32)} 
+7. O-O {(-0.4)}  O-O {(-0.12)} 
+8. c3 {(-0.36)}  Re8 $6 {(-0.04) INACCURACY - Perhaps better was 8... Ne4} 
+({BEST MOVE (-0.36)} 8... Ne4 9. Nbd2 f5 10. a3 a5 11. c4 Qc8 12. c5 a4 13. Bc2 Nf6 14. Bd3   $15)
+({INACCURACY (-0.04)} 8... Re8 9. Ne5 Na5 10. Nd2 c5 11. dxc5 Bxc5 12. Ndf3 Qb6 13. Ng5 Re7 14. Ng4 Kh8   $10)
+9. Ne5 {(0.28)}  Bd6 $6 {(0.72) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 9... Na5} 
+({BEST MOVE (0.16)} 9... Na5 10. Nd2 c5 11. Ndf3 c4 12. Bc2 Rf8 13. Nxd7 Qxd7 14. Ne5 Qc7 15. Qe2 Nc6 16. e4 Nxe4 17. Bxe4   $10)
+({INACCURACY (0.72)} 9... Bd6 10. Nd2 Ne7 11. e4 c5 12. Nxd7 Nxd7 13. e5 Bc7 14. Nf3 c4 15. Bc2 h6 16. b3 Nf5   $16)
+10. Nd2 {(0.64)}  a6 {(0.8)} 
+11. Ndf3 {(0.52)}  Na7 {(0.8)} 
+12. Rf2 {(0.12)}  c5 $6 {(0.48) INACCURACY - The game is now roughly equal. } 
+({BEST MOVE (0.16)} 12... Bb5 13. Ng5 Re7 14. Ng4 Bxd3 15. Qxd3 Ne4 16. Nxe4 dxe4 17. Qc2 f5 18. Ne5 Bxe5 19. fxe5 c5 20. Bd2 Nc6 21. Qb3 Qf8   $10)
+({INACCURACY (0.48)} 12... c5 13. Ng5 Rf8 14. Qc2 g6 15. e4 cxd4 16. Nxd7 Nxd7 17. exd5 exd5 18. cxd4 Nc6 19. Qb3 Nb4   $14)
+13. Nh4 $2 {(-0.56) MISTAKE - Your opponent made a mistake! Better was 13. Ng5} 
+({BEST MOVE (0.56)} 13. Ng5 Rf8 14. e4 dxe4 15. Nxe4 Nxe4 16. Bxe4 Bc6 17. Bc2 Qh4 18. g3 Qh6 19. Be3 Bxe5 20. dxe5 Rad8 21. Rd2 Rxd2   $14)
+({MISTAKE (-0.56)} 13. Nh4 cxd4 14. exd4 Ne4 15. Bxe4 dxe4 16. Be3 Nc6 17. g3 Be7 18. Qh5 Rf8 19. Bd2 Qc7   $15)
+13... cxd4 {(-0.24)} 
+14. exd4 {(-0.12)}  Ne4 {(-0.4)} 
+15. Qh5 $2 {(-1.81) MISTAKE - Your opponent made a mistake! Better was 15. Bxe4} 
+({BEST MOVE (-0.52)} 15. Bxe4 dxe4 16. Nxd7 Qxd7 17. f5 e5 18. dxe5 Rxe5 19. Bf4 Qe7 20. Be3 Qc7 21. Qg4 f6 22. Re2 Bc5 23. Kh1 Bxe3 24. Rxe3 Qb6 25. Qe2 Rd8 26. Qc4+ Kf8 27. Rxe4   $15)
+({MISTAKE (-1.81)} 15. Qh5 g6 16. Qf3 Qxh4 17. Nxd7 Nxf2 18. Qxf2 Qxf2+ 19. Kxf2 Kg7 20. Be3 Rad8 21. Nc5 Bxc5 22. dxc5 Nc6 23. Re1 Rc8 24. Be2 f6   $19)
+15... Bxe5 $2 {(-0.44) MISTAKE - That was a mistake. Much better was 15... g6} 
+({BEST MOVE (-1.89)} 15... g6 16. Qf3 Qxh4 17. Nxd7 Nxf2 18. Qxf2 Qxf2+ 19. Kxf2 Kg7 20. Bd2 Nc6 21. Re1 f6 22. g3 Rad8 23. Nb6 Kf8 24. Na4 Kf7 25. Nc5 Bxc5 26. dxc5 e5 27. Bc2 exf4 28. Bxf4 Rxe1   $19)
+({MISTAKE (-0.44)} 15... Bxe5 16. Bxe4 g6 17. Qxe5 dxe4 18. Qg5 Nb5 19. Re2 Nd6 20. Qxd8 Rexd8 21. b3 f6 22. a4 Bc6 23. Ba3   $15)
+16. fxe5 {(0.2)}  Nxf2 {(+Mat04) FORCED_MATE - Bad news! Things were even and then suddenly you're faced with checkmate. You could have kept it even with 16... g6} 
+({BEST MOVE (0.36)} 16... g6 17. Qf3 Nxf2 18. Qxf2 Rf8 19. Bh6 f5 20. Bxf8 Qxf8 21. Qf4 Nc6 22. Re1 Qd8 23. Nf3 Qf8 24. Qh4 h6 25. a3   $14)
+({FORCED_MATE (+Mat04)} 16... Nxf2 17. Qxh7+ Kf8 18. Qh8+ Ke7 19. Bg5+ f6 20. Qxg7#   $18)
+17. Qxh7+ {(+Mat04)}  Kf8 
+18. Qh8+ {(+Mat03)}  Ke7 
+19. Qxg7 $2 {(7.59) MISTAKE - Your opponent made a mistake! Better was 19. Bg5+} 
+({BEST MOVE (+Mat02)} 19. Bg5+ f6 20. Qxg7#   $18)
+({MISTAKE (7.59)} 19. Qxg7 Bc6 20. Bg5+ Kd7 21. Bxd8 Nxd3 22. Bg5 Kc7 23. Qxf7+ Bd7 24. Ng6 Nxb2 25. Rb1 Na4 26. Rxb7+ Kxb7 27. Qxd7+ Kb6 28. Qxa4 Rg8 29. Qb4+ Nb5   $18)
+19... Qb6 {(+Mat01) FORCED_MATE - You can force checkmate with 19... Bc6} 
+({BEST MOVE (8)} 19... Bc6 20. Bg5+ Kd7 21. Bxd8 Nxd3 22. Bg5 Kc7 23. Qxf7+ Bd7 24. Ng6 b5 25. b3 b4 26. Rd1 Nb2 27. Rc1 Nc6 28. Nf4 a5 29. Rc2 Nd1 30. cxb4 axb4 31. Nd3 Nc3 32. Nc5 Nb8   $18)
+({FORCED_MATE (+Mat01)} 19... Qb6 20. Bg5#   $18)
+20. Bg5# {(+Mat01) WHITE WINS - Play might have continued...} 
+({CONTINUATION (+Mat01)} 20. Bg5#   $18)
+1-0
+

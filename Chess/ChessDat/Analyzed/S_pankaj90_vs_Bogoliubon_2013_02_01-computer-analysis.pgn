@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.02.01"]
+[White ""]
+[Black ""]
+[ECO "C58"]
+[ChesscomGameID "446350444"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[WhiteElo "1010"]
+[BlackElo "1144"]
+[TimeControl "10|0"]
+[Termination ""]
+{Inaccuracies(?!): 1 = 16.7% of moves | Mistakes(?): 1 = 16.7% of moves | Blunders(??): 1 = 16.7% of moves}
+
+1. e4 {(Book Move)}  e5 {(Book Move)} 
+2. Nf3 {(Book Move)}  Nc6 {(Book Move)} 
+3. Bc4 {(Book Move)}  Nf6 {(Book Move)} 
+4. Ng5 {(Book Move)}  d5 {(Book Move)} 
+5. exd5 {(Book Move)}  Na5 {(Book Move)} 
+6. Bb5+ {(Book Move)}  Nd7 {(Book Move)} 
+7. Qf3 $4 {(-2.18) BLUNDER - Lucky you! Your opponent blundered! The best move was 7. d4} 
+({BEST MOVE (1.13)} 7. d4 c6 8. Qh5 Qe7 9. d6 Qf6 10. Be2 Bxd6 11. Bd2 g6 12. Qf3 Qxf3 13. Nxf3 b6 14. Nc3 O-O 15. Ne4 Bc7 16. O-O   $16)
+({BLUNDER (-2.18)} 7. Qf3 Qxg5 8. O-O c6 9. d4 Qf6 10. Be2 Qxf3 11. Bxf3 cxd5 12. Re1 Nc6   $19)
+7... Qxg5 {(-2.34)} 
+8. Nc3 {(-2.3)}  c6 $6 {(-2.1) INACCURACY - Perhaps better was 8... a6} 
+({BEST MOVE (-2.5)} 8... a6 9. Be2 Qh4 10. a3 Nf6 11. Qg3 Qxg3 12. hxg3 b5 13. Kf1 Bf5 14. d3 Bc5 15. Bg5 O-O-O 16. g4 Bg6 17. b4   $19)
+({INACCURACY (-2.1)} 8... c6 9. dxc6 bxc6 10. O-O Qf6 11. Be2 Be7 12. a3 O-O 13. d3 Qg6 14. Bd2 Nb7 15. Rfe1   $19)
+9. dxc6 {(-2.58)}  Qf4 $4 {(6.1) BLUNDER - You had a slight edge but threw it away with that last move. The best move was 9... Nxc6} 
+({BEST MOVE (-2.5)} 9... Nxc6 10. d4 Qg6 11. Bxc6 Qxc6 12. Qxc6 bxc6 13. Be3 exd4 14. Bxd4 c5 15. Be3 Bb7 16. O-O O-O-O   $19)
+({BLUNDER (6.1)} 9... Qf4 10. cxd7+ Bxd7 11. Bxd7+ Kxd7 12. Qd5+ Kc8 13. Qxa5 Qd4 14. O-O Bb4 15. Qb5 f6 16. a3 Bxc3 17. dxc3 Qd7 18. Qb3 Rd8 19. Be3   $18)
+10. cxd7+ {(6.22)}  Bxd7 {(6.14)} 
+11. Bxd7+ {(6.38)}  Kxd7 {(6.38)} 
+12. Qd5+ {(6.38)}  Ke7 $2 {(7.55) MISTAKE - That was a mistake. Much better was 12... Bd6} 
+({BEST MOVE (6.1)} 12... Bd6 13. Ne4 Rhd8 14. d3 Ke7 15. Qxa5 b6 16. Bxf4 bxa5 17. Be3 Rab8 18. O-O-O Rb7 19. Rhe1 Rdb8 20. b3   $18)
+({MISTAKE (7.55)} 12... Ke7 13. Qxa5 Qd4 14. O-O Rc8 15. d3 Qc5 16. Qa4 f6 17. Be3 Qc6 18. Qb3 b6 19. Qa3+ Kf7 20. Qxa7+ Be7   $18)
+13. Qxa5 {(7.27) WHITE WINS - Play might have continued...} 
+({CONTINUATION (7.27)} 13. Qxa5 Qc4 14. d3 Qc6 15. Qxe5+ Qe6 16. Bg5+ Kd7 17. Qxe6+ Kxe6 18. Kd2 Bd6 19. Nb5 Rhe8 20. Rae1+ Kd7 21. Nxd6 Kxd6 22. Rxe8 Rxe8 23. Be3 a6 24. Re1 Kd7   $18)
+1-0
+
