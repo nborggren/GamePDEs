@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.31"]
+[White "Bogoliubon"]
+[Black "alomar79"]
+[ECO "D02"]
+[ChesscomGameID "1444258714"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[BlackElo "1214"]
+[Termination "alomar79 won by resignation"]
+[WhiteElo "1220"]
+[TimeControl "10|0"]
+{Inaccuracies(?!): 1 = 10.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 10.0% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. Nf3 {(Book Move)}  h6 {(0.41)} 
+3. e3 {(0.41)}  a6 {(0.5)} 
+4. c4 {(0.42)}  dxc4 {(0.67)} 
+5. Bxc4 {(0.59)}  Nf6 {(0.56)} 
+6. Nc3 {(0.49)}  e6 {(0.46)} 
+7. Bd2 $6 {(0.22) INACCURACY - Perhaps better was 7. O-O} 
+({BEST MOVE (0.57)} 7. O-O b5 8. Be2 Bb7 9. a3 Be7 10. b4 O-O   $14)
+({INACCURACY (0.22)} 7. Bd2 b5 8. Bd3 Bb7 9. Qc2 c5 10. Ne4 Nxe4   $10)
+7... Nc6 {(0.62)} 
+8. O-O {(0.42)}  Be7 {(0.66)} 
+9. Re1 {(0.45)}  O-O {(0.55)} 
+10. Rc1 {(0.55)}  b5 {(0.73)} 
+11. Bd3 {(0.79)}  Nb4 {(1.11)} 
+12. a3 $4 {(-4.49) BLUNDER - You had a slight edge but threw it away with that last move. The best move was 12. Bb1} 
+({BEST MOVE (1.06)} 12. Bb1 Bb7 13. a3 Nc6 14. Ne4 Nd7 15. Qc2 g6   $16)
+({BLUNDER (-4.49)} 12. a3 Nxd3 13. Ne5 Nxc1 14. Nc6 Qd7 15. Nxe7+ Qxe7   $19)
+12... Nxd3 {(-4.47) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-4.47)} 12... Nxd3 13. Ne5 Nxc1 14. Nc6 Qd7 15. Nxe7+ Qxe7 16. Qxc1   $19)
+0-1
+

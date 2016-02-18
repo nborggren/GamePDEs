@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.23"]
+[White "mrbllonde"]
+[Black "Bogoliubon"]
+[ECO "C00"]
+[ChesscomGameID "1434047949"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "mrbllonde won by checkmate"]
+[WhiteElo "892"]
+[TimeControl "2|1"]
+[BlackElo "863"]
+{Inaccuracies(?!): 1 = 12.5% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. Nf3 {(Book Move)}  d5 {(Book Move)} 
+3. e5 {(Book Move)}  c5 {(Book Move)} 
+4. b4 {(Book Move)}  Nc6 {(0.1)} 
+5. bxc5 {(0.22)}  Bxc5 {(0.34)} 
+6. d4 {(0.3)}  Bb6 {(0.29)} 
+7. c3 {(0.39)}  Nge7 {(0.24)} 
+8. Bd3 {(0.37)}  Bd7 {(0.41)} 
+9. h4 {(0.06)}  Qc7 $6 {(0.39) INACCURACY - Perhaps better was 9... Rc8} 
+({BEST MOVE (0.05)} 9... Rc8 10. Nbd2 Na5 11. Bb2 h6 12. Rc1 O-O 13. O-O   $10)
+({INACCURACY (0.39)} 9... Qc7 10. Ba3 h6 11. O-O Na5 12. Bd6 Qd8 13. Nbd2   $14)
+10. Ng5 $4 {(-2.08) BLUNDER - Lucky you! Your opponent blundered! The best move was 10. Ba3} 
+({BEST MOVE (0.36)} 10. Ba3 h6 11. O-O Na5 12. Bd6 Qd8 13. Nbd2 Rc8   $14)
+({BLUNDER (-2.08)} 10. Ng5 Nxd4 11. O-O h6 12. Be3 Ndc6 13. Bxb6 axb6   $19)
+10... O-O {(+Mat04) FORCED_MATE - Bad news! Things were even and then suddenly you're faced with checkmate. You could have kept it even with 10... Nxd4} 
+({BEST MOVE (-1.76)} 10... Nxd4 11. O-O Ndf5 12. Nf3 Ng3 13. Re1 Nef5 14. Bf4   $19)
+({FORCED_MATE (+Mat04)} 10... O-O 11. Bxh7+ Kh8 12. Qh5 Ng8 13. Bxg8+ Kxg8 14. Qh7#   $18)
+11. Bxh7+ {(+Mat04)}  Kh8 
+12. Qh5 {(+Mat03)}  Nxd4 {(+Mat02)} 
+13. Bg8+ {(+Mat02)}  Kxg8 
+14. Qh7# {(+Mat01) WHITE WINS - Play might have continued...} 
+({CONTINUATION (+Mat01)} 14. Qh7#   $18)
+1-0
+

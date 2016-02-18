@@ -1,0 +1,63 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.31"]
+[White "ledfootlon"]
+[Black "Bogoliubon"]
+[ECO "C07"]
+[ChesscomGameID "1444533619"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "1212"]
+[BlackElo "1191"]
+[TimeControl "10|0"]
+[Termination "Bogoliubon won by checkmate"]
+{Inaccuracies(?!): 3 = 23.1% of moves | Mistakes(?): 3 = 23.1% of moves | Blunders(??): 1 = 7.7% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. Nd2 {(Book Move)}  c5 {(Book Move)} 
+4. Ngf3 {(Book Move)}  Nc6 {(0.26)} 
+5. c3 {(0.04)}  Be7 $6 {(0.38) INACCURACY - Perhaps better was 5... cxd4} 
+({BEST MOVE (0.03)} 5... cxd4 6. cxd4 Be7 7. e5 Nh6 8. Bd3 Nb4 9. Be2   $10)
+({INACCURACY (0.38)} 5... Be7 6. dxc5 Bxc5 7. Bd3 Nf6 8. O-O O-O 9. e5   $14)
+6. e5 {(-0.09)}  Nh6 $6 {(0.31) INACCURACY - Perhaps better was 6... cxd4} 
+({BEST MOVE (-0.1)} 6... cxd4 7. cxd4 Qb6 8. Bd3 Nxd4 9. O-O Nh6 10. Nxd4   $10)
+({INACCURACY (0.31)} 6... Nh6 7. dxc5 f5 8. exf6 Bxf6 9. Bd3 e5 10. O-O   $14)
+7. h3 {(-0.43)}  Qb6 $6 {(0.17) INACCURACY - Perhaps better was 7... cxd4} 
+({BEST MOVE (-0.38)} 7... cxd4 8. Nxd4 Nxe5 9. N2f3 Nxf3+ 10. Qxf3 a6 11. Bf4   $15)
+({INACCURACY (0.17)} 7... Qb6 8. dxc5 Bxc5 9. Qe2 O-O 10. Nb3 Be7 11. g4   $10)
+8. Nb3 {(-0.06)}  f6 $2 {(1.39) MISTAKE - With that last move you went from roughly equal to having a worse position. Your best continuation was 8... c4} 
+({BEST MOVE (0)} 8... c4 9. Nbd2 Nf5 10. Be2 O-O 11. O-O Bd7 12. b3   $10)
+({MISTAKE (1.39)} 8... f6 9. exf6 Bxf6 10. Nxc5 O-O 11. Be2 Nf5 12. Nd3   $16)
+9. Bxh6 {(1.11)}  gxh6 {(1.04)} 
+10. Nh4 $2 {(-0.73) MISTAKE - Your opponent made a mistake! Better was 10. dxc5} 
+({BEST MOVE (1.06)} 10. dxc5 Qc7 11. exf6 Bxf6 12. Be2 O-O 13. O-O a6   $16)
+({MISTAKE (-0.73)} 10. Nh4 c4 11. Qh5+ Kd8 12. exf6 Bxf6 13. Qxh6 Be7   $17)
+10... fxe5 $2 {(-0.05) MISTAKE - The game is now roughly equal. } 
+({BEST MOVE (-0.98)} 10... c4 11. Qh5+ Kd8 12. exf6 Bxf6 13. Qxh6 Be7 14. Ng6   $17)
+({MISTAKE (-0.05)} 10... fxe5 11. dxc5 Bxc5 12. Nxc5 Qxc5 13. Qh5+ Kd8 14. Qxh6   $10)
+11. Qh5+ {(-0.08)}  Kd8 {(-0.16)} 
+12. dxe5 $2 {(-2.14) MISTAKE - Your opponent made a mistake! Better was 12. dxc5} 
+({BEST MOVE (-0.23)} 12. dxc5 Bxc5 13. Nxc5 Qxc5 14. Qxh6 Rf8 15. f3 Bd7   $10)
+({MISTAKE (-2.14)} 12. dxe5 c4 13. Bxc4 dxc4 14. Nd4 Bd7 15. Nhf3 Nxd4   $19)
+12... c4 {(-2.16)} 
+13. Nd4 $4 {(-6.61) BLUNDER - Lucky you! Your opponent blundered! The best move was 13. Bxc4} 
+({BEST MOVE (-2.25)} 13. Bxc4 dxc4 14. Nd4 Bd7 15. Nhf3 Nxd4 16. Nxd4 Qxb2   $19)
+({BLUNDER (-6.61)} 13. Nd4 Qxb2 14. Nxc6+ bxc6 15. Rd1 Qxc3+ 16. Rd2 Rb8   $19)
+13... Nxd4 $4 {(-4.34) BLUNDER - Oh no - a blunder! You should have played 13... Qxb2} 
+({BEST MOVE (-6.82)} 13... Qxb2 14. Nxc6+ bxc6 15. Rd1 Qxc3+ 16. Rd2 Rb8 17. Be2   $19)
+({BLUNDER (-4.34)} 13... Nxd4 14. O-O-O Nb5 15. Nf3 Nxc3 16. bxc3 Ba3+ 17. Kd2   $19)
+14. cxd4 $4 {(-15.21) BLUNDER - Lucky you! Your opponent blundered! The best move was 14. O-O-O} 
+({BEST MOVE (-4.26)} 14. O-O-O Nb5 15. Nf3 Nxc3 16. bxc3 Ba3+ 17. Kd2 Qb2+   $19)
+({BLUNDER (-15.21)} 14. cxd4 Bb4+ 15. Ke2 Qxd4 16. Kf3 Rf8+ 17. Nf5 Rxf5+   $19)
+14... Qxb2 $2 {(-10.25) MISTAKE - That was a mistake. Much better was 14... Bb4+} 
+({BEST MOVE (-15.6)} 14... Bb4+ 15. Ke2 Qxd4 16. Kf3 Rf8+ 17. Nf5 Rxf5+ 18. Qxf5   $19)
+({MISTAKE (-10.25)} 14... Qxb2 15. Be2 Qxa1+ 16. Bd1 Qxd4 17. Qg4 Qxe5+ 18. Kf1   $19)
+15. Rd1 $4 {(-Mat02) BLUNDER - Lucky you! Your opponent blundered! The best move was 15. Be2} 
+({BEST MOVE (-10.34)} 15. Be2 Qxa1+ 16. Bd1 Qxd4 17. Qg4 Qxe5+ 18. Kf1 Rf8   $19)
+({BLUNDER (-Mat02)} 15. Rd1 Bb4+ 16. Rd2 Qxd2#   $19)
+15... Bb4+ {(-Mat02)} 
+16. Rd2  Qxd2# {(-Mat01) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-Mat01)} 16... Qxd2#   $19)
+0-1
+

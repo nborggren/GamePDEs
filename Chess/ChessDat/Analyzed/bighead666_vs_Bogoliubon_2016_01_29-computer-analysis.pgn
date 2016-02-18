@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.01.29"]
+[White "bighead666"]
+[Black "Bogoliubon"]
+[ECO "A40"]
+[ChesscomGameID "1442163059"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[TimeControl "10|0"]
+[Termination "bighead666 won by checkmate"]
+[BlackElo "1265"]
+[WhiteElo "1331"]
+{Inaccuracies(?!): 3 = 25.0% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 8.3% of moves}
+
+1. d4 {(Book Move)}  e6 {(Book Move)} 
+2. e3 {(0.06)}  d5 {(0.06)} 
+3. Bd3 {(0.1)}  Nf6 {(0.13)} 
+4. Nd2 {(0)}  c6 $6 {(0.33) INACCURACY - Perhaps better was 4... c5} 
+({BEST MOVE (-0.03)} 4... c5 5. b3 Nc6 6. Ngf3 Be7 7. O-O O-O 8. Bb2   $10)
+({INACCURACY (0.33)} 4... c6 5. Ngf3 c5 6. O-O c4 7. Be2 Bd6 8. c3   $14)
+5. f4 {(-0.21)}  Bd6 {(-0.18)} 
+6. Ngf3 {(-0.12)}  Qc7 $6 {(0.13) INACCURACY - Perhaps better was 6... c5} 
+({BEST MOVE (-0.17)} 6... c5 7. b3 Nc6 8. Bb2 Nb4 9. dxc5 Bxc5 10. Bd4   $10)
+({INACCURACY (0.13)} 6... Qc7 7. O-O O-O 8. b3 c5 9. Bb2 Nc6 10. Qe1   $10)
+7. O-O {(0.07)}  O-O {(0.08)} 
+8. Ne5 {(-0.07)}  c5 {(-0.06)} 
+9. c3 {(-0.04)}  Nc6 {(0.1)} 
+10. Rf3 {(-0.15)}  cxd4 $6 {(0.43) INACCURACY - Perhaps better was 10... g6} 
+({BEST MOVE (-0.03)} 10... g6 11. b3 b6 12. Bb2 Bb7 13. Rf1 Qe7 14. Qe2   $10)
+({INACCURACY (0.43)} 10... cxd4 11. exd4 Ne7 12. Rh3 g6 13. Ndf3 h5 14. Ng5   $14)
+11. exd4 {(0.26)}  Nd7 $4 {(6.94) BLUNDER - Oops! That was a serious blunder. From equal to losing in a flash. Best was 11... h5} 
+({BEST MOVE (0.3)} 11... h5 12. Rf2 Ne7 13. Ndf3 Nf5 14. Qc2 g6 15. Bd2   $10)
+({BLUNDER (6.94)} 11... Nd7 12. Bxh7+ Kh8 13. Rh3 Nf6 14. Qe1 g5 15. Bd3+   $18)
+12. Bxh7+ {(7.02)}  Kxh7 {(+Mat03) FORCED_MATE - Now checkmate is inevitable. Your best defense was 12... Kh8} 
+({BEST MOVE (6.77)} 12... Kh8 13. Rh3 Nf6 14. Qe1 g5 15. Bd3+ Kg7 16. fxg5   $18)
+({FORCED_MATE (+Mat03)} 12... Kxh7 13. Rh3+ Kg8 14. Qh5 Ncxe5 15. Qh7#   $18)
+13. Rh3+ {(+Mat03)}  Kg8 
+14. Qh5 {(+Mat02)}  Nxd4 {(+Mat01)} 
+15. Qh8# {(+Mat01) WHITE WINS - Play might have continued...} 
+({CONTINUATION (+Mat01)} 15. Qh8#   $18)
+1-0
+
