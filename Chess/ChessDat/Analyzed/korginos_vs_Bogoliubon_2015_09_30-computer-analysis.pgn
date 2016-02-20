@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.30"]
+[White "korginos"]
+[Black "Bogoliubon"]
+[ECO "C01"]
+[ChesscomGameID "1298673312"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[BlackElo "953"]
+[Termination "Bogoliubon won by resignation"]
+[TimeControl "2|1"]
+[WhiteElo "836"]
+{Inaccuracies(?!): 1 = 8.3% of moves | Mistakes(?): 2 = 16.7% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. d4 {(Book Move)}  d5 {(Book Move)} 
+3. exd5 {(Book Move)}  exd5 {(Book Move)} 
+4. Nf3 {(0.18)}  Nc6 {(0.31)} 
+5. Bb5 {(0.12)}  Bd7 $6 {(0.71) INACCURACY - With that last move you went from roughly equal to having a worse position. Your best continuation was 5... Bd6} 
+({BEST MOVE (0.18)} 5... Bd6 6. c4 dxc4 7. O-O Ne7 8. Bxc4 O-O 9. h3   $10)
+({INACCURACY (0.71)} 5... Bd7 6. O-O Bd6 7. c4 dxc4 8. Bxc4 Nf6 9. Re1+   $16)
+6. O-O {(0.9)}  Nf6 {(0.95)} 
+7. Re1+ {(1.04)}  Be7 {(0.99)} 
+8. c4 {(0.3)}  O-O {(0.29)} 
+9. cxd5 {(0.29)}  Nxd5 {(0.19)} 
+10. Qe2 {(-0.37)}  Re8 {(-0.5)} 
+11. Qc4 {(-0.77)}  Bg4 $2 {(0.07) MISTAKE - That was a mistake. Much better was 11... Nb6} 
+({BEST MOVE (-0.93)} 11... Nb6 12. Qc3 Bf6 13. Rxe8+ Qxe8 14. Be3 Rd8 15. Na3   $17)
+({MISTAKE (0.07)} 11... Bg4 12. Bxc6 bxc6 13. Ne5 Bd6 14. Nc3 Bxe5 15. dxe5   $10)
+12. Ne5 {(-0.17)}  Nxe5 {(-0.22)} 
+13. Bxe8 $4 {(-10.37) BLUNDER - Lucky you! Your opponent blundered! The best move was 13. dxe5} 
+({BEST MOVE (-0.16)} 13. dxe5 Bd7 14. Qxd5 c6 15. Bxc6 Bxc6 16. Qxd8 Raxd8   $10)
+({BLUNDER (-10.37)} 13. Bxe8 Nxc4 14. Bb5 Nd6 15. Ba4 Nb4 16. Nc3 Nd3   $19)
+13... Nxc4 {(-10.14)} 
+14. b3 $4 {(-13.57) BLUNDER - Lucky you! Your opponent blundered! The best move was 14. Bb5} 
+({BEST MOVE (-10.24)} 14. Bb5 Nd6 15. Bf1 Bh4 16. g3 Bf6 17. h3 Be6   $19)
+({BLUNDER (-13.57)} 14. b3 Bb4 15. Rf1 Nd6 16. Bxf7+ Kxf7 17. f3 Be6   $19)
+14... Nd6 $2 {(-12.13) MISTAKE - That was a mistake. Much better was 14... Bb4} 
+({BEST MOVE (-13.65)} 14... Bb4 15. Rf1 Nd6 16. Ba4 Be2 17. Nd2 Bxf1 18. Nxf1   $19)
+({MISTAKE (-12.13)} 14... Nd6 15. h3 Bf5 16. Re5 Nb4 17. Nc3 Nd3 18. Bxf7+   $19)
+15. Bxf7+ {(-12.92)}  Nxf7 {(-13.09) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-13.09)} 15... Nxf7 16. Bd2 Bg5 17. a3 Bf6 18. Nc3 Bxd4 19. Rac1   $19)
+0-1
+

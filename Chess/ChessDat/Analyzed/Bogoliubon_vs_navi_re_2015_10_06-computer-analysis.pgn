@@ -1,0 +1,47 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.10.06"]
+[White "Bogoliubon"]
+[Black "navi_re"]
+[ECO "D06"]
+[ChesscomGameID "1305412661"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[WhiteElo "911"]
+[Termination "navi_re won by resignation"]
+[TimeControl "2|1"]
+[BlackElo "824"]
+{Inaccuracies(?!): 3 = 27.3% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 1 = 9.1% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  Nf6 {(Book Move)} 
+3. e3 {(0.19)}  Bf5 {(0.43)} 
+4. Nf3 {(0.25)}  Bg4 {(0.89)} 
+5. Be2 $6 {(0.53) INACCURACY - Perhaps better was 5. Qb3} 
+({BEST MOVE (0.91)} 5. Qb3 e6 6. Qxb7 Nbd7 7. c5 Be7 8. Nc3 O-O   $16)
+({INACCURACY (0.53)} 5. Be2 dxc4 6. h3 Bxf3 7. Bxf3 c6 8. Na3 e6   $14)
+5... Bxf3 {(0.73)} 
+6. Bxf3 {(0.64)}  e6 {(0.82)} 
+7. cxd5 {(0.96)}  Nxd5 {(1.04)} 
+8. Nc3 {(0.97)}  Nxc3 {(0.96)} 
+9. bxc3 {(0.89)}  Nc6 $2 {(2.2) MISTAKE - Your opponent made a mistake! Better was 9... c6} 
+({BEST MOVE (0.91)} 9... c6 10. Rb1 Qc7 11. Qb3 b6 12. e4 Be7 13. e5   $16)
+({MISTAKE (2.2)} 9... Nc6 10. Rb1 Qc8 11. Qa4 Qd7 12. Rxb7 Nd8 13. Qa6   $18)
+10. O-O $6 {(1.48) INACCURACY - Perhaps better was 10. Rb1} 
+({BEST MOVE (2.16)} 10. Rb1 Qd7 11. Rxb7 Nd8 12. Rb1 Rc8 13. O-O c5   $18)
+({INACCURACY (1.48)} 10. O-O Bd6 11. Rb1 O-O 12. Rxb7 Na5 13. Rb1 Rc8   $16)
+10... Bd6 {(1.54)} 
+11. Qb3 $6 {(1.06) INACCURACY - Perhaps better was 11. Rb1} 
+({BEST MOVE (1.6)} 11. Rb1 Qc8 12. e4 Be7 13. e5 Rb8 14. Be3 O-O   $18)
+({INACCURACY (1.06)} 11. Qb3 Rb8 12. Bd2 O-O 13. c4 Qd7 14. Bc3 Rfd8   $16)
+11... O-O $2 {(2.9) MISTAKE - Your opponent made a mistake! Better was 11... Rb8} 
+({BEST MOVE (1.13)} 11... Rb8 12. Rb1 O-O 13. c4 Qd7 14. Bd2 Rfd8 15. Rfd1   $16)
+({MISTAKE (2.9)} 11... O-O 12. Qxb7 Na5 13. Qxa8 Qxa8 14. Bxa8 Rxa8 15. Rb1   $18)
+12. Bxc6 $4 {(0.31) BLUNDER - You slipped from a better position to an equal one. You should have played 12. Qxb7} 
+({BEST MOVE (3.07)} 12. Qxb7 Na5 13. Qxa8 Qxa8 14. Bxa8 Rxa8 15. Rb1 Rc8   $18)
+({BLUNDER (0.31)} 12. Bxc6 bxc6 13. Ba3 Rb8 14. Qa4 Qe7 15. Bxd6 cxd6   $14)
+12... bxc6 {(0.26)} 
+13. c4 {(0.06) BLACK WINS - Play might have continued...} 
+({CONTINUATION (0.06)} 13. c4 c5 14. dxc5 Rb8 15. Qc2 Bxc5 16. Bb2 Qe7   $10)
+0-1
+

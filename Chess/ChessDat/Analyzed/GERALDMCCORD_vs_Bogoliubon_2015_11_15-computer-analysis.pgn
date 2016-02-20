@@ -1,0 +1,73 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.11.15"]
+[White "GERALDMCCORD"]
+[Black "Bogoliubon"]
+[ECO ""]
+[ChesscomGameID "1351281433"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[BlackElo "893"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won by checkmate"]
+[WhiteElo "846"]
+{Inaccuracies(?!): 5 = 21.7% of moves | Mistakes(?): 1 = 4.3% of moves | Blunders(??): 1 = 4.3% of moves}
+
+1. g3 {(Book Move)}  e6 {(-0.03)} 
+2. Bg2 {(-0.13)}  d5 {(-0.12)} 
+3. b3 {(-0.33)}  c5 {(-0.08)} 
+4. Bb2 {(-0.17)}  Nc6 {(-0.25)} 
+5. Nf3 {(-0.25)}  Nf6 {(-0.25)} 
+6. O-O {(-0.26)}  Bd6 {(-0.07)} 
+7. e3 {(-0.32)}  Qe7 $6 {(0.39) INACCURACY - Perhaps better was 7... e5} 
+({BEST MOVE (-0.24)} 7... e5 8. d4 e4 9. Ne5 cxd4 10. exd4 Qe7 11. Nxc6   $10)
+({INACCURACY (0.39)} 7... Qe7 8. c4 dxc4 9. bxc4 e5 10. d3 O-O 11. Nc3   $14)
+8. d4 {(0.28)}  O-O {(0.16)} 
+9. dxc5 {(-0.28)}  Bxc5 {(-0.31)} 
+10. Nbd2 {(-0.31)}  Re8 $6 {(0) INACCURACY - Perhaps better was 10... e5} 
+({BEST MOVE (-0.31)} 10... e5 11. c4 Rd8 12. cxd5 Nxd5 13. Qe2 Ndb4 14. Ne4   $15)
+({INACCURACY (0)} 10... Re8 11. c4 Ba3 12. Bxa3 Qxa3 13. Nd4 Nxd4 14. exd4   $10)
+11. Nd4 {(-0.53)}  e5 {(-0.48)} 
+12. Nxc6 {(-0.49)}  bxc6 {(-0.43)} 
+13. a3 {(-0.54)}  Bg4 {(-0.57)} 
+14. Qe1 {(-0.59)}  Bf5 $6 {(-0.34) INACCURACY - Perhaps better was 14... a5} 
+({BEST MOVE (-0.73)} 14... a5 15. h3 Bf5 16. e4 Bg6 17. Qe2 Rad8 18. Rfe1   $17)
+({INACCURACY (-0.34)} 14... Bf5 15. b4 Bb6 16. e4 Bg6 17. c4 Rab8 18. cxd5   $15)
+15. b4 {(-0.35)}  Bb6 {(-0.39)} 
+16. e4 {(-0.46)}  dxe4 $6 {(-0.14) INACCURACY - Perhaps better was 16... Bg6} 
+({BEST MOVE (-0.53)} 16... Bg6 17. c4 d4 18. c5 Bc7 19. Nc4 a5 20. f3   $15)
+({INACCURACY (-0.14)} 16... dxe4 17. Nxe4 Nxe4 18. Bxe4 Qe6 19. Bxf5 Qxf5 20. Qe2   $10)
+17. Bxe4 $2 {(-1.94) MISTAKE - Your opponent made a mistake! Better was 17. Nxe4} 
+({BEST MOVE (-0.07)} 17. Nxe4 Qe6 18. Nxf6+ Qxf6 19. a4 Bxc2 20. Qc3 Qg6   $10)
+({MISTAKE (-1.94)} 17. Bxe4 Nxe4 18. Nxe4 Bh3 19. Rd1 Red8 20. Qe2 Bxf1   $19)
+17... Bh3 $2 {(-0.27) MISTAKE - That was a mistake. Much better was 17... Nxe4} 
+({BEST MOVE (-1.89)} 17... Nxe4 18. Nxe4 Bh3 19. Rd1 Red8 20. Qe2 Bxf1 21. Rxf1   $19)
+({MISTAKE (-0.27)} 17... Bh3 18. Bg2 Bxg2 19. Kxg2 Qe6 20. Ne4 Qd5 21. f3   $10)
+18. Bxc6 $2 {(-1.78) MISTAKE - Your opponent made a mistake! Better was 18. Bg2} 
+({BEST MOVE (-0.32)} 18. Bg2 Bxg2 19. Kxg2 Qd7 20. Ne4 Qd5 21. f3 Nxe4   $15)
+({MISTAKE (-1.78)} 18. Bxc6 Rac8 19. b5 Rxc6 20. bxc6 Qc5 21. Nf3 Qxc6   $19)
+18... Bxf1 $4 {(-0.13) BLUNDER - Oh no - a blunder! You should have played 18... Rac8} 
+({BEST MOVE (-2.15)} 18... Rac8 19. b5 Rxc6 20. bxc6 Qc5 21. Qe2 Qxc6 22. Nf3   $19)
+({BLUNDER (-0.13)} 18... Bxf1 19. Nxf1 Rac8 20. Bxe8 Rxc2 21. Ne3 Rxb2 22. Bc6   $10)
+19. Bxa8 {(-0.52)}  Bh3 {(-0.25)} 
+20. Bc6 $2 {(-1.77) MISTAKE - Your opponent made a mistake! Better was 20. Bh1} 
+({BEST MOVE (-0.29)} 20. Bh1 Ng4 21. Ne4 Rc8 22. Qe2 f5 23. c4 fxe4   $10)
+({MISTAKE (-1.77)} 20. Bc6 Ng4 21. Qe2 Rc8 22. Bf3 Nxf2 23. Nb3 Bf5   $19)
+20... Rc8 $6 {(-0.98) INACCURACY - Perhaps better was 20... Ng4} 
+({BEST MOVE (-1.77)} 20... Ng4 21. Qe2 Rc8 22. Bf3 Nxf2 23. Nb3 Bf5 24. Bd4   $19)
+({INACCURACY (-0.98)} 20... Rc8 21. Bf3 Rxc2 22. Bxe5 Rxd2 23. Qxd2 Qxe5 24. Re1   $17)
+21. Bh1 $4 {(-4.86) BLUNDER - Lucky you! Your opponent blundered! The best move was 21. Bf3} 
+({BEST MOVE (-0.93)} 21. Bf3 Rxc2 22. Bxe5 Rxd2 23. Qxd2 Qxe5 24. Re1 Qb5   $17)
+({BLUNDER (-4.86)} 21. Bh1 Rxc2 22. Bf3 Rxb2 23. Rb1 Ra2 24. Ra1 Qe6   $19)
+21... Rxc2 {(-5.11)} 
+22. Rb1 $4 {(-7.49) BLUNDER - Lucky you! Your opponent blundered! The best move was 22. Bf3} 
+({BEST MOVE (-5.06)} 22. Bf3 Rxb2 23. Rb1 Rc2 24. Rc1 Qc7 25. Rxc2 Qxc2   $19)
+({BLUNDER (-7.49)} 22. Rb1 Ng4 23. Be4 Qf6 24. Qe2 Qxf2+ 25. Qxf2 Bxf2+   $19)
+22... Ng4 {(-8.24)} 
+23. Qd1 $4 {(-Mat01) BLUNDER - Lucky you! Your opponent blundered! The best move was 23. Ne4} 
+({BEST MOVE (-9.36)} 23. Ne4 Nxf2 24. Nc5 Rxc5 25. Bd4 Rc1 26. Rxc1 Bxd4   $19)
+({BLUNDER (-Mat01)} 23. Qd1 Bxf2#   $19)
+23... Bxf2# {(-Mat01) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-Mat01)} 23... Bxf2#   $19)
+0-1
+

@@ -1,0 +1,51 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.10.06"]
+[White "Bogoliubon"]
+[Black "kaushikjnd"]
+[ECO "A43"]
+[ChesscomGameID "1304488005"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[TimeControl "2|1"]
+[WhiteElo "943"]
+[BlackElo "788"]
+[Termination "Bogoliubon won on time"]
+{Inaccuracies(?!): 4 = 21.1% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  c5 {(Book Move)} 
+2. d5 {(Book Move)}  e6 {(Book Move)} 
+3. e4 {(Book Move)}  d6 {(0.62)} 
+4. Nf3 {(0.53)}  Nf6 {(0.5)} 
+5. Bg5 $6 {(0.1) INACCURACY - Perhaps better was 5. Bd3} 
+({BEST MOVE (0.5)} 5. Bd3 Be7 6. c4 exd5 7. cxd5 O-O 8. O-O Nbd7   $14)
+({INACCURACY (0.1)} 5. Bg5 Be7 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. Nc3 O-O   $10)
+5... Be7 {(0.05)} 
+6. Bc4 $6 {(-0.6) INACCURACY - Perhaps better was 6. Bb5+} 
+({BEST MOVE (0.11)} 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. Nc3 O-O 9. Bxf6 Nxf6   $10)
+({INACCURACY (-0.6)} 6. Bc4 Nxe4 7. Bxe7 Qxe7 8. O-O O-O 9. Qd3 Nf6   $15)
+6... exd5 {(0.08)} 
+7. Bxf6 $6 {(-0.37) INACCURACY - Perhaps better was 7. exd5} 
+({BEST MOVE (0.08)} 7. exd5 Nbd7 8. Nc3 O-O 9. O-O h6 10. Bf4 Nb6   $10)
+({INACCURACY (-0.37)} 7. Bxf6 Bxf6 8. Qxd5 O-O 9. Nc3 Nc6 10. Qd3 Be6   $15)
+7... Bxf6 {(-0.37)} 
+8. Qxd5 {(-0.47)}  O-O {(-0.41)} 
+9. c3 {(-0.55)}  Nc6 {(-0.38)} 
+10. Na3 {(-0.4)}  Be6 {(-0.12)} 
+11. Qd3 {(-0.14)}  a6 {(-0.13)} 
+12. O-O {(-0.08)}  b5 {(-0.08)} 
+13. Bxe6 {(-0.08)}  fxe6 {(-0.14)} 
+14. Nc2 {(-0.09)}  Ne5 {(0.13)} 
+15. Nxe5 {(0.18)}  Bxe5 {(0.15)} 
+16. Ne3 {(0)}  Qh4 {(0.23)} 
+17. g3 {(0.23)}  Qe7 {(0.34)} 
+18. Ng4 {(0.45)}  c4 {(0.36)} 
+19. Qe3 {(0.33)}  Bf6 {(0.6)} 
+20. Nxf6+ {(0.41)}  Qxf6 {(0.47)} 
+21. Rad1 {(0.5)}  Rad8 {(0.88)} 
+22. Rd4 $6 {(0.33) WHITE WINS - Play might have continued...} 
+({BEST MOVE (0.82)} 22. Qb6 Qe5 23. Qxa6 Qc5 24. Rd4 Rf7 25. a4 bxa4   $16)
+({INACCURACY (0.33)} 22. Rd4 Qe7 23. Rfd1 Qc7 24. Qd2 Qc5 25. Kg2 Rd7   $14)
+({CONTINUATION (0.33)} 22. Rd4 Qe7 23. Rfd1 Qc7 24. Qd2 Qc5 25. Kg2 Rd7   $14)
+1-0
+

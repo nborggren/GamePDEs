@@ -1,0 +1,46 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.11.15"]
+[White "Bogoliubon"]
+[Black "Javapps"]
+[ECO "E20"]
+[ChesscomGameID "1351277728"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[BlackElo "888"]
+[TimeControl "2|1"]
+[Termination "Bogoliubon won on time"]
+[WhiteElo "886"]
+{Inaccuracies(?!): 2 = 12.5% of moves | Mistakes(?): 0 = 0.0% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  Nf6 {(Book Move)} 
+2. c4 {(Book Move)}  e6 {(Book Move)} 
+3. Nc3 {(Book Move)}  Bb4 {(Book Move)} 
+4. Bd2 {(0.13)}  d5 {(0.25)} 
+5. e3 {(0.2)}  c6 {(0.55)} 
+6. Nf3 {(0.39)}  Bxc3 {(0.73)} 
+7. Bxc3 {(0.71)}  O-O {(0.67)} 
+8. Bd3 {(0.63)}  Ne4 {(0.81)} 
+9. Qc2 {(0.71)}  f5 {(0.92)} 
+10. O-O {(0.89)}  Nd7 {(0.86)} 
+11. cxd5 {(0.63) ALTERNATIVE - You slipped from a better position to an equal one. You should have played 11. Be1} 
+({BEST MOVE (0.88)} 11. Be1 Qe7 12. Rc1 a5 13. Nd2 b6 14. cxd5 cxd5   $16)
+({ALTERNATIVE (0.63)} 11. cxd5 exd5 12. Bb4 Re8 13. Ba3 Qc7 14. Rac1 Ndf6   $14)
+11... exd5 {(0.7)} 
+12. Rac1 {(0.51)}  Ndf6 {(0.72)} 
+13. Bb4 {(0.72)}  Rf7 {(1.59)} 
+14. Ne5 {(1.44)}  Rc7 {(1.6)} 
+15. f3 {(1.46)}  Nd6 {(1.41)} 
+16. f4 $6 {(0.51) INACCURACY - You slipped from a better position to an equal one. You should have played 16. h3} 
+({BEST MOVE (1.36)} 16. h3 Be6 17. g4 Nfe8 18. Qf2 Rac8 19. b3 g6   $16)
+({INACCURACY (0.51)} 16. f4 Nfe4 17. a4 Be6 18. a5 Rac8 19. g3 c5   $14)
+16... Nde4 {(0.5)} 
+17. Rf3 {(0.42)}  Nd7 {(0.7)} 
+18. Rh3 $6 {(0.25) INACCURACY - Perhaps better was 18. Bxe4} 
+({BEST MOVE (0.88)} 18. Bxe4 fxe4 19. Rf2 Nf6 20. h3 a5 21. Bc5 Ra6   $16)
+({INACCURACY (0.25)} 18. Rh3 Nxe5 19. fxe5 b6 20. Ba3 Be6 21. b4 Rac8   $10)
+18... Nxe5 {(0.27)} 
+19. fxe5 {(0.21) WHITE WINS - Play might have continued...} 
+({CONTINUATION (0.21)} 19. fxe5 b6 20. Ba3 Be6 21. b4 Rac8 22. Ba6 Rb8   $10)
+1-0
+
