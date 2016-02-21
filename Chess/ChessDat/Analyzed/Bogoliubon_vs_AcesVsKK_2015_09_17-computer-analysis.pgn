@@ -1,0 +1,69 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.17"]
+[White "Bogoliubon"]
+[Black "AcesVsKK"]
+[ECO "D10"]
+[ChesscomGameID "1284133402"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "0-1"]
+[TimeControl "10|0"]
+[Termination "AcesVsKK won by resignation"]
+[BlackElo "1288"]
+[WhiteElo "1250"]
+{Inaccuracies(?!): 1 = 4.8% of moves | Mistakes(?): 2 = 9.5% of moves | Blunders(??): 1 = 4.8% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  c6 {(Book Move)} 
+3. Nc3 {(Book Move)}  e6 {(0.41)} 
+4. Nf3 {(0.31)}  Nf6 {(0.38)} 
+5. e3 {(0.36)}  a6 {(0.38)} 
+6. Bd3 {(0.25)}  c5 {(0.34)} 
+7. Qe2 $6 {(0.02) INACCURACY - Perhaps better was 7. cxd5} 
+({BEST MOVE (0.56)} 7. cxd5 exd5 8. O-O cxd4 9. exd4 Be7 10. Bf4 Nc6   $14)
+({INACCURACY (0.02)} 7. Qe2 dxc4 8. Bxc4 b5 9. Bd3 c4 10. Bc2 Bb7   $10)
+7... cxd4 {(0.09)} 
+8. exd4 {(0.18)}  Bd7 {(1.01)} 
+9. cxd5 {(1.22)}  Be7 {(1.27)} 
+10. dxe6 {(1.23)}  Bxe6 {(1.48)} 
+11. O-O {(1.21)}  O-O {(1.28)} 
+12. Bg5 {(0.97)}  b5 $4 {(4.47) BLUNDER - Lucky you! Your opponent blundered! The best move was 12... Nc6} 
+({BEST MOVE (1.04)} 12... Nc6 13. Rad1 Re8 14. Rfe1 h6 15. Bxf6 Bxf6 16. Qe4   $16)
+({BLUNDER (4.47)} 12... b5 13. Bxf6 Bxf6 14. Qe4 g6 15. Qxa8 b4 16. Ne4   $18)
+13. Bxf6 {(4.66)}  Bxf6 {(4.89)} 
+14. Qe4 {(4.84)}  Re8 $2 {(5.94) MISTAKE - Your opponent made a mistake! Better was 14... Bf5} 
+({BEST MOVE (4.79)} 14... Bf5 15. Qxf5 g6 16. Qe4 Ra7 17. a4 b4 18. Nd5   $18)
+({MISTAKE (5.94)} 14... Re8 15. Qxh7+ Kf8 16. d5 Bd7 17. Rae1 Rxe1 18. Rxe1   $18)
+15. Qxh7+ {(6)}  Kf8 
+16. Rfe1 $2 {(5.31) MISTAKE - That was a mistake. Much better was 16. d5} 
+({BEST MOVE (6.55)} 16. d5 Bxc3 17. bxc3 Nc6 18. dxc6 Qf6 19. a4 Qh6   $18)
+({MISTAKE (5.31)} 16. Rfe1 Nc6 17. Be4 Ne7 18. Bxa8 Qxa8 19. Ne4 Ng6   $18)
+16... Bxd4 $4 {(7.1) BLUNDER - Lucky you! Your opponent blundered! The best move was 16... Nc6} 
+({BEST MOVE (4.92)} 16... Nc6 17. Be4 Ne7 18. Bxa8 Qxa8 19. Qh8+ Ng8 20. Ne4   $18)
+({BLUNDER (7.1)} 16... Bxd4 17. Nxd4 Qxd4 18. Rad1 g5 19. Be4 Qg7 20. Qxg7+   $18)
+17. Nxd4 {(7.06)}  Qxd4 {(7.18)} 
+18. Be4 {(7.89)}  Ra7 $2 {(8.96) MISTAKE - Your opponent made a mistake! Better was 18... Nd7} 
+({BEST MOVE (7.93)} 18... Nd7 19. Rad1 Qf6 20. Bxa8 Qh6 21. Qxh6 gxh6 22. Bc6   $18)
+({MISTAKE (8.96)} 18... Ra7 19. Rad1 Qc5 20. Nd5 f5 21. Bxf5 Qc6 22. Bxe6   $18)
+19. Rad1 {(9.1)}  Qf6 $2 {(+Mat14) MISTAKE - Your opponent made a mistake! Better was 19... Qc5} 
+({BEST MOVE (9.03)} 19... Qc5 20. Nd5 f5 21. Bxf5 Qc6 22. Bxe6 Rxe6 23. Qf5+   $18)
+({MISTAKE (+Mat14)} 19... Qf6 20. Qh8+ Ke7 21. Nd5+ Bxd5 22. Bxd5+ Kd7 23. Qxe8+ Kc7 24. Re7+ Qxe7 25. Qxe7+ Kb6 26. Qd8+ Kc5 27. Qf8+ Kb6 28. Qxb8+ Kc5 29. Qxa7+ Kd6 30. Bf3+ Ke6 31. Qb6+ Kf5 32. Rd5+ Kf4 33. Qe3#   $18)
+20. Bc6 {(4.42) FORCED_MATE - You can force checkmate with 20. Qh8+} 
+({BEST MOVE (+Mat14)} 20. Qh8+ Ke7 21. Nd5+ Bxd5 22. Bxd5+ Kd7 23. Qxe8+ Kc7 24. Re7+ Qxe7 25. Qxe7+ Kb6 26. Qd8+ Kc5 27. Qf8+ Kb6 28. Qxb8+ Kc5 29. Qxa7+ Kd6 30. Bf3+ Ke6 31. Qb6+ Kf5 32. Rd5+ Kf4 33. Qe3#   $18)
+({FORCED_MATE (4.42)} 20. Bc6 Qh6 21. Qxh6 gxh6 22. Bxe8 Kxe8 23. f4 Re7   $18)
+20... Nxc6 $4 {(17.02) BLUNDER - Lucky you! Your opponent blundered! The best move was 20... Qh6} 
+({BEST MOVE (4.75)} 20... Qh6 21. Qxh6 gxh6 22. Bxe8 Kxe8 23. f4 Re7 24. Rd6   $18)
+({BLUNDER (17.02)} 20... Nxc6 21. Qh8+ Ke7 22. Nd5+ Kd6 23. Nxf6+ Kc5 24. Nxe8   $18)
+21. Qd3 $4 {(-2.58) BLUNDER - Oh no - a blunder! You should have played 21. Qh8+} 
+({BEST MOVE (18.01)} 21. Qh8+ Ke7 22. Nd5+ Kd6 23. Nxf6+ Kc7 24. Nxe8+ Kb6   $18)
+({BLUNDER (-2.58)} 21. Qd3 Rd7 22. Qe3 Rxd1 23. Rxd1 Bf5 24. Qc5+ Qe7   $19)
+21... Rd7 {(-2.77)} 
+22. Qc2 {(-2.81)}  Rxd1 {(-2.91)} 
+23. Rxd1 {(-2.96)}  Nd4 {(-2.85)} 
+24. Qd3 $2 {(-4.08) MISTAKE - Your position is getting even worse - you are now losing. The best line was 24. Qh7} 
+({BEST MOVE (-2.88)} 24. Qh7 Rd8 25. Qh8+ Ke7 26. Qh5 Qf5 27. Qxf5 Bxf5   $19)
+({MISTAKE (-4.08)} 24. Qd3 Bc4 25. Qh3 g6 26. b4 Ne2+ 27. Nxe2 Rxe2   $19)
+24... Rd8 {(-3.35) BLACK WINS - Play might have continued...} 
+({CONTINUATION (-3.35)} 24... Rd8 25. Ne4 Qe5 26. Qe3 b4 27. Kh1 Bxa2 28. f4   $19)
+0-1
+

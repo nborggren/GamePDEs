@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.06"]
+[White "betonrepa"]
+[Black "Bogoliubon"]
+[ECO "C00"]
+[ChesscomGameID "1271634061"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "betonrepa won by resignation"]
+[TimeControl "2|1"]
+[WhiteElo "987"]
+[BlackElo "1003"]
+{Inaccuracies(?!): 1 = 12.5% of moves | Mistakes(?): 1 = 12.5% of moves | Blunders(??): 1 = 12.5% of moves}
+
+1. e4 {(Book Move)}  e6 {(Book Move)} 
+2. Nf3 {(Book Move)}  d5 {(Book Move)} 
+3. e5 {(Book Move)}  c5 {(Book Move)} 
+4. d4 {(-0.25)}  Nc6 {(0.02)} 
+5. Be3 {(-0.44)}  Nge7 {(-0.26)} 
+6. Bb5 {(-0.52)}  Bd7 {(-0.5)} 
+7. dxc5 {(-0.43)}  Nf5 {(-0.47)} 
+8. Bg5 {(-0.88)}  Qa5+ {(-0.8)} 
+9. Nc3 {(-0.87)}  Be7 $2 {(0.45) MISTAKE - You slipped from a better position to an equal one. You should have played 9... Bxc5} 
+({BEST MOVE (-0.87)} 9... Bxc5 10. a3 Qb6 11. Qe2 a6 12. Na4 Bxf2+ 13. Qxf2   $17)
+({MISTAKE (0.45)} 9... Be7 10. Bxe7 Nfxe7 11. a3 a6 12. b4 Qc7 13. Bxc6   $14)
+10. Bd2 {(0.1)}  d4 $6 {(0.48) INACCURACY - Perhaps better was 10... Qc7} 
+({BEST MOVE (0.01)} 10... Qc7 11. O-O Rc8 12. Bd3 Nfd4 13. Nxd4 Nxd4 14. Re1   $10)
+({INACCURACY (0.48)} 10... d4 11. Nd5 Qd8 12. Nxe7 Qxe7 13. O-O Qxc5 14. Bd3   $14)
+11. Nd5 {(0.42)}  Qc7 $4 {(14.61) WHITE WINS - Play might have continued...} 
+({BEST MOVE (0.46)} 11... Qd8 12. Nxe7 Qxe7 13. b4 Nxe5 14. Bg5 f6 15. Nxe5   $14)
+({BLUNDER (14.61)} 11... Qc7 12. Nxc7+ Kd8 13. Nxa8 Kc8 14. g4 Nh4 15. Nxh4   $18)
+({CONTINUATION (14.61)} 11... Qc7 12. Nxc7+ Kd8 13. Nxa8 Kc8 14. g4 Nh4 15. Nxh4   $18)
+1-0
+

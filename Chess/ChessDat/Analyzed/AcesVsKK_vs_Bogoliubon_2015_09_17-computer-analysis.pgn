@@ -1,0 +1,53 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.09.17"]
+[White "AcesVsKK"]
+[Black "Bogoliubon"]
+[ECO "A40"]
+[ChesscomGameID "1284129109"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "AcesVsKK won by resignation"]
+[BlackElo "1258"]
+[TimeControl "10|0"]
+[WhiteElo "1281"]
+{Inaccuracies(?!): 0 = 0.0% of moves | Mistakes(?): 1 = 5.9% of moves | Blunders(??): 1 = 5.9% of moves}
+
+1. d4 {(Book Move)}  e6 {(Book Move)} 
+2. e3 {(0.06)}  d5 {(0.06)} 
+3. c4 {(0.15)}  c5 {(0.12)} 
+4. Nf3 {(0.13)}  Nf6 {(0.07)} 
+5. Nc3 {(0.08)}  Nc6 {(0.08)} 
+6. cxd5 {(0.1)}  exd5 {(0.13)} 
+7. dxc5 {(-0.08)}  Bxc5 {(-0.09)} 
+8. Bb5 {(-0.24)}  O-O {(-0.33)} 
+9. O-O {(-0.29)}  Bg4 {(0)} 
+10. Bxc6 {(-0.49)}  bxc6 {(-0.46)} 
+11. h3 {(-0.55)}  Bh5 {(-0.71)} 
+12. Na4 {(-1.51)}  Bd6 {(-1.55)} 
+13. b3 $2 {(-2.43) MISTAKE - Your opponent made a mistake! Better was 13. Qc2} 
+({BEST MOVE (-1.13)} 13. Qc2 Qd7 14. Nd4 Rfc8 15. Nc3 c5 16. Nde2 Rab8   $17)
+({MISTAKE (-2.43)} 13. b3 Ne4 14. g4 Bg6 15. Bb2 f5 16. b4 fxg4   $19)
+13... Re8 $2 {(-0.9) MISTAKE - That was a mistake. Much better was 13... Ne4} 
+({BEST MOVE (-2.55)} 13... Ne4 14. g4 Bg6 15. b4 f5 16. Bb2 fxg4 17. hxg4   $19)
+({MISTAKE (-0.9)} 13... Re8 14. Bb2 Ne4 15. g4 Bg6 16. Rc1 Rc8 17. Qd4   $17)
+14. Bb2 {(-0.81)}  Ne4 {(-0.99)} 
+15. g4 {(-0.95)}  Bg6 {(-1.03)} 
+16. Ne1 $4 {(-6.27) BLUNDER - Lucky you! Your opponent blundered! The best move was 16. Qd4} 
+({BEST MOVE (-0.87)} 16. Qd4 f6 17. Nh4 Ng5 18. Kg2 Be4+ 19. f3 h5   $17)
+({BLUNDER (-6.27)} 16. Ne1 Qh4 17. f4 Ng3 18. Rf2 Qxh3 19. Qf3 Rxe3   $19)
+16... Qh4 {(-6.41)} 
+17. Ng2 $2 {(-7.35) MISTAKE - Your opponent made a mistake! Better was 17. f4} 
+({BEST MOVE (-6.2)} 17. f4 Ng3 18. Rf3 Qxh3 19. Rxg3 Qxg3+ 20. Ng2 Be4   $19)
+({MISTAKE (-7.35)} 17. Ng2 Qxh3 18. f4 Ng3 19. Nc3 Be4 20. Rf3 Ne2+   $19)
+17... Qxh3 {(-8.02)} 
+18. Nf4 $4 {(-17.41) BLUNDER - Lucky you! Your opponent blundered! The best move was 18. f4} 
+({BEST MOVE (-7.87)} 18. f4 Ng3 19. Nc3 Be4 20. Rf3 Ne2+ 21. Nxe2 Bxf3   $19)
+({BLUNDER (-17.41)} 18. Nf4 Bxf4 19. exf4 Ng3 20. Qf3 Ne2+ 21. Qxe2 Rxe2   $19)
+18... Qxg4+ $4 {(8.18) BLUNDER - Don't punish yourself too badly, but you were winning, and now you are losing. You should have played 18... Bxf4} 
+({BEST MOVE (-17.76)} 18... Bxf4 19. exf4 Ng3 20. Qf3 Ne2+ 21. Qxe2 Rxe2 22. Nc5   $19)
+({BLUNDER (8.18)} 18... Qxg4+ 19. Qxg4 Bxf4 20. exf4 h5 21. Qh3 Nd6 22. Rac1   $18)
+19. Qxg4 {(8.27) WHITE WINS - Play might have continued...} 
+({CONTINUATION (8.27)} 19. Qxg4 Bxf4 20. exf4 h5 21. Qh3 Nd6 22. Rac1 Rec8   $18)
+1-0
+
