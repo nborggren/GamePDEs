@@ -1,0 +1,249 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[180]OT[5x20 byo-yomi]
+DT[2009-12-06]PC[The KGS Go Server at http://www.gokgs.com/]
+;AW[dn][eo][go][ho][cq][eq][fq][iq][cr][ir]AB[cj][cm][cn][cp][dp][gp][bq][gq][br][fr][hr]C[Bogoliubon [1k\]: black's turn naturally
+Joven [-\]: ok I got it
+Joven [-\]: want the answer?
+Bogoliubon [1k\]: yeah
+Bogoliubon [1k\]: the solution in the book says c1, but they only consider the d2 response.
+Joven [-\]: yeah seems so
+Bogoliubon [1k\]: try this one.
+logicg8 [3k\]: w to play b seems too easy
+logicg8 [3k\]: ?
+FlameBlade [-\]: this one?
+Bogoliubon [1k\]: it's black's turn
+Bogoliubon [1k\]: yeah
+Bogoliubon [1k\]: do you have it Dan?
+FlameBlade [-\]: I'm still thinking
+FlameBlade [-\]: this is a classic problem
+FlameBlade [-\]: C1 is definite
+Bogoliubon [1k\]: sorry to spoil it then
+logicg8 [3k\]: I was trying to make d3 work, but I think I've read all the failures now
+FlameBlade [-\]: hrm
+]
+(;B[cs]C[FlameBlade [-\]: but I'm checking all variations
+Bogoliubon [1k\]: this how you started to Adam?
+logicg8 [3k\]: nope
+FlameBlade [-\]: is there a stone at H3?
+FlameBlade [-\]: or no?
+Bogoliubon [1k\]: I don't think so.
+FlameBlade [-\]: ok
+FlameBlade [-\]: <--- has a non-ko variation if there is a stone at H3.
+FlameBlade [-\]: hee hee
+FlameBlade [-\]: black stone, that is
+FlameBlade [-\]: but somehow, I'm not satisified with ko variation
+FlameBlade [-\]: still readin
+Bogoliubon [1k\]: let me see if I can see what you see with h3 stone in place.  I'm not satisfied with the ko variation either...
+logicg8 [3k\]: I can't find the ko you guys are talking about
+logicg8 [3k\]: b just seems connected
+Bogoliubon [1k\]: how do you proceed Adam?
+logicg8 [3k\]: for whom? w?
+logicg8 [3k\]: if w d2 then e2
+Bogoliubon [1k\]: yeah
+Bogoliubon [1k\]: right, that's what lee changho marks as the solution
+Bogoliubon [1k\]: but if w d1?
+Bogoliubon [1k\]: it's been driving me mad for days
+FlameBlade [-\]: here's what I think
+FlameBlade [-\]: control?
+FlameBlade [-\]: so I think ko works the best.
+FlameBlade [-\]: so yeah, seems like ko is the solution
+FlameBlade [-\]: just surprised that a pro didn't cover D1
+Bogoliubon [1k\]: ok, I'm glad to hear that.
+FlameBlade [-\]: D1 is definitely the most complicated variation
+FlameBlade [-\]: in fact
+Bogoliubon [1k\]: yeah I thought it strange too
+FlameBlade [-\]: D2 and D1 deserves equal attention
+FlameBlade [-\]: if I run across this problem...I'll try to fill you in
+FlameBlade [-\]: with any details that I'm missing
+logicg8 [3k\]: is it listed on SL?
+Bogoliubon [1k\]: thanks, you said you've seen this 'classic problem' before
+FlameBlade [-\]: I think this appears in Xuan Xuan
+FlameBlade [-\]: but I have to dig around
+FlameBlade [-\]: this is definitely a classic problem
+Bogoliubon [1k\]: I'll look too.  very often stones go missing in translation.  I've got a Ma Xiaochun book where white regularly plays black stones
+FlameBlade [-\]: haha
+Bogoliubon [1k\]: a black stone with an even number on it is cause for suspicion.
+FlameBlade [-\]: indeed
+Bogoliubon [1k\]: thanks for having a look, I'm a bit more at peace now, I didn't notice the significance of h3 before either.
+FlameBlade [-\]: no problem
+Bogoliubon [1k\]: care to look at another pro game anyone?
+FlameBlade [-\]: I'm going to bed pretty soon
+logicg8 [3k\]: sure one last one
+logicg8 [3k\]: I need to go to bed soon as well
+Bogoliubon [1k\]: alright.  how about you find one, I'll grab a drink really quick
+]
+(;W[ds]C[Bogoliubon [1k\]: then what
+Joven [-\]: D2
+Joven [-\]: oh duh
+Joven [-\]: cintrol
+Bogoliubon [1k\]: that's all I can see too.  e1 seems the same
+Joven [-\]: pros can be wrong i guess
+Bogoliubon [1k\]: I just wanted a second opinion before I drew the 'Lee Changho is wrong' conclusion
+Bogoliubon [1k\]: oh, here's some news, Jin hired me.
+Joven [-\]: have fun ;p
+Joven [-\]: still it can be good stuff just avoid his bs
+Joven [-\]: but anyways good news
+Bogoliubon [1k\]: I'll do my best.  Thanks, whatever it is it's better then the bullshit of work for a year for an opportunity that doesn't come up.
+Bogoliubon [1k\]: how are things in the homestead?
+Joven [-\]: pretty good
+Joven [-\]: baby was napping on me while I worked on this problem
+Bogoliubon [1k\]: beautiful.  it must be pretty nice.
+Joven [-\]: nice and tiring
+Joven [-\]: so I see adam gave you a ran for you money at two stones
+Bogoliubon [1k\]: I'm sure.  
+Bogoliubon [1k\]: yeah, I can beat him with three stones, but with two, I have so many options I confuse myself
+Joven [-\]: yeah I saw in the one game that you killed him one place.. and just wanted to kill him too much elsewhere
+Bogoliubon [1k\]: yeah, I suck online.
+Bogoliubon [1k\]: and offline, but online moreso.
+Joven [-\]: we all suck at go so its ok
+Bogoliubon [1k\]: do you have a game in you this week?
+Joven [-\]: yeah probably
+Bogoliubon [1k\]: I best run now. 
+Joven [-\]: ok ttyl
+Bogoliubon [1k\]: thanks for the look at the problem
+logicg8 [3k\]: d2
+FlameBlade [-\]: what did Lee Chang Ho say?
+FlameBlade [-\]: so question is...is there any variations that we're missing?
+]
+(;B[dr]
+;W[bs]C[Joven [-\]: E1
+]
+;B[es]
+;W[dq]C[Joven [-\]: C1
+Joven [-\]: c1
+]
+;B[cs]C[Bogoliubon [1k\]: so ko is best?
+Joven [-\]: lemme look some more
+])
+(;B[ep]
+;W[fp]
+;B[dr]
+(;W[dq]
+;B[es])
+(;W[bs]C[Joven [-\]: or not
+Joven [-\]: sorry
+Joven [-\]: tired
+]
+(;B[dq])
+(;B[es]
+;W[dq]
+;B[cs]C[Bogoliubon [1k\]: I've been making mistakes for a while so it's easy to forgive
+Joven [-\]: still ko
+])))
+(;B[es]C[Bogoliubon [1k\]: I think white needs to capture in response
+Bogoliubon [1k\]: that was my conclusion and saul's as well.  
+FlameBlade [-\]: yeah
+]
+(;W[dr]
+;B[dq]C[Joven [-\]: maybe this
+]
+;W[er]
+;B[ep]C[FlameBlade [-\]: easy connection
+])
+(;W[bs]C[Joven [-\]: yeah
+FlameBlade [-\]: so taking is necessary
+]
+(;B[ep]
+;W[fp]
+;B[dq]
+;W[er]C[FlameBlade [-\]: still sufficient
+])
+(;B[dq]
+;W[er]C[FlameBlade [-\]: this is sufficient for white
+])
+(;B[dr]C[FlameBlade [-\]: so this is only move
+FlameBlade [-\]: yeah, seems like D2 is only thing that works
+Bogoliubon [1k\]: b4 kind of local threat
+]
+;W[dq]
+;B[cs]
+(;W[er]C[FlameBlade [-\]: note: white can't just play this
+]
+;B[ep]
+;W[ds]
+;B[fp]
+;W[fs]
+;B[gr]C[FlameBlade [-\]: maybe white die ;)
+])
+(;W[ss]
+;B[rs]
+;W[ds]
+(;B[er])
+(;B[ep]C[FlameBlade [-\]: local threat
+]
+;W[fp]
+;B[cs]C[FlameBlade [-\]: ugh
+]))))
+(;W[dq]
+;B[dr]
+;W[er]
+;B[ds]))
+(;B[dq]
+;W[er]
+;B[dr]
+;W[es]C[FlameBlade [-\]: can black be satisified with this?
+FlameBlade [-\]: answer: I don't know
+])
+(;B[bs]
+;W[er]
+;B[dq]
+;W[dr]
+(;B[es])
+(;B[ep]))
+(;B[fo]
+(;W[ep]
+(;B[en]
+;W[fn])
+(;B[fn]
+;W[fp]))
+(;W[fn]
+;B[fp]
+;W[ep]C[FlameBlade [-\]: seems not
+FlameBlade [-\]: nothing special with F5
+]))
+(;B[er]
+;W[dq]
+;B[bs]
+;W[dr]
+;B[ep]
+;W[fp]
+;B[es]
+;W[fo]
+;B[gs]
+;W[hq]C[FlameBlade [-\]: would be nice to have a stone at H3
+]))
+(;W[dr]C[FlameBlade [-\]: this variation is easy
+Bogoliubon [1k\]: he only considers this one
+FlameBlade [-\]: hee hee
+]
+;B[er]C[Bogoliubon [1k\]: and yeah I'd agree, 
+Bogoliubon [1k\]: but they don't consider the d1 response
+Bogoliubon [1k\]: which I don't know how to counter
+FlameBlade [-\]: D1 is definitely tricky
+])
+(;AB[hq]C[FlameBlade [-\]: if there is a stone here..
+]PL[W]
+;W[ds]
+;B[ep]
+;W[fp]
+;B[er]
+;W[dq]
+;B[bs]
+;W[dr]
+;B[es]
+;W[fo]
+;B[gs]C[FlameBlade [-\]: this is alive
+FlameBlade [-\]: so I'm wondering if...
+FlameBlade [-\]: something is missing from our reading or whatnot
+]))
+(;B[fo]C[logicg8 [3k\]: oh
+FlameBlade [-\]: maybe a stone here?
+logicg8 [3k\]: nm
+]
+;W[ep]C[FlameBlade [-\]: but not sure how this turns out
+FlameBlade [-\]: haha
+])
+(;B[ep]
+;W[fp]C[FlameBlade [-\]: I do know that playing this early...may be a mistake?
+]
+;B[cs]))

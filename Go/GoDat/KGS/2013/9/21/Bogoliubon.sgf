@@ -1,0 +1,462 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[600]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[zinger]WR[2k]BR[2k]DT[2013-09-21]PC[The KGS Go Server at http://www.gokgs.com/]C[Bogoliubon [2k\]: hello
+zinger [2k\]: hello and good luck
+]RE[B+9.50]
+;B[pe]BL[590.073]
+;W[dd]WL[597.166]
+;B[op]BL[587.394]
+;W[dp]WL[594.281]
+;B[qp]BL[586.134]
+;W[qj]WL[583.399]
+;B[ql]BL[569.167]
+;W[oc]WL[566.601]
+;B[qc]BL[564.931]C[zinger [1k\]: i must go .. ty  for review
+Bogoliubon [2k\]: I need to pick a side and stick with it here
+]
+(;W[qg]WL[555.073]
+;B[rf]BL[519.186]
+;W[mq]WL[540.863]
+;B[lc]BL[509.594]
+;W[qb]WL[534.808]
+;B[rb]BL[483.438]
+;W[pd]WL[498.301]
+;B[qd]BL[468.375]
+;W[oe]WL[488.047]
+;B[pf]BL[466.556]
+;W[pb]WL[481.408]
+;B[nb]BL[430.784]C[zinger [1k\]: S19 - T18?
+zinger [1k\]: i couldn't decide which was better
+]
+;W[ra]WL[476.001]
+(;B[pc]BL[365.059]C[zinger [1k\]: i am happy with that .. now i never need to add a move at the top
+]
+;W[od]WL[472.063]
+;B[ob]BL[363.013]
+;W[rc]WL[468.81]
+;B[rd]BL[357.896]C[zinger [1k\]: i wonder if i should have just kept top right corner
+]
+;W[sb]WL[463.509]C[Bogoliubon [2k\]: kind of hard to find a bad move for you
+Bogoliubon [2k\]: do whatever, I'm not getting strong soon.
+]
+(;B[of]BL[357.036]
+(;W[ne]WL[451.381]C[Bogoliubon [2k\]: I'd be happier with this
+zinger [1k\]: maybe O14 better?
+Bogoliubon [2k\]: for you
+]
+;B[le]BL[336.539]
+;W[nf]WL[425.954]C[Bogoliubon [2k\]: really a bad game for me
+]
+;B[oh]BL[331.83]
+;W[ng]WL[413.62]
+;B[qh]BL[326.515]
+;W[ph]WL[398.7]
+;B[pi]BL[318.729]
+;W[pg]WL[380.786]
+;B[og]BL[313.219]
+;W[rh]WL[354.966]
+;B[qi]BL[287.142]
+;W[rg]WL[351.12]
+;B[ri]BL[281.611]
+;W[oi]WL[345.572]
+;B[pj]BL[163.307]
+;W[nh]WL[310.018]
+;B[qf]BL[139.643]
+;W[kg]WL[299.505]C[Bogoliubon [2k\]: this way I didn't have to resign
+Bogoliubon [2k\]: yet
+Bogoliubon [2k\]: make a crazy moyo
+]
+;B[ic]BL[116.772]
+;W[mo]WL[293.389]
+;B[cj]BL[106.04]
+;W[cl]WL[268.547]
+;B[cf]BL[98.848]
+;W[ce]WL[262.702]
+;B[df]BL[96.644]
+;W[fc]WL[259.725]
+;B[cq]BL[42.666]
+;W[dq]WL[248.146]
+;B[cp]BL[41.078]C[zinger [1k\]: it was kinda big
+]
+;W[co]WL[246.435]
+;B[bo]BL[40.034]
+;W[cn]WL[238.733]
+;B[dr]BL[37.584]
+;W[er]WL[230.531]
+;B[cr]BL[36.521]
+;W[fq]WL[228.058]C[Bogoliubon [2k\]: as we saw though it was too big
+]
+(;B[ko]BL[28.833]
+;W[jp]WL[217.872]
+;B[ek]BL[21.753]
+;W[dk]WL[209.474]
+;B[dj]BL[19.126]
+;W[ej]WL[207.246]C[Bogoliubon [2k\]: I thought it strange you let me cut
+zinger [1k\]: i didni';t realize i needed to defend
+Bogoliubon [2k\]: exactly what I needed
+]
+;B[fk]BL[17.912]
+;W[ei]WL[205.564]
+;B[hk]BL[30]OB[5]
+;W[ch]WL[180.032]
+;B[dh]BL[30]OB[5]
+;W[di]WL[174.497]
+;B[ci]BL[30]OB[5]
+;W[bh]WL[170.504]
+;B[eh]BL[30]OB[5]
+;W[fi]WL[145.945]
+;B[bf]BL[30]OB[4]
+;W[fh]WL[119.896]
+;B[ff]BL[30]OB[4]C[Bogoliubon [2k\]: yeah I didn't like c17
+Bogoliubon [2k\]: felt I needed one move or the other
+zinger [1k\]: well .. hmm yes
+zinger [1k\]: hard to say
+Bogoliubon [2k\]: probably just b15
+]
+;W[hb]WL[110.992]C[zinger [1k\]: H18 is endgame
+]
+;B[bd]BL[30]OB[4]
+;W[be]WL[94.643]
+;B[ae]BL[30]OB[4]
+;W[cc]WL[92.996]
+;B[ed]BL[30]OB[3]
+;W[ec]WL[73.98]
+;B[hf]BL[30]OB[3]
+;W[hh]WL[45.259]
+;B[hc]BL[30]OB[3]
+;W[ib]WL[31.438]
+;B[jb]BL[30]OB[3]
+;W[gc]WL[23.887]
+;B[ia]BL[30]OB[3]
+;W[ge]WL[17.088]
+;B[gf]BL[30]OB[3]C[zinger [1k\]: the left side really got you back in the game
+Bogoliubon [2k\]: yeah, I needed to go big with it
+]
+(;W[gb]WL[30]OW[5]C[Bogoliubon [2k\]: and my top group is such crap
+]
+;B[jk]BL[30]OB[3]C[Bogoliubon [2k\]: this ended up living really easily
+]
+;W[ie]WL[30]OW[5]
+;B[ig]BL[30]OB[3]
+;W[ih]WL[30]OW[5]
+;B[he]BL[30]OB[3]
+;W[jc]WL[30]OW[5]
+;B[jd]BL[30]OB[3]
+;W[lk]WL[30]OW[5]
+;B[kp]BL[30]OB[3]
+;W[kq]WL[30]OW[5]
+;B[jo]BL[30]OB[3]
+;W[ip]WL[30]OW[5]
+;B[io]BL[30]OB[3]C[Bogoliubon [2k\]: bye moyo
+]
+;W[lp]WL[30]OW[5]
+;B[ll]BL[30]OB[3]
+;W[kl]WL[30]OW[5]
+;B[kk]BL[30]OB[3]
+;W[lm]WL[30]OW[5]
+;B[ml]BL[30]OB[3]
+(;W[jm]WL[30]OW[5]C[Bogoliubon [2k\]: and my stupid wall can't even break the ladder
+zinger [1k\]: lucky for me 
+Bogoliubon [2k\]: that was my misread with the m9
+]
+;B[lj]BL[30]OB[3]
+;W[il]WL[30]OW[5]
+;B[ik]BL[30]OB[3]
+;W[oj]WL[30]OW[5]
+;B[mk]BL[30]OB[3]
+;W[pk]WL[30]OW[5]
+;B[rj]BL[30]OB[3]
+(;W[hm]WL[30]OW[5]C[Bogoliubon [2k\]: I wanted 8th line territory too
+Bogoliubon [2k\]: or 7 rather
+Bogoliubon [2k\]: here
+zinger [1k\]: yeah
+Bogoliubon [2k\]: I'd dump the stones and run
+Bogoliubon [2k\]: does look really big
+]
+(;B[jh]BL[30]OB[3]C[zinger [1k\]: i thought about cut O11 also
+]
+;W[ji]WL[30]OW[4]
+;B[kh]BL[30]OB[3]
+;W[mi]WL[30]OW[4]
+;B[lh]BL[30]OB[3]
+;W[ol]WL[30]OW[3]
+;B[mm]BL[30]OB[3]C[zinger [1k\]: i think white should have got P2 in the endgame, that could have been enough .. huge point
+Bogoliubon [2k\]: yeah, I misread the sente on the lower left
+Bogoliubon [2k\]: that was my intent
+Bogoliubon [2k\]: immediately after
+]
+;W[nn]WL[30]OW[3]
+;B[ln]BL[30]OB[3]
+;W[pn]WL[30]OW[3]
+;B[qm]BL[30]OB[3]
+;W[ho]WL[30]OW[3]
+;B[om]BL[30]OB[3]
+;W[nm]WL[30]OW[3]
+;B[pm]BL[30]OB[3]
+;W[nl]WL[30]OW[3]
+;B[on]BL[30]OB[3]
+;W[qk]WL[30]OW[3]
+;B[rk]BL[30]OB[3]
+;W[bn]WL[30]OW[3]C[Bogoliubon [2k\]: then you owe me the move before here
+]
+;B[bp]BL[30]OB[3]C[Bogoliubon [2k\]: so I was correct in the first place
+zinger [1k\]: yes i think so
+Bogoliubon [2k\]: that this was my sente
+Bogoliubon [2k\]: even when I'm right, I'm wrong enough later to make me not right.  go is impossible
+]
+;W[ao]WL[30]OW[3]C[zinger [1k\]: black alive right now
+zinger [1k\]: B2 probably better yes
+]
+(;B[ap]BL[30]OB[3]
+;W[an]WL[30]OW[3]
+;B[nr]BL[30]OB[3]C[zinger [1k\]: still ko .. two step
+Bogoliubon [2k\]: I see.  well very interesting game
+]
+;W[ds]WL[30]OW[3]C[zinger [1k\]: yeah lol :)
+]
+(;B[ar]BL[30]OB[3]C[zinger [1k\]: B2 correct for black
+]
+(;W[es]WL[30]OW[3]C[Bogoliubon [2k\]: I guess that is why we are reviewing?
+]
+;B[cs]BL[30]OB[3]C[zinger [1k\]: which means, i had not time for O2
+]
+;W[nq]WL[30]OW[3]C[zinger [1k\]: i like impossible things :)
+zinger [1k\]: you ever try bridge?
+Bogoliubon [2k\]: no
+zinger [1k\]: interesting challenge
+zinger [1k\]: partnership is a whole new aspect
+zinger [1k\]: maybe after N2 black should switch to E7
+]
+;B[oq]BL[30]OB[3]C[Bogoliubon [2k\]: I keep on reading h4
+Bogoliubon [2k\]: for black
+Bogoliubon [2k\]: I was worried you would snip my g7 stones or get to the bottom
+]
+;W[mr]WL[30]OW[3]C[zinger [1k\]: hard to say, P2 is big also
+]
+;B[or]BL[30]OB[3]
+;W[kn]WL[30]OW[3]
+;B[km]BL[30]OB[3]
+;W[lf]WL[30]OW[3]
+;B[ke]BL[30]OB[3]
+;W[lm]WL[30]OW[3]
+;B[mn]BL[30]OB[3]
+;W[no]WL[30]OW[3]
+;B[km]BL[30]OB[3]
+;W[gl]WL[30]OW[3]
+;B[gk]BL[30]OB[3]
+;W[el]WL[30]OW[3]
+;B[sd]BL[30]OB[3]
+;W[sc]WL[30]OW[3]
+;B[bb]BL[30]OB[3]
+;W[bc]WL[30]OW[3]
+;B[ac]BL[30]OB[3]
+;W[cd]WL[30]OW[3]
+;B[ad]BL[30]OB[3]
+;W[ef]WL[30]OW[2]
+;B[eg]BL[30]OB[2]
+;W[ee]WL[30]OW[2]
+;B[fe]BL[30]OB[2]
+;W[fd]WL[30]OW[2]
+;B[de]BL[30]OB[2]
+;W[ed]WL[30]OW[2]
+;B[fg]BL[30]OB[2]
+;W[cb]WL[30]OW[2]
+;B[ms]BL[30]OB[2]
+;W[ls]WL[30]OW[2]
+;B[ns]BL[30]OB[2]
+;W[mc]WL[30]OW[2]
+;B[mb]BL[30]OB[1]
+;W[kr]WL[30]OW[2]
+;B[cg]BL[30]OB[1]
+;W[bi]WL[30]OW[2]
+;B[bj]BL[30]OB[1]
+;W[bk]WL[30]OW[2]
+;B[bg]BL[30]OB[1]
+;W[aj]WL[30]OW[2]
+;B[ah]BL[30]OB[1]
+;W[ck]WL[30]OW[2]
+;B[jn]BL[30]OB[1]
+;W[in]WL[30]OW[2]
+;B[md]BL[30]OB[1]
+;W[lg]WL[30]OW[2]
+;B[jg]BL[30]OB[1]
+;W[ba]WL[30]OW[2]
+;B[ab]BL[30]OB[1]
+;W[lo]WL[30]OW[2]
+;B[kn]BL[30]OB[1]
+;W[fl]WL[30]OW[2]
+;B[nk]BL[30]OB[1]
+;W[ok]WL[30]OW[2]
+;B[jl]BL[30]OB[1]
+;W[im]WL[30]OW[2]
+;B[gd]BL[30]OB[1]
+;W[kf]WL[30]OW[2]
+;B[jf]BL[30]OB[1]
+;W[oo]WL[30]OW[2]
+;B[po]BL[30]OB[1]
+;W[nc]WL[30]OW[2]
+;B[oa]BL[30]OB[1]
+;W[pa]WL[30]OW[2]
+;B[np]BL[30]OB[1]
+;W[ha]WL[30]OW[2]
+;B[ja]BL[30]OB[1]
+;W[nj]WL[30]OW[2]
+;B[me]BL[30]OB[1]
+;W[mf]WL[30]OW[2]
+;B[hi]BL[30]OB[1]
+;W[ii]WL[30]OW[2]
+;B[gi]BL[30]OB[1]
+;W[gh]WL[30]OW[2]
+;B[mh]BL[30]OB[1]
+;W[ki]WL[30]OW[2]
+;B[li]BL[30]OB[1]C[zinger [2k\]: close game
+]
+;W[hj]WL[30]OW[2]
+;B[gj]BL[30]OB[1]C[Bogoliubon [2k\]: I cant tell yet yeah
+]
+;W[ij]WL[30]OW[2]
+;B[mp]BL[30]OB[1]
+;W[lq]WL[30]OW[2]
+;B[dg]BL[30]OB[1]
+;W[ca]WL[30]OW[2]
+;B[af]BL[30]OB[1]
+;W[ai]WL[30]OW[2]
+;B[ag]BL[30]OB[1]
+;W[hl]WL[30]OW[2]
+;B[hg]BL[30]OB[1]
+;W[ma]WL[30]OW[2]
+;B[lb]BL[30]OB[1]
+;W[ni]WL[30]OW[2]
+;B[]BL[30]OB[1]
+;W[]WL[30]OW[2]TW[da][ea][fa][ga][qa][sa][db][eb][fb][rb][dc][ci][bj][cj][dj][ak][al][bl][dl][am][bm][cm][dm][em][fm][gm][dn][en][fn][gn][hn][do][eo][fo][go][ep][fp][gp][hp][eq][gq][hq][iq][jq][fr][gr][hr][ir][jr][lr][fs][gs][hs][is][js][ks]TB[ka][la][ma][na][kb][jc][kc][hd][id][kd][ld][ge][ie][je][qe][re][se][if][sf][pg][qg][rg][sg][ph][rh][sh][si][sj][lk][sk][kl][rl][sl][lm][rm][sm][pn][qn][rn][sn][qo][ro][so][pp][rp][sp][aq][bq][pq][qq][rq][sq][br][pr][qr][rr][sr][as][bs][os][ps][qs][rs][ss]C[Bogoliubon [2k\]: thanks, interesting game
+zinger [1k\]: ty
+zinger [1k\]: yeah
+])
+(;W[bs]
+;B[cs]
+;W[br]C[zinger [1k\]: still a kill ?
+zinger [1k\]: yes i think so
+zinger [1k\]: A2 was bad!
+Bogoliubon [2k\]: this is yours
+]
+;B[es]C[zinger [1k\]: B3
+zinger [1k\]: dead
+Bogoliubon [2k\]: I thought I needed to come back
+Bogoliubon [2k\]: for f1
+Bogoliubon [2k\]: that was silly
+]
+;W[bq]
+;B[fr]
+;W[eq]C[zinger [1k\]: no .. i meant for white .. as way to kill
+Bogoliubon [2k\]: as black I'd be more inclined
+zinger [1k\]: during the game i forgot this corner shape could die
+Bogoliubon [2k\]: to try getting the h7 stones now
+Bogoliubon [2k\]: but they are already dead
+]
+(;B[gr]C[Bogoliubon [2k\]: some horrendous aji though
+zinger [1k\]: H
+zinger [1k\]: H3
+]
+;W[hq]C[Bogoliubon [2k\]: yeah
+Bogoliubon [2k\]: well damn
+])
+(;B[hq])
+(;B[hp]C[Bogoliubon [2k\]: I would have done this if I were you and was dying in the game
+zinger [1k\]: 5 white stones not enough to compensate for corner
+zinger [1k\]: H3, white wins
+Bogoliubon [2k\]: yeah
+zinger [1k\]: the corner capture eds the game 
+zinger [1k\]: *ends
+]
+;W[hq]
+;B[gp]C[zinger [1k\]: G3
+]
+;W[gq]
+;B[go]
+;W[hn])))
+(;B[br]C[zinger [1k\]: still ko?
+zinger [1k\]: A2?
+]
+;W[ar]
+(;B[as]
+;W[bs]
+(;B[aq])
+(;B[cs]))
+(;B[aq]C[Bogoliubon [2k\]: just this
+]
+;W[bs]
+;B[as]C[zinger [1k\]: wait
+Bogoliubon [2k\]: better ko for black
+]
+;W[es]
+;B[cs])))
+(;B[br]C[zinger [1k\]: it was O2 tenuki
+]))
+(;B[ni]
+;W[ki]C[zinger [1k\]: O6 ?
+]
+;B[nn]C[zinger [1k\]: don't know .. gote
+]))
+(;W[ki]C[Bogoliubon [2k\]: and yeah I need to suck it up
+Bogoliubon [2k\]: I thought I had lost on points here
+]
+;B[mn]C[zinger [1k\]: not sure i can get aound H7 anyway
+]))
+(;W[lj]C[Bogoliubon [2k\]: seems kind of dangerous
+Bogoliubon [2k\]: but I need to read this one now
+]
+;B[km]C[Bogoliubon [2k\]: not much to read
+Bogoliubon [2k\]: black is just safe
+]
+;W[jl]
+;B[il]
+;W[jm]
+;B[kn]))
+(;W[jk]C[Bogoliubon [2k\]: I should probably do this now
+zinger [1k\]: yes strong
+Bogoliubon [2k\]: after you got it
+Bogoliubon [2k\]: I felt pretty defeated
+])
+(;W[jl]C[Bogoliubon [2k\]: other moves are tempting too
+]))
+(;B[jj]))
+(;W[nf]
+;B[ne]
+;W[nd]
+;B[me]C[zinger [1k\]: i mean for black next
+]
+;W[md]))
+(;B[nf]C[Bogoliubon [2k\]: oh like this
+zinger [1k\]: i feared the cuts ..
+Bogoliubon [2k\]: yeah
+zinger [1k\]: yes like later
+]
+;W[of]
+;B[og]
+;W[pg]C[zinger [1k\]: there is a fast capture
+zinger [1k\]: so this is bad
+zinger [1k\]: so maybe it works
+Bogoliubon [2k\]: I thought in the game about it
+Bogoliubon [2k\]: but needed s13 in place
+]
+;B[ne]C[zinger [1k\]: R14
+zinger [1k\]: maybe not lol
+]
+;W[qf]
+;B[qe]
+;W[sd]C[zinger [1k\]: well .. hmm
+]
+;B[re])
+(;B[kq]))
+(;B[sb]C[zinger [1k\]: yeah this
+Bogoliubon [2k\]: I'd let you snip the q18 stones
+]
+;W[ng]
+;B[pc]
+;W[od]
+;B[ob]))
+(;W[md]
+;B[qh]
+;W[oj]C[Bogoliubon [2k\]: anything would be better
+zinger [1k\]: bye
+]))

@@ -1,0 +1,448 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[2100]OT[3x60 byo-yomi]
+PW[toxxicu]PB[Bogoliubon]WR[7d]BR[2k]DT[2007-01-08]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[toxxicu [7d\]: have fun
+]RE[W+Resign]
+;W[ce]WL[2091.648]C[Bogoliubon [2k\]: ok
+]
+;B[ed]BL[2077.016]
+;W[dc]WL[2083.352]
+;B[ec]BL[2072.466]
+;W[dd]WL[2071.402]
+;B[ee]BL[2064.762]C[NPcomplete [15k\]: what did you say to him then he saw you with a red face?
+]
+;W[df]WL[2056.784]
+;B[jd]BL[2028.508]C[NPcomplete [15k\]: :-)
+]
+;W[qf]WL[2047.079]
+(;B[qh]BL[2003.65]
+;W[nc]WL[2030.216]
+(;B[qc]BL[1955.585]
+;W[kd]WL[2017.922]C[toxxicu [7d\]: this is a fighting joseki
+toxxicu [7d\]: but l15 was not so good
+toxxicu [7d\]: you give me easy life on top
+]
+(;B[ke]BL[1950.475]C[toxxicu [7d\]: r17 is a fighting variation
+Bogoliubon [2k\]: oh yes
+]
+;W[jc]WL[2013.393]
+;B[ic]BL[1938.471]
+;W[kc]WL[2010.257]LB[id:A][je:B]C[toxxicu [7d\]: either A or B
+toxxicu [7d\]: I would play j16 
+]
+(;B[ie]BL[1935.792]C[toxxicu [7d\]: this is not good in this case
+]
+;W[ib]WL[2007.756]
+(;B[le]BL[1897.547]
+;W[hc]WL[2002.801]C[Bogoliubon [2k\]: I see. so that's why r17 is bad.
+toxxicu [7d\]: you lose a lot like this
+toxxicu [7d\]: you had a moyo
+toxxicu [7d\]: r17 is not bad
+toxxicu [7d\]: l15 is
+toxxicu [7d\]: you lost all your potential on the side
+toxxicu [7d\]: and you still have to worry about e17
+]
+(;B[ne]BL[1883.808]
+;W[qj]WL[1985.84]
+;B[ql]BL[1871.246]
+;W[rh]WL[1977.982]
+(;B[ri]BL[1850.564]
+;W[qi]WL[1968.603]
+;B[rg]BL[1847.273]
+;W[ph]WL[1965.674]
+;B[qg]BL[1844.683]
+;W[pg]WL[1962.943]
+;B[rj]BL[1839.748]
+;W[rf]WL[1956.04]
+;B[sh]BL[1837.412]
+;W[pe]WL[1954.055]
+;B[od]BL[1822.169]
+;W[oj]WL[1938.099]C[toxxicu [7d\]: i can run in the  other direction
+]
+;B[ef]BL[1669.592]
+;W[nq]WL[1896.057]
+;B[kp]BL[1651.324]
+;W[no]WL[1888.546]
+;B[pn]BL[1645.07]
+;W[pr]WL[1879.43]
+;B[qq]BL[1637.571]
+;W[kr]WL[1876.079]TR[cn]C[Bogoliubon [2k\]: I thought it would be fine since d4 is already in place.
+toxxicu [7d\]: keima here is larger i think
+toxxicu [7d\]: and then
+toxxicu [7d\]: your combination would look really good
+Bogoliubon [2k\]: I forgot there was still a fuseki developing.
+toxxicu [7d\]: yes :)
+]
+(;B[mp]BL[1612.622]
+;W[np]WL[1872.747]
+;B[lr]BL[1608.756]C[Bogoliubon [2k\]: was this premature?
+]
+;W[lq]WL[1869.394]
+;B[kq]BL[1607.11]
+;W[mr]WL[1865.84]
+;B[jr]BL[1605.354]
+;W[ls]WL[1864.335]
+;B[iq]BL[1603.218]
+;W[cn]WL[1859.65]C[toxxicu [7d\]: feels so
+]
+;B[dl]BL[1565.293]
+;W[cq]WL[1829.157]
+;B[dq]BL[1553.544]
+;W[cp]WL[1826.446]
+;B[do]BL[1552.04]
+;W[cr]WL[1824.07]
+;B[dr]BL[1538.914]
+;W[cm]WL[1813.996]
+(;B[ek]BL[1515.409]
+;W[id]WL[1790.161]
+;B[je]BL[1507.401]
+;W[he]WL[1779.149]
+;B[hf]BL[1498.562]
+;W[dg]WL[1730.868]
+;B[lj]BL[1478.195]
+;W[qk]WL[1704.653]
+;B[rk]BL[1469.279]
+;W[pl]WL[1698.131]
+;B[pm]BL[1465.811]
+;W[ol]WL[1694.895]C[toxxicu [7d\]: m10 was pretty good
+]
+(;B[eg]BL[1459.088]
+;W[kn]WL[1651.781]C[Bogoliubon [2k\]: an italian sandwich?
+toxxicu [7d\]: :)
+toxxicu [7d\]: your move is interesting too
+]
+(;B[jm]BL[1376.228]
+;W[jn]WL[1640.881]
+;B[in]BL[1374.513]
+;W[im]WL[1636.276]
+(;B[jo]BL[1363.594]
+;W[em]WL[1618.814]
+;B[dm]BL[1359.731]
+;W[dn]WL[1596.098]
+;B[en]BL[1355.978]
+;W[hm]WL[1579.532]
+;B[km]BL[1344.293]
+;W[fn]WL[1560.198]
+;B[eo]BL[1342.375]
+;W[io]WL[1557.536]C[IDOL [1d?\]: this is deep
+Bogoliubon [2k\]: you clever bugger.
+]
+;B[ln]BL[1270.624]
+;W[hn]WL[1541.967]
+;B[ko]BL[1262.38]
+;W[el]WL[1506.951]
+;B[dk]BL[1246.259]
+;W[fo]WL[1491.271]
+;B[fq]BL[1231.592]
+;W[gl]WL[1456.999]
+;B[fk]BL[1209.096]
+;W[ik]WL[1437.394]
+;B[gk]BL[1156.784]
+;W[hk]WL[1422.764]
+;B[hi]BL[1111.143]
+;W[ii]WL[1413.908]
+;B[ih]BL[1086.843]
+;W[ji]WL[1400.447]
+;B[mb]BL[980.424]
+;W[mc]WL[1381.826]
+(;B[ob]BL[968.683]C[Bogoliubon [2k\]: shucks.  seems I misread my misreading 
+]
+;W[nb]WL[1372.947]
+;B[na]BL[961.061]
+;W[oc]WL[1365.79]
+;B[pb]BL[957.683]
+;W[lb]WL[1357.647]
+;B[ma]BL[951.892]
+;W[qr]WL[1340.018]
+;B[rr]BL[942.542]
+;W[bk]WL[1335.318]
+;B[bl]BL[926.389]
+;W[cl]WL[1332.563]
+;B[ck]BL[925.033]
+;W[bm]WL[1330.799]
+;B[bj]BL[923.214]
+;W[al]WL[1329.738]C[Bogoliubon [2k\]: I considered d12
+]
+(;B[ci]BL[902.821]C[Bogoliubon [2k\]: here...
+]
+;W[dh]WL[1322.991]
+;B[hj]BL[891.587]
+;W[jl]WL[1314.604]
+;B[bg]BL[882.649]
+;W[eb]WL[1309.163]
+;B[fb]BL[880.499]
+;W[db]WL[1306.112]
+;B[ge]BL[857.827]
+;W[hd]WL[1299.486]
+(;B[gd]BL[849.007]C[toxxicu [7d\]: i thought it was close
+toxxicu [7d\]: but i didn't count
+]
+;W[rd]WL[1272.626]
+;B[rc]BL[844.519]
+;W[qd]WL[1263.574]
+;B[pc]BL[837.175]
+;W[rs]WL[1227.899]
+;B[rq]BL[815.498]
+;W[bf]WL[1216.675]
+;B[ld]BL[804.614]
+;W[lc]WL[1212.84]
+;B[gb]BL[782.348]
+;W[hb]WL[1209.466]
+;B[cg]BL[779.099]
+;W[cf]WL[1204.955]
+;B[kk]BL[774.351]
+;W[ij]WL[1192.063]
+;B[cs]BL[769.666]
+;W[bs]WL[1188.227]
+;B[ds]BL[763.24]
+;W[br]WL[1183.714]
+;B[in]BL[749.555]
+;W[jh]WL[1162.277]
+;B[ig]BL[706.242]
+;W[di]WL[1119.952]
+;B[fi]BL[668.275]
+;W[fp]WL[1072.859]
+;B[gq]BL[657.072]
+;W[mk]WL[1067.16]C[Bogoliubon [2k\]: endgame in this area was confusing.
+]
+(;B[mi]BL[605.563]
+;W[ng]WL[1058.711]
+;B[pq]BL[561.756]
+;W[or]WL[1021.777]
+;B[co]BL[544.666]
+;W[bo]WL[1018.328]
+;B[jn]BL[539.428]
+;W[ip]WL[1006.265]
+;B[hp]BL[534.39]
+;W[ho]WL[993.762]
+;B[fl]BL[524.088]
+;W[fm]WL[990.346]
+;B[oi]BL[464.785]
+;W[pi]WL[986.308]
+;B[nj]BL[454.416]
+;W[nk]WL[982.517]
+;B[af]BL[407.207]
+;W[ae]WL[966.726]
+;B[ag]BL[400.393]
+;W[eq]WL[961.5]
+;B[er]BL[393.693]
+;W[ep]WL[958.9]
+;B[fr]BL[391.702]
+;W[gp]WL[946.571]
+;B[hq]BL[389.337]
+;W[kl]WL[940.775]
+;B[lg]BL[385.894]
+;W[lh]WL[924.397]
+;B[mh]BL[380.124]
+;W[li]WL[922.309]C[Bogoliubon [2k\]: thanks
+]
+;B[mj]C[Bogoliubon [2k\]: never mind
+]
+;W[mg]C[toxxicu [7d\]: that was a 1 point ko
+]
+;B[of]C[toxxicu [7d\]: me too
+toxxicu [7d\]: did you read this out?
+Bogoliubon [2k\]: no
+toxxicu [7d\]: then you resigned too soon :)
+Bogoliubon [2k\]: ko this way it seems
+toxxicu [7d\]: ko ?
+toxxicu [7d\]: show me
+]
+(;W[pf]
+;B[og]C[toxxicu [7d\]: exchange
+Bogoliubon [2k\]: I see.
+]
+;W[oh]
+;B[nh])
+(;W[lf]C[Bogoliubon [2k\]: my boss came in my office I had to pretend to work for a moment
+IDOL [1d?\]: :D
+uberkyu [11k\]: lol
+]
+;B[pf]
+;W[kg]C[marius1 [?\]: hehe
+toxxicu [7d\]: good one
+toxxicu [7d\]: i shall remember it :)
+marius1 [?\]: playing vs toxxico is hard work
+IDOL [1d?\]: software enngineers dont pretend anything;))
+]))
+(;B[of]
+;W[pf]C[Bogoliubon [2k\]: nobody seemed to deserve points
+]
+;B[nh]C[toxxicu [7d\]: yes it's pretty neutral
+toxxicu [7d\]: hmm
+toxxicu [7d\]: can't say who wins :)
+toxxicu [7d\]: other questions ?
+Bogoliubon [2k\]: I think that'll do her for today.  This last game was interesting.  Lots of lessons to be learned.
+Bogoliubon [2k\]: thanks
+toxxicu [7d\]: yes pretty interesting indeed
+toxxicu [7d\]: thank you
+toxxicu [7d\]: when is our next lesson ?
+toxxicu [7d\]: when would you like it to be :)
+Bogoliubon [2k\]: let's see.  i'm deep in thought...
+Bogoliubon [2k\]: I've got a tournament next weekend so maybe next week.
+toxxicu [7d\]: ok
+toxxicu [7d\]: please drop me a mail
+Bogoliubon [2k\]: ok.  take care.
+toxxicu [7d\]: and have a good tournament
+toxxicu [7d\]: take care
+NPcomplete [15k\]: Thanks you both!
+Bogoliubon [2k\]: thanks for watching
+toxxicu [7d\]: see you 
+]))
+(;B[af]C[toxxicu [7d\]: bigger here
+]
+;W[bd]
+;B[ad]
+;W[ac]
+;B[ae]
+;W[bb]C[toxxicu [7d\]: what else is there?
+Bogoliubon [2k\]: what's your judgement at this position?
+]))
+(;B[dh]C[toxxicu [7d\]: seems better 
+]
+;W[ci]
+;B[cj]C[toxxicu [7d\]:  no problem with this nozoki
+Bogoliubon [2k\]: I thought I could eat more of your side the other way.
+toxxicu [7d\]: the difference is not big
+Bogoliubon [2k\]: kind of a hard endgame problem
+Bogoliubon [2k\]: to compute difference
+toxxicu [7d\]: you have a monjy jump anyway
+toxxicu [7d\]: yes
+toxxicu [7d\]: i agree
+toxxicu [7d\]: but d12 seems a bit better to me
+toxxicu [7d\]: but i am not good in yose :D
+toxxicu [7d\]: i lose a lot because of it
+]))
+(;B[nb]C[toxxicu [7d\]: why not here?
+Bogoliubon [2k\]: That was my original plan but after I played it I thought I had misread.  
+]
+;W[ob]
+;B[oc]
+;W[pb]C[Bogoliubon [2k\]: I was worried about white q18 after black
+]
+;B[lb]
+;W[lc]
+;B[qb]C[toxxicu [7d\]: b wins this
+]))
+(;B[km]C[toxxicu [7d\]: but with this continuation
+Bogoliubon [2k\]: Here I had forgotten the proverb... "white stones don't die."  I should have let you run in on domi points?
+]
+;W[ln]
+;B[hn]C[toxxicu [7d\]: well w could actually die f
+toxxicu [7d\]: do you see any way to rescue j7 ?
+]
+(;W[il]
+;B[kk]
+;W[em]
+;B[gl]C[Bogoliubon [2k\]: no.  seems like it still be plenty useful, even if it dies
+toxxicu [7d\]: already the center is big enough to answer differently against f7
+])
+(;W[kk]C[toxxicu [7d\]: maybe this
+]
+(;B[lk]
+;W[ll]C[toxxicu [7d\]: take advantage of the fact that w can not be cut
+])
+(;B[il]
+;W[lk]))))
+(;B[kl]TR[kl][kp]C[toxxicu [7d\]: this is the vital point
+Bogoliubon [2k\]: I don't understand.
+toxxicu [7d\]: sort of hasami
+]
+;W[in]
+;B[ln]))
+(;B[fh]C[Bogoliubon [2k\]: f12
+Bogoliubon [2k\]: I new that a second after playing the wrong one.
+toxxicu [7d\]: yes it's natural
+]))
+(;B[dm]C[toxxicu [7d\]: proper move :)
+]))
+(;B[cn]
+;W[kq]
+;B[dg]
+;W[cg]
+;B[ch]C[toxxicu [7d\]: this feels good for you
+]))
+(;B[rg]C[toxxicu [7d\]: this is maybe better
+toxxicu [7d\]: you want to use your thick stones
+toxxicu [7d\]: and attack w
+]
+;W[qg]
+;B[ri]
+;W[ph]
+;B[qi]
+;W[pi]
+;B[rj]TR[ie][ke][le][ne]C[toxxicu [7d\]: w is pretty thin and the group is closer to
+toxxicu [7d\]: how about it ?
+Bogoliubon [2k\]: I see.  that's what I thought I was doing but this is better apparently.
+]))
+(;B[pf]C[toxxicu [7d\]: isn't this better?
+toxxicu [7d\]: some cash :)
+Bogoliubon [2k\]: ok
+]))
+(;B[hc]C[Bogoliubon [2k\]: I see.  and I ended up m15 to prevent the other hane
+toxxicu [7d\]: normally you should answer that hane
+toxxicu [7d\]: since atari is so painful
+]
+;W[le]C[toxxicu [7d\]: and then i get both
+toxxicu [7d\]: you should choose and let me get only one of the hane
+]))
+(;B[id]C[toxxicu [7d\]: this way i don't get the j18 hane
+toxxicu [7d\]: w is not 100% alive
+]
+;W[le]
+;B[kf]TR[md]C[Bogoliubon [2k\]: I understand.  I'm still entertaing hopes of attacking r14 so k15 would be better for that case no?
+toxxicu [7d\]: there is still this
+])
+(;B[je]
+;W[ph]C[Bogoliubon [2k\]: or is this just besides the point.
+toxxicu [7d\]: i have j18 as a backup for my group
+toxxicu [7d\]: so i can fight on this side
+]))
+(;B[kc]
+;W[lc]
+;B[jc]C[toxxicu [7d\]: like this w is not settled yet
+toxxicu [7d\]: agree?
+Bogoliubon [2k\]: w isn't settled but I was hoping to keep your stones from working together.
+]
+;W[ke]C[Bogoliubon [2k\]: r14 and o17 that is
+]
+(;B[pf]C[toxxicu [7d\]: you get your separation
+Bogoliubon [2k\]: I see.
+])
+(;B[ld]C[toxxicu [7d\]: this would be a mistake
+toxxicu [7d\]: now i can make my stones work together
+toxxicu [7d\]: can you see how ?
+Bogoliubon [2k\]: q12 ladder breaker or something of the sort.
+]
+;W[me]C[toxxicu [7d\]: nope
+toxxicu [7d\]: this is simpler
+Bogoliubon [2k\]: or just yep
+]
+;B[mc]
+;W[lb]
+;B[md]
+;W[nd]
+;B[mb]
+;W[nb]
+;B[kb]
+;W[le]
+;B[la]
+;W[oe]C[toxxicu [7d\]: great result for w
+])))
+(;B[oe]
+;W[qc]
+;B[pc]
+;W[qd]
+;B[pg]C[toxxicu [7d\]: you didn't like this variation ?
+uberkyu [11k\]: better influence?
+Bogoliubon [2k\]: I thought with e14 weakness the influence wasn't that special
+toxxicu [7d\]: hey guys keep it quiet :) it's Bogoliubin's lesson
+]
+;W[pe]
+;B[od]C[uberkyu [11k\]: ok sorry
+]
+;W[fg]C[toxxicu [7d\]: i'd play like this
+]))
+(;B[nc]C[toxxicu [7d\]: then this keima is better 
+toxxicu [7d\]: don't make a moyo where w can enter
+toxxicu [7d\]: later if you get f13 it still looks good
+]))

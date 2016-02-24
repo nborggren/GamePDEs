@@ -1,0 +1,287 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[9]KM[6.50]
+PW[Zwom]PB[Zwom]WR[16k]BR[16k]DT[2004-12-19]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]C[Zwom [16k\]: hello
+eborggren [?\]: How are you doing?
+Zwom [16k\]: not bad.  sorry about the confusion yesterday.
+Zwom [16k\]: how about yourself?
+eborggren [?\]: I am doing well, enjoying the start of my break
+Zwom [16k\]: so this is a 9x9 go board 10 lines short of regulation.
+eborggren [?\]: Sorry I am not overly familiar with this site, so it will take me a little to get used ot it
+Zwom [16k\]: No thang.
+Zwom [16k\]: Right now I have it on demonstration, cause I'll be showing you some tricks.
+Zwom [16k\]: in a bit will open up an actual game.
+eborggren [?\]: ok
+Zwom [16k\]: Did you read up at allor would you like me to go over the rules?
+eborggren [?\]: I read the e-mail you sent but was difficult for me understand without actually seeing it
+eborggren [?\]: Probably need to go over the rules
+Zwom [16k\]: Alright.  The point of the game is to surround more territory than your opponent.
+Zwom [16k\]: You do this by putting your stones on the grid naturally.
+Zwom [16k\]: When your in the beginning of a game play is typically in the corners...
+]
+(;B[cg]CR[cg]
+;W[gc]CR[gc]
+;B[gf]CR[gf]
+;W[cc]CR[cc]
+;B[ef]CR[ef]
+;W[ec]CR[ec]C[Zwom [16k\]: a game may start off something like this.
+Zwom [16k\]: black is laying claim to the lower side and white is laying claim to the top.
+]
+;B[bd]CR[bd]
+;W[cd]CR[cd]
+;B[hd]CR[hd]C[Zwom [16k\]: matters are complicated in that if your piece gets entirely surrounded.  That is cut off of 'liberties' it dies.
+]
+;W[be]CR[be]
+;B[ge]CR[ge]
+;W[bc]CR[bc]
+;B[de]CR[de]
+;W[ad]CR[ad]LB[ge:A][gf:B]TR[gd][fe][he][ff][hf][gg]C[Zwom [16k\]: see that?
+eborggren [?\]: yes, that is why you don't put positions way out front?
+Zwom [16k\]: now when pieces are stuck together like a and b.  they'll live and die together.
+eborggren [?\]: I see that now
+Zwom [16k\]: white would need to surround all the triangular points.
+Zwom [16k\]: takes six stones to kill 2.  kind of unlikely.
+Zwom [16k\]: but strange things happen all the time in this game.
+]
+;B[hc]CR[hc]
+;W[hb]CR[hb]
+;B[fd]CR[fd]
+;W[fc]CR[fc]
+;B[dd]CR[dd]
+;W[dc]CR[dc]
+;B[ce]CR[ce]
+;W[bg]CR[bg]
+;B[bf]CR[bf]
+;W[af]CR[af]
+;B[cf]CR[cf]
+;W[bh]CR[bh]
+;B[ch]CR[ch]
+;W[bi]CR[bi]
+;B[ci]CR[ci]
+;W[ed]CR[ed]
+;B[ee]CR[ee]
+;W[gd]CR[gd]
+;B[fe]CR[fe]
+;W[ib]CR[ib]
+;B[ic]CR[ic]
+;W[he]CR[he]
+;B[id]CR[id]
+;W[ie]CR[ie]
+;B[hf]CR[hf]
+;W[if]CR[if]
+;B[hg]CR[hg]
+;W[ig]CR[ig]
+;B[hh]CR[hh]
+;W[ih]CR[ih]
+;B[hi]CR[hi]
+;W[ii]CR[ii]
+;B[hd]CR[hd]
+;W[id]CR[id]
+;B[ic]CR[ic]C[Zwom [16k\]: theres a game that is more or less done.
+]
+;W[hc]CR[hc]
+;B[id]CR[id]C[eborggren [?\]: when do you know if you are done
+Zwom [16k\]: A game ends when two people pass.
+eborggren [?\]: ok
+Zwom [16k\]: black passes when he can't kill anything and can't make anymore territory.
+]
+;W[]C[Zwom [16k\]: white can't either so he passes too.
+]
+;B[]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db][eb][fb][gb][ac][bd][ae][ag][ah][ai]TB[he][ie][df][ff][if][dg][eg][fg][gg][ig][dh][eh][fh][gh][ih][di][ei][fi][gi][ii]C[Zwom [16k\]: and the final score is zwom 33.5 to zwom 27, zwom wins
+eborggren [?\]: score is number of intesections inhabitted and in control of
+Zwom [16k\]: the score is the number of intersections surrounded + the number of dead stones of your opponent.
+eborggren [?\]: oh
+Zwom [16k\]: so no point for the grid points you occupy.
+eborggren [?\]: ok
+Zwom [16k\]: one nice thing about go is the rules are simple.  
+eborggren [?\]: seems like it
+Zwom [16k\]: There is only one more rule to show you and than it's just possible permutations and combinations.
+eborggren [?\]: ok
+]KGSSW[33.50]KGSSB[27.00])
+(;B[de]CR[de]
+;W[ee]CR[ee]
+;B[ef]CR[ef]
+;W[ff]CR[ff]
+;B[ed]CR[ed]
+;W[fd]CR[fd]
+;B[bc]CR[bc]
+;W[ge]CR[ge]C[Zwom [16k\]: the pattern in the middle is called a ko fight.
+Zwom [16k\]: notice white has only one liberty and hence black can take that piece.
+]
+;B[fe]CR[fe]C[Zwom [16k\]: but now black only has one liberty.
+Zwom [16k\]: the last rule is that white can't immediately take the black piece back.
+Zwom [16k\]: else you would end up in a rather silly cycle.
+Zwom [16k\]: so white has to play elsewhere.
+]
+;W[cg]CR[cg]C[Zwom [16k\]: now if black plays elsewhere too...
+]
+;B[gc]CR[gc]C[Zwom [16k\]: white can now kill.
+]
+;W[ee]CR[ee]C[Zwom [16k\]: black has to go elsewhere.
+]
+;B[gg]CR[gg]C[eborggren [?\]: got it
+]
+;W[fe]CR[fe]C[Zwom [16k\]: and white takes the time to fill it in.
+]
+;B[fg]CR[fg]
+;W[df]CR[df]
+;B[eg]CR[eg]C[Zwom [16k\]: and so on and so forth.
+eborggren [?\]: ok
+Zwom [16k\]: any questions yet?
+eborggren [?\]: do you kind of figure out strategy as you play more?  I am looking at this and it seems random where you lay your first pieces and pick a side
+Zwom [16k\]: yeah you do.  
+])
+(;B[gg]CR[gg]
+;W[gc]CR[gc]C[Zwom [16k\]: around the 3-3,3-4,or 4-4 points.
+]
+;B[cf]CR[cf]
+;W[cd]CR[cd]C[Zwom [16k\]: now good strategy on either black or whites part is to connect your pieces or disconnect your oppents.
+Zwom [16k\]: opponents
+eborggren [?\]: ok
+Zwom [16k\]: one stone is consideerably week whereas 5 in a line are strong.
+]
+;B[ec]CR[ec]
+;W[ed]CR[ed]
+;B[fd]CR[fd]
+;W[fc]CR[fc]
+;B[dd]CR[dd]
+;W[ee]CR[ee]
+;B[de]CR[de]
+;W[dc]CR[dc]
+;B[cc]CR[cc]
+;W[eb]CR[eb]
+;B[db]CR[db]
+;W[ec]CR[ec]
+;B[cb]CR[cb]C[Zwom [16k\]: it cost black a stone to do it and now he risks the same but white is cut.
+]
+;W[ef]CR[ef]
+;B[eg]CR[eg]
+;W[df]CR[df]
+;B[ce]CR[ce]
+;W[dg]CR[dg]C[Zwom [16k\]: but then again now black is too.
+]
+;B[cg]CR[cg]
+;W[dh]CR[dh]
+;B[ge]CR[ge]C[Zwom [16k\]: though I"d be a bit happier as black.
+Zwom [16k\]: white was making territory on the left as he was splitting white.
+Zwom [16k\]: white was simply splitting black.
+eborggren [?\]: why doesn't black go at B6
+Zwom [16k\]: he could and he will sooner or later but white doesn't have much room to run if he tries.
+]
+;W[bd]CR[bd]
+;B[bc]CR[bc]
+;W[ac]CR[ac]
+;B[be]CR[be]
+;W[ad]CR[ad]
+;B[ab]CR[ab]
+;W[ae]CR[ae]
+;B[af]CR[af]C[eborggren [?\]: Oh, I see...pretty nasty spot for white
+Zwom [16k\]: so black just figured make territory now kill the intruders later.
+Zwom [16k\]: yeah he's totally surrounded by people 5 times his size.
+]
+;W[gd]CR[gd]C[Zwom [16k\]: one important thing to remember is that territory is more important than your stones.
+Zwom [16k\]: black may be tempted to rescue f4...
+]
+(;B[fe]CR[fe]
+;W[he]CR[he]
+;B[gf]CR[gf]
+;W[hf]CR[hf]
+;B[hg]CR[hg]
+;W[if]CR[if]
+;B[ig]CR[ig]
+;W[hd]CR[hd]C[Zwom [16k\]: but then this happens.  white just got 12 points or so.
+])
+(;B[hd]CR[hd]
+;W[fe]CR[fe]
+;B[gf]CR[gf]
+;W[hc]CR[hc]
+;B[id]CR[id]
+;W[ic]CR[ic]
+;B[he]CR[he]C[Zwom [16k\]: white now only has 9 or 10 points and black has at least 8
+Zwom [16k\]: but up to 13
+]
+;W[fg]CR[fg]
+;B[fh]CR[fh]
+;W[eh]CR[eh]
+;B[fi]CR[fi]
+;W[ei]CR[ei]
+;B[ff]CR[ff]
+;W[eg]CR[eg]
+;B[gh]CR[gh]
+;W[ch]CR[ch]
+;B[bh]CR[bh]
+;W[ci]CR[ci]
+;B[bi]CR[bi]
+;W[ea]CR[ea]
+;B[da]CR[da]
+;W[]
+;B[]TW[fa][ga][ha][ia][fb][gb][hb][ib][fd][di]TB[aa][ba][ca][bb][ac][ad][bd][cd][ae][ie][bf][hf][if][ag][bg][hg][ig][ah][hh][ih][ai][gi][hi][ii]C[Zwom [16k\]: and the game would be over...
+Zwom [16k\]: nice and sparkling clear?
+eborggren [?\]: As clear as pond water...but I am sure I'll figure out the why? as I play more
+Zwom [16k\]: you'll get the hang of it.  and then eventually you'll get your own style.
+Zwom [16k\]: it is a very creative game.
+eborggren [?\]: Looks like it
+Zwom [16k\]: one more important concept and then we'll try a game.
+]KGSSW[19.50]KGSSB[29.00]))
+(;B[ah]CR[ah]
+;W[ab]CR[ab]
+;B[bh]CR[bh]
+;W[bb]CR[bb]
+;B[ch]CR[ch]
+;W[cb]CR[cb]
+;B[dh]CR[dh]
+;W[db]CR[db]
+;B[eh]CR[eh]
+;W[eb]CR[eb]
+;B[ei]CR[ei]
+;W[ea]CR[ea]
+;B[ai]CR[ai]
+;W[aa]CR[aa]C[Zwom [16k\]: both these shapes have right now one eye.
+Zwom [16k\]: now shapes with one eye will always die.
+Zwom [16k\]: no way around that.
+Zwom [16k\]: however a shape with 2 eyes (or more) will never die
+]
+(;B[ca]CR[ca]
+;W[ag]CR[ag]
+;B[ci]CR[ci]
+;W[bg]CR[bg]
+;B[ac]CR[ac]
+;W[cg]CR[cg]
+;B[bc]CR[bc]
+;W[dg]CR[dg]
+;B[cc]CR[cc]
+;W[eg]CR[eg]
+;B[dc]CR[dc]
+;W[fh]CR[fh]
+;B[ec]CR[ec]
+;W[fi]CR[fi]
+;B[fb]CR[fb]
+;W[hf]CR[hf]
+;B[fa]CR[fa]C[Zwom [16k\]: now what is the difference between the stones at the top and the stones at the bottom?
+eborggren [?\]: black has a stone within whites wall
+Zwom [16k\]: right.  and that little difference is the difference between white being alive and white being dead.
+]
+;W[he]CR[he]
+;B[ba]CR[ba]
+;W[da]CR[da]
+;B[ca]CR[ca]
+;W[ba]CR[ba]
+;B[ca]CR[ca]C[Zwom [16k\]: watch what happens...
+Zwom [16k\]: bad news for white.
+])
+(;B[ci]CR[ci]C[Zwom [16k\]: so black goes right in the middle of his eye.
+eborggren [?\]: to make two eyes
+Zwom [16k\]: exactly.
+Zwom [16k\]: white needs to do the same here.
+]
+(;W[ca]CR[ca]C[Zwom [16k\]: now everybody is alive.
+])
+(;W[gf]CR[gf]
+;B[ca]CR[ca]C[Zwom [16k\]: now white has to look elsewhere for an eye.
+Zwom [16k\]: do you want to try a game?
+eborggren [?\]: sure
+Zwom [16k\]: alright I'll close out of this and then open up another one.
+Zwom [16k\]: one nice thing about kgs is it stores all your games.
+Zwom [16k\]: so if you are ever missing me you can just open up one of the games again and rehash it.
+eborggren [?\]: sounds good
+Zwom [16k\]: close this window and open up the game in the teaching room.
+]))))

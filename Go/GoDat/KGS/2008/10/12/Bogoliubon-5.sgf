@@ -1,0 +1,318 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[600]OT[5x40 byo-yomi]
+PW[Bogoliubon]PB[logicg8]WR[2k]BR[4k]DT[2008-10-12]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[logicg8 [4k\]: Have a good game
+Bogoliubon [2k\]: you can take more time if you want it.
+Bogoliubon [2k\]: you too
+logicg8 [4k\]: thanks
+]RE[W+20.50]
+;W[dc]WL[580.46]
+;B[de]BL[595.97]
+;W[qn]WL[576.032]
+;B[nq]BL[589.797]
+;W[qf]WL[570.191]
+;B[qh]BL[571.462]
+;W[nd]WL[540.325]
+;B[pf]BL[566.848]
+;W[qc]WL[518.715]
+;B[qe]BL[552.01]
+;W[pc]WL[500.304]
+;B[ql]BL[529.357]
+;W[on]WL[478.685]
+;B[qo]BL[524.071]
+;W[qm]WL[465.57]
+;B[pl]BL[519.981]
+;W[qg]WL[457.364]
+;B[pg]BL[501.248]
+;W[rh]WL[450.952]
+;B[ri]BL[495.336]
+;W[qi]WL[439.35]
+(;B[rg]BL[493.18]C[logicg8 [4k\]: I screwed myeslf over by not connecting
+]
+;W[ph]WL[434.38]C[logicg8 [4k\]: right here
+]
+;B[rf]BL[487.456]C[Bogoliubon [2k\]: did you think I would r12 here?
+logicg8 [4k\]: No
+]
+;W[rj]WL[426.816]
+;B[qh]BL[484.027]
+;W[qg]WL[425.116]
+;B[oh]BL[477.44]
+;W[oi]WL[421.735]
+;B[nh]BL[471.781]C[logicg8 [4k\]: but I thought I could get an eye
+]
+;W[ni]WL[417.633]
+;B[pj]BL[462.627]
+;W[pi]WL[404.749]
+;B[nk]BL[453.86]
+;W[mh]WL[402.419]
+;B[nf]BL[450.944]
+;W[mf]WL[394.832]
+;B[ne]BL[447.781]
+;W[me]WL[389.395]
+;B[od]BL[435.312]
+;W[oc]WL[382.488]
+(;B[ng]BL[424.396]
+;W[mg]WL[371.307]C[Bogoliubon [2k\]: which is true here to
+Bogoliubon [2k\]: but now I have 3 cutting points
+]
+;B[mi]BL[414.812]
+;W[mj]WL[360.003]
+;B[li]BL[412.69]
+;W[nj]WL[358.021]
+;B[nl]BL[408.295]C[logicg8 [4k\]: Do you have time for one more game?
+Bogoliubon [2k\]: yeah sure
+logicg8 [4k\]: Awesome
+Bogoliubon [2k\]: let's go
+]
+;W[mm]WL[325.551]
+;B[nm]BL[389.531]
+;W[mn]WL[321.89]
+;B[nn]BL[387.258]
+;W[no]WL[319.703]
+;B[mo]BL[367.027]
+;W[op]WL[306.802]
+;B[np]BL[358.856]
+;W[oo]WL[304.7]
+;B[oq]BL[353.958]
+;W[lo]WL[284.309]
+;B[mp]BL[349.767]
+;W[lk]WL[239.604]
+;B[pn]BL[342.637]
+;W[rl]WL[227.11]
+;B[ro]BL[329.867]
+;W[ee]WL[210.128]
+;B[ef]BL[315.761]
+;W[ed]WL[207.018]
+;B[ff]BL[287.889]
+;W[df]WL[200.434]
+;B[dg]BL[279.377]
+;W[cf]WL[198.426]
+;B[cg]BL[264.297]
+;W[be]WL[188.249]
+;B[bf]BL[239.7]
+;W[ce]WL[185.142]
+;B[eh]BL[230.301]
+;W[he]WL[166.781]
+;B[fp]BL[143.718]
+;W[cp]WL[153.794]
+;B[cq]BL[136.201]
+;W[co]WL[148.175]
+;B[bq]BL[133.116]
+;W[do]WL[146.045]
+;B[ep]BL[108.339]
+;W[ck]WL[137.325]
+;B[cm]BL[85.694]
+;W[dm]WL[122.713]
+;B[bm]BL[73.683]
+;W[cl]WL[116.492]
+;B[an]BL[58.447]
+;W[ci]WL[99.687]
+;B[bh]BL[53.308]
+;W[bi]WL[95.714]
+;B[el]BL[29.205]
+;W[ek]WL[66.752]
+;B[fk]BL[8.426]
+;W[fj]WL[58.834]
+;B[fl]BL[40]OB[5]
+;W[ej]WL[48.862]
+;B[gi]BL[40]OB[5]
+;W[gj]WL[34.023]
+;B[hf]BL[40]OB[5]
+;W[ge]WL[27.393]
+;B[hi]BL[40]OB[5]
+;W[hj]WL[40]OW[5]
+;B[dl]BL[40]OB[5]
+;W[ii]WL[40]OW[5]
+;B[ih]BL[40]OB[5]
+;W[jh]WL[40]OW[4]
+;B[ji]BL[40]OB[4]
+;W[ij]WL[40]OW[4]
+;B[ig]BL[40]OB[4]
+;W[gg]WL[40]OW[4]
+;B[gf]BL[40]OB[4]
+;W[fi]WL[40]OW[4]
+;B[fh]BL[40]OB[4]
+;W[gh]WL[40]OW[4]
+;B[hh]BL[40]OB[4]
+;W[kh]WL[40]OW[4]
+;B[ie]BL[40]OB[4]
+;W[jf]WL[40]OW[4]
+(;B[ch]BL[40]OB[3]
+;W[if]WL[40]OW[4]C[Bogoliubon [2k\]: this is really easy on me
+Bogoliubon [2k\]: and you have miai to live already
+Bogoliubon [2k\]: you can tenuki now
+]
+(;B[ag]BL[40]OB[3]
+;W[ae]WL[40]OW[4]
+;B[af]BL[40]OB[3]
+;W[ai]WL[40]OW[4]
+;B[ah]BL[40]OB[3]
+;W[fn]WL[40]OW[4]
+;B[gm]BL[40]OB[3]
+;W[fo]WL[40]OW[4]
+;B[ho]BL[40]OB[3]
+;W[hn]WL[40]OW[4]
+;B[gn]BL[40]OB[3]
+;W[go]WL[40]OW[4]
+;B[gp]BL[40]OB[3]
+;W[io]WL[40]OW[4]
+;B[hp]BL[40]OB[3]
+;W[hm]WL[40]OW[3]
+(;B[dn]BL[40]OB[3]
+;W[gl]WL[40]OW[3]
+;B[fm]BL[40]OB[3]
+;W[jq]WL[40]OW[3]C[Bogoliubon [2k\]: and you need the bottom now
+Bogoliubon [2k\]: so you got scared basically
+Bogoliubon [2k\]: in this game
+logicg8 [4k\]: Yeah
+]
+(;B[iq]BL[40]OB[3]
+;W[jp]WL[40]OW[3]
+;B[lp]BL[40]OB[3]
+;W[ko]WL[40]OW[3]
+;B[rd]BL[40]OB[3]
+;W[rc]WL[40]OW[3]
+;B[rm]BL[40]OB[3]
+;W[qk]WL[40]OW[2]
+;B[rn]BL[40]OB[3]
+;W[ir]WL[40]OW[2]
+;B[hr]BL[40]OB[3]
+;W[jr]WL[40]OW[2]
+;B[lr]BL[40]OB[3]
+;W[hs]WL[40]OW[2]
+;B[gr]BL[40]OB[3]
+;W[gs]WL[40]OW[2]
+;B[fs]BL[40]OB[3]
+;W[is]WL[40]OW[2]
+;B[fr]BL[40]OB[3]
+;W[qd]WL[40]OW[2]
+;B[sc]BL[40]OB[3]
+;W[sb]WL[40]OW[2]
+;B[sd]BL[40]OB[3]
+;W[ra]WL[40]OW[2]
+;B[ml]BL[40]OB[3]
+;W[ll]WL[40]OW[2]
+;B[fe]BL[40]OB[3]
+;W[fd]WL[40]OW[2]
+;B[dj]BL[40]OB[3]
+;W[dk]WL[40]OW[2]
+;B[di]BL[40]OB[3]
+;W[bl]WL[40]OW[2]
+;B[ap]BL[40]OB[3]
+;W[cn]WL[40]OW[2]
+;B[em]BL[40]OB[3]
+;W[gk]WL[40]OW[2]
+;B[eo]BL[40]OB[3]
+;W[ip]WL[40]OW[2]
+;B[hq]BL[40]OB[3]
+;W[pk]WL[40]OW[2]
+;B[ok]BL[40]OB[3]
+;W[oj]WL[40]OW[2]
+;B[om]BL[40]OB[3]
+;W[sg]WL[40]OW[2]
+;B[sf]BL[40]OB[3]
+;W[sh]WL[40]OW[2]
+;B[sl]BL[40]OB[3]
+;W[rk]WL[40]OW[2]
+;B[qf]BL[40]OB[3]
+;W[qh]WL[40]OW[2]
+;B[jg]BL[40]OB[3]
+;W[kg]WL[40]OW[2]
+;B[hg]BL[40]OB[3]
+;W[id]WL[40]OW[2]
+;B[al]BL[40]OB[3]
+;W[ak]WL[40]OW[2]
+;B[cj]BL[40]OB[3]
+;W[bj]WL[40]OW[2]
+;B[ks]BL[40]OB[3]
+;W[sk]WL[40]OW[2]
+;B[sm]BL[40]OB[3]
+;W[kr]WL[40]OW[2]
+;B[lq]BL[40]OB[3]
+;W[ei]WL[40]OW[2]
+;B[dh]BL[40]OB[3]
+;W[am]WL[40]OW[2]
+;B[bn]BL[40]OB[3]
+;W[al]WL[40]OW[2]
+;B[]BL[40]OB[2]
+;W[]WL[40]OW[2]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa][pa][qa][sa][ab][bb][cb][db][eb][fb][gb][hb][ib][jb][kb][lb][mb][nb][ob][pb][qb][rb][ac][bc][cc][ec][fc][gc][hc][ic][jc][kc][lc][mc][nc][ad][bd][cd][dd][gd][hd][jd][kd][ld][md][de][ie][je][ke][le][kf][lf][lg][lh][ji][ki][li][mi][ri][si][aj][jj][kj][lj][pj][qj][sj][bk][hk][ik][jk][kk][hl][il][jl][kl][im][jm][km][lm][in][jn][kn][ln][jo]TB[oe][pe][re][se][of][bg][eg][fg][gg][og][gh][ol][dm][pm][qm][cn][en][fn][on][qn][sn][ao][bo][co][do][fo][go][no][oo][po][so][bp][cp][op][qp][rp][sp][aq][dq][eq][fq][gq][mq][pq][qq][rq][sq][ar][br][cr][dr][er][mr][nr][or][pr][qr][rr][sr][as][bs][cs][ds][es][ms][ns][os][ps][qs][rs][ss]C[Bogoliubon [2k\]: thanks
+logicg8 [4k\]: Thank you for the game
+Bogoliubon [2k\]: care to look?
+logicg8 [4k\]: PLease
+])
+(;B[jp]C[Bogoliubon [2k\]: white's pretty thin
+]
+;W[ip]
+;B[iq]
+;W[jo]
+;B[kp]
+;W[lp]))
+(;B[hl]))
+(;B[kp])
+(;B[ml]
+;W[kn]
+;B[km]))
+(;B[id]
+;W[fe]
+;B[md]
+;W[nc]
+(;B[if]C[Bogoliubon [2k\]: first
+Bogoliubon [2k\]: I'd be tempted to find an eye on the bottom
+])
+(;B[jg]
+;W[kg]
+;B[if]C[Bogoliubon [2k\]: white probably has issues
+]
+;W[ke]C[Bogoliubon [2k\]: and you'll get enough points
+]
+(;B[gc])
+(;B[ch]
+;W[fg]
+;B[ag]C[Bogoliubon [2k\]: and you can live later anyways
+]))))
+(;B[mg]C[Bogoliubon [2k\]: if you can ruin my shape you should do so
+]
+;W[lg]C[logicg8 [4k\]: I thought this made r16 sente
+]
+;B[ng]C[Bogoliubon [2k\]: this is a technique you can use all the time
+Bogoliubon [2k\]: it gets the inititiative since he has to protect weakness
+Bogoliubon [2k\]: rather then 5
+Bogoliubon [2k\]: you see?
+logicg8 [4k\]: Yeah
+]
+;W[lh]
+;B[md]
+;W[nc]
+;B[ld]
+;W[ke]
+;B[gd]C[Bogoliubon [2k\]: but I get more difficulties
+Bogoliubon [2k\]: even the way you played
+Bogoliubon [2k\]: I had worries
+]
+(;W[of]
+;B[oe])
+(;W[rd])
+(;W[qd]
+;B[rd]C[Bogoliubon [2k\]: it is sente this is true
+Bogoliubon [2k\]: but who cares
+])))
+(;B[ph]C[logicg8 [4k\]: For some reason I thought I played Q12 
+Bogoliubon [2k\]: you should be thinking influence and points
+Bogoliubon [2k\]: it's fuseki
+]
+;W[rj]C[logicg8 [4k\]: Stuff happened in my head that hadn't happend on the board yet
+]
+;B[pi]
+(;W[qj]
+;B[rg]
+;W[si]
+;B[rf]
+;W[rl]
+;B[cc]C[Bogoliubon [2k\]: probably good enough
+])
+(;W[si]
+;B[re]
+;W[rf]
+;B[sf]
+;W[rg]
+;B[qj])))

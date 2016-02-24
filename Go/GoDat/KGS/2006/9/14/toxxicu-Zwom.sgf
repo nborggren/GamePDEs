@@ -1,0 +1,355 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[2100]OT[3x60 byo-yomi]
+PW[toxxicu]PB[Zwom]WR[9d]BR[7k]DT[2006-09-14]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AB[pd][dp][pp]C[toxxicu [9d?\]: enjoy the game !
+]RE[W+Resign]
+;W[de]CR[de]WL[2267.901]C[Zwom [7k\]: you too 
+]
+;B[dc]CR[dc]BL[2264.599]
+;W[fd]CR[fd]WL[2262.573]
+;B[ce]CR[ce]BL[2236.365]
+;W[dd]CR[dd]WL[2259.409]
+;B[cd]CR[cd]BL[2234.089]
+;W[cc]CR[cc]WL[2252.586]
+;B[cb]CR[cb]BL[2219.949]
+;W[bc]CR[bc]WL[2250.521]
+;B[bb]CR[bb]BL[2216.400]
+;W[ec]CR[ec]WL[2247.948]
+;B[db]CR[db]BL[2214.788]
+;W[cf]CR[cf]WL[2246.056]
+;B[bd]CR[bd]BL[2206.687]
+;W[be]CR[be]WL[2243.441]
+;B[ac]CR[ac]BL[2205.233]
+;W[dg]CR[dg]WL[2236.960]
+;B[nc]CR[nc]BL[2191.743]
+;W[jq]CR[jq]WL[2226.575]
+;B[mq]CR[mq]BL[2167.337]
+;W[cn]CR[cn]WL[2169.261]
+;B[fq]CR[fq]BL[2161.534]
+;W[qj]CR[qj]WL[2158.862]
+;B[qh]CR[qh]BL[2146.292]
+;W[qp]CR[qp]WL[2121.827]
+;B[qo]CR[qo]BL[2127.808]
+;W[ro]CR[ro]WL[2097.737]
+(;B[rn]CR[rn]BL[2101.817]C[toxxicu [9d?\]: this move also gives w the choice to make a ponnuki and take sente
+]
+(;W[rp]CR[rp]WL[2077.958]
+(;B[qn]CR[qn]BL[2094.021]
+;W[pq]CR[pq]WL[2075.712]
+(;B[op]CR[op]BL[2091.058]C[toxxicu [9d?\]: soft for b
+]
+;W[oq]CR[oq]WL[2070.621]
+;B[np]CR[np]BL[2085.493]C[toxxicu [9d?\]: my corner is much bigger now
+toxxicu [9d?\]: and there is nothing left for you there
+]
+;W[oj]CR[oj]WL[2063.508]C[toxxicu [9d?\]: around this point in the game
+toxxicu [9d?\]: you should make a plan and follow it
+toxxicu [9d?\]: the plan has to consider all board
+toxxicu [9d?\]: you played too local
+]
+(;B[oh]CR[oh]BL[2075.672]C[toxxicu [9d?\]: try to guess why this is not optimal
+Zwom [7k\]: my shape is pretty bad around p6
+toxxicu [9d?\]: bad ?
+toxxicu [9d?\]: nope
+toxxicu [9d?\]: that's your strongest group
+toxxicu [9d?\]: it's a wall
+toxxicu [9d?\]: this looks like
+toxxicu [9d?\]: it develops the upper right corner
+toxxicu [9d?\]: but
+Zwom [7k\]: two weaknesses
+toxxicu [9d?\]: as long as r17 is vulnerable
+toxxicu [9d?\]: it's like investing more stones in something that is not secure
+toxxicu [9d?\]: another reason
+toxxicu [9d?\]: you are not using the wall
+toxxicu [9d?\]: to attack w
+]
+(;W[mj]CR[mj]WL[2058.951]
+(;B[ol]CR[ol]BL[2048.807]C[toxxicu [9d?\]: these last 2 b moves
+toxxicu [9d?\]: are not so good 
+toxxicu [9d?\]: this is probably the biggest mistake in the game
+toxxicu [9d?\]: you are playing FROM the wall
+toxxicu [9d?\]: thus reducing it's effectiveness
+]
+;W[en]CR[en]WL[2048.523]
+;B[hq]CR[hq]BL[2040.696]C[toxxicu [9d?\]: big difference
+toxxicu [9d?\]: b is low now and w can treat k3 as a light stone
+toxxicu [9d?\]: i sacrificed it in the game
+]
+;W[hn]CR[hn]WL[2040.127]
+;B[kj]CR[kj]BL[2027.792]C[toxxicu [9d?\]: this was good
+toxxicu [9d?\]: it reduces my influence in the center 
+toxxicu [9d?\]: actively
+toxxicu [9d?\]: while threatening my  weak group
+]
+;W[nl]CR[nl]WL[2037.160]
+;B[nm]CR[nm]BL[2023.673]
+;W[ml]CR[ml]WL[2026.183]
+;B[ok]CR[ok]BL[2012.375]
+;W[nj]CR[nj]WL[2007.966]
+;B[kg]CR[kg]BL[1986.629]
+;W[kl]CR[kl]WL[1979.016]C[Zwom [7k\]: I wanted a move up top but I didn't know where
+]
+(;B[gc]CR[gc]BL[1939.921]C[toxxicu [9d?\]: this is a bit strange
+]
+;W[id]CR[id]WL[1970.228]C[toxxicu [9d?\]: your move allows me to enter that big area
+]
+;B[gd]CR[gd]BL[1930.739]
+;W[ge]CR[ge]WL[1957.437]
+;B[he]CR[he]BL[1926.777]
+;W[hd]CR[hd]WL[1948.627]
+;B[eb]CR[eb]BL[1914.303]
+;W[mc]CR[mc]WL[1906.505]
+;B[md]CR[md]BL[1908.912]
+;W[lc]CR[lc]WL[1890.547]
+(;B[hf]CR[hf]BL[1899.571]
+;W[nb]CR[nb]WL[1883.186]
+;B[oc]CR[oc]BL[1897.773]
+;W[ob]CR[ob]WL[1881.438]
+;B[pb]CR[pb]BL[1896.310]
+;W[qc]CR[qc]WL[1879.696]
+;B[pc]CR[pc]BL[1893.359]
+;W[ld]CR[ld]WL[1877.345]
+;B[me]CR[me]BL[1889.095]
+;W[hb]CR[hb]WL[1873.676]
+;B[gi]CR[gi]BL[1841.987]
+;W[gf]CR[gf]WL[1810.692]
+;B[hg]CR[hg]BL[1826.781]
+;W[cq]CR[cq]WL[1799.001]
+(;B[cp]CR[cp]BL[1821.535]
+;W[dq]CR[dq]WL[1741.177]C[Zwom [7k\]: seems better, I didn't expect d3 in the game
+]
+(;B[io]CR[io]BL[1697.211]
+;W[ep]CR[ep]WL[1735.112]
+;B[in]CR[in]BL[1692.423]
+;W[jj]CR[jj]WL[1729.616]
+;B[ji]CR[ji]BL[1686.641]
+;W[jk]CR[jk]WL[1698.901]
+;B[hm]CR[hm]BL[1665.403]
+;W[ii]CR[ii]WL[1697.166]
+;B[jh]CR[jh]BL[1663.117]
+;W[gk]CR[gk]WL[1688.226]
+;B[gm]CR[gm]BL[1595.420]
+;W[gj]CR[gj]WL[1674.681]
+;B[dm]CR[dm]BL[1590.849]
+;W[dn]CR[dn]WL[1669.688]
+;B[fl]CR[fl]BL[1580.428]
+;W[fi]CR[fi]WL[1654.273]
+(;B[gh]CR[gh]BL[1568.365]
+;W[nh]CR[nh]WL[1642.823]
+;B[ng]CR[ng]BL[1553.902]
+;W[mg]CR[mg]WL[1636.901]
+;B[og]CR[og]BL[1544.658]
+;W[lg]CR[lg]WL[1567.764]
+;B[lf]CR[lf]BL[1104.637]
+;W[dk]CR[dk]WL[1544.958]
+;B[dl]CR[dl]BL[1082.474]
+;W[ck]CR[ck]WL[1538.311]
+;B[gb]CR[gb]BL[1027.729]
+;W[mm]CR[mm]WL[1519.441]
+;B[nn]CR[nn]BL[1019.026]
+;W[lo]CR[lo]WL[1482.223]
+;B[kp]CR[kp]BL[1008.703]
+;W[nr]CR[nr]WL[1473.918]
+;B[mr]CR[mr]BL[1004.944]
+;W[ek]CR[ek]WL[1451.118]
+;B[oa]CR[oa]BL[990.015]
+;W[ma]CR[ma]WL[1448.661]
+(;B[lb]CR[lb]BL[934.281]C[toxxicu [9d?\]: this is not a tesuji
+]
+;W[kb]CR[kb]WL[1445.953]
+;B[jb]CR[jb]BL[932.118]
+;W[jc]CR[jc]WL[1366.077]
+;B[ib]CR[ib]BL[910.964]
+;W[hc]CR[hc]WL[1358.517]
+;B[ha]CR[ha]BL[906.932]
+;W[ka]CR[ka]WL[1348.350]
+;B[ga]CR[ga]BL[877.168]
+;W[je]CR[je]WL[1344.222]
+;B[jf]CR[jf]BL[857.196]
+;W[ke]CR[ke]WL[1335.985]
+;B[kf]CR[kf]BL[854.737]C[toxxicu [9d?\]: like this w has more points
+toxxicu [9d?\]: b less
+toxxicu [9d?\]: and i am sente
+]
+;W[qi]CR[qi]WL[1323.851]
+;B[rh]CR[rh]BL[839.516]
+;W[fp]CR[fp]WL[1312.833]
+(;B[gp]CR[gp]BL[833.861]
+;W[fr]CR[fr]WL[1298.501]
+;B[gr]CR[gr]BL[822.747]
+;W[eq]CR[eq]WL[1296.860]C[toxxicu [9d?\]: so the game was pretty close
+toxxicu [9d?\]: with good yose
+toxxicu [9d?\]: b should have won
+toxxicu [9d?\]: shall we try again ?
+Zwom [7k\]: yes
+]
+;B[gq]CR[gq]BL[819.947]
+;W[fm]CR[fm]WL[1287.560]C[toxxicu [9d?\]: this was a tesuji
+toxxicu [9d?\]: but 
+toxxicu [9d?\]: it was sente for b to defend
+toxxicu [9d?\]: at any point almost
+]
+;B[gl]CR[gl]BL[801.998]
+;W[el]CR[el]WL[1285.623]
+;B[fh]CR[fh]BL[792.334]
+;W[gn]CR[gn]WL[1283.422]
+(;B[im]CR[im]BL[753.311]
+;W[ko]CR[ko]WL[1276.986]
+;B[jp]CR[jp]BL[749.070]
+;W[ei]CR[ei]WL[1273.850]C[Zwom [7k\]: thanks
+toxxicu [9d?\]: thank you
+toxxicu [9d?\]: is it that bad?
+toxxicu [9d?\]: to resign
+]
+;B[bf]CR[bf]
+;W[bg]CR[bg]
+;B[ae]CR[ae]
+;W[er]CR[er]
+;B[ag]CR[ag]
+;W[bh]CR[bh]
+;B[ah]CR[ah]
+;W[ai]CR[ai]
+;B[af]CR[af]
+;W[bi]CR[bi]
+;B[nq]CR[nq]
+;W[or]CR[or]
+;B[ms]CR[ms]
+;W[qr]CR[qr]
+(;B[ql]CR[ql])
+(;B[ri]CR[ri]
+;W[rj]CR[rj]
+;B[go]CR[go]
+;W[fo]CR[fo]
+;B[ql]CR[ql]C[toxxicu [9d?\]: it seems close to me
+]
+;W[mf]CR[mf]
+;B[le]CR[le]
+;W[nf]CR[nf]
+;B[of]CR[of]
+;W[ne]CR[ne]
+;B[nd]CR[nd]
+;W[oe]CR[oe]
+;B[pe]CR[pe]
+;W[li]CR[li]
+;B[ki]CR[ki]C[Zwom [7k\]: maybe it was premature, but this way I get to see your endgame
+toxxicu [9d?\]: :)
+]
+;W[lp]CR[lp]
+;B[lq]CR[lq]
+;W[eg]CR[eg]
+;B[fc]CR[fc]
+;W[ed]CR[ed]
+;B[fg]CR[fg]
+;W[ff]CR[ff]
+;B[hk]CR[hk]
+;W[hj]CR[hj]
+;B[ik]CR[ik]
+;W[ij]CR[ij]
+;B[km]CR[km]
+;W[jm]CR[jm]
+;B[jn]CR[jn]
+;W[jl]CR[jl]
+;B[kn]CR[kn]
+;W[mn]CR[mn]
+;B[lk]CR[lk]
+;W[ll]CR[ll]
+;B[mh]CR[mh]
+;W[lh]CR[lh]
+;B[ni]CR[ni]
+;W[pk]CR[pk]
+;B[pl]CR[pl]
+;W[ih]CR[ih]
+;B[ig]CR[ig]
+;W[rl]CR[rl]
+;B[qk]CR[qk]
+;W[pj]CR[pj]
+;B[rk]CR[rk]
+;W[sk]CR[sk]C[toxxicu [9d?\]: something like thsi
+toxxicu [9d?\]: w may be ahead but not much
+toxxicu [9d?\]: let's look from the start
+toxxicu [9d?\]: there are some important things to touch
+]))
+(;B[il]CR[il]C[toxxicu [9d?\]: this is more active
+toxxicu [9d?\]: you threaten a cut
+toxxicu [9d?\]: at h10
+]))
+(;B[fm]CR[fm]
+;W[cm]CR[cm]C[toxxicu [9d?\]: b8 would be too big
+]))
+(;B[ib]CR[ib]
+;W[jb]CR[jb]
+;B[hc]CR[hc]
+;W[ic]CR[ic]
+;B[ha]CR[ha]
+;W[kb]CR[kb]
+;B[je]CR[je]
+;W[kd]CR[kd]C[toxxicu [9d?\]: this is better for b than the game
+toxxicu [9d?\]: simple play
+]))
+(;B[dk]CR[dk]C[toxxicu [9d?\]: isn't it bigger to play around here?
+toxxicu [9d?\]: g11 is not so important anymore
+Zwom [7k\]: ok
+]))
+(;B[ep]CR[ep]
+;W[bp]CR[bp]
+;B[ip]CR[ip]C[toxxicu [9d?\]: it's big to rescue those
+]))
+(;B[dq]CR[dq]
+;W[cp]CR[cp]
+;B[do]CR[do]
+;W[dn]CR[dn]
+;B[ip]CR[ip]C[toxxicu [9d?\]: what do you think of this seq
+toxxicu [9d?\]: compared to the game
+toxxicu [9d?\]: you don't lose the hoshi
+]))
+(;B[nd]CR[nd]C[toxxicu [9d?\]: o18 is huge if you don't connect
+toxxicu [9d?\]: i would not allow that kind of hane
+toxxicu [9d?\]: your corner is much bigger
+]))
+(;B[jd]CR[jd]C[toxxicu [9d?\]: something like this
+])
+(;B[hj]CR[hj]
+;W[fj]CR[fj]
+;B[co]CR[co]
+;W[bn]CR[bn]
+;B[jd]CR[jd]C[toxxicu [9d?\]: this looks normal
+]))
+(;B[jo]CR[jo]C[toxxicu [9d?\]: i would play around here
+toxxicu [9d?\]: keep w separated and weak
+]))
+(;W[qc]CR[qc]C[toxxicu [9d?\]: if i live here
+toxxicu [9d?\]: your stones will not be efficient at all
+]))
+(;B[mj]CR[mj]
+;W[oh]CR[oh]
+;B[qe]CR[qe]C[toxxicu [9d?\]: with this combination 
+toxxicu [9d?\]: you can defend the corner
+toxxicu [9d?\]: and keep w under pressure
+toxxicu [9d?\]: plus
+toxxicu [9d?\]: you have k3
+toxxicu [9d?\]: that should be your next target
+]))
+(;B[oq]CR[oq]C[toxxicu [9d?\]: i'd like to play something like this
+toxxicu [9d?\]: did you consider it ?
+Zwom [7k\]: no I didn't, for some reason
+]))
+(;B[po]CR[po]C[toxxicu [9d?\]: you should still connect here
+]))
+(;W[qn]CR[qn]
+;B[po]CR[po]
+;W[rm]CR[rm]
+;B[rp]CR[rp]
+;W[sn]CR[sn]
+;B[qq]CR[qq]))
+(;B[po]CR[po]C[toxxicu [9d?\]: the move is here
+toxxicu [9d?\]: the shape will become like this
+]
+;W[rp]CR[rp]
+;B[rn]CR[rn]
+;W[pq]CR[pq]
+;B[oq]CR[oq]
+;W[pr]CR[pr]
+;B[qm]CR[qm]C[toxxicu [9d?\]: it's much better than the game
+toxxicu [9d?\]: w is not yet 100% safe in the corner
+toxxicu [9d?\]: there is still a one step ko
+toxxicu [9d?\]: and b's shape is more solid and closer to r10
+]))

@@ -1,0 +1,326 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[2100]OT[3x60 byo-yomi]
+PW[toxxicu]PB[Bogoliubon]WR[7d]BR[2k]DT[2007-01-08]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[toxxicu [7d\]: have a good game!
+]RE[W+Resign]
+;W[cd]WL[2087.9]C[Bogoliubon [2k\]: you too. 
+]
+;B[ed]BL[2085.608]
+;W[gc]WL[2084.432]
+;B[cc]BL[2072.726]
+;W[dc]WL[2076.373]
+;B[dd]BL[2061.754]
+;W[cb]WL[2066.904]
+;B[bc]BL[2041.951]
+;W[ce]WL[2051.988]C[toxxicu [7d\]: this is kind of a trick play
+toxxicu [7d\]: but you failed to punish it
+Bogoliubon [2k\]: yeah I noticed.
+Bogoliubon [2k\]: f18 and e 18 I  mean
+Bogoliubon [2k\]: not f17
+]
+(;B[df]BL[1965.286]
+;W[eb]WL[2039.133]C[toxxicu [7d\]: letting me connect g17
+toxxicu [7d\]: changes everything
+toxxicu [7d\]: w is good now
+toxxicu [7d\]: locally
+toxxicu [7d\]: overall b still has the advantage :)
+Bogoliubon [2k\]: I was also considering f18 and f17 to cut.
+Bogoliubon [2k\]: I didn't like d18 at the time
+]
+;B[cf]BL[1943.866]
+;W[bb]WL[2032.472]
+;B[cj]BL[1888.888]
+;W[fq]WL[2026.591]
+;B[hq]BL[1872.812]
+;W[cq]WL[2018.627]
+;B[cp]BL[1867.343]
+;W[dq]WL[2015.296]
+;B[ep]BL[1865.414]
+;W[fp]WL[1984.445]
+;B[eq]BL[1834.522]
+;W[er]WL[1979.517]
+;B[dr]BL[1832.755]
+;W[cr]WL[1973.904]
+;B[fr]BL[1830.697]
+;W[ds]WL[1969.201]
+(;B[gr]BL[1829.225]
+;W[fn]WL[1961.592]
+(;B[fo]BL[1808.457]
+;W[go]WL[1955.961]
+;B[eo]BL[1805.999]
+;W[gp]WL[1954.679]C[toxxicu [7d\]: this feels like overplay
+]
+;B[gn]BL[1799.954]
+;W[ip]WL[1950.825]C[toxxicu [7d\]: you missed a nice move here
+]
+(;B[iq]BL[1794.938]
+;W[jp]WL[1940.778]
+;B[kq]BL[1775.97]
+;W[fm]WL[1934.248]
+;B[hn]BL[1764.9]
+;W[in]WL[1923.3]
+;B[gl]BL[1715.961]
+;W[dn]WL[1911.982]C[toxxicu [7d\]: b is in trouble now
+Bogoliubon [2k\]: I see j6 needed k4 to work.
+toxxicu [7d\]: yes
+]
+(;B[cn]BL[1600.281]
+;W[cm]WL[1907.742]
+;B[bm]BL[1561.465]
+;W[co]WL[1903.998]
+;B[bn]BL[1550.611]
+;W[bp]WL[1901.472]
+;B[pj]BL[1508.767]C[toxxicu [7d\]: the game is even now
+Bogoliubon [2k\]: which made me want to resign
+toxxicu [7d\]: w gained a lot in the first 2 corners
+]
+;W[qn]WL[1879.798]
+;B[qo]BL[1500.055]C[toxxicu [7d\]: a good thing you didn't :)
+]
+;W[pn]WL[1869.548]
+;B[np]BL[1497.186]
+;W[ql]WL[1850.179]
+(;B[rj]BL[1447.844]C[toxxicu [7d\]: this is a bit soft
+]
+(;W[mm]WL[1843.881]
+;B[qf]BL[1436.083]
+;W[pb]WL[1816.86]
+;B[qc]BL[1423.988]
+;W[mc]WL[1808.776]
+;B[kc]BL[1418.228]
+;W[qb]WL[1801.056]
+;B[rb]BL[1415.981]
+;W[pc]WL[1796.963]
+;B[qd]BL[1410.083]
+;W[ra]WL[1794.562]
+;B[sc]BL[1402.574]
+;W[od]WL[1790.688]
+;B[nd]BL[1397.745]C[toxxicu [7d\]: this is a very nice tesuji
+toxxicu [7d\]: good job
+]
+;W[oc]WL[1780.76]
+;B[oe]BL[1395.61]
+;W[md]WL[1759.996]
+;B[me]BL[1392.1]
+;W[kd]WL[1757.725]
+;B[jd]BL[1385.232]
+;W[le]WL[1753.954]
+;B[mf]BL[1372.323]C[Bogoliubon [2k\]: courtesy fujisawa shuko
+]
+;W[je]WL[1748.744]
+;B[id]BL[1368.102]
+;W[ie]WL[1742.805]
+;B[hd]BL[1365.832]
+;W[cl]WL[1737.535]
+;B[bl]BL[1361.937]
+;W[ck]WL[1734.372]
+;B[bk]BL[1357.927]
+;W[dj]WL[1730.102]
+;B[di]BL[1353.499]
+;W[ci]WL[1726.369]
+;B[bj]BL[1352.017]
+;W[ej]WL[1723.789]
+;B[dh]BL[1347.001]TR[gl][gn][hn]C[toxxicu [7d\]: these feel weak
+toxxicu [7d\]: and you can not hope to make a lot of points in the center
+toxxicu [7d\]: because of those
+]
+;W[qq]WL[1703.147]
+;B[pq]BL[1248.085]
+;W[ro]WL[1699.464]
+;B[il]BL[1195.897]
+;W[qr]WL[1395.178]C[toxxicu [7d\]: you added one move in the center
+toxxicu [7d\]: but gave up this big corner
+toxxicu [7d\]: right now w can win by playing yose
+]
+;B[pr]BL[1181.188]
+;W[kp]WL[1388.427]
+;B[lq]BL[1177.86]C[Bogoliubon [2k\]: at this point I figured I was going to lose anyways, and thought my only hope was to get lucky with your white group up top.
+]
+;W[hi]WL[1360.135]C[toxxicu [7d\]: well i added h11 not only to attack
+toxxicu [7d\]: but to connect
+toxxicu [7d\]: and i was aiming for g16 cut
+toxxicu [7d\]: what you were trying is a long shot
+]
+;B[lc]BL[1170.902]
+;W[ld]WL[1356.494]
+;B[nb]BL[1125.558]
+;W[nc]WL[1349.537]
+;B[kg]BL[1108.366]
+;W[mb]WL[1329.71]C[toxxicu [7d\]: was :)
+]
+;B[lb]BL[1103.725]
+;W[hb]WL[1313.03]
+;B[jb]BL[1096.481]
+;W[ig]WL[1279.744]
+;B[kf]BL[1085.278]
+;W[ke]WL[1257.398]
+;B[hh]BL[1077.531]C[Bogoliubon [2k\]: but winning required a long shot.
+]
+;W[ih]WL[1238.865]C[Bogoliubon [2k\]: therefore
+toxxicu [7d\]: right
+]
+;B[ii]BL[1075.186]
+;W[gh]WL[1231.909]
+;B[hg]BL[1045.302]
+;W[gf]WL[1222.635]C[toxxicu [7d\]: ok
+toxxicu [7d\]: next game ?
+Bogoliubon [2k\]: sure let me pull up a demo first.
+Bogoliubon [2k\]: fuseki question.
+toxxicu [7d\]: ok
+]
+;B[gi]BL[1033.386]
+;W[hj]WL[1218.81]C[toxxicu [7d\]: thanks
+Bogoliubon [2k\]: thanks
+]
+;B[gg]
+;W[fg]
+;B[fh]
+;W[hf]
+;B[gh]
+;W[ic]
+;B[hc]
+;W[ib]
+;B[gd]
+;W[fc]
+;B[jc]
+;W[fd]C[toxxicu [7d\]: and this is a problem
+toxxicu [7d\]: let's look from the start
+Bogoliubon [2k\]: It was my last hope
+])
+(;W[qi]C[Bogoliubon [2k\]: but it is the right idea to black the side.
+])
+(;W[oj]C[Bogoliubon [2k\]: ?
+Bogoliubon [2k\]:  block
+toxxicu [7d\]: things are different with tobi
+toxxicu [7d\]: yes
+toxxicu [7d\]: it's a good idea to do that
+])
+(;W[jc]
+;B[rm]C[toxxicu [7d\]: you can take the base with this
+toxxicu [7d\]: but it's about the same with r10 instead of s10
+]))
+(;B[rk]C[toxxicu [7d\]: keima is more agressive
+toxxicu [7d\]: it is a bit soft
+toxxicu [7d\]: to play only tobi
+])
+(;B[qj]C[toxxicu [7d\]: if you want soft
+toxxicu [7d\]: you can choose this
+toxxicu [7d\]: it  doesn't leave a nozoki
+]))
+(;B[en]
+;W[em]
+;B[dm]C[toxxicu [7d\]: you know why this doesn't work ?
+Bogoliubon [2k\]: b4 hane leaves black short by 1 liberty
+]
+;W[bp]
+;B[co]
+;W[cn]
+;B[bo]
+;W[bn]
+;B[bq]
+;W[br]
+(;B[el])
+(;B[cm]
+;W[aq]C[toxxicu [7d\]: yes
+toxxicu [7d\]: good reading :)
+])))
+(;B[kq]C[Bogoliubon [2k\]: j5
+Bogoliubon [2k\]: doesn't work
+toxxicu [7d\]: it doesn't
+toxxicu [7d\]: you need to extend
+toxxicu [7d\]: on the side
+toxxicu [7d\]: and this is much faster
+]
+(;W[fm]
+;B[hn]
+(;W[io]
+;B[dm]C[toxxicu [7d\]: isn't it ?
+Bogoliubon [2k\]: yeah but white would j6 not j5 right?
+])
+(;W[in]
+;B[im]C[toxxicu [7d\]: and what next?
+Bogoliubon [2k\]: ok.
+]
+;W[jn]
+;B[dm]))
+(;W[jp]C[toxxicu [7d\]: well w can get this anyway
+toxxicu [7d\]: but
+toxxicu [7d\]: then you have better moves than j3
+toxxicu [7d\]: k2 or k3
+]
+;B[jr]
+;W[fm]
+;B[dm]
+;W[hm]C[toxxicu [7d\]: you can;t expect a good result after the cut
+])))
+(;B[bq]
+;W[br]
+;B[dm]C[Bogoliubon [2k\]: cutting was premature apparently
+toxxicu [7d\]: yes a bit
+toxxicu [7d\]: still
+toxxicu [7d\]: this is a good way to continue
+Bogoliubon [2k\]: I thought if you were floating I'd be good
+]
+;W[io]
+;B[kq]C[toxxicu [7d\]: well
+toxxicu [7d\]: i am floating but pretty lightly
+toxxicu [7d\]: and you don't make much points
+]
+;W[dn]
+;B[cn]
+;W[cm]C[toxxicu [7d\]: i have some sabaki moves
+]))
+(;B[fo]
+;W[gr]
+;B[gp]
+;W[fs]
+;B[gn]C[toxxicu [7d\]: this is the normal variation
+toxxicu [7d\]: and it looks better
+toxxicu [7d\]: your thickness works pretty well
+Bogoliubon [2k\]: this seems way better for black
+toxxicu [7d\]: yes
+Bogoliubon [2k\]: this is a joseki?
+toxxicu [7d\]: yup
+]))
+(;B[db]
+;W[ec]
+;B[fc]
+;W[eb]
+;B[fb]
+;W[da]
+;B[gd]C[toxxicu [7d\]: this is good for B
+toxxicu [7d\]: the shape is perfect 
+toxxicu [7d\]: g17 is hurt
+toxxicu [7d\]: and w needs to add one more move
+toxxicu [7d\]: otherwise it's a ko
+]
+(;W[kc]
+;B[bb]
+;W[ba]
+;B[aa]C[toxxicu [7d\]: ok?
+]
+;W[ab]
+;B[ac]C[Bogoliubon [2k\]: ok.  I even read that variation and I didn't think it was good for black at the time
+Bogoliubon [2k\]: short of the ko.
+])
+(;W[bb]
+;B[jc]C[toxxicu [7d\]: the ko is pretty important
+toxxicu [7d\]: because of it w needs to add one more
+toxxicu [7d\]: and besides that d14 feels good as a continuation
+]
+;W[qf]
+;B[nd]
+;W[qj]
+;B[df]C[toxxicu [7d\]: the 2 dead stones can still be useful
+toxxicu [7d\]: that;s why this is a bit better for B
+]))
+(;B[fb]
+;W[db]
+;B[fc]
+;W[gd]
+;B[bb]C[Bogoliubon [2k\]: and I didn't like any of them
+]
+;W[ba]C[Bogoliubon [2k\]: anyways.  let's continue
+]
+;B[ca]
+;W[da]C[toxxicu [7d\]: w wins
+]))

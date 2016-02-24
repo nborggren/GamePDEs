@@ -1,0 +1,364 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+DT[2012-02-15]PC[The KGS Go Server at http://www.gokgs.com/]C[logicg8 [?\]: Hello
+Bogoliubon [-\]: Hey.  I have a print out, so Ill have to throw stones on the board.
+Bogoliubon [-\]: This is a game from this years Tianyuan
+Bogoliubon [-\]: or at least its Lee Sedol B
+Bogoliubon [-\]: Han Chongjin W
+]
+;B[pd]
+;W[dd]
+;B[qp]
+;W[dq]
+;B[op]
+;W[jp]C[Bogoliubon [-\]: this was interesting
+Bogoliubon [-\]: what would you have done?
+Bogoliubon [-\]: for 6
+logicg8 [?\]: k17
+logicg8 [?\]: or 16
+logicg8 [?\]: r10
+Bogoliubon [-\]: Id r13
+Bogoliubon [-\]: r10
+Bogoliubon [-\]: rather
+logicg8 [?\]: or approach with o17 but definitely not this
+Bogoliubon [-\]: or d5
+]
+;B[cn]
+;W[cp]
+;B[ck]
+;W[ci]
+;B[en]
+;W[gp]C[Bogoliubon [-\]: n3 huge now.  whites shape seems wierd
+Bogoliubon [-\]: but he has b7 in this position
+]
+;B[nc]
+;W[qj]
+;B[qh]
+;W[qm]C[Bogoliubon [-\]: now what should black do.
+Bogoliubon [-\]: ?
+logicg8 [?\]: M3
+Bogoliubon [-\]: thats my impulse too, but that gives white first move up top.
+Bogoliubon [-\]: I want k16
+]
+;B[pl]
+;W[ql]
+;B[pj]C[logicg8 [?\]: If I was playing on top I'd want to approach with f 17
+]
+;W[pk]C[Bogoliubon [-\]: o17 feels low for that for me.  Also just san-san is a possibility
+Bogoliubon [-\]: after k16
+Bogoliubon [-\]: depending on whites response.
+]
+;B[ok]
+;W[qk]
+;B[pi]
+;W[ol]
+;B[nk]
+;W[fc]
+;B[jd]C[Bogoliubon [-\]: at least here it makes sense.
+Bogoliubon [-\]: who do you like?
+logicg8 [?\]: b
+Bogoliubon [-\]: it seems really even to me
+Bogoliubon [-\]: with n3 on the board and komi
+Bogoliubon [-\]: but Id take black too, if I had to choose
+logicg8 [?\]: W's bottom left is big but no potential nor from w's right
+Bogoliubon [-\]: and c17, c16 and c14 irritating
+Bogoliubon [-\]: by black.
+]
+;W[mq]
+;B[om]C[logicg8 [?\]: Indeed 
+]
+;W[rh]
+;B[rg]
+;W[ri]
+;B[qf]
+;W[nl]
+;B[pm]
+;W[ml]
+;B[mp]
+;W[lp]
+;B[lq]
+;W[nr]C[Bogoliubon [-\]: this move is cool.
+logicg8 [?\]: I learned this because of jatotek
+logicg8 [?\]: He used to love that cross cut
+Bogoliubon [-\]: my girlfriend just came in, she loves you.
+logicg8 [?\]: Awww
+]
+;B[mo]
+;W[pq]C[logicg8 [?\]: Hey Amber
+]
+;B[pp]
+;W[qn]C[Bogoliubon [-\]: this game is a reading exercise from here to the end.
+Bogoliubon [-\]: a shape game, like everything lee sedol.
+]
+;B[lr]
+;W[qq]
+;B[rq]
+;W[rr]
+;B[kp]
+;W[lo]
+;B[ko]
+;W[ln]C[Bogoliubon [-\]: Ill buy you a pizza at Princeton if you get blacks next move.
+logicg8 [?\]: s5
+]
+;B[qr]C[Bogoliubon [-\]: and then this move.
+Bogoliubon [-\]: those were my lessons.
+Bogoliubon [-\]: I like this game.
+logicg8 [?\]: It's a fun one
+Bogoliubon [-\]: indeed.  so youll be at Princeton then?
+logicg8 [?\]: I'm planning on it
+logicg8 [?\]: I still need to book a hotel
+logicg8 [?\]: Philly is a bit far isn't it?
+Bogoliubon [-\]: my friend lives about 15 minutes from the trenton stop
+Bogoliubon [-\]: if you wanted to get a place though Id probably be down.
+Bogoliubon [-\]: but its a 45 minute commute
+Bogoliubon [-\]: not that big of a deal.
+Bogoliubon [-\]: hans bethe commuted from NYC
+logicg8 [?\]: crazy
+Bogoliubon [-\]: and he managed just fine
+Bogoliubon [-\]: its closer to the city then we are on the island.
+Bogoliubon [-\]: and trenton is closer still.
+Bogoliubon [-\]: Id like to see my friends there too.
+Bogoliubon [-\]: I should run, I think amber and I are going to dine now.
+logicg8 [?\]: okay
+logicg8 [?\]: Have fun
+Bogoliubon [-\]: later.
+]
+;W[rp]
+;B[oq]
+;W[pr]
+;B[or]
+;W[sq]C[Bogoliubon [-\]: too bad.
+Bogoliubon [-\]: read how black is now connected to m3 stones.
+logicg8 [?\]: I'm tempted to k3
+]
+;B[mn]C[Bogoliubon [-\]: the pro version of the idea
+]
+;W[mk]
+;B[lm]
+;W[kn]
+;B[jo]
+;W[jn]
+;B[io]
+;W[kl]
+;B[mm]C[Bogoliubon [-\]: now I especially like black
+]
+;W[jl]C[Bogoliubon [-\]:  Ill buy you a pizza at Princeton if you get blacks next move.
+logicg8 [?\]: e10
+]
+;B[jj]C[Bogoliubon [-\]: this game is violent.
+Bogoliubon [-\]: this move turned out to be right in the throat.
+logicg8 [?\]: I need to be bolder when I attack
+Bogoliubon [-\]: its always good aji at least
+Bogoliubon [-\]: notice it just sat and waited until the empty triangle moves.
+Bogoliubon [-\]: this is move 69
+]
+;W[kj]
+;B[ki]
+;W[oj]
+;B[nj]
+;W[ni]
+;B[mj]
+;W[lj]
+;B[mi]
+;W[li]
+;B[mh]
+;W[ji]
+(;B[kg]C[Bogoliubon [-\]: this move is a lesson in shape too.
+logicg8 [?\]: really?
+Bogoliubon [-\]: cant escape directly.
+Bogoliubon [-\]: makes territory while attacking.
+Bogoliubon [-\]: and this was the other shape move that is hard to find.
+]
+;W[kh]
+;B[jg]C[Bogoliubon [-\]: and k12 and m12 still aji, with respect to eye shape.
+]
+;W[os]C[Bogoliubon [-\]: what is blacks move here?
+logicg8 [?\]: o3
+Bogoliubon [-\]: same effect, but n1 keeps liberties
+Bogoliubon [-\]: better follow up.
+]
+;B[ms]C[Bogoliubon [-\]: end game
+]
+(;W[ic]
+;B[jc]
+;W[jb]
+;B[kb]
+;W[ce]
+;B[ib]
+;W[hb]
+;B[ja]C[Bogoliubon [-\]: black didnt agree with whites 88
+Bogoliubon [-\]: white seems worse off this way
+]
+;W[iq]
+;B[jr]
+;W[ns]
+;B[nq]
+;W[bm]C[Bogoliubon [-\]: he ditches every imaginable point on the side for influence towards h8.
+]
+;B[ep]
+;W[eq]
+;B[di]
+;W[cj]
+;B[dj]
+;W[bk]
+;B[cl]
+;W[bl]
+;B[dh]
+;W[ch]
+;B[dg]
+;W[cg]
+;B[ll]C[Bogoliubon [-\]: black got quite the lean
+Bogoliubon [-\]: and then digs right in.
+]
+;W[hj]C[Bogoliubon [-\]: I think she thought she could get a second eye around g12
+]
+;B[lk]
+(;W[dk]C[Bogoliubon [-\]: made a mistake here.
+]
+(;B[ek]
+;W[cm]
+;B[dl]
+;W[dm]
+;B[em]
+;W[fl]
+;B[el])
+(;B[fp]
+;W[gq]
+;B[ek]
+;W[cm]
+;B[dl]
+;W[dm]
+;B[em]
+;W[fl]
+;B[el]
+;W[lh]
+;B[lg]
+;W[dn]C[Bogoliubon [-\]: white keeps taking more points.
+Bogoliubon [-\]: this seems so small in comparison.
+Bogoliubon [-\]: I think this is the mistake
+]
+;B[ij]C[Bogoliubon [-\]: move 127
+]
+;W[ii]
+;B[ik]
+(;W[kk]C[Bogoliubon [-\]: white is cursing the d6 stone.
+]
+;B[hk]C[logicg8 [?\]: when she offered up the p8 group
+]
+;W[gj]
+;B[hm]C[Bogoliubon [-\]: this is just terrifying for white.
+]
+;W[gk]
+;B[in]
+;W[gh]C[Bogoliubon [-\]: she probably thought this move lived
+]
+;B[gf]
+(;W[gn]
+;B[gm]C[logicg8 [?\]: I have to take my dog out
+logicg8 [?\]: brb
+]
+;W[hf]
+;B[hg]
+;W[gg]
+;B[hh]
+;W[hi]
+;B[he]
+;W[mg]
+;B[oi]
+;W[fg]
+;B[fi]
+;W[fj]
+;B[ff]
+;W[if]
+;B[jh]
+;W[eg]
+;B[ef]C[logicg8 [?\]: Sorry about that
+Bogoliubon [-\]: no problem
+Bogoliubon [-\]: did you want control?  anything you care to look at?
+Bogoliubon [-\]: it show the importance of shape again
+]
+;W[df]
+;B[ie]
+;W[fm]
+;B[fn]
+;W[go]
+;B[ej]
+;W[gi]
+;B[il]
+;W[jf]
+;B[kf]C[Bogoliubon [-\]: and white resigns.
+Bogoliubon [-\]: we can go back over that
+logicg8 [?\]: lets
+Bogoliubon [-\]: I just wanted to make sure I got all the moves right first.
+])
+(;W[jh]C[Bogoliubon [-\]: even now?
+]
+;B[hh]
+;W[hg]
+(;B[ig])
+(;B[gg]
+;W[ig]
+;B[gi]C[logicg8 [?\]: Do you think white missed J9 empty triangle?
+]
+;W[fh]
+;B[fi])))
+(;W[hl]C[Bogoliubon [-\]: I am reading the nets
+]
+;B[kk]
+;W[jk]
+;B[jh]
+;W[ki]
+;B[hi]
+;W[ih]
+;B[hh]
+;W[ig]
+;B[hk]
+;W[gk]
+;B[gj]
+;W[il]
+;B[hj])
+(;W[hm])
+(;W[gl]C[Bogoliubon [-\]: but...
+]
+;B[kk]
+;W[jk]
+;B[jh]
+;W[ki]
+;B[hi]
+;W[ih]
+;B[hh]
+;W[ig]
+;B[hk]
+;W[gj]
+;B[gk]
+;W[fk]
+;B[fj]
+;W[gi]
+;B[fi]
+;W[gh]
+;B[hg]
+;W[if]
+;B[gg])
+(;W[jh]
+;B[il]
+;W[im]
+;B[kk]
+;W[jk]
+;B[jm])
+(;AE[dn]AW[hm]
+;W[hk]C[Bogoliubon [-\]: all of the sudden its working
+])))
+(;W[lh]
+;B[lg]
+;W[ik]C[Bogoliubon [-\]: even now seems two eyes is straight forward
+Bogoliubon [-\]: white wants more points
+]))
+(;W[ce]
+;B[hc]))
+(;B[kh]
+;W[lh]
+;B[lg]
+;W[mg]
+;B[nh]
+;W[kg]C[Bogoliubon [-\]: double atari
+]))

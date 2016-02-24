@@ -1,0 +1,372 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[5x60 byo-yomi]
+PW[Joven]PB[Zwom]WR[1k]BR[2k]DT[2007-04-10]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+Resign]
+;B[pf]BL[593.852]
+;W[dp]WL[597.728]
+;B[op]BL[581.185]
+;W[dc]WL[595.104]
+;B[de]BL[566.512]
+;W[cg]WL[592.565]
+;B[ef]BL[558.987]
+;W[fc]WL[588.699]
+;B[pc]BL[549.783]
+;W[qp]WL[581.914]
+;B[qo]BL[538.962]
+;W[ro]WL[577.561]
+;B[po]BL[536.132]
+(;W[rn]WL[569.334]
+;B[qm]BL[531.212]
+(;W[pq]WL[565.145]
+;B[oq]BL[521.548]C[Zwom [2k\]: you could probably at least attach
+]
+;W[cd]WL[553.172]
+(;B[ce]BL[515.165]
+;W[di]WL[549.109]C[Zwom [2k\]: I'd say so too
+]
+;B[hf]BL[505.133]C[Joven [1k\]: forcing me to play on the left and helping your guys
+Joven [1k\]: and then approach\]
+Zwom [2k\]: when?
+Zwom [2k\]: control is yours
+Joven [1k\]: now
+]
+;W[id]WL[543.157]C[Joven [1k\]: play something like F 11
+]
+(;B[fq]BL[499.44]
+;W[gh]WL[536.194]C[Joven [1k\]: I think you should make an exchange on the left first
+Joven [1k\]: I felt when I stopped that I got a big advantage
+]
+;B[ge]BL[494.108]
+;W[gd]WL[529.508]
+;B[cn]BL[482.064]
+;W[jg]WL[524.658]C[Joven [1k\]: one sec
+]
+;B[jf]BL[479.242]
+;W[je]WL[520.944]
+;B[kf]BL[447.439]
+;W[if]WL[518.073]
+;B[ig]BL[445.052]
+;W[ie]WL[511.106]
+(;B[hh]BL[439.912]
+;W[gg]WL[505.485]C[Joven [1k\]: hit close by accident
+]
+;B[hg]BL[429.789]
+;W[fe]WL[504.333]
+;B[gi]BL[403.317]
+;W[eh]WL[455.035]
+;B[eo]BL[362.887]
+(;W[do]WL[420.587]
+;B[dn]BL[358.423]
+;W[en]WL[419.737]
+;B[ep]BL[355.761]
+;W[er]WL[410.69]C[Zwom [2k\]: I don't know
+]
+;B[fr]BL[352.858]
+(;W[dq]WL[405.747]C[Joven [1k\]: I think this is bad
+]
+;B[bp]BL[345.089]C[Zwom [2k\]: waiting for me to fuck up seemed to have been appropriate
+]
+;W[bq]WL[395.511]
+;B[cr]BL[323.116]
+;W[bo]WL[386.971]
+;B[co]BL[321.42]
+;W[cp]WL[385.758]
+;B[bn]BL[319.959]
+;W[ap]WL[384.592]
+;B[dr]BL[318.3]
+;W[eq]WL[383.383]
+;B[es]BL[316.308]
+;W[fp]WL[381.337]
+;B[fo]BL[313.704]
+;W[gp]WL[380.3]C[Zwom [2k\]: I was heart broken here.  I didn't lose the game til now
+]
+(;B[cq]BL[297.536]C[Zwom [2k\]: I think this is wrong
+]
+;W[bp]WL[378.672]
+(;B[hq]BL[289.799]
+;W[ds]WL[366.891]
+;B[cs]BL[287.415]
+;W[br]WL[365.881]
+;B[gq]BL[237.541]
+;W[bs]WL[361.019]
+;B[ck]BL[225.401]C[Zwom [2k\]: I'm open on the lover right
+Zwom [2k\]: that's why I opted for the corner when you came in anyways
+Joven [1k\]: yeah I wasnt sure what the best way to enter your upper right corner was
+]
+;W[em]WL[358.82]
+(;B[ek]BL[215.9]
+;W[go]WL[354.328]
+;B[fn]BL[211.01]
+;W[gm]WL[352.64]C[Zwom [2k\]: I was all done by this point
+Zwom [2k\]: my moyo is easily invadeable
+Joven [1k\]: control pls?
+]
+;B[fi]BL[205.22]
+;W[eg]WL[349.941]
+;B[kp]BL[196.967]C[Joven [1k\]: this game is going to make my brain bleed
+]
+;W[qf]WL[305.02]
+(;B[qe]BL[186.874]
+;W[re]WL[301.414]
+;B[rf]BL[178.074]
+;W[qg]WL[299.899]
+;B[rd]BL[174.677]
+;W[pe]WL[296.041]
+;B[qd]BL[170.435]
+;W[rg]WL[294.934]
+;B[se]BL[168.727]
+;W[of]WL[258.114]
+;B[ld]BL[107.143]
+;W[qk]WL[204.391]
+;B[hn]BL[94.261]
+;W[gn]WL[202.117]
+;B[pk]BL[91.869]
+;W[pj]WL[194.189]
+;B[pl]BL[81.117]
+;W[oj]WL[190.792]
+;B[qj]BL[72.842]
+;W[qi]WL[172.011]
+;B[rj]BL[63.479]
+;W[ri]WL[164.228]
+;B[nk]BL[60.682]
+;W[ip]WL[117.419]
+;B[hp]BL[32.559]
+;W[ho]WL[114.896]
+;B[io]BL[30.612]
+;W[in]WL[114.133]
+;B[jo]BL[29.075]
+;W[im]WL[111.128]
+;B[ff]BL[24.792]
+;W[gf]WL[109.2]
+;B[he]BL[21.514]
+;W[hi]WL[104.511]
+;B[jh]BL[15.04]
+;W[hj]WL[99.224]
+;B[gk]BL[7.667]
+;W[hk]WL[96.101]
+(;B[bi]BL[0.078]
+;W[bh]WL[87.741]
+;B[ci]BL[60]OB[5]
+;W[dj]WL[82.292]
+;B[dk]BL[60]OB[5]
+;W[bf]WL[76.565]
+;B[be]BL[60]OB[5]
+;W[bd]WL[75.657]
+;B[af]BL[60]OB[4]
+;W[ag]WL[72.886]
+;B[ae]BL[60]OB[4]
+;W[cf]WL[70.449]
+;B[ed]BL[60]OB[4]
+;W[fd]WL[61.329]
+;B[ec]BL[60]OB[4]
+;W[eb]WL[60.152]
+;B[fb]BL[60]OB[4]
+;W[cb]WL[42.591]
+;B[ea]BL[60]OB[4]
+;W[db]WL[40.287]
+;B[kg]BL[60]OB[4]
+;W[hd]WL[28.94]
+;B[dm]BL[60]OB[4]
+;W[fm]WL[21.16]
+;B[cj]BL[60]OB[4]
+;W[df]WL[60]OW[5]
+;B[jc]BL[60]OB[4]
+;W[ic]WL[60]OW[5]
+;B[jb]BL[60]OB[4]
+;W[km]WL[60]OW[5]
+;B[ln]BL[60]OB[4]
+;W[md]WL[60]OW[5]
+;B[mc]BL[60]OB[4]
+;W[nc]WL[60]OW[5]
+;B[nd]BL[60]OB[4]
+;W[me]WL[60]OW[5]
+;B[lc]BL[60]OB[4]
+;W[od]WL[60]OW[5]
+;B[nb]BL[60]OB[4]
+;W[oc]WL[60]OW[5]
+;B[ob]BL[60]OB[4]
+;W[ll]WL[60]OW[5]
+;B[mm]BL[60]OB[4]
+;W[or]WL[60]OW[5]
+;B[nr]BL[60]OB[4]
+;W[pr]WL[60]OW[5]
+;B[rm]BL[60]OB[4]
+;W[rq]WL[60]OW[5]
+;B[os]BL[60]OB[4]
+;W[ps]WL[60]OW[5]
+;B[ns]BL[60]OB[4]
+;W[an]WL[60]OW[5]
+;B[bm]BL[60]OB[4]
+;W[am]WL[60]OW[5]
+;B[al]BL[60]OB[4]
+;W[ao]WL[60]OW[5]
+;B[bk]BL[60]OB[4]
+;W[rk]WL[60]OW[5]
+;B[hb]BL[60]OB[4]
+;W[gb]WL[60]OW[5]
+;B[nj]BL[60]OB[4]
+;W[nh]WL[60]OW[5]
+;B[le]BL[60]OB[4]
+;W[mf]WL[60]OW[5]
+;B[fs]BL[60]OB[4]
+;W[pp]WL[60]OW[5]
+;B[oo]BL[60]OB[4]
+;W[kj]WL[60]OW[5]
+;B[jj]BL[60]OB[4]
+;W[jk]WL[60]OW[5]
+;B[ki]BL[60]OB[4]
+;W[ij]WL[60]OW[5]
+;B[ji]BL[60]OB[4]
+;W[ds]WL[60]OW[5]
+;B[ni]BL[60]OB[4]
+;W[oh]WL[60]OW[5]
+;B[lj]BL[60]OB[4]
+;W[kk]WL[60]OW[5]
+;B[mh]BL[60]OB[4]
+;W[mg]WL[60]OW[5]
+;B[pd]BL[60]OB[4]
+;W[oe]WL[60]OW[5]
+;B[lg]BL[60]OB[4]
+;W[ml]WL[60]OW[5]
+;B[nl]BL[60]OB[4]
+;W[ib]WL[60]OW[5]C[Zwom [2k\]: thanks, that's enough of that.
+Joven [1k\]: thanks for the game
+])
+(;B[cb]C[Zwom [2k\]: what would you do
+Zwom [2k\]: ?
+Joven [1k\]: D16
+]
+(;W[be]
+;B[ed]
+;W[fd]
+;B[ec]C[Joven [1k\]: except I wouldnt hane
+]
+;W[eb]
+;B[db])
+(;W[ed]
+;B[bd])
+(;W[dd]
+;B[bd]
+;W[bc]
+;B[be]
+;W[cc]
+(;B[ch]C[Joven [1k\]: Just B13 nos
+]
+;W[bg])
+(;B[bg]
+;W[bh]
+;B[af]))))
+(;B[qg]C[Zwom [2k\]: Saul meet Chris
+Joven [1k\]: Hi chris
+SixThree [4k\]: yo
+Joven [1k\]: btw puck likes your 6-4 move. ;p
+Zwom [2k\]: damn straight
+Zwom [2k\]: anything else to be learned?  what's our conclusion for the lower left?
+Joven [1k\]: I think I should die
+Zwom [2k\]: therefore don't cut
+Joven [1k\]: at least the way I started
+Zwom [2k\]: b2 instead of c3 then afterwards
+Zwom [2k\]: and c15 was my other big mistake
+Zwom [2k\]: kind of interesting game though
+Joven [1k\]: yeah
+Joven [1k\]: I had alot of points
+Joven [1k\]: but your muyo was big
+Zwom [2k\]: and it would have stayed big too if it wasn't for your meddling stones
+Joven [1k\]: I think my Q3 move was bad too
+]))
+(;B[go]C[Joven [1k\]: I think mia between
+Joven [1k\]: and your muyo is better
+]
+(;W[ek]
+;B[bi])
+(;W[bi]
+;B[ek])
+(;W[jh]C[Joven [1k\]: though running the stone probably gives me options
+Joven [1k\]: not right away of course.. but
+Zwom [2k\]: you can build a small base on the right
+])))
+(;B[hr]C[Joven [1k\]: what should I have done earlier..
+]))
+(;B[br]C[Joven [1k\]: you last move was wrong
+Joven [1k\]: I agree
+]
+(;W[gr]
+;B[ar]
+;W[gq]
+;B[fs]
+;W[ds]
+;B[cs]
+;W[gs]
+;B[ds]
+;W[cq]
+;B[an]C[Joven [1k\]: umm no
+])
+(;W[ar]C[Joven [1k\]: but yeah this is what I would have to do
+]
+;B[hr]
+;W[hq]
+;B[gr]C[Joven [1k\]: I think my earlier moves were bad here
+]
+;W[ir]
+;B[cq]
+;W[bp]C[Joven [1k\]: this is hard for white..
+]
+;B[an])))
+(;W[bo]
+;B[dq]))
+(;W[cq]C[Zwom [2k\]: maybe you just can't cut
+Zwom [2k\]: not without support on the outside
+]))
+(;B[hg]C[Joven [1k\]: must do this right
+]
+(;W[jh]
+;B[ii]
+;W[gj]
+;B[ik]
+;W[fp])
+(;W[ii]
+;B[jh]
+;W[fp]C[Joven [1k\]: Im not sure what to do for white here
+Joven [1k\]: woops sorry
+])))
+(;B[fi]
+;W[dl]
+;B[fq]C[Zwom [2k\]: make a 2D shape
+Zwom [2k\]: makes sense
+Joven [1k\]: yeah harder for me to attack
+]))
+(;B[dh]
+;W[ch]
+;B[di]C[Joven [1k\]: yeah this would be better
+]))
+(;W[qr]C[Joven [1k\]: maybe just this
+])
+(;W[oq]
+;B[pq]
+;W[pp]C[Joven [1k\]: I was afraid of this
+Zwom [2k\]: rui neiwei calls s6 "simply groveling
+Joven [1k\]: so what should I do R6
+]))
+(;W[qn]
+;B[rp]
+;W[rq]
+;B[rn]
+;W[sp]
+;B[rm]C[Zwom [2k\]: right but the ladder works for you right now
+Joven [1k\]: true
+Joven [1k\]: go is hard
+SixThree [4k\]: go so hard
+Zwom [2k\]: well we seem to be in agreement.
+SixThree [4k\]: some professional at a tournament said, "go so hard, play chinese checkers"
+SixThree [4k\]: did one of you want to play a game?
+Zwom [2k\]: I'll watch you two
+Zwom [2k\]: I use to give him six stones saul, be careful
+SixThree [4k\]: ;)
+Zwom [2k\]: those days will come again chris
+SixThree [4k\]: lol
+SixThree [4k\]: so you want to play a game joven?
+Joven [1k\]: a quick one sure
+Joven [1k\]: I need to go to sleep soon
+Joven [1k\]: have to get up earlier so carrie can get to work
+SixThree [4k\]: ok
+SixThree [4k\]: i'll open
+]))

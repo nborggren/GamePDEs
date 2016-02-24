@@ -1,0 +1,400 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[0.50]TM[900]OT[5x60 byo-yomi]
+PW[Aimless]PB[Bogoliubon]WR[1k]BR[2k]DT[2008-08-28]PC[The KGS Go Server at http://www.gokgs.com/]C[Aimless [1k\]: Hi
+Bogoliubon [2k\]: hello
+Aimless [1k\]: Have fun
+Bogoliubon [2k\]: this game sucks
+]RE[W+Resign]
+;B[pd]BL[889.046]
+;W[dd]WL[895.202]
+;B[pp]BL[883.348]
+;W[dq]WL[892.781]C[Bogoliubon [2k\]: you too
+Aimless [1k\]: Are you a physicist, by any chance?
+]
+;B[dn]BL[856.019]C[Bogoliubon [2k\]: indeed
+Aimless [1k\]: Where at?  I'm a grad student at Wake U.
+Bogoliubon [2k\]: or rather I kick ass until I get retarded
+]
+;W[dl]WL[864.07]C[Bogoliubon [2k\]: I'm a grad student at SUNY Stony Brook
+Aimless [1k\]: :)  What field?  (Semi-Classical Gravity here.)
+Bogoliubon [2k\]: I get paid to do Nuclear Experiment, I do condensed matter, and all I want to do is play go.  I'm thin basically
+Aimless [1k\]: Hehe.  :)
+]
+;B[co]BL[746.788]C[Bogoliubon [2k\]: why?
+Bogoliubon [2k\]: black has nirensei
+]
+;W[fp]WL[851.201]
+(;B[fn]BL[717.4]
+;W[iq]WL[836.616]
+;B[cj]BL[705.161]C[logicg8 [5k\]: nirensei?
+Bogoliubon [2k\]: two star points on the right
+Bogoliubon [2k\]: and white has a weak group already on his staked side
+]
+(;W[ek]WL[831.769]
+;B[cf]BL[689.167]
+;W[fc]WL[827.534]
+;B[dh]BL[678.393]C[Bogoliubon [2k\]: I like this for black
+logicg8 [5k\]: I can't stand having enemy stones separating my group even if they are really weak
+Bogoliubon [2k\]: I consider those dame points
+Bogoliubon [2k\]: they are of zero value
+Bogoliubon [2k\]: black has follow ups in either corner
+Bogoliubon [2k\]: I think this is fantastic for black
+]
+;W[bk]WL[822.764]
+;B[bm]BL[623.476]
+;W[bj]WL[809.215]
+;B[ck]BL[614.412]C[logicg8 [5k\]: Yeah
+]
+;W[cl]WL[807.951]
+;B[bl]BL[607.584]
+;W[ci]WL[806.884]
+;B[dj]BL[601.255]
+;W[di]WL[805.791]
+;B[ej]BL[595.512]
+;W[ei]WL[804.688]
+;B[fj]BL[590.472]
+;W[fg]WL[789.566]
+;B[bh]BL[547.657]
+;W[bi]WL[786.461]
+;B[fl]BL[542.541]C[Bogoliubon [2k\]: I dump three he dumps three.
+Bogoliubon [2k\]: but he needs a move
+]
+;W[cd]WL[762.131]
+;B[mc]BL[471.309]C[Bogoliubon [2k\]: what does semi classical gravity mean?
+]
+;W[gj]WL[729.843]
+;B[fi]BL[453.464]C[Aimless [1k\]: It's basically a way to try to reconcile GR and QM by treating GR classically, treating the stress tensor as a quantum object, and then solving the Einstein equations for the expectation value of the stress tensor.
+]
+;W[eh]WL[635.473]
+;B[gi]BL[296.245]
+;W[qn]WL[623.106]C[Bogoliubon [2k\]: have you heard of peter van nieuvenheuzen by chance?
+Aimless [1k\]: Hmmm; no, can't say that I have.
+]
+;B[nq]BL[229.74]
+;W[rp]WL[616.551]C[Bogoliubon [2k\]: he came up with so called 'supergravity' the concept that eventually gave rise to such things as 'supersymmetry' and 'superstring'
+]
+;B[kq]BL[193.406]C[Aimless [1k\]: Oh... right!  I should have known that.
+]
+;W[cp]WL[601.833]
+;B[qm]BL[104.638]
+;W[pm]WL[595.939]
+;B[ql]BL[101.085]
+;W[pl]WL[593.631]
+;B[qk]BL[69.667]
+;W[qq]WL[591.621]C[Bogoliubon [2k\]: it seems hard to allow that cut for white
+]
+(;B[qo]BL[60.024]
+(;W[rn]WL[587.124]
+;B[pn]BL[52.93]
+;W[on]WL[585.509]
+;B[po]BL[50.089]
+;W[ro]WL[584.343]
+;B[pq]BL[39.5]
+;W[pr]WL[582.686]
+;B[or]BL[34.264]
+;W[qr]WL[581.407]
+;B[pk]BL[25.472]
+;W[nm]WL[572.422]
+;B[nl]BL[2.46]
+;W[ml]WL[552.136]
+(;B[ol]BL[60]OB[5]
+;W[mp]WL[540.892]
+;B[om]BL[60]OB[5]C[logicg8 [5k\]: sucks to be white here
+Bogoliubon [2k\]: yeah
+]
+(;W[mq]WL[538.357]
+;B[mr]BL[60]OB[5]
+;W[kp]WL[534.84]
+;B[jq]BL[60]OB[5]
+;W[jp]WL[532.493]
+;B[ip]BL[60]OB[5]
+;W[ir]WL[528.596]
+;B[lq]BL[60]OB[5]
+;W[io]WL[522.993]
+;B[hp]BL[60]OB[5]
+;W[gq]WL[506.196]
+;B[ho]BL[60]OB[5]
+;W[mk]WL[502.984]
+;B[mm]BL[60]OB[5]
+;W[lm]WL[500.487]
+;B[mn]BL[60]OB[5]
+;W[ln]WL[499.02]
+;B[nn]BL[60]OB[5]
+;W[gk]WL[422.161]
+;B[fk]BL[60]OB[5]
+;W[in]WL[393.613]
+;B[qe]BL[60]OB[5]
+;W[nj]WL[383.579]
+(;B[kk]BL[60]OB[5]
+;W[kl]WL[380.733]
+;B[jk]BL[60]OB[5]
+;W[oi]WL[375.86]
+;B[ph]BL[60]OB[5]
+;W[pi]WL[373.424]
+;B[qi]BL[60]OB[5]
+;W[oh]WL[369.074]
+;B[pg]BL[60]OB[5]
+;W[hn]WL[355.194]
+;B[lk]BL[60]OB[5]
+;W[ll]WL[352.123]
+;B[hc]BL[60]OB[5]
+;W[ii]WL[338.715]
+;B[hl]BL[60]OB[5]
+;W[lc]WL[262.973]
+;B[md]BL[60]OB[5]
+;W[jc]WL[260.579]
+(;B[gd]BL[60]OB[5]C[Bogoliubon [2k\]: so here I give him a chance
+Bogoliubon [2k\]: I'm playing as though I'm invincible
+Bogoliubon [2k\]: here
+logicg8 [5k\]: invincible shusaku would play the simplest move that would give him victory
+Bogoliubon [2k\]: I wanted to use the aji
+Bogoliubon [2k\]: cho chikun the move that makes the opponent resign soonest
+logicg8 [5k\]: That l and d sequence later was awesome by the way
+logicg8 [5k\]: when you brought those stones back to life
+Bogoliubon [2k\]: yeah
+Bogoliubon [2k\]: I needed some points
+Bogoliubon [2k\]: i don't know if it was sound
+Bogoliubon [2k\]: probably not
+]
+;W[ie]WL[247.774]
+(;B[gf]BL[60]OB[5]
+;W[gg]WL[221.229]
+;B[hf]BL[60]OB[5]
+;W[jg]WL[215.747]
+;B[fd]BL[60]OB[4]
+;W[ed]WL[210.031]
+;B[hg]BL[60]OB[4]
+;W[hh]WL[207.186]
+;B[ih]BL[60]OB[4]
+;W[jh]WL[203.343]
+;B[ig]BL[60]OB[4]
+;W[ji]WL[168.707]
+;B[hi]BL[60]OB[4]
+;W[gh]WL[167.133]
+;B[jf]BL[60]OB[4]
+;W[if]WL[165.373]
+(;B[id]BL[60]OB[4]
+;W[je]WL[161.833]
+;B[jd]BL[60]OB[4]
+;W[ke]WL[155.121]
+;B[kd]BL[60]OB[4]
+;W[ld]WL[153.636]
+;B[le]BL[60]OB[4]
+;W[kf]WL[146.774]
+;B[ff]BL[60]OB[4]
+;W[ef]WL[144.798]
+;B[mf]BL[60]OB[4]
+;W[lf]WL[142.189]
+;B[me]BL[60]OB[4]
+;W[ij]WL[139.724]
+(;B[jl]BL[60]OB[4]
+;W[ik]WL[133.852]
+;B[il]BL[60]OB[4]
+;W[gl]WL[132.192]
+;B[gm]BL[60]OB[4]
+;W[hm]WL[130.786]
+(;B[li]BL[60]OB[4]C[Bogoliubon [2k\]: this
+]
+;W[mg]WL[127.307]
+;B[mh]BL[60]OB[4]
+;W[ng]WL[124.976]
+;B[lg]BL[60]OB[4]
+;W[kg]WL[108.466]
+;B[lh]BL[60]OB[4]C[Bogoliubon [2k\]: now he has an eye
+Bogoliubon [2k\]: and thus I'm fucked
+]
+;W[lj]WL[93.637]
+;B[kj]BL[60]OB[4]
+;W[mj]WL[92.69]
+;B[ki]BL[60]OB[4]C[Bogoliubon [2k\]: I had miscounted the liberty race
+Bogoliubon [2k\]: but I figured I'd lose
+Bogoliubon [2k\]: after ...
+]
+;W[jm]WL[78.475]
+;B[bd]BL[60]OB[3]
+(;W[be]WL[75.022]
+;B[eb]BL[60]OB[3]C[Bogoliubon [2k\]: I was just hoping to play a little further here
+]
+;W[fb]WL[68.74]
+;B[bc]BL[60]OB[3]
+(;W[db]WL[65.546]C[Bogoliubon [2k\]: but now I just live
+]
+(;B[dg]BL[60]OB[3]
+;W[eg]WL[60.869]
+(;B[ce]BL[60]OB[3]C[Bogoliubon [2k\]: before this
+]
+;W[bf]WL[34.812]
+;B[bg]BL[60]OB[3]
+;W[bb]WL[14.943]
+;B[ab]BL[60]OB[3]
+;W[cc]WL[10.019]
+;B[ba]BL[60]OB[3]
+;W[cb]WL[5.921]
+;B[af]BL[60]OB[3]
+;W[ac]WL[60]OW[5]
+;B[ae]BL[60]OB[3]
+;W[ch]WL[60]OW[5]
+;B[ah]BL[60]OB[3]
+;W[ib]WL[60]OW[5]
+;B[hb]BL[60]OB[3]C[Bogoliubon [2k\]: makes big difference to this
+]
+;W[lb]WL[60]OW[5]
+;B[mb]BL[60]OB[3]
+;W[he]WL[60]OW[5]
+;B[hd]BL[60]OB[3]
+;W[ha]WL[60]OW[5]
+;B[ga]BL[60]OB[3]
+;W[ia]WL[60]OW[5]
+;B[gb]BL[60]OB[3]
+;W[fa]WL[60]OW[5]
+;B[ec]BL[60]OB[3]
+;W[ea]WL[60]OW[5]C[Bogoliubon [2k\]: it's just short
+]
+(;B[ca]BL[60]OB[3]C[Bogoliubon [2k\]: but know
+Bogoliubon [2k\]: I always want more
+]
+;W[kc]WL[60]OW[5]
+(;B[ja]BL[60]OB[2]
+;W[ka]WL[60]OW[5]
+;B[jb]BL[60]OB[2]
+;W[kb]WL[60]OW[5]
+(;B[ic]BL[60]OB[2]
+;W[fe]WL[60]OW[5]C[Bogoliubon [2k\]: not again
+Bogoliubon [2k\]: thanks
+Aimless [1k\]: Whew... got lucky.  :)
+Aimless [1k\]: Thanks
+Bogoliubon [2k\]: got lucky twice
+Aimless [1k\]: Yeah... but I should have killed you in the UL.
+])
+(;B[fe]))
+(;B[la]
+;W[ka]
+;B[jb]C[logicg8 [5k\]: never enough liberties
+]))
+(;B[kb]C[Bogoliubon [2k\]: this is probably good enough
+Bogoliubon [2k\]: so you see why this game sucks
+logicg8 [5k\]: as if I needed more proof
+]
+;W[ca]
+;B[bp]
+;W[bq]
+;B[dp]
+;W[cq]
+;B[bo]))
+(;B[cb]
+;W[ea]
+;B[ce]
+;W[ib]C[logicg8 [5k\]: I'm going to head to bed
+]
+;B[hb]C[Bogoliubon [2k\]: good night
+logicg8 [5k\]: night
+Bogoliubon [2k\]: I'll look at your game if you want
+Bogoliubon [2k\]: first
+logicg8 [5k\]: sure
+Bogoliubon [2k\]: let me get some water
+Bogoliubon [2k\]: I'll be write bag
+Bogoliubon [2k\]: back
+logicg8 [5k\]: it's just an embarrassing fuckup
+]
+;W[ha]
+;B[ga]
+;W[ia]
+;B[gb]
+;W[kc]
+;B[lb]
+;W[kb]
+;B[mb]
+;W[he]
+;B[hd]
+;W[ge]
+;B[fe]
+;W[ee]
+;B[ka]))
+(;B[cb]C[Bogoliubon [2k\]: should do this
+]
+;W[dc]
+;B[ce]))
+(;W[ce]
+;B[cb]
+;W[ec]))
+(;W[bc]C[logicg8 [5k\]: oh, you just meant this particular instance of go
+logicg8 [5k\]: I hate go
+Bogoliubon [2k\]: it ruins your life
+Bogoliubon [2k\]: this is probably sufficient
+]))
+(;B[lh]C[Bogoliubon [2k\]: I need here
+Bogoliubon [2k\]: to attack shape
+Bogoliubon [2k\]: but...
+]
+;W[li]
+;B[mi]
+;W[lj]
+;B[mj]
+;W[mh]))
+(;B[ik]C[Bogoliubon [2k\]: this was a pretty bad fuck up
+Bogoliubon [2k\]: I had to start looking hard
+]))
+(;B[ke]C[Bogoliubon [2k\]: go is impossible
+logicg8 [5k\]: fucking a
+]))
+(;B[gg]
+;W[gf]
+;B[hf]))
+(;B[ie]
+;W[id]
+;B[hd]
+;W[he]
+;B[fd])
+(;B[id]C[Bogoliubon [2k\]: this is probably easiest
+]
+;W[jd]
+;B[if]
+;W[je]
+;B[hg]
+;W[lf]
+;B[jh])
+(;B[he]
+;W[hb]
+;B[ib]
+;W[ic]
+(;B[hd])
+(;B[gb]C[Bogoliubon [2k\]: I didn't like that in the game
+logicg8 [5k\]: stupid question, but what possesses you to keep pushing as hard as you can when you could sit back and play solid and win by a landslide?
+Bogoliubon [2k\]: because it's a sin to try anything less then the best move
+Bogoliubon [2k\]: but more so,
+Bogoliubon [2k\]: it's just habit
+]
+;W[hd]
+;B[gc]
+;W[gd]
+;B[ha])))
+(;B[oi])
+(;B[hc]))
+(;W[lr]
+;B[lq]
+;W[kr])
+(;W[lq]))
+(;B[nk]
+;W[lm]
+;B[qe]))
+(;W[pn]
+;B[rn]
+;W[ro]
+;B[rm]
+(;W[po]
+;B[qp])
+(;W[op]C[Bogoliubon [2k\]: white seems to have this
+]
+;B[pq]
+;W[oq]
+;B[pr]
+;W[or])))
+(;B[pq]
+;W[qo]C[logicg8 [5k\]: Yeah
+Bogoliubon [2k\]: it probably goes something like this then
+])
+(;B[rn]))
+(;W[cg]C[logicg8 [5k\]: I always hate these kinds of positions for black
+]))
+(;B[bq]C[Bogoliubon [2k\]: this is probably more normal
+]))

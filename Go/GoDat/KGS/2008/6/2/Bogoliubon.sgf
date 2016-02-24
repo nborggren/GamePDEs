@@ -1,0 +1,427 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[complexno]WR[3k]BR[4k]DT[2008-06-02]PC[The KGS Go Server at http://www.gokgs.com/]C[complexno [4k\]: hi
+]RE[W+Resign]
+;B[pp]BL[294.009]C[Bogoliubon [3k\]: hi
+]
+;W[dp]WL[294.646]
+;B[qd]BL[292.083]
+;W[dd]WL[292.17]
+;B[oc]BL[289.364]
+;W[qj]WL[288.948]
+;B[fq]BL[287.15]
+;W[cn]WL[280.249]
+;B[ip]BL[284.531]C[Joven [?\]: this one is wierd
+]
+;W[qn]WL[273.948]
+;B[qo]BL[279.514]
+;W[pn]WL[253.429]
+;B[rn]BL[278.073]
+;W[rm]WL[251.03]
+;B[rp]BL[276.427]
+;W[sn]WL[247.595]
+;B[ro]BL[274.839]C[Joven [?\]: as is this whole sequence
+Bogoliubon [3k\]: it's wierd when you follow it like this
+]
+;W[kq]WL[241.887]C[Bogoliubon [3k\]: I can make a position easy in here
+Joven [?\]: the hane at S6 is end game
+]
+;B[nq]BL[272.94]
+;W[iq]WL[237.778]
+;B[hq]BL[271.413]
+;W[hp]WL[230.881]
+;B[jq]BL[266.44]
+;W[ir]WL[229.222]
+;B[jp]BL[260.306]
+;W[jr]WL[204.812]
+;B[gp]BL[257.671]
+;W[ho]WL[202.055]
+;B[go]BL[255.931]
+;W[hr]WL[198.209]
+;B[gq]BL[253.484]
+;W[kp]WL[190.192]
+;B[hn]BL[248.452]
+;W[io]WL[186.792]
+;B[jo]BL[247.509]
+;W[in]WL[185.193]
+;B[jn]BL[246.465]
+;W[im]WL[183.244]
+;B[hm]BL[244.258]
+;W[hl]WL[176.243]
+;B[jm]BL[239.746]C[Joven [?\]: yeah though Id be tempted to take the G8 g7 seal
+]
+;W[il]WL[174.668]
+;B[gl]BL[237.793]
+(;W[gk]WL[168.86]C[Joven [?\]: why not cut instead of hane
+Joven [?\]: your move is probably best
+]
+;B[fm]BL[235.408]
+;W[mp]WL[156.556]C[Bogoliubon [3k\]: this is fantastic
+Bogoliubon [3k\]: this was my idea
+Bogoliubon [3k\]: his cutting stones are shapeless
+Bogoliubon [3k\]: and I'm out to the center
+Bogoliubon [3k\]: (I can kill his groups later)
+]
+;B[lr]BL[233.626]C[Joven [?\]: backup
+]
+;W[kr]WL[154.409]
+;B[jl]BL[229.053]C[Joven [?\]: so question here
+]
+;W[jk]WL[150.654]
+;B[kk]BL[226.436]
+;W[ij]WL[148.545]
+;B[lo]BL[220.218]C[Bogoliubon [3k\]: he just needed to read at least once.
+]
+;W[ko]WL[135.425]
+;B[lp]BL[214.607]
+;W[ln]WL[126.188]
+;B[ll]BL[211.646]
+;W[lq]WL[119.725]C[Bogoliubon [3k\]: this is too easy
+]
+;B[mo]BL[209.904]
+;W[no]WL[117.428]
+;B[dr]BL[197.383]
+;W[cq]WL[111.035]
+;B[fk]BL[195.53]
+;W[gj]WL[109.024]
+;B[cl]BL[192.761]
+;W[cr]WL[106.595]
+;B[ci]BL[186.943]
+;W[kj]WL[101.979]
+;B[lj]BL[184.894]
+;W[ki]WL[100.212]
+;B[li]BL[182.871]
+;W[mk]WL[98.651]
+;B[lk]BL[181.313]
+;W[lh]WL[95.796]
+;B[ml]BL[177.686]
+;W[mn]WL[86.144]
+;B[mh]BL[175.041]
+;W[lg]WL[80.642]
+;B[mg]BL[172.064]
+(;W[lf]WL[70.697]
+;B[qh]BL[167.737]
+;W[mf]WL[62.335]
+;B[og]BL[164.759]
+;W[dh]WL[53.57]
+;B[ch]BL[162.42]
+;W[dg]WL[52.022]
+;B[jd]BL[158.932]
+;W[lc]WL[47.093]
+;B[fc]BL[155.328]
+;W[ec]WL[38.901]
+;B[fd]BL[152.813]
+;W[jb]WL[36.103]
+;B[de]BL[150.38]C[Bogoliubon [3k\]: any ideas through here?
+]
+;W[ce]WL[32.269]
+;B[cc]BL[148.111]
+;W[fb]WL[25.946]
+;B[ed]BL[145.343]
+;W[dc]WL[23.834]
+;B[cf]BL[141.55]
+;W[df]WL[1.628]
+;B[ee]BL[139.071]
+(;W[cg]WL[30]OW[5]
+;B[cd]BL[135.295]
+;W[bf]WL[30]OW[5]
+;B[gb]BL[131.996]
+;W[eb]WL[30]OW[5]
+;B[cb]BL[116.492]
+(;W[gc]WL[30]OW[5]C[Bogoliubon [3k\]: no your right
+]
+;B[hc]BL[114.639]
+;W[gd]WL[30]OW[5]
+;B[ge]BL[113.569]
+;W[hd]WL[30]OW[5]
+;B[he]BL[109.919]
+;W[id]WL[30]OW[5]
+;B[ic]BL[108.005]
+;W[ie]WL[30]OW[5]
+;B[hb]BL[99.915]
+;W[ff]WL[30]OW[5]
+;B[if]BL[92.627]
+;W[je]WL[30]OW[5]
+;B[jf]BL[89.997]
+;W[ke]WL[30]OW[5]
+;B[fe]BL[88.134]
+;W[hf]WL[30]OW[5]C[Bogoliubon [3k\]: I thought this did too
+]
+;B[gf]BL[83.722]
+;W[hg]WL[30]OW[5]
+;B[gg]BL[80.245]
+;W[gh]WL[30]OW[5]
+;B[hh]BL[73.41]
+;W[ig]WL[30]OW[5]C[Joven [?\]: but you lose this fight
+Bogoliubon [3k\]: but he gets one extra lib
+]
+;B[fh]BL[69.752]
+;W[gi]WL[30]OW[5]
+;B[fg]BL[65.679]
+;W[fi]WL[30]OW[5]
+;B[db]BL[59.984]C[Bogoliubon [3k\]: but not reaaly
+]
+;W[eh]WL[30]OW[5]
+;B[fa]BL[55.423]
+;W[ni]WL[30]OW[5]
+;B[mi]BL[52.852]
+;W[rh]WL[30]OW[5]
+;B[rg]BL[49.772]
+;W[ri]WL[30]OW[5]
+;B[qg]BL[45.457]
+;W[ob]WL[30]OW[5]
+;B[pb]BL[42.698]C[Bogoliubon [3k\]: and huge
+Joven [?\]: this is very big
+Joven [?\]: I think you just have more point now
+]
+;W[nb]WL[30]OW[5]
+;B[ol]BL[41.291]
+;W[pl]WL[30]OW[5]
+;B[ok]BL[38.21]C[Bogoliubon [3k\]: his group is eyeless
+Bogoliubon [3k\]: I showed amber a pro game on a 19x19 board.  she likes the game more on the big board, where it is obvious it's a game about territory.
+]
+(;W[oq]WL[30]OW[5]C[Bogoliubon [3k\]: I think this is overplay
+]
+(;B[pq]BL[32.544]
+;W[or]WL[30]OW[5]
+;B[pr]BL[29.703]
+;W[nr]WL[30]OW[5]
+;B[rr]BL[28.299]C[Bogoliubon [3k\]: that was a little slow of him
+]
+(;W[od]WL[30]OW[5]C[Bogoliubon [3k\]: I think play belongs on the left now
+]
+;B[pd]BL[21.504]
+;W[nc]WL[30]OW[5]
+;B[pc]BL[19.359]
+;W[pa]WL[30]OW[5]
+;B[qa]BL[17.044]
+;W[oa]WL[30]OW[5]
+;B[qb]BL[10.917]
+;W[bk]WL[30]OW[5]
+;B[ck]BL[8.146]
+;W[bj]WL[30]OW[5]
+;B[cj]BL[6.291]
+;W[bl]WL[30]OW[5]C[Bogoliubon [3k\]: yeah as evidenced by everything dying
+Joven [?\]: I feel like he should be able to scrape something together
+Joven [?\]: is hard though
+Bogoliubon [3k\]: he needed to keep fighting later too.
+]
+(;B[bi]BL[30]OB[5]
+;W[el]WL[30]OW[5]C[Bogoliubon [3k\]: I have miai to connect an live
+]
+;B[ei]BL[30]OB[5]
+;W[di]WL[30]OW[5]
+;B[ej]BL[30]OB[5]
+;W[dj]WL[30]OW[5]
+;B[ek]BL[30]OB[5]
+;W[fl]WL[30]OW[5]C[Joven [?\]: yeah he had to save the 4
+Joven [?\]: it looks kinda koish
+Joven [?\]: but still its enough for you since you kill the bottom
+Joven [?\]: I think here is over
+Bogoliubon [3k\]: yeah
+]
+;B[gm]BL[30]OB[5]
+;W[dk]WL[30]OW[5]
+;B[em]BL[30]OB[5]
+;W[dl]WL[30]OW[5]
+;B[cm]BL[30]OB[5]
+;W[dm]WL[30]OW[5]
+;B[bm]BL[30]OB[5]
+;W[bn]WL[30]OW[5]
+;B[an]BL[30]OB[5]
+;W[ao]WL[30]OW[5]
+;B[am]BL[30]OB[5]
+;W[bo]WL[30]OW[5]
+;B[ah]BL[30]OB[5]
+;W[en]WL[30]OW[5]
+;B[eo]BL[30]OB[5]
+;W[fn]WL[30]OW[5]
+;B[gn]BL[30]OB[5]
+;W[er]WL[30]OW[5]
+;B[fo]BL[30]OB[5]
+;W[dn]WL[30]OW[5]
+;B[jc]BL[30]OB[5]
+;W[kc]WL[30]OW[5]
+;B[nd]BL[30]OB[5]
+;W[nf]WL[30]OW[5]
+;B[oe]BL[30]OB[5]
+;W[of]WL[30]OW[5]
+;B[pi]BL[30]OB[5]
+;W[pf]WL[30]OW[5]
+;B[pg]BL[30]OB[5]
+;W[pj]WL[30]OW[5]
+;B[oj]BL[30]OB[5]
+;W[bd]WL[30]OW[5]
+;B[bc]BL[30]OB[5]
+;W[ag]WL[30]OW[5]
+;B[aj]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[bg]BL[30]OB[5]
+;W[ef]WL[30]OW[5]
+;B[ea]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[hk]BL[30]OB[5]
+;W[ik]WL[30]OW[5]
+;B[bg]BL[30]OB[5]
+;W[qf]WL[30]OW[5]
+;B[rf]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[hj]BL[30]OB[5]
+;W[hi]WL[30]OW[5]
+;B[bg]BL[30]OB[5]
+;W[kl]WL[30]OW[5]
+;B[km]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[pm]BL[30]OB[5]
+;W[ai]WL[30]OW[5]
+;B[qm]BL[30]OB[5]
+;W[ql]WL[30]OW[5]
+;B[om]BL[30]OB[5]
+;W[rk]WL[30]OW[5]
+;B[pk]BL[30]OB[5]
+;W[qk]WL[30]OW[5]
+;B[sl]BL[30]OB[5]
+;W[sm]WL[30]OW[5]
+;B[sh]BL[30]OB[5]
+;W[si]WL[30]OW[5]
+;B[so]BL[30]OB[5]
+;W[rl]WL[30]OW[5]C[Bogoliubon [3k\]: b9
+]
+;B[ah]BL[30]OB[5]
+;W[bg]WL[30]OW[5]C[complexno [4k\]: thx
+Bogoliubon [3k\]: thanks
+Bogoliubon [3k\]: hey saul.
+Joven [?\]: hey
+Bogoliubon [3k\]: I just got your message about your go shindig.
+Bogoliubon [3k\]: I thought you were doing it tuesday
+Joven [?\]: probably tuesday as well
+Joven [?\]: we just felt like bbqing
+Bogoliubon [3k\]: cool.  I'm trying to get a few wins in to get rid of this rank
+Bogoliubon [3k\]: I play these games and they aren't even fair.
+Bogoliubon [3k\]: I must seriously blow it from time to time.
+Joven [?\]: your opponent played really wierd moves in the opening
+])
+(;B[cm]
+;W[bm]
+;B[dn]C[Joven [?\]: I think he misplayed here
+]
+;W[co])
+(;B[dn]C[Joven [?\]: Im thinking this
+]
+;W[dm]
+;B[cm]
+;W[en]
+;B[bm]
+;W[bh]))
+(;W[qb]
+;B[pa]
+;W[qc]
+;B[pc]
+;W[rd]
+;B[qe]
+;W[re])
+(;W[pa]))
+(;B[op]C[Bogoliubon [3k\]: seems simple to reply
+]
+;W[nr]
+;B[or]C[Joven [?\]: I think N2 is proper
+Joven [?\]: leaving the Q2 endgame
+]
+(;W[pq]
+;B[mr]
+;W[pr]
+;B[ns]
+;W[rq])
+(;W[mr])))
+(;W[mr])
+(;W[bk]C[Bogoliubon [3k\]: when to play on the left is confusing
+Bogoliubon [3k\]: I just figured him to respond to my nonsense
+Bogoliubon [3k\]: I didn't know how this was going to end up
+]
+;B[bl]C[Bogoliubon [3k\]: black wins this no?
+Joven [?\]: control for a second
+Joven [?\]: I think so
+]
+;W[ck]
+;B[dk]
+(;W[dj]
+;B[cj]C[Joven [?\]: yeah this is hard
+])
+(;W[cj]C[Joven [?\]: I think there is an easier way
+]))
+(;W[en]
+;B[fn]
+;W[dl]
+;B[dk]
+;W[el]C[Joven [?\]: maybe this
+Bogoliubon [3k\]: interesting
+Bogoliubon [3k\]: but it's a trade again probably
+Joven [?\]: yeah the cut at E11 is hard to deal with
+Bogoliubon [3k\]: I thought I could live but now it looks ko.
+])
+(;W[nr]C[Bogoliubon [3k\]: this is bigger then n2
+Bogoliubon [3k\]: kind of cute
+]
+(;B[mq]
+;W[oq]
+;B[mr]
+;W[op]
+;B[or]
+;W[pr]
+;B[ns]
+;W[qq])
+(;B[or]
+;W[mr]C[Bogoliubon [3k\]: anyways...
+Bogoliubon [3k\]: thanks for stopping bye.  
+])))
+(;W[hb]
+;B[ga]
+;W[gc]
+;B[hc]
+;W[gd]
+;B[ge]C[Bogoliubon [3k\]: I considered that too.
+]
+;W[hd]
+;B[ic]
+;W[he]
+;B[gf]
+;W[ef]
+;B[fe]
+;W[hf]C[Joven [?\]: unfortunately it doesnt work
+]
+;B[hg]
+;W[ib]C[Joven [?\]: oh wait H19 duh
+Bogoliubon [3k\]: control again
+Bogoliubon [3k\]: it does work
+]))
+(;W[cd]C[Bogoliubon [3k\]: this was the other plan
+Joven [?\]: one second can I have control for a moment
+Joven [?\]: I like this plan more
+Joven [?\]: its alot of cash in the corner
+Bogoliubon [3k\]: my worry was d12
+]
+(;B[cg]
+;W[fg]C[Bogoliubon [3k\]: would provide enough leverage for black to live
+])
+(;B[fg]
+;W[cg]C[Bogoliubon [3k\]: but even so 
+Joven [?\]: maybe but does it matter..
+Bogoliubon [3k\]: it's big
+Bogoliubon [3k\]: the center is certainly bigger if it dies
+Joven [?\]: that is true
+])))
+(;W[qg]C[Bogoliubon [3k\]: I really wanted to play here
+]
+;B[lf]C[Bogoliubon [3k\]: but blah
+]))
+(;W[gn]
+;B[gm]
+;W[fn]
+;B[gk]C[Joven [?\]: its a little scary
+Joven [?\]: but I think you can do it
+Bogoliubon [3k\]: yeah
+Joven [?\]: (your move is fine but this is just yumminess
+Bogoliubon [3k\]: I'm not digging m2
+Bogoliubon [3k\]: and e6 works pretty well
+Joven [?\]: yeah
+]))

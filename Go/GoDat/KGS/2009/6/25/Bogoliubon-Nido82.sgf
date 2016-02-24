@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]HA[3]KM[0.50]TM[600]OT[5x40 byo-yomi]
+PW[Bogoliubon]PB[Nido82]WR[1k]BR[4k]DT[2009-06-25]PC[The KGS Go Server at http://www.gokgs.com/]
+;B[pp]BL[596.302]C[Bogoliubon [1k\]: hello
+Nido82 [4k\]: hi
+Nido82 [4k\]: no handicap?
+Bogoliubon [1k\]: chinese rules
+Nido82 [4k\]: what's that
+Bogoliubon [1k\]: put them where you wish
+]
+;B[dp]BL[575.11]
+;B[dd]BL[573.934]C[Nido82 [4k\]: ahhh
+Nido82 [4k\]: ok
+]
+;W[qd]WL[585.596]
+;B[jq]BL[571.674]
+;W[fc]WL[573.144]
+;B[cf]BL[569.776]C[Nido82 [4k\]: good luck
+Bogoliubon [1k\]: the neutral points at the end of the game are points too
+Nido82 [4k\]: what are neutral points
+]
+;W[jd]WL[535.83]
+;B[qf]BL[560.296]C[Bogoliubon [1k\]: places that are neither black or white territory.
+Nido82 [4k\]: o
+Nido82 [4k\]: just put stones into neutral points gives you extra points?
+Bogoliubon [1k\]: right 1 stone = 1 point
+Nido82 [4k\]: wow
+Nido82 [4k\]: okay
+]
+;W[oc]WL[487.097]
+;B[qi]BL[557.342]
+;W[dm]WL[471.441]
+;B[fq]BL[554.863]
+;W[cg]WL[464.23]
+;B[bg]BL[551.065]
+;W[df]WL[449.812]
+;B[ce]BL[548.468]
+;W[ch]WL[433.72]
+;B[cm]BL[542.428]
+;W[cn]WL[421.511]
+;B[cl]BL[539.663]
+;W[dl]WL[415.89]
+;B[cj]BL[536.487]
+;W[bh]WL[397.992]
+;B[dk]BL[533.7]
+;W[cc]WL[376.627]
+;B[dc]BL[530.839]
+;W[db]WL[362.598]
+;B[bc]BL[518.432]
+;W[bb]WL[350.699]
+;B[cd]BL[517.323]
+;W[cb]WL[349.344]
+;B[fd]BL[516.566]
+;W[gc]WL[336.507]
+;B[ge]BL[513.785]
+;W[bk]WL[320.218]
+;B[bi]BL[488.221]
+;W[ck]WL[312.349]
+;B[ah]BL[484.178]
+;W[dj]WL[289.494]
+;B[di]BL[482.033]
+;W[ek]WL[272.269]
+;B[dg]BL[480.64]
+;W[dh]WL[225.293])

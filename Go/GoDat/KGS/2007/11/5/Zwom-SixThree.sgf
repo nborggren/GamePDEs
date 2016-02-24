@@ -1,0 +1,215 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1200]OT[5x30 byo-yomi]
+PW[Zwom]PB[SixThree]WR[1k]BR[3k]DT[2007-11-05]PC[The KGS Go Server at http://www.gokgs.com/]C[SixThree [3k\]: yo
+]RE[W+Resign]
+;B[qf]BL[1191.884]C[Zwom [1k\]: first time ever even verse me.  have fun
+]
+;W[qp]WL[1178.441]C[SixThree [3k\]: no, i've played you even before, and won
+]
+;B[fc]BL[1181.475]C[Zwom [1k\]: you're fooling yourself.  only in dreams
+]
+;W[dp]WL[1157.458]C[SixThree [3k\]: no it was about 9 months ago
+]
+;B[cj]BL[1172.927]C[Zwom [1k\]: online?  then we can produce the record
+SixThree [3k\]: possibly, but records on kgs are only kept for so long
+]
+;W[pc]WL[1134.781]
+;B[qc]BL[1169.941]C[Zwom [1k\]: that's not true
+Zwom [1k\]: I've looked at my first game
+SixThree [3k\]: no on my old accoung, Brock2574, which was 2 years old, they start deleting games after a year or so
+Zwom [1k\]: go to the archive
+]
+;W[qd]WL[1050.267]C[SixThree [3k\]: fine, if it's on the website i will go look for it later
+]
+;B[pd]BL[1152.747]
+;W[qe]WL[1034.479]
+;B[pe]BL[1150.418]
+;W[rf]WL[1033.072]
+;B[qg]BL[1144.727]
+;W[rg]WL[1018.451]
+;B[rc]BL[1142.383]
+;W[rd]WL[1006.033]
+;B[sd]BL[1138.5]
+;W[re]WL[1004.38]
+;B[oc]BL[1129.349]
+;W[pb]WL[1002.331]
+;B[ob]BL[1127.894]
+;W[qb]WL[998.162]
+;B[rb]BL[1125.899]
+;W[pf]WL[995.389]
+;B[qh]BL[1119.834]
+;W[rh]WL[990.454]
+;B[qi]BL[1117.913]
+;W[of]WL[988.559]
+;B[ne]BL[1115.345]
+;W[ri]WL[986.302]
+;B[qj]BL[1110.79]
+;W[rj]WL[983.377]C[Zwom [1k\]: well you're winning this one so far
+]
+;B[rk]BL[1077.081]
+;W[qk]WL[981.302]
+;B[rl]BL[1074.599]
+;W[pk]WL[972.059]
+;B[oi]BL[1069.454]
+;W[qm]WL[969.496]
+;B[rm]BL[1066.647]
+;W[qn]WL[966.738]
+;B[rn]BL[1064.561]
+;W[ro]WL[964.525]
+;B[sj]BL[1053.326]
+;W[ql]WL[949.935]
+;B[si]BL[1041.596]
+;W[sn]WL[937.049]
+;B[nh]BL[980.049]
+;W[nf]WL[928.193]
+;B[mf]BL[968.195]
+;W[mg]WL[924.715]
+;B[ng]BL[960.03]
+;W[me]WL[916.117]
+;B[lf]BL[958.287]
+;W[od]WL[912.093]
+;B[nd]BL[956.55]
+;W[oe]WL[909.958]
+;B[mc]BL[951.614]
+;W[md]WL[896.437]
+;B[nc]BL[948.904]
+;W[ke]WL[894.578]
+;B[le]BL[943.315]
+;W[ld]WL[888.489]
+;B[kd]BL[941.911]
+;W[lc]WL[886.783]
+;B[lb]BL[935.398]
+;W[kc]WL[884.937]
+;B[kb]BL[931.596]
+;W[jc]WL[881.967]
+;B[jb]BL[919.913]
+;W[ic]WL[878.994]
+;B[ib]BL[918.217]
+;W[hc]WL[836.245]
+;B[hb]BL[915.883]
+;W[jf]WL[822.393]
+;B[lg]BL[912.283]
+;W[mh]WL[811.664]
+;B[lh]BL[908.624]
+;W[mi]WL[810.028]
+;B[nj]BL[903.671]
+;W[lj]WL[741.634]
+;B[mj]BL[890.101]
+;W[li]WL[737.573]
+;B[jg]BL[882.677]
+;W[ig]WL[698.5]
+;B[jh]BL[874.037]
+;W[lk]WL[671.116]
+;B[nl]BL[848.714]
+;W[ih]WL[656.718]
+;B[if]BL[832.319]
+;W[ie]WL[644.104]
+;B[ji]BL[821.353]
+;W[hf]WL[637.045]
+;B[jk]BL[819.022]
+;W[lm]WL[634.57]
+;B[nn]BL[813.093]
+;W[lo]WL[632.546]
+;B[np]BL[807.701]
+;W[lq]WL[627.802]
+;B[pq]BL[803.628]
+;W[qq]WL[624.243]
+;B[qr]BL[799.59]
+;W[rr]WL[620.305]
+;B[or]BL[798.1]
+;W[oo]WL[617.219]
+;B[no]BL[796.274]
+;W[qs]WL[608.549]
+;B[pr]BL[794.496]
+;W[mr]WL[602.613]
+;B[on]BL[783.547]
+;W[op]WL[594.371]
+;B[ml]BL[780.308]
+;W[ll]WL[590.658]
+;B[nq]BL[763.301]
+;W[mm]WL[585]
+;B[ol]BL[758.221]
+;W[ok]WL[561.428]C[SixThree [3k\]: gg, thanks
+Zwom [1k\]: thanks
+Zwom [1k\]: you have gotten better
+Zwom [1k\]: you get greedy though
+SixThree [3k\]: shut up this was a stupid game
+SixThree [3k\]: i'm make stupid mistakes
+Zwom [1k\]: me too
+SixThree [3k\]: i have no consisntency in my play, half of my games are briliiant and the other half are retarded
+Zwom [1k\]: sounds like me
+Zwom [1k\]: have you ever beat a dan player?
+Zwom [1k\]: even?
+SixThree [3k\]: no
+SixThree [3k\]: 1kyus even though
+SixThree [3k\]: beat a 2dan at 2 stones
+Zwom [1k\]: I beat a 2 dan even at the rochester tournament.  I bet you could beat 1 dans 3 out of 10 times even
+Zwom [1k\]: if you can find any around
+Zwom [1k\]: is it true martin is 5 dan?
+SixThree [3k\]: HA! that would be nice.  by the way half the people at club don't think i'm a 1kyu even though that's my rank now
+Zwom [1k\]: what's your sigma?
+SixThree [3k\]: martin is more like a 4 dan.  at phoenix tournaments he plays as a 6 dan.  he wins 2 out of 10 games and that boosts him from a 4 dan to a 6 dan. but he lost all of his 5 dan division games at congress
+SixThree [3k\]: check the aga ratins webpage
+SixThree [3k\]: i mean 5 dan
+Zwom [1k\]: I am now.  that's what I figured, martin is a shameless self premoter
+SixThree [3k\]: boosts to a 5 dan
+SixThree [3k\]: only way he gets a 5 dan rating is through handicap games
+Zwom [1k\]: I see.  I have a friend in CT that is an honest to god 5 dan.  It's disgusting how good he is
+SixThree [3k\]: there's this guy named ryan from portland that is going to the U of A, but he very rarely shows up to club becuase he only likes to play even games, and he's a 5 dan
+Zwom [1k\]: my go has dropped down to close to zero.  I play like 10 games a month anymore.
+SixThree [3k\]: i still try to play a game a day on kgs, but it's harder nowadays with school
+Zwom [1k\]: school here is insane
+SixThree [3k\]: and i try to take breaks from it because sometimes i become to obsessive
+Zwom [1k\]: that sounds healthy.  
+SixThree [3k\]: so you're in grad school right?
+Zwom [1k\]: yeah.  
+Zwom [1k\]: I'm done with classwork now, I just have to right one of those dissertations
+Zwom [1k\]: write
+Zwom [1k\]: but physics is hard
+Zwom [1k\]: not as hard as go, but still hard
+SixThree [3k\]: god those things sound hard, if i went to grad school for math, i would have write a 100pg dissertations that comes up with a whole new way of proving two different theorems
+Zwom [1k\]: are you undergraduate math right now?
+SixThree [3k\]: yeah
+SixThree [3k\]: with an emphasis on computer science
+Zwom [1k\]: that's cool.  I didn't know that.  I got a degree in math too.
+Zwom [1k\]: and I'm taking a math class right now, for fun.
+SixThree [3k\]: nice. how many degrees do you have?
+Zwom [1k\]: 3.  a physics, undergrad, a  math undergrad, and a physics masters
+SixThree [3k\]: wow that's a lot
+Zwom [1k\]: I'm old too though.  I just turned 28 yesterday
+Zwom [1k\]: or friday rather
+SixThree [3k\]: nah that's not bad, i'm going to be 25 on the 22nd of this month
+Zwom [1k\]: my mom's birthday is the 23rd.  funny.  what math are you taking now?
+SixThree [3k\]: calc 2
+Zwom [1k\]: oh.  so you're just warming up to the powers of mathematics.
+Zwom [1k\]: you've got a year or so before it starts getting real fun.  linear algebra, and abstract algebra
+SixThree [3k\]: don't remind.  this is the 2nd time i switched my major, plus i haven't been going to school all the time since high school
+Zwom [1k\]: well you switched it to the right major
+SixThree [3k\]: i hope so
+patrickb [1d?\]: Martin, a shameless self-promoter? Who would have guessed :)
+Zwom [1k\]: I mean that effectionately
+SixThree [3k\]: lol
+patrickb [1d?\]: Sure. I have a sharp eye from swindles learning to play with Martin and John Goltz :)
+SixThree [3k\]: yep, and john lamont
+patrickb [1d?\]: sokadoka!
+Zwom [1k\]: sounds like tucson go club is thriving.  the stony brook club kind of sucks.  I inevitably spend all the time giving handicap stones on 9x9 boards
+patrickb [1d?\]: sounds sort of like me in albuquerque.
+patrickb [1d?\]: We have one person who's a 4k on here (Demoneyes)
+patrickb [1d?\]: and two who are around 10k
+SixThree [3k\]: 50 years from now i'm going to replace john lamont as the eccentric old math proffessor that doesn't tie his shoes, calling people "youngins"
+patrickb [1d?\]: heh
+patrickb [1d?\]: who only comes out at night
+SixThree [3k\]: yeah, and sits in his car for a half hour smoking his pipe before coming into IHOP
+patrickb [1d?\]: lol
+patrickb [1d?\]: My wife always called him ghoulish, between the smoke smell, the long white hair, and the fact that he only came out at night. But he's not a bad go player
+patrickb [1d?\]: Not as good as he thinks he is, but not bad at all
+patrickb [1d?\]: I assume he and martin still don't play?
+Zwom [1k\]: well I'm going to get going.  thanks for the game chris.  you'll beat me even someday, maybe 
+Zwom [1k\]: but not if I can help it
+patrickb [1d?\]: heh
+patrickb [1d?\]: late guys
+patrickb [1d?\]: later, that is
+SixThree [3k\]: no, back in his heyday, before the AGA formed, he was a Japanese rated 1dan, but now he's gone down in strength to about a 3kyu.  yeah lamont never takes stones from anyone, and the only one he plays high handicap is goltz
+SixThree [3k\]: see ya, i'll show you that game later
+Zwom [1k\]: ok.  
+])

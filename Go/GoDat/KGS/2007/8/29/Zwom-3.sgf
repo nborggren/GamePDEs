@@ -1,0 +1,158 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[11]KM[0.50]TM[300]OT[5x20 byo-yomi]
+PW[Zwom]PB[BrainCore]WR[1k]BR[4k]DT[2007-08-29]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+1.50]
+;B[id]BL[296.013]C[BrainCore [4k\]: hi
+BrainCore [4k\]: enjoy
+]
+;W[ei]WL[289.512]C[Zwom [1k\]: you too
+]
+;B[dc]BL[285.375]
+;W[ce]WL[283.597]
+;B[de]BL[270.098]
+;W[df]WL[271.292]
+;B[ee]BL[263.709]
+;W[cd]WL[268.816]
+;B[cc]BL[252.358]
+;W[ih]WL[259.738]
+;B[ef]BL[240.359]
+;W[dg]WL[255.662]
+;B[gh]BL[236.027]
+;W[gc]WL[243.382]C[Zwom [1k\]: this is probably my mistake
+]
+;B[hc]BL[230.731]
+;W[gd]WL[238.956]
+;B[hf]BL[227.466]
+;W[dd]WL[232.908]
+;B[ed]BL[225.876]
+;W[ec]WL[231.389]
+;B[fc]BL[221.575]
+;W[eb]WL[227.72]
+;B[fb]BL[220.003]
+;W[fd]WL[224.382]
+;B[gb]BL[210.968]
+;W[fg]WL[222.072]C[BrainCore [4k\]: but e4 cannot be wrong i think
+]
+(;B[ff]BL[147.084]
+;W[gg]WL[218.81]
+(;B[gf]BL[135.033]
+;W[hg]WL[216.135]LB[cf:A]C[BrainCore [4k\]: you're the better player ;)
+Zwom [1k\]: I think e4 is a mistake
+Zwom [1k\]: because I immediately get to fix my weakness
+Zwom [1k\]: you'd like to keep that there
+]
+(;B[eh]BL[127.717]C[Zwom [1k\]: this?
+]
+;W[eg]WL[209.901]
+;B[ch]BL[114.132]
+;W[bc]WL[186.844]
+;B[db]BL[104.901]
+;W[cb]WL[184.6]
+;B[ea]BL[102.264]
+;W[dh]WL[183.005]
+;B[ci]BL[76.757]
+;W[bg]WL[175.487]
+;B[ej]BL[73.461]
+;W[fj]WL[167.174]
+;B[di]BL[71.49]
+;W[fi]WL[164.18]C[BrainCore [4k\]: now d1 isnt any better rather worse ko
+]
+;B[cg]BL[58.412]
+;W[bf]WL[149.507]C[BrainCore [4k\]: hm, yea
+Zwom [1k\]: I just don't see any way to live
+]
+;B[bh]BL[42.428]
+;W[bj]WL[135.373]
+(;B[cf]BL[28.828]
+;W[dj]WL[125.406]
+;B[cj]BL[27.55]
+;W[ek]WL[122.957]
+;B[ag]BL[25.67]
+;W[be]WL[110.661]
+;B[aj]BL[15.999]
+(;W[ai]WL[96.211]
+;B[bk]BL[7.296]
+;W[ak]WL[92.593]
+;B[ig]BL[20]OB[2]
+;W[ck]WL[81.075]
+;B[hh]BL[20]OB[2]
+;W[fh]WL[76.598]
+;B[jh]BL[20]OB[2]
+;W[ii]WL[73.155]
+;B[ji]BL[20]OB[2]
+;W[ij]WL[62.894]
+;B[jj]BL[20]OB[2]
+;W[ca]WL[35.349]
+;B[da]BL[20]OB[2]
+;W[bb]WL[25.533]
+;B[ik]BL[20]OB[2]
+;W[jg]WL[15.065]
+;B[if]BL[20]OB[2]
+;W[hj]WL[7.338]
+;B[hk]BL[20]OB[2]
+;W[gk]WL[4.851]
+;B[jk]BL[20]OB[2]
+;W[]WL[4.85]
+;B[]BL[20]OB[2]TW[aa][ba][ab][ac][ad][bd][ae][af][cf][ag][cg][ah][bh][ch][eh][gh][hh][bi][ci][di][gi][hi][aj][cj][ej][gj][bk][dk][fk]TB[fa][ga][ha][ia][ja][ka][eb][hb][ib][jb][kb][ec][gc][ic][jc][kc][fd][gd][hd][jd][kd][fe][ge][he][ie][je][ke][jf][kf][jg][kg][kh][ki][kj][kk]C[BrainCore [4k\]: very nice one!
+BrainCore [4k\]: thanks
+BrainCore [4k\]: cu later
+Zwom [1k\]: good game thanks
+])
+(;W[bk]C[Zwom [1k\]: this is cleaner
+]
+;B[bi]
+;W[ah]))
+(;B[cj]
+;W[ek]C[BrainCore [4k\]: well i thought having a ko was enough right from the start... but i was wrong
+]))
+(;B[eg]
+;W[eh]
+;B[cf]
+;W[bf]
+;B[cg]
+;W[dh]
+;B[bg]
+;W[be]
+;B[ci]
+;W[bc]
+;B[dj]C[BrainCore [4k\]: hm, i dont know
+Zwom [1k\]: I don't have enough liberties to counterattack
+BrainCore [4k\]: well, you are right as i see it now
+]))
+(;B[hg]
+;W[hh]
+;B[eg]
+;W[fh]))
+(;B[hh]TR[fd]C[Zwom [1k\]: three liberties to two so you may just move aside
+Zwom [1k\]: those three stones aren't that important
+BrainCore [4k\]: yep
+BrainCore [4k\]: i planned to play this first
+Zwom [1k\]: they are cutting strong groups, so who cares
+BrainCore [4k\]: but i think my upper right is stronger
+BrainCore [4k\]: of course that was stupid, with exactly your reasoning
+]
+;W[ff]
+;B[ea]C[BrainCore [4k\]: very nice
+]
+;W[fe]
+;B[db]
+;W[eg]C[BrainCore [4k\]: no
+BrainCore [4k\]: e9 first
+BrainCore [4k\]: white e9
+BrainCore [4k\]: but not a real difference
+Zwom [1k\]: doesn't do anything
+BrainCore [4k\]: yes
+BrainCore [4k\]: anyway. seeing it like this, its soo much better
+]
+(;B[ec]
+;W[ii]
+;B[ig])
+(;B[ii]
+;W[ec]
+;B[fj]C[Zwom [1k\]: this is probably bigger than those stones anyway
+BrainCore [4k\]: well i need to go, cu
+Zwom [1k\]: looks like a black win
+Zwom [1k\]: alright good luck, bye
+]
+;W[ej]
+;B[fi]C[BrainCore [4k\]: yep
+])))

@@ -1,0 +1,257 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1200]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[logicg8]DT[2012-01-23]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+Resign]
+;B[qd]BL[1194.772]
+;W[dp]WL[1192.796]
+;B[pq]BL[1192.201]
+;W[dc]WL[1189.494]
+;B[fq]BL[1187.776]
+;W[po]WL[1186.43]
+;B[pl]BL[1185.699]
+;W[oq]WL[1183.347]
+;B[op]BL[1180.75]
+;W[pp]WL[1181.438]
+;B[nq]BL[1176.37]
+;W[or]WL[1177.568]
+;B[qq]BL[1172.215]
+;W[nr]WL[1173.6]
+;B[oo]BL[1167.882]
+;W[on]WL[1171.195]
+;B[mq]BL[1160.836]
+;W[np]WL[1169.022]
+;B[no]BL[1158.533]
+;W[mo]WL[1166.724]
+;B[nn]BL[1156.389]
+;W[mp]WL[1160.457]
+;B[pn]BL[1141.357]
+;W[mn]WL[1156.231]
+;B[om]BL[1137.573]
+;W[nm]WL[1154.638]
+;B[on]BL[1135.874]
+;W[lq]WL[1151.79]
+;B[iq]BL[1131.133]C[Bogoliubon [-\]: we'll analyze how that was supposed to go later.
+]
+;W[nl]WL[1134.474]
+;B[kq]BL[1123.635]
+;W[pk]WL[1120.473]
+;B[ol]BL[1117.103]
+;W[nk]WL[1092.147]
+;B[ok]BL[1114.9]
+;W[nj]WL[1088.804]
+;B[oj]BL[1110.852]
+;W[oi]WL[1080.97]
+;B[pi]BL[1101.785]
+;W[ph]WL[1078.675]
+;B[oh]BL[1097.869]C[logicg8 [?\]: because I was trying to limit the power of the wall
+]
+;W[ni]WL[1076.943]
+;B[pg]BL[1084.263]
+;W[qh]WL[1070.306]
+;B[pj]BL[1008.002]C[Bogoliubon [-\]: maybe you're right.  In which case.
+]
+(;W[og]WL[1064.583]C[Bogoliubon [-\]: this is a little overzealous.
+]
+;B[nh]BL[1005.927]
+;W[pf]WL[1059.09]C[Bogoliubon [-\]: I was happy after this
+Bogoliubon [-\]: white is plenty ahead
+]
+;B[qf]BL[967.313]
+;W[qg]WL[1048.067]
+;B[pe]BL[963.056]
+;W[mh]WL[1027.657]
+;B[me]BL[951.441]LB[me:A]C[logicg8 [?\]: it makes the wall alot less valuable
+Bogoliubon [-\]: just this move is worth more then any capture and playing into the side
+]
+(;W[oe]WL[991.547]
+;B[od]BL[943.695]
+;W[ne]WL[985.634]
+;B[nd]BL[938.725]
+;W[mf]WL[974.482]
+;B[lf]BL[928.398]
+;W[le]WL[946.363]
+;B[md]BL[922.823]
+;W[ng]WL[937.248]
+;B[ke]BL[908.517]
+;W[ic]WL[918.261]
+;B[cn]BL[890.783]
+;W[fp]WL[910.616]
+;B[gp]BL[887.554]
+;W[fo]WL[906.637]
+;B[eq]BL[883.415]
+;W[ep]WL[862.652]
+;B[dq]BL[879.394]
+;W[cp]WL[857.142]
+;B[ck]BL[874.592]
+;W[ce]WL[808.842]
+;B[ch]BL[863.253]
+;W[rf]WL[804.49]
+;B[qe]BL[859.317]
+;W[lb]WL[802.431]
+;B[kc]BL[852.652]
+;W[kb]WL[799.503]
+;B[jc]BL[850.854]
+;W[jb]WL[795.875]C[logicg8 [?\]: Sorry my computer helpfully suspended itself without consent
+]
+;B[cq]BL[670.223]
+;W[go]WL[789.563]
+;B[ho]BL[661.359]
+;W[hn]WL[786.266]
+;B[io]BL[658.51]
+;W[gm]WL[751.366]
+;B[in]BL[652.98]
+;W[im]WL[748.936]
+;B[jm]BL[650.616]
+;W[jl]WL[743.913]
+;B[kl]BL[621.121]
+;W[jk]WL[606.122]
+;B[lm]BL[575.049]LB[in:A][fo:C][lr:1][or:B]C[Bogoliubon [-\]: did you read this out before playing it?
+logicg8 [?\]: Yes but not correctly
+logicg8 [?\]: I thought I could dump the three stones
+logicg8 [?\]: and cut your bottom group off
+Bogoliubon [-\]: you mean dump the a stones to isolate the b ones?
+logicg8 [?\]: yup
+Bogoliubon [-\]: why would white care if the b group got cut off?  Is it not alive locally?
+Bogoliubon [-\]: to me the c group is more attackable.
+Bogoliubon [-\]: making the a stones cutting stones.
+logicg8 [?\]: m2 doesn't steal the second eye?
+Bogoliubon [-\]: is this m2?
+logicg8 [?\]: yes
+]
+(;W[hp]WL[591.621]
+;B[gq]BL[567.183]
+;W[jn]WL[588.949]
+;B[km]BL[557.525]
+;W[jo]WL[587.42]
+;B[ip]BL[538.583]
+;W[kp]WL[571.214]
+;B[ko]BL[509.068]
+;W[jp]WL[522.801]
+;B[lo]BL[489.234]
+;W[jq]WL[505.423]
+;B[kr]BL[479.744]
+;W[jr]WL[468.869]
+;B[kk]BL[454.821]
+;W[jj]WL[460.283]
+;B[kj]BL[452.072]
+;W[ji]WL[458.359]
+;B[ki]BL[443.925]
+;W[kh]WL[449.583]
+;B[jh]BL[438.567]
+;W[li]WL[437.403]
+;B[il]BL[405.453]
+;W[hm]WL[433.441]
+;B[hk]BL[402.057]
+;W[ih]WL[409.547]
+;B[jg]BL[397.351]
+;W[hi]WL[378.609]
+;B[gk]BL[371.017]
+;W[ir]WL[329.569]
+;B[hq]BL[367.355]
+;W[em]WL[325.133]
+;B[fl]BL[355.675]
+;W[bq]WL[247.868]
+;B[bo]BL[347.486]
+;W[bp]WL[245.495]
+;B[br]BL[342.298]
+;W[ar]WL[240.872]
+;B[cr]BL[337.925]
+;W[bm]WL[235.507]
+;B[cm]BL[328.222]
+;W[dl]WL[208.654]
+;B[cl]BL[307.965]
+;W[dk]WL[204.604]
+;B[dj]BL[300.445]
+;W[ej]WL[141.086]
+;B[fj]BL[238.132]
+;W[di]WL[133.857]
+;B[cj]BL[235.482]
+;W[ek]WL[131.904]
+;B[ei]BL[229.721]
+;W[fi]WL[129.888]
+;B[eh]BL[227.875]
+;W[gj]WL[125.909]
+;B[fk]BL[225.035]
+;W[fm]WL[122.571]
+;B[kg]BL[197.291]
+;W[lh]WL[118.288]
+;B[fh]BL[187.824]
+;W[gi]WL[115.298]
+;B[ig]BL[181.387]
+;W[hg]WL[103.061]
+;B[hf]BL[174.016]
+;W[gg]WL[92.853]
+;B[gf]BL[144.413]
+;W[fg]WL[87.428]
+;B[ef]BL[136.127]
+;W[ik]WL[44.853]
+;B[hl]BL[110.338]
+;W[hj]WL[41.198]
+;B[ii]BL[106.255]
+;W[ij]WL[38.639]
+;B[gh]BL[97.495]
+;W[hh]WL[32.532]
+;B[eg]BL[92.038]
+;W[el]WL[28.972]
+;B[gc]BL[43.237]
+;W[hb]WL[12.088]
+;B[gb]BL[35.617]
+;W[nb]WL[8.802]
+;B[ob]BL[32.553]
+;W[hc]WL[30]OW[5]
+;B[ha]BL[29.887]
+;W[gd]WL[30]OW[5]
+;B[fd]BL[23.385]
+;W[ia]WL[30]OW[5]
+;B[ga]BL[19.044]
+;W[fe]WL[30]OW[5]
+;B[ff]BL[30]OB[4]
+;W[gl]WL[30]OW[5]
+;B[ed]BL[30]OB[4]
+;W[na]WL[30]OW[5]
+;B[eb]BL[30]OB[4]
+;W[db]WL[30]OW[5]
+;B[dd]BL[30]OB[4]
+;W[cd]WL[30]OW[5]
+;B[bf]BL[30]OB[4]
+;W[be]WL[30]OW[5]
+;B[bc]BL[30]OB[4]
+;W[bb]WL[30]OW[5]C[Bogoliubon [-\]: thanks
+logicg8 [?\]: You just won't die
+logicg8 [?\]: Thank you for the game
+Bogoliubon [-\]: white stones don't die.
+])
+(;W[sa]
+;B[lr]
+;W[mr]LB[oe:A][og:B]C[Bogoliubon [-\]: this stone can be captured
+Bogoliubon [-\]: if you protect
+logicg8 [?\]: so you do
+Bogoliubon [-\]: this is crazy overconcentrated
+Bogoliubon [-\]: I messed up big through here
+]
+;B[kr]
+;W[pr]
+;B[qr]
+;W[ps]C[Bogoliubon [-\]: I just turn and get an eye here
+]))
+(;W[ng]
+;B[cn]C[logicg8 [?\]: I wuoldn't be happy as white because I get to come back here
+logicg8 [?\]: I was planning on d6
+]))
+(;W[eq]
+;B[fp]
+;W[dn]C[Bogoliubon [-\]: I could try squeezing this group 
+Bogoliubon [-\]: I should run, my friend is going to help me install a writing pad I got for an online tutoring gig.
+logicg8 [?\]: Okay thanks again for the game.
+logicg8 [?\]: Bye
+Bogoliubon [-\]: Thanks, we'll review it someother time
+Bogoliubon [-\]: I want to see how that corner should have gone.
+Bogoliubon [-\]: it decided the game twice.
+Bogoliubon [-\]: later.
+logicg8 [?\]: You can never just play the josekis I know ;)
+Bogoliubon [-\]: well punish my overplays.
+logicg8 [?\]: fair enough
+Bogoliubon [-\]: (Sae Bongsoo's vol 5)
+logicg8 [?\]: later
+Bogoliubon [-\]: all my secrets
+Bogoliubon [-\]: paz.
+]))

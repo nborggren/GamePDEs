@@ -1,0 +1,190 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[2]KM[6.50]TM[180]OT[5x20 byo-yomi]
+PW[nogote]PB[Bogoliubon]WR[1k]BR[2k]DT[2008-10-14]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp]RE[W+Time]
+;W[cd]WL[178.311]C[nogote [1k\]: hallo
+]
+;B[pp]BL[174.05]
+;W[pq]WL[176.629]C[Bogoliubon [2k\]: hello
+nogote [1k\]: i attach
+Bogoliubon [2k\]: indeed
+nogote [1k\]: lets see
+]
+;B[qq]BL[152.88]C[nogote [1k\]: the outcome
+]
+;W[op]WL[173.888]
+;B[oo]BL[141.753]
+;W[qp]WL[172.136]
+;B[po]BL[139.081]
+;W[rq]WL[168.647]
+;B[qr]BL[121.223]
+;W[rr]WL[164.858]C[nogote [1k\]: nonjoseki
+]
+;B[rp]BL[77.94]
+;W[qo]WL[162.053]
+;B[qn]BL[74.459]
+;W[ro]WL[160.63]
+;B[rn]BL[69.241]
+;W[sp]WL[158.905]
+;B[oq]BL[66.678]
+;W[pr]WL[156.827]
+;B[or]BL[64.573]
+;W[qs]WL[155.173]
+;B[np]BL[62.521]C[nogote [1k\]: ok
+]
+;W[pj]WL[152.718]
+;B[qh]BL[52.513]C[nogote [1k\]: ill take that
+]
+;W[pn]WL[148.967]C[Bogoliubon [2k\]: I too
+Bogoliubon [2k\]: for sure
+]
+;B[pm]BL[34.934]
+;W[on]WL[147.267]
+;B[nn]BL[17.843]
+;W[om]WL[145.294]C[nogote [1k\]: ladder favors white
+]
+;B[pl]BL[9.12]
+;W[ol]WL[143.496]
+;B[ok]BL[4.719]
+;W[nl]WL[139.009]
+;B[nk]BL[1.893]
+;W[ml]WL[137.428]
+;B[pk]BL[20]OB[5]
+;W[mo]WL[135.559]
+;B[no]BL[20]OB[5]
+;W[lp]WL[125.475]
+;B[lm]BL[20]OB[5]
+;W[ll]WL[122.659]
+;B[km]BL[20]OB[5]
+;W[mm]WL[121.047]
+;B[mn]BL[20]OB[5]
+;W[ln]WL[120.308]
+;B[kn]BL[20]OB[5]
+;W[lo]WL[110.928]
+;B[lq]BL[20]OB[5]
+;W[kq]WL[99.012]
+;B[kr]BL[20]OB[4]
+;W[mq]WL[81.671]
+;B[lr]BL[20]OB[4]
+;W[mr]WL[80.515]
+;B[jq]BL[20]OB[4]
+;W[nq]WL[72.743]
+;B[kp]BL[20]OB[4]
+;W[mp]WL[56.831]
+;B[ns]BL[20]OB[3]
+;W[ms]WL[44.851]C[nogote [1k\]: cut
+]
+;B[ko]BL[20]OB[3]
+;W[nm]WL[37.887]
+;B[op]BL[20]OB[3]
+;W[os]WL[35.284]
+;B[ps]BL[20]OB[3]
+;W[qm]WL[33.674]
+;B[ls]BL[20]OB[3]
+;W[rm]WL[32.585]
+;B[ec]BL[20]OB[3]
+;W[qj]WL[31.425]
+;B[rl]BL[20]OB[3]
+;W[rk]WL[25.656]
+;B[sl]BL[20]OB[3]
+;W[sn]WL[16.852]
+;B[ql]BL[20]OB[3]
+;W[ni]WL[14.817]
+;B[mj]BL[20]OB[3]
+;W[lj]WL[12.194]
+;B[mi]BL[20]OB[3]
+;W[pg]WL[10.337]
+;B[ph]BL[20]OB[3]
+;W[oh]WL[7.83]
+;B[og]BL[20]OB[3]
+;W[ng]WL[5.932]
+;B[of]BL[20]OB[3]
+;W[pi]WL[4.953]
+;B[mh]BL[20]OB[3]
+;W[nh]WL[0.57]
+;B[ri]BL[20]OB[3]
+;W[mg]WL[20]OW[5]
+;B[lg]BL[20]OB[3]
+;W[lh]WL[20]OW[5]
+;B[lf]BL[20]OB[3]
+;W[nf]WL[20]OW[5]
+;B[oe]BL[20]OB[3]
+;W[me]WL[20]OW[5]
+;B[le]BL[20]OB[2]
+;W[md]WL[20]OW[5]
+;B[ld]BL[20]OB[2]
+;W[mc]WL[20]OW[5]
+;B[lc]BL[20]OB[2]
+;W[lb]WL[20]OW[5]
+;B[kb]BL[20]OB[2]
+;W[pb]WL[20]OW[5]
+;B[nb]BL[20]OB[2]
+;W[oc]WL[20]OW[5]
+;B[mb]BL[20]OB[2]
+;W[qc]WL[20]OW[5]
+;B[nc]BL[20]OB[2]
+;W[nd]WL[20]OW[5]
+;B[od]BL[20]OB[2]
+;W[sk]WL[20]OW[5]
+;B[li]BL[20]OB[1]
+;W[kh]WL[20]OW[5]
+;B[ki]BL[20]OB[1]C[Bogoliubon [2k\]: it's my turn
+Bogoliubon [2k\]: I can do whatever
+]
+;W[qf]WL[20]OW[5]C[nogote [1k\]: thank you
+Bogoliubon [2k\]: time
+Bogoliubon [2k\]: thanks
+nogote [1k\]: gg
+Bogoliubon [2k\]: you lost by a ton
+Bogoliubon [2k\]: but time
+nogote [1k\]: no
+nogote [1k\]: i think white survives
+nogote [1k\]: lets try
+nogote [1k\]: s13
+Bogoliubon [2k\]: it's my turnb
+nogote [1k\]: you are playing retard moves for white
+nogote [1k\]: P11
+nogote [1k\]: i will do O10
+]
+(;B[ne]
+;W[mf]C[nogote [1k\]: back
+]
+;B[oi]
+;W[oj]
+;B[nj]C[nogote [1k\]: no way
+]
+;W[oi]
+;B[rj]C[nogote [1k\]: wtf?
+nogote [1k\]: back
+])
+(;B[qg]C[nogote [1k\]: you just did O15
+]
+;W[pf]
+;B[rf]C[nogote [1k\]: r15
+]
+;W[qe]
+;B[qd]
+;W[re]
+;B[rd]
+;W[rg]C[nogote [1k\]: yeah now
+]
+;B[rh]C[nogote [1k\]: take
+]
+;W[sf]
+;B[sd]
+;W[se]
+;B[sh]
+;W[rj])
+(;B[oi]
+(;W[oj]C[nogote [1k\]: back
+]
+;B[nj]
+;W[qd]C[nogote [1k\]: no dude
+])
+(;W[nj]
+;B[oj]C[nogote [1k\]: dah
+nogote [1k\]: lets play again
+Bogoliubon [2k\]: ok
+]
+;W[mk]
+;B[mf]C[nogote [1k\]: no
+])))

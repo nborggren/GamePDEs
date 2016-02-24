@@ -1,0 +1,494 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[600]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[ragnar]WR[2k]BR[3k]DT[2007-06-20]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+27.50]
+;B[pd]BL[597.967]C[ragnar [3k\]: hi
+Bogoliubon [2k\]: hello
+]
+;W[po]WL[591.045]
+;B[dd]BL[596.063]
+;W[dp]WL[582.269]
+;B[jd]BL[591.688]
+;W[cf]WL[575.455]
+;B[ch]BL[589.249]
+;W[fd]WL[561.369]
+;B[dg]BL[579.703]
+;W[df]WL[541.629]
+;B[ef]BL[578.17]
+;W[ee]WL[540.003]
+;B[de]BL[576.541]
+;W[cc]WL[538.271]
+;B[ce]BL[569.056]
+;W[ff]WL[533.743]
+;B[eg]BL[566.844]
+;W[dc]WL[530.389]
+;B[ed]BL[564.883]
+;W[ec]WL[527.9]
+;B[fe]BL[563.082]
+;W[gd]WL[525.475]
+;B[ge]BL[561.101]
+;W[hd]WL[516.35]
+;B[qg]BL[555.481]
+;W[oq]WL[505.205]
+;B[iq]BL[541.661]
+;W[kq]WL[497.392]
+;B[fq]BL[540.022]
+;W[eq]WL[495.552]
+;B[fp]BL[535.399]
+;W[cn]WL[491.999]
+;B[in]BL[533.387]
+;W[he]WL[489.351]
+;B[gf]BL[528.336]
+;W[nc]WL[481.763]
+;B[md]BL[523.371]
+;W[nd]WL[470.36]
+;B[ne]BL[521.389]
+;W[oe]WL[468.543]
+;B[od]BL[519.461]
+;W[me]WL[467.022]
+;B[nf]BL[518.151]
+;W[ld]WL[465.617]
+;B[jf]BL[511.064]
+;W[of]WL[460.958]
+;B[ng]BL[508.754]
+;W[ph]WL[427.325]
+;B[pg]BL[504.764]
+;W[og]WL[424.82]
+;B[nh]BL[501.491]
+;W[oh]WL[422.16]
+;B[oc]BL[499.09]
+;W[mc]WL[410.521]
+;B[oj]BL[491.636]
+;W[ni]WL[358.174]
+;B[oi]BL[488.458]
+;W[mi]WL[355.238]
+;B[qh]BL[474.225]
+;W[pi]WL[349.628]
+;B[nj]BL[466.276]
+;W[mj]WL[330.843]
+;B[pj]BL[461.935]
+;W[qi]WL[321.512]
+;B[qj]BL[459.528]
+;W[ri]WL[318.605]
+;B[mk]BL[453.671]
+;W[kj]WL[306.019]
+;B[nl]BL[448.073]
+;W[hf]WL[301.083]
+;B[kg]BL[428.696]
+;W[mh]WL[274.268]
+;B[ih]BL[425.32]
+;W[gg]WL[265.101]
+;B[fg]BL[422.41]
+;W[hh]WL[259.986]
+;B[ig]BL[417.341]
+;W[qc]WL[255.278]
+;B[qd]BL[414.952]
+;W[rc]WL[248.263]
+;B[rd]BL[412.086]
+;W[ii]WL[227.848]
+;B[ji]BL[406.918]
+;W[ij]WL[222.553]
+;B[jj]BL[404.394]
+;W[jk]WL[220.767]
+;B[ik]BL[391.85]
+;W[jh]WL[206.93]
+;B[hg]BL[377.133]
+;W[hi]WL[174.305]
+;B[gh]BL[374.885]
+;W[qf]WL[134.597]
+;B[mg]BL[339.418]
+;W[lg]WL[129.143]
+;B[lh]BL[337.845]
+(;W[mf]WL[119.028]
+;B[ki]BL[336.254]C[slapidus [-\]: wierd trade
+Bogoliubon [2k\]: it's pretty big
+slapidus [-\]: yeah but its good for you..
+Bogoliubon [2k\]: I thought I could kill
+Bogoliubon [2k\]: to get seki you mean?
+slapidus [-\]: control for a second..
+]
+(;W[hk]WL[69.322]
+;B[il]BL[333.136]
+;W[ob]WL[66.797]
+;B[pb]BL[330.533]
+;W[nb]WL[64.664]
+;B[pc]BL[328.057]
+;W[re]WL[17.706]
+;B[sd]BL[318.494]
+;W[qb]WL[30]OW[5]
+;B[pa]BL[303.141]
+(;W[rb]WL[30]OW[5]
+;B[pf]BL[293.297]
+;W[pe]WL[30]OW[5]
+;B[rg]BL[277.292]
+(;W[qe]WL[30]OW[5]C[Bogoliubon [2k\]: w can s19 rather then s18 to kill
+]
+;B[se]BL[275.731]
+(;W[rf]WL[30]OW[5]
+;B[sf]BL[269.829]
+;W[oa]WL[30]OW[5]
+;B[sb]BL[263.241]C[Bogoliubon [2k\]: r15 is mistake
+]
+;W[ra]WL[30]OW[5]C[Bogoliubon [2k\]: do you want to save carrie a trip and I'll scoop you?
+slapidus [-\]: I think she's nearby
+slapidus [-\]: Ill call her
+]
+;B[sc]BL[208.256]
+(;W[ck]WL[30]OW[5]
+;B[ek]BL[202.266]C[slapidus [-\]: oh wow you got B9
+slapidus [-\]: the game is over
+]
+;W[jc]WL[30]OW[5]
+;B[kc]BL[195.79]C[Bogoliubon [2k\]: your way captures then
+]
+;W[kd]WL[30]OW[5]
+;B[ic]BL[194.396]C[slapidus [-\]: yeah but you lose the seki
+]
+;W[je]WL[30]OW[5]
+;B[jb]BL[191.623]
+;W[id]WL[30]OW[5]
+;B[gb]BL[189.604]
+;W[fb]WL[30]OW[5]
+;B[hc]BL[182.793]
+;W[lb]WL[30]OW[5]
+;B[kb]BL[173.766]
+;W[kk]WL[30]OW[5]
+;B[dm]BL[163.698]
+;W[cm]WL[30]OW[5]
+;B[dl]BL[161.795]
+;W[bj]WL[30]OW[5]
+;B[cq]BL[153.89]C[Bogoliubon [2k\]: the top is dead right now
+Bogoliubon [2k\]: but I try killing this stone
+]
+;W[dq]WL[30]OW[5]
+;B[cp]BL[149.095]
+(;W[cr]WL[30]OW[5]
+;B[br]BL[142.23]
+;W[dr]WL[30]OW[5]
+;B[co]BL[140.841]
+;W[do]WL[30]OW[5]
+;B[bn]BL[139.242]
+;W[bs]WL[30]OW[5]
+;B[dn]BL[132.214]
+;W[bm]WL[30]OW[5]
+;B[bp]BL[124.002]
+(;W[an]WL[30]OW[5]C[slapidus [-\]: control for a second
+]
+;B[ao]BL[122.13]
+(;W[am]WL[30]OW[5]C[Bogoliubon [2k\]: b5 is at least better then this
+]
+;B[aq]BL[119.061]
+;W[bo]WL[30]OW[5]
+;B[ie]BL[116.697]
+;W[jc]WL[30]OW[5]
+;B[bn]BL[112.885]
+;W[li]WL[30]OW[5]
+;B[kh]BL[110.058]
+;W[bo]WL[30]OW[5]
+;B[jd]BL[107.985]
+;W[if]WL[30]OW[5]
+;B[bn]BL[104.438]
+;W[kf]WL[30]OW[5]
+;B[jg]BL[100.594]
+;W[bo]WL[30]OW[5]
+;B[ia]BL[94.615]
+;W[ap]WL[30]OW[5]
+;B[hb]BL[88.636]
+;W[hm]WL[30]OW[5]
+;B[im]BL[85.057]
+;W[fo]WL[30]OW[5]
+;B[hn]BL[78.923]
+;W[eo]WL[30]OW[5]
+;B[gn]BL[74.338]
+;W[hp]WL[30]OW[5]
+;B[hq]BL[70.957]
+;W[ip]WL[30]OW[5]
+;B[jp]BL[69.943]
+;W[jq]WL[30]OW[5]
+;B[gp]BL[55.809]
+;W[jo]WL[30]OW[5]
+;B[kp]BL[53.302]
+;W[ko]WL[30]OW[5]
+;B[lp]BL[51.592]
+;W[lo]WL[30]OW[5]
+;B[lq]BL[48.892]
+;W[lr]WL[30]OW[5]
+;B[mr]BL[43.526]
+;W[kr]WL[30]OW[5]
+;B[io]BL[37.127]
+;W[mq]WL[30]OW[5]
+;B[mp]BL[34.205]
+;W[nq]WL[30]OW[5]
+;B[mo]BL[31.026]
+;W[km]WL[30]OW[5]
+;B[mn]BL[27.042]
+;W[lm]WL[30]OW[5]
+;B[qn]BL[17.82]
+;W[qo]WL[30]OW[5]
+;B[pn]BL[14.926]
+;W[rn]WL[30]OW[5]
+;B[rm]BL[13.026]
+;W[ro]WL[30]OW[5]
+;B[mm]BL[8.536]
+;W[rl]WL[30]OW[5]
+;B[ql]BL[3.288]
+;W[sm]WL[30]OW[5]
+;B[qm]BL[2.137]
+;W[rk]WL[30]OW[5]
+;B[rj]BL[30]OB[5]
+;W[sj]WL[30]OW[5]
+;B[bd]BL[30]OB[5]
+;W[bc]WL[30]OW[5]
+;B[dj]BL[30]OB[5]
+;W[bf]WL[30]OW[5]
+;B[be]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[bi]BL[30]OB[5]
+;W[ci]WL[30]OW[5]
+;B[bg]BL[30]OB[5]
+;W[di]WL[30]OW[5]
+;B[ei]BL[30]OB[5]
+;W[ai]WL[30]OW[5]
+;B[af]BL[30]OB[5]
+;W[go]WL[30]OW[5]
+;B[ho]BL[30]OB[5]
+;W[on]WL[30]OW[5]
+;B[om]BL[30]OB[5]
+;W[no]WL[30]OW[5]
+;B[nn]BL[30]OB[5]
+;W[oo]WL[30]OW[5]
+;B[kl]BL[30]OB[5]
+;W[jl]WL[30]OW[5]
+;B[lk]BL[30]OB[5]
+;W[lj]WL[30]OW[5]
+;B[ll]BL[30]OB[5]
+;W[jm]WL[30]OW[5]
+;B[fn]BL[30]OB[5]
+;W[ir]WL[30]OW[5]
+;B[hr]BL[30]OB[5]
+;W[ga]WL[30]OW[5]
+;B[ka]BL[30]OB[5]
+;W[fr]WL[30]OW[5]
+;B[gr]BL[30]OB[5]
+;W[fs]WL[30]OW[5]
+;B[gs]BL[30]OB[5]
+;W[rh]WL[30]OW[5]
+;B[sg]BL[30]OB[5]
+;W[dh]WL[30]OW[5]
+;B[cg]BL[30]OB[5]
+;W[eh]WL[30]OW[5]
+;B[fh]BL[30]OB[5]
+;W[en]WL[30]OW[5]
+;B[em]BL[30]OB[5]
+;W[fi]WL[30]OW[5]
+;B[ej]BL[30]OB[5]
+;W[qk]WL[30]OW[5]
+;B[pk]BL[30]OB[5]
+;W[is]WL[30]OW[5]
+;B[ao]BL[30]OB[5]
+;W[bn]WL[30]OW[5]
+;B[ds]BL[30]OB[5]
+;W[cs]WL[30]OW[5]
+;B[es]BL[30]OB[5]
+;W[er]WL[30]OW[5]
+;B[ep]BL[30]OB[5]
+;W[ar]WL[30]OW[5]
+;B[as]BL[30]OB[5]
+;W[ap]WL[30]OW[5]
+;B[js]BL[30]OB[5]
+;W[ks]WL[30]OW[5]
+;B[ms]BL[30]OB[5]
+;W[nr]WL[30]OW[5]
+;B[hs]BL[30]OB[5]
+;W[jr]WL[30]OW[5]
+;B[ac]BL[30]OB[5]
+;W[ab]WL[30]OW[5]
+;B[ad]BL[30]OB[5]
+;W[bb]WL[30]OW[5]
+;B[cj]BL[30]OB[5]
+;W[bi]WL[30]OW[5]
+;B[bk]BL[30]OB[5]
+;W[ak]WL[30]OW[5]
+;B[cl]BL[30]OB[5]
+;W[bl]WL[30]OW[5]
+;B[dk]BL[30]OB[5]
+;W[bk]WL[30]OW[5]
+;B[ha]BL[30]OB[5]
+;W[fa]WL[30]OW[5]
+;B[gc]BL[30]OB[5]
+;W[fc]WL[30]OW[5]
+;B[sh]BL[30]OB[5]
+;W[si]WL[30]OW[5]
+;B[la]BL[30]OB[5]
+;W[ma]WL[30]OW[5]
+;B[lc]BL[30]OB[5]
+;W[mb]WL[30]OW[5]
+;B[ln]BL[30]OB[5]
+;W[np]WL[30]OW[5]
+;B[]BL[30]OB[5]
+;W[jc]WL[30]OW[5]
+;B[kn]BL[30]OB[5]
+;W[jn]WL[30]OW[5]
+;B[jd]BL[30]OB[5]
+;W[pl]WL[30]OW[5]
+;B[pm]BL[30]OB[5]
+;W[jc]WL[30]OW[5]
+;B[sk]BL[30]OB[5]
+;W[sl]WL[30]OW[5]
+;B[jd]BL[30]OB[5]
+;W[hp]WL[30]OW[5]
+;B[ip]BL[30]OB[5]
+;W[jc]WL[30]OW[5]
+;B[sn]BL[30]OB[5]
+;W[so]WL[30]OW[5]
+;B[jd]BL[30]OB[5]
+;W[ok]WL[30]OW[5]
+;B[ol]BL[30]OB[5]
+;W[jc]WL[30]OW[5]
+;B[ke]BL[30]OB[5]
+;W[le]WL[30]OW[5]
+;B[jd]BL[30]OB[5]
+;W[]WL[30]OW[5]
+;B[]BL[30]OB[5]TW[aa][ba][ca][da][ea][na][cb][db][eb][md][ie][ke][ne][lf][nf][mg][ng][nh][aj][sk][al][sn][ao][co][bp][cp][op][pp][qp][rp][sp][aq][bq][cq][pq][qq][rq][sq][ar][br][mr][or][pr][qr][rr][sr][as][ds][es][js][ls][ms][ns][os][ps][qs][rs][ss]TB[ja][ib][ae][ee][bf][cf][df][ff][gg][hh][jh][fi][gi][hi][ii][fj][gj][hj][ij][fk][gk][hk][nk][ok][el][fl][gl][hl][ml][pl][fm][gm][hm][nm][hp][gq]C[ragnar [3k\]: thanks
+ragnar [3k\]: cu
+Bogoliubon [2k\]: thanks
+Bogoliubon [2k\]: bye
+Bogoliubon [2k\]: what an absurd game
+slapidus [-\]: yeah
+Bogoliubon [2k\]: it's amazing how fast 10 minutes and 30 sec byo yomi felt
+Bogoliubon [2k\]: out of practice 
+])
+(;W[aq]
+(;B[am]
+;W[ar])
+(;B[ar]
+;W[am])))
+(;W[ao]
+;B[an]C[Bogoliubon [2k\]: or not 
+]
+(;W[aq]C[slapidus [-\]: I think this is better
+Bogoliubon [2k\]: just a7 there
+]
+;B[ar]
+;W[am]
+;B[bo]
+;W[ap]
+;B[bq]
+;W[ap]C[Bogoliubon [2k\]: sorry no need for a3
+])
+(;W[am]
+;B[bo]C[Bogoliubon [2k\]: I've got liberty issues though
+]
+;W[aq]C[Bogoliubon [2k\]: can I approach
+]
+;B[ar]
+;W[ap]
+;B[bq]
+;W[ap]
+(;B[eo]
+(;W[cs]
+;B[ep])
+(;W[fr]
+;B[gr]
+(;W[es])
+(;W[fs])
+(;W[cs]
+;B[fs]C[slapidus [-\]: I dont see how you dont win this
+Bogoliubon [2k\]: ok.  well I'll pick you up in the lot right next to chemistry.
+slapidus [-\]: ok sounds good
+])))
+(;B[fr]C[slapidus [-\]: I think so because he needs to spend this move
+]
+;W[ao]
+;B[eo]
+;W[cs]
+;B[ep]
+;W[as])
+(;B[es]))))
+(;W[br]
+;B[cr]
+;W[dr]
+;B[bs]
+;W[ar]
+;B[co]))
+(;W[ql]C[slapidus [-\]: ok millions of traffic on 347
+slapidus [-\]: so Ill use for a ride
+Bogoliubon [2k\]: we can leave whenever.  I stopped working at like 2:30 today
+]
+;B[ck]
+(;W[kk])
+(;W[li]
+;B[kh]
+;W[kf]
+;B[jg]C[Bogoliubon [2k\]: I'll get you
+]
+(;W[lk])
+(;W[kk]C[slapidus [-\]: you in your office?
+Bogoliubon [2k\]: no I'm at home
+Bogoliubon [2k\]: one more thing I want to look at here...
+slapidus [-\]: come get me or shall I walk to you
+]))))
+(;W[sf]C[Bogoliubon [2k\]: just s14 instead of r15
+Bogoliubon [2k\]: for white
+Bogoliubon [2k\]: there r15 useless
+slapidus [-\]: still works since he has to give up the stones
+]
+;B[rf]
+;W[rh]
+;B[sg]
+;W[sh]
+(;B[sf]
+;W[oa]C[slapidus [-\]: and he dies
+])
+(;B[sb]
+(;W[sf]C[slapidus [-\]: I think its better by a few points though
+slapidus [-\]: because its sente and 14 points in the capture compared to black making 11 points in the corner
+Bogoliubon [2k\]: are you chilling at your house or are you still at school?
+slapidus [-\]: in my office
+])
+(;W[ra]C[slapidus [-\]: though you're probably right
+]))))
+(;W[rf]
+;B[sf]C[slapidus [-\]: no same thing almost..
+]
+;W[qe]
+;B[se]C[slapidus [-\]: same as game right
+Bogoliubon [2k\]: funny thiyeah
+]))
+(;W[sb]C[slapidus [-\]: this kills I think..
+Bogoliubon [2k\]: s19 will be seki. same shape rotated
+slapidus [-\]: god my brain is gone
+]
+(;B[qa]
+(;W[rb]C[slapidus [-\]: you're right misread on my part
+]
+;B[ra]C[Bogoliubon [2k\]: though, saul, r19 is wrong
+])
+(;W[ra]
+;B[sc]))
+(;B[ra]C[slapidus [-\]: oh?
+]
+(;W[qa])
+(;W[rb])))
+(;W[ra]
+;B[sc]
+(;W[sb])
+(;W[rb]
+;B[sb])))
+(;W[li]
+;B[kh]
+;W[kf]
+;B[jg]
+;W[il]
+;B[hk]
+(;W[kk]
+;B[jl])
+(;W[ql]C[slapidus [-\]: this move for attacking seems soooo big
+slapidus [-\]: forcing him to play 
+]
+;B[kk]C[slapidus [-\]: just drool
+])))
+(;W[ki]
+;B[lf]
+;W[jc]C[slapidus [-\]: Id be a little scared here
+slapidus [-\]: I think you made the right choice
+]))

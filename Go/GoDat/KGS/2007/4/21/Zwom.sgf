@@ -1,0 +1,846 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[4]KM[0.50]TM[1200]OT[5x30 byo-yomi]
+PW[Zwom]PB[twattsir]WR[2k]BR[6k]DT[2007-04-21]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][pd][dp][pp]C[twattsir [6k\]: hello
+Zwom [2k\]: hello
+]RE[B+1.50]
+;W[nq]WL[1184.458]C[twattsir [6k\]: thank you
+]
+;B[jp]BL[1194.833]C[Zwom [2k\]: my pleasure
+]
+;W[pn]WL[1167.524]
+;B[oq]BL[1192.02]
+;W[np]WL[1165.483]
+;B[oo]BL[1190.699]
+;W[op]WL[1154.868]
+;B[po]BL[1176.376]
+;W[pq]WL[1145.661]
+;B[qq]BL[1175.135]
+;W[or]WL[1140.007]
+;B[pr]BL[1155.201]
+;W[qr]WL[1122.545]
+;B[oq]BL[1151.738]
+;W[dq]WL[1109.916]
+;B[pq]BL[1150.154]
+;W[cp]WL[1108.109]C[Zwom [2k\]: So far this is all good for you.
+]
+;B[do]BL[1146.311]
+;W[eq]WL[1106.122]
+;B[co]BL[1145.141]
+;W[bp]WL[1104.069]
+;B[bo]BL[1143.002]
+;W[jq]WL[1100.576]
+;B[iq]BL[1141.258]C[twattsir [6k\]: yes you broke away from joseki
+]
+;W[ip]WL[1078.764]LB[jp:B][iq:A]C[Zwom [2k\]: there's a prover that says "extend from the cross cut"
+twattsir [6k\]: what does that mean again here
+Zwom [2k\]: this is probably a good example
+twattsir [6k\]: right
+Zwom [2k\]: A is weaker here
+twattsir [6k\]: you have shown me the correct response
+twattsir [6k\]: and I thank you
+Zwom [2k\]: but in terms of direction too
+]
+(;B[kq]BL[1126.484]C[twattsir [6k\]: i don't understand these types of fights
+Zwom [2k\]: sometimes it's necessary in handicap, typically even
+Zwom [2k\]: so this gives white lots of options
+Zwom [2k\]: this is where I think there is a directional mistake.
+]
+;W[jr]WL[1076.453]LB[iq:A]C[twattsir [6k\]: it was the original sideways move
+Zwom [2k\]: you just made your own stown weaker
+Zwom [2k\]: you may want to do this still, a sacrifice say, but at least notice it
+twattsir [6k\]: I was hoping for the white target on the right
+]
+;B[jo]BL[1119.845]C[twattsir [6k\]: thanks
+Zwom [2k\]: sure
+]
+(;W[kr]WL[1057.856]C[Zwom [2k\]: So I did this
+]
+;B[hp]BL[1117.98]
+;W[fo]WL[1049.667]C[Zwom [2k\]: but you did fine anyways
+Zwom [2k\]: the important thing is you keep whites two sides seperated
+Zwom [2k\]: here your choice worked out fine because o3 stones are heavy and weak
+]
+;B[io]BL[1116.83]C[twattsir [6k\]: mother nature
+Zwom [2k\]: sure
+twattsir [6k\]: i'll be right back
+]
+;W[fm]WL[1048.249]C[twattsir [6k\]: would you be so kind as to wait a second
+Zwom [2k\]: but my ladder breaker works ok for me
+Zwom [2k\]: I get two moves into the center
+twattsir [6k\]: no do I make directional mistakes
+twattsir [6k\]: now is there a directional mistake
+Zwom [2k\]: here I don't think you had much choice in the matter
+twattsir [6k\]: but this changed things
+Zwom [2k\]: but this is the result
+twattsir [6k\]: yes
+Zwom [2k\]: I have weak stones so I take a loss
+Zwom [2k\]: on the side
+Zwom [2k\]: that is
+twattsir [6k\]: i thought you could capture the black stone at your leisure
+Zwom [2k\]: and you get ponnuki
+Zwom [2k\]: but I get two moves to reduce the influence and leave you running on the side
+twattsir [6k\]: right
+]
+;B[dl]BL[1116.137]
+;W[cj]WL[1041.456]C[twattsir [6k\]: no
+]
+(;B[ap]BL[1115.056]C[twattsir [6k\]: instead\\
+Zwom [2k\]: this is small
+twattsir [6k\]: yes
+Zwom [2k\]: I didn't care remember
+Zwom [2k\]: big difference
+twattsir [6k\]: yes
+Zwom [2k\]: that's why this is a pretty big mistake
+]
+;W[cl]WL[1031.354]
+;B[dm]BL[1107.781]C[twattsir [6k\]: should I have actually come out
+]
+;W[dk]WL[1029.247]
+;B[el]BL[1099.288]
+;W[fj]WL[1008.647]
+;B[fl]BL[1093.576]
+;W[cf]WL[1001.689]LB[cf:B][cl:A]C[twattsir [6k\]: what do the letters mean?
+Zwom [2k\]: I get moves a through B, my entire left side position
+Zwom [2k\]: because you took gote with a4
+twattsir [6k\]: right
+Zwom [2k\]: now it's the inverse.
+]
+;B[df]BL[1087.246]
+;W[ce]WL[997.933]
+;B[de]BL[1084.515]
+;W[cd]WL[995.48]
+;B[cc]BL[1083.305]C[twattsir [6k\]: directional mistake again
+]
+(;W[dg]WL[989.97]C[twattsir [6k\]: i think of defense instead of attack
+]
+;B[bc]BL[1081.49]
+;W[dc]WL[984.434]
+;B[ec]BL[1079.676]
+;W[db]WL[982.73]
+;B[eb]BL[1075.792]
+;W[bd]WL[978.679]
+;B[cb]BL[1074.069]
+;W[eg]WL[974.906]C[twattsir [6k\]: is that good?
+]
+(;B[qn]BL[1069.542]LB[fj:A][jo:B]C[Zwom [2k\]: this is small too
+twattsir [6k\]: yes
+Zwom [2k\]: I was in no hurry to do anything with that stone
+Zwom [2k\]: I had completely forgotten about it til you played this stone.
+twattsir [6k\]: i guess i was thinking that
+twattsir [6k\]: you were ahead in territory and I better get some
+Zwom [2k\]: but think more dramatically then this
+Zwom [2k\]: the directional mistake here is mine I think
+Zwom [2k\]: the question right now is what is bigger the top or the rightside
+twattsir [6k\]: how do you determine
+Zwom [2k\]: I choose the top but it's probably the right side
+twattsir [6k\]: black does have the bad aji on the top
+twattsir [6k\]: not life and death
+twattsir [6k\]: but still not great shape
+Zwom [2k\]: well there's the literal sense: there are 9 spaces on the right and 10 on the top
+Zwom [2k\]: so the top is bigger in that sense
+twattsir [6k\]: ok
+twattsir [6k\]: is that a rule of thumb
+Zwom [2k\]: however white has A and Black has B
+Zwom [2k\]: typically straight counting is not enough, there are other things to consider
+twattsir [6k\]: if black comes out at g8 can he possibly kill white corner
+Zwom [2k\]: correct is the top or the right
+]
+(;W[kc]WL[960.981]C[Zwom [2k\]: so I think that more then compensates for the one line difference between the top and the side
+Zwom [2k\]: That is a fuseki question despite how many stones are on the board
+]
+;B[bq]BL[1064.116]C[twattsir [6k\]: or is it style
+twattsir [6k\]: ok
+Zwom [2k\]: this is endgame
+]
+(;W[hn]WL[951.91]C[Zwom [2k\]: you are doing it as a forcing move so maybe it's ok
+twattsir [6k\]: which is why I thought the extension
+twattsir [6k\]: now does this begin to cause black any concerns
+Zwom [2k\]: white is a lot weaker then black so no.
+Zwom [2k\]: but you are trying to win on points
+]
+;B[cq]BL[1061.137]
+;W[gl]WL[949.116]
+;B[jm]BL[1058.732]
+;W[nc]WL[944.251]
+;B[kp]BL[1056.26]
+;W[lq]WL[931.494]
+(;B[qg]BL[1044.167]C[Zwom [2k\]: I was trying to reduce your enormous potential here
+twattsir [6k\]: ok
+]
+(;W[ni]WL[922.814]C[twattsir [6k\]: i was seeing this as becoming a huge white moyo
+Zwom [2k\]: I'm wait out in the center, because I have a lot of respect for shapes like yours on the bottom
+]
+;B[ep]BL[1039.934]
+;W[fp]WL[913.127]
+(;B[gq]BL[1038.521]C[Zwom [2k\]: don't peep at the cut
+]
+;W[fq]WL[911.061]LB[ge:A][nf:B][jj:C]C[Zwom [2k\]: I need three moves to close
+]
+(;B[md]BL[1031.912]
+;W[mc]WL[906.624]LB[oc:B][ld:A]
+;B[nd]BL[1030.574]LB[oc:B][ld:A]C[Zwom [2k\]: the reason I think that is here white can choose between A and B, both help white shape a lot
+]
+(;W[oc]WL[904.946]C[Zwom [2k\]: that's probably the better idea for white
+]
+;B[od]BL[1029.199]
+;W[qi]WL[892.38]
+;B[pc]BL[1027.405]
+;W[ql]WL[881.232]LB[pn:A]C[twattsir [6k\]: unjustifed fear of white
+Zwom [2k\]: so now I have a solid base, inside of a shape I was terrified of 
+Zwom [2k\]: and A which hasn't been useful all game now lets me get away with s6
+twattsir [6k\]: is not worth while here
+Zwom [2k\]: and a stone at m16
+]
+;B[ld]BL[1022.142]
+;W[jb]WL[875.423]LB[ni:1]C[Zwom [2k\]: back when I  played at one...
+]
+;B[lc]BL[1019.675]C[twattsir [6k\]: ending in gote
+]
+;W[lb]WL[873.38]
+;B[ob]BL[1018.782]C[Zwom [2k\]: this again is ignoring the bigger picture
+]
+;W[nb]WL[859.979]
+;B[na]BL[1016.519]
+;W[mb]WL[858.763]
+;B[pb]BL[1015.935]C[twattsir [6k\]: yup
+Zwom [2k\]: you got an extra three points in the corner
+]
+;W[je]WL[853.484]C[twattsir [6k\]: the ponuki is only one eye
+]
+;B[og]BL[1014.059]LB[je:B][eg:A][ni:C][fj:D]C[Zwom [2k\]: and now I am starting to make nice shapes
+]
+(;W[nr]WL[844.034]
+;B[jk]BL[1009.652]
+;W[ji]WL[841.667]C[Zwom [2k\]: it's hard to think of what is best
+]
+(;B[ge]BL[1006.345]
+;W[hf]WL[836.569]C[Zwom [2k\]: this seems easy on white
+twattsir [6k\]: I had no idea what to do
+Zwom [2k\]: you are still open at g17 so this is slow 
+]
+;B[gf]BL[1004.317]
+;W[gg]WL[835.267]
+;B[ii]BL[1002.195]
+;W[ij]WL[829.838]LB[hf:2][gg:1]C[Zwom [2k\]: and you eventually try to jump in
+Zwom [2k\]: but you made white stronger first
+Zwom [2k\]: by forcing him to back up his stones
+]
+;B[jj]BL[1001.149]
+;W[hj]WL[827.791]
+;B[ki]BL[999.359]
+;W[jh]WL[825.707]
+;B[lj]BL[997.904]
+;W[rn]WL[820.443]
+;B[ro]BL[994.406]C[twattsir [6k\]: I shall have to study your sequence again
+Zwom [2k\]: At this point I'm hoping to just milk the endgame with the remainder of the points I need to win
+]
+;W[rm]WL[818.198]C[twattsir [6k\]: ok
+]
+(;B[ok]BL[988.152]
+;W[pj]WL[814.598]C[Zwom [2k\]: this exchange is good for me
+Zwom [2k\]: it lets me get rid of the annoying peeps
+]
+;B[oj]BL[983.236]
+;W[oi]WL[812.193]C[twattsir [6k\]: This is very useful
+]
+(;B[om]BL[977.018]LB[mk:B][mn:A]C[Zwom [2k\]: and you are still open
+twattsir [6k\]: ok
+]
+;W[il]WL[785.545]
+;B[jl]BL[970.042]
+;W[rh]WL[763.462]
+;B[rg]BL[967.662]
+;W[sg]WL[761.866]
+;B[sf]BL[965.646]
+;W[sh]WL[760.68]
+;B[re]BL[964.718]
+;W[mn]WL[695.879]
+;B[kh]BL[956.72]
+;W[jg]WL[693.42]
+;B[no]BL[952.867]
+;W[mo]WL[691.106]
+;B[lp]BL[950.906]
+;W[mp]WL[687.819]
+;B[ir]BL[949.918]
+;W[ls]WL[666.403]
+;B[qh]BL[945.658]
+;W[rj]WL[660.648]
+;B[he]BL[940.514]
+;W[if]WL[655.177]
+;B[hc]BL[937.896]C[twattsir [6k\]: should I go back and study tesuji
+Zwom [2k\]: always
+Zwom [2k\]: tesuji are enormously fun to find
+Zwom [2k\]: that's half of why I play go
+]
+;W[hb]WL[650.005]
+;B[gb]BL[934.901]
+;W[ic]WL[647.92]
+;B[ha]BL[927.316]
+;W[fd]WL[585.539]
+;B[ed]BL[919.697]
+;W[hd]WL[581.832]
+;B[gc]BL[915.854]
+;W[gd]WL[577.26]
+;B[fe]BL[913.077]
+;W[ie]WL[569.934]
+;B[fc]BL[912.175]
+;W[id]WL[567.621]
+;B[ib]BL[911.341]
+(;W[bm]WL[538.084]
+;B[ph]BL[896.027]
+;W[pi]WL[532.457]
+;B[mg]BL[895.367]
+;W[lf]WL[529.589]
+;B[mf]BL[893.785]
+;W[lg]WL[525.276]
+;B[lh]BL[892.798]
+;W[ps]WL[506.826]
+;B[rr]BL[890.134]
+;W[qs]WL[505.091]
+;B[rs]BL[889.506]
+;W[os]WL[499.831]
+;B[pm]BL[888.281]
+;W[rp]WL[492.938]
+(;B[rq]BL[871.661]
+;W[so]WL[490.088]
+;B[qo]BL[869.998]
+;W[sp]WL[487.656]C[Zwom [2k\]: I got away with this
+twattsir [6k\]: yuk
+twattsir [6k\]: making a move out of fear instead of thinking
+Zwom [2k\]: six point difference
+twattsir [6k\]: yes
+]
+;B[sn]BL[862.941]
+;W[sm]WL[485.107]
+;B[sq]BL[861.754]
+;W[ff]WL[463.961]
+;B[ee]BL[857.937]
+;W[gr]WL[445.557]
+;B[hr]BL[855.279]
+;W[fr]WL[441.597]
+;B[dr]BL[854.026]
+;W[er]WL[436.966]
+;B[cr]BL[851.807]
+;W[in]WL[431.266]
+;B[jn]BL[849.981]
+;W[en]WL[422.422]
+;B[dn]BL[843.039]
+;W[ml]WL[325.195]C[Zwom [2k\]: and feel free to take sente at any point
+twattsir [6k\]: i was still concerned about the centre group and a cut
+]
+(;B[lk]BL[834.378]C[twattsir [6k\]: wasted move again
+Zwom [2k\]: if you are afraid of a cut, just read it and see if it's a necessary worry
+Zwom [2k\]: sometimes it's justified 
+Zwom [2k\]: but not here
+]
+;W[le]WL[291.534]
+(;B[me]BL[822.601]C[Zwom [2k\]: a bit more interesting then this move no?
+]
+;W[ac]WL[276.459]
+;B[ab]BL[819.94]
+;W[ad]WL[274.673]
+;B[ik]BL[813.476]
+;W[hk]WL[270.363]C[twattsir [6k\]: yes
+Zwom [2k\]: this let's me fix my weakness
+]
+(;B[im]BL[812.548]
+;W[hm]WL[249.894]
+;B[kg]BL[806.881]
+;W[kf]WL[245.802]
+;B[kd]BL[802.534]
+;W[ja]WL[215.738]
+;B[ke]BL[796.648]
+;W[jf]WL[213.665]
+;B[jd]BL[795.934]
+;W[jc]WL[212.004]
+(;B[da]BL[794.332]C[Zwom [2k\]: here too
+twattsir [6k\]: fear
+twattsir [6k\]: not needed
+Zwom [2k\]: it might be useful to play a few games and make the first move you consider your opponents move
+Zwom [2k\]: try imagining the worst case scenario
+Zwom [2k\]: if your opponent plays two moves
+twattsir [6k\]: so instead would o7 be ok
+Zwom [2k\]: so always consider tenuki 
+Zwom [2k\]: endgame is hard I don't ever no the right answer
+]
+;W[nn]WL[179.827]
+;B[on]BL[791.547]
+;W[ll]WL[177.597]
+;B[kl]BL[788.391]
+;W[ma]WL[153.629]C[twattsir [6k\]: ok
+]
+;B[oa]BL[784.445]
+;W[ia]WL[151.528]
+;B[hb]BL[782.384]
+;W[ds]WL[140.151]
+;B[cs]BL[780.211]
+;W[es]WL[138.74]
+;B[gp]BL[779.673]
+(;W[go]WL[131.23]
+;B[mh]BL[775.295]
+;W[fk]WL[123.652]
+;B[ek]BL[773.285]
+;W[ej]WL[121.886]
+;B[bn]BL[772.714]
+;W[an]WL[107.851]
+;B[cm]BL[770.574]
+;W[bl]WL[104.832]
+;B[ao]BL[769.755]
+;W[am]WL[103.339]
+;B[js]BL[764.111]
+;W[pl]WL[50.064]C[Zwom [2k\]: pretty much everything is a one point move
+]
+;B[ol]BL[759.773]
+;W[mi]WL[19.511]
+;B[mk]BL[756.101]
+;W[nh]WL[9.377]
+;B[ng]BL[754.047]
+(;W[ef]WL[30]OW[5]C[Zwom [2k\]: here is another move that cost me a point
+Zwom [2k\]: so those three moves are what lost me the game.
+Zwom [2k\]: that would have been enough to win by one
+twattsir [6k\]: I got lucky
+Zwom [2k\]: when you give handicap stones to somebody next time
+Zwom [2k\]: notice that you can make up a lot of points in the endgame
+twattsir [6k\]: i teach kids and give them 17 stones
+Zwom [2k\]: that's a lot of stones, though soon enough they'll be giving you 17
+Zwom [2k\]: kids are amazing like that
+twattsir [6k\]: yes wouldn't that be awesome
+]
+;B[nl]BL[750.749]
+;W[nj]WL[30]OW[5]
+;B[lm]BL[748.75]
+;W[mm]WL[30]OW[5]
+;B[ln]BL[748.033]
+;W[lo]WL[30]OW[5]
+;B[ko]BL[747.115]
+(;W[lr]WL[30]OW[5]
+;B[gs]BL[744.566]
+;W[ks]WL[30]OW[5]
+;B[is]BL[742.457]
+;W[hl]WL[30]OW[5]
+;B[nk]BL[735.052]C[Zwom [2k\]: well I think we've milked enough knowledge out of this game.  Hope you had fun
+twattsir [6k\]: I have been away from go for 10 years
+twattsir [6k\]: and returning
+twattsir [6k\]: which is why I think playing these handicap games are very helpful to me
+twattsir [6k\]: thank you teacher
+Zwom [2k\]: my pleasure.
+Zwom [2k\]: take care
+twattsir [6k\]: may I put you
+twattsir [6k\]: into the buddies list for future contact
+Zwom [2k\]: sure
+twattsir [6k\]: thanks
+Zwom [2k\]: well good luck do some tesuji problems and the rust from 10 years will dissipate
+Zwom [2k\]: bye
+twattsir [6k\]: thank you
+]
+;W[em]WL[30]OW[5]
+;B[pk]BL[731.404]
+;W[qk]WL[30]OW[5]
+;B[qp]BL[729.685]
+;W[sn]WL[30]OW[5]
+;B[qm]BL[729.099]
+;W[sk]WL[30]OW[5]
+;B[li]BL[708.597]
+;W[fs]WL[30]OW[5]
+;B[hs]BL[705.672]
+;W[]WL[30]OW[5]
+;B[]BL[705.672]TW[ka][la][kb][ae][be][af][bf][ag][bg][cg][fg][hg][ig][ah][bh][ch][dh][eh][fh][gh][hh][ih][ai][bi][ci][di][ei][fi][gi][hi][ii][ri][si][aj][bj][dj][gj][qj][sj][ak][bk][ck][gk][rk][al][rl][sl][gm][fn][gn][mq][mr][ms][ns]TB[aa][ba][ca][ea][fa][ga][pa][qa][ra][sa][bb][db][fb][qb][rb][sb][dc][qc][rc][sc][qd][rd][sd][ne][oe][pe][qe][se][nf][of][pf][qf][rf][pg][kj][kk][km][cn][kn][pn][bp][cp][ip][aq][hq][ar][br][sr][as][bs][ss]C[Zwom [2k\]: I thought I had enough.  Good game thanks
+twattsir [6k\]: thanks
+twattsir [6k\]: so did I
+Zwom [2k\]: care to review?
+twattsir [6k\]: could you analyze this for me
+twattsir [6k\]: thanks
+])
+(;W[gs]C[Zwom [2k\]: and another
+]))
+(;W[ln]))
+(;W[is]
+;B[hs]
+;W[js]C[Zwom [2k\]: this is two points, since it prevents me from having to play at n2
+]))
+(;B[sa]
+;W[da]
+;B[ca]C[twattsir [6k\]: b 19
+Zwom [2k\]: white isn't going to find anymore liberties
+]
+;W[ba]
+;B[ea]
+(;W[bb]C[twattsir [6k\]: snap back
+]
+;B[aa]
+;W[bb]
+;B[ba]C[Zwom [2k\]: not quite
+])
+(;AE[ca]
+;W[bb]
+;B[ca]
+;W[aa]
+;B[ab]C[Zwom [2k\]: that's the only nearby snapback I see
+]))
+(;B[lm]C[Zwom [2k\]: probably more points on this side.
+Zwom [2k\]: it's kind of scraps left on the board
+])
+(;B[pk]
+;W[qk]))
+(;B[gk]
+;W[gm]
+;B[fk]
+;W[gj]C[Zwom [2k\]: you break in less
+]))
+(;B[gk]C[Zwom [2k\]: I was worried about this move for a long time
+]
+(;W[fk]
+;B[hl]
+;W[gm]
+;B[im]
+;W[ik]
+;B[hm]
+;W[hk]
+;B[gn]C[Zwom [2k\]: something like this might be better
+Zwom [2k\]: this is what you get for threatening this variation
+])
+(;W[hk]
+;B[fk]
+;W[gn]
+;B[gj]
+;W[gi]
+;B[ej]
+;W[fi]
+;B[dj]C[Zwom [2k\]: and you can break in a bit
+])))
+(;B[sa]
+;W[mh]
+;B[mi]
+;W[nh]
+;B[nj]C[Zwom [2k\]: no cut
+twattsir [6k\]: ok
+]))
+(;B[sp]C[Zwom [2k\]: what about this?
+twattsir [6k\]: what did I do
+Zwom [2k\]: can white counter?
+Zwom [2k\]: I need more points then are on the board right now
+Zwom [2k\]: so I need mistakes
+]))
+(;W[ff]
+;B[ee]))
+(;B[hc]C[twattsir [6k\]: my style must change with this too.
+twattsir [6k\]: i can't get away with moves like that
+twattsir [6k\]: i was hoping for territory but you got me
+twattsir [6k\]: weaker players probably would not catch it
+Zwom [2k\]: James Kerwin likes to say, "if a move isn't necessary it's a mistake
+twattsir [6k\]: so I need to play differently
+twattsir [6k\]: yes
+Zwom [2k\]: we all do, it's go, there is always something to learn
+]))
+(;B[rj]
+;W[ri]
+(;B[pj]
+;W[qj]
+;B[pi]
+;W[pk]
+;B[ok]
+;W[ph]
+;B[oh])
+(;B[pk]
+;W[qj]))
+(;B[pj]))
+(;B[hf]LB[hd:3][jg:1][hj:2]C[Zwom [2k\]: but even things like this might be possible
+Zwom [2k\]: cho chikun has a saying,
+twattsir [6k\]: please share
+Zwom [2k\]: "a rabbit always has three escape routes out of his hole"
+twattsir [6k\]: ???
+Zwom [2k\]: you have strong groups all around
+Zwom [2k\]: you can retreat in all these directions
+twattsir [6k\]: I was thinking what if white played g15
+twattsir [6k\]: or f15
+Zwom [2k\]: your stones in the corner are 100% alive
+twattsir [6k\]: yes to trap the black stone
+twattsir [6k\]: here
+Zwom [2k\]: here?
+twattsir [6k\]: yes
+]
+;W[ge]C[twattsir [6k\]: that looks scary
+]
+(;B[jf]
+;W[kf]
+;B[ke]C[Zwom [2k\]: more for white
+]
+;W[if]
+;B[jg]
+;W[ig]
+;B[jd]
+;W[ie]
+;B[id])
+(;B[he]
+;W[hd]
+;B[jf]
+;W[kf]
+;B[jg]
+;W[kg]
+;B[jh]
+;W[kh]
+;B[ii]
+;W[ij]
+;B[jj]
+(;W[hj])
+(;W[ki]
+;B[gd]C[Zwom [2k\]: I think you are fine
+Zwom [2k\]: here you mean?
+twattsir [6k\]: before that
+]))
+(;B[jg]C[Zwom [2k\]: white is just so open I can't see how it could go wrong
+]
+;W[if]
+;B[ig]
+;W[hg]
+;B[hh]
+;W[gg]
+;B[ii]C[Zwom [2k\]: dump it off for this for example
+Zwom [2k\]: white made about 7 points
+]
+;W[gc]
+(;B[pi]
+;W[pj]
+;B[oj]C[Zwom [2k\]: and has things like this to worry about
+])
+(;B[pj]
+;W[qj]
+;B[pi]
+;W[ph]
+;B[oh]))))
+(;W[gc]C[twattsir [6k\]: why would black do that cut
+]
+;B[mr]C[twattsir [6k\]: i am just trying to reduce
+Zwom [2k\]: here?
+twattsir [6k\]: oh
+twattsir [6k\]: totally missed it
+twattsir [6k\]: I just am not aggressive enough
+]
+;W[nr]
+;B[lr]C[twattsir [6k\]: getting no points but eliminating some
+twattsir [6k\]: i tend to do that a lot
+twattsir [6k\]: bad thinking?
+Zwom [2k\]: you should always be reluctant to play on domi points.
+Zwom [2k\]: neutral points
+twattsir [6k\]: right
+Zwom [2k\]: they are in some sense "half points"
+Zwom [2k\]: you want moves that are good for black and good for white
+twattsir [6k\]: I was concerned with living
+Zwom [2k\]: you can find another eye by swallowing me whole
+]
+(;W[mq]
+;B[ir]
+;W[ls]
+;B[js]
+;W[ms]
+;B[os]C[Zwom [2k\]: white needs one more eye
+twattsir [6k\]: life and death!
+])
+(;W[ir]C[Zwom [2k\]: do you practice life and death problems?
+twattsir [6k\]: have not for a while
+twattsir [6k\]: should I go back to Mieda problems
+Zwom [2k\]: there are a lot of problems that occur in games that you are probably one dan if you even notice there is a problem to be solved.
+twattsir [6k\]: ok
+Zwom [2k\]: "reading is the muscle of go"
+twattsir [6k\]: I have been concentrating on reviewing my openings
+twattsir [6k\]: Chinese fuseki low
+twattsir [6k\]: and then now on practising 4 stone games with the pincher
+twattsir [6k\]: and hoping for the double attack on the corner by white so I can take the 5-5 point and get influence
+twattsir [6k\]: not that I know what to do with it
+twattsir [6k\]: but  I think it is these stupid small gote plays I make that are deadly to my game
+Zwom [2k\]: I think so too, the utility of studying fuseki and studying openings
+Zwom [2k\]: is to understand how the whole board works as a unit
+Zwom [2k\]: so this is what your studying of low chinese should bring out.
+twattsir [6k\]: that I am still not clear with but I am beginning to see
+]
+;B[mq]
+;W[mp])))
+(;W[ld]
+;B[le]
+;W[ke]
+;B[lf]
+;W[oc]C[Zwom [2k\]: white's shape is perfect
+]
+;B[od]
+;W[qi]))
+(;B[ld]C[Zwom [2k\]: it may seem strange but I think this is the better way to reduce
+Zwom [2k\]: it's amazing how much a little difference can make
+]
+;W[lc]
+;B[nd]
+;W[md]
+;B[me]
+;W[mc]
+;B[ne]LB[oc:1][pi:2]C[Zwom [2k\]: but here white wants two moves
+twattsir [6k\]: isoh
+Zwom [2k\]: or something else on the right side
+twattsir [6k\]: oh
+twattsir [6k\]: I did not see this miai
+]
+(;W[qi]
+;B[oc]C[Zwom [2k\]: Your corner is beautiful
+twattsir [6k\]: and probably will take a while before this becomes second nature
+])
+(;W[oc]
+;B[pj]
+;W[pc]
+;B[qd]C[Zwom [2k\]: or your side is beautiful
+])))
+(;B[fq]C[Zwom [2k\]: cut
+]
+;W[gq]
+;B[fr]
+;W[gr]
+;B[er])
+(;B[oc]
+;W[nd]
+;B[ng]TR[ni]C[Zwom [2k\]: or deal with my reduction
+twattsir [6k\]: your move
+]))
+(;W[hc]
+;B[lh]C[twattsir [6k\]: i guess it is panic
+Zwom [2k\]: you need one
+]))
+(;B[oc]
+;W[nd]
+;B[pf]C[Zwom [2k\]: you can kick and make heavy here
+]))
+(;W[cq]C[Zwom [2k\]: I should probably do this
+twattsir [6k\]: should black extend at g8
+Zwom [2k\]: or jump
+twattsir [6k\]: yes
+twattsir [6k\]: but which is correct
+]
+;B[gm]C[Zwom [2k\]: or hane
+twattsir [6k\]: ortake a star
+twattsir [6k\]: of your cut
+]
+(;W[hr]C[twattsir [6k\]: i would be worried
+])
+(;W[br]
+;B[aq]C[Zwom [2k\]: there is no cut right now
+Zwom [2k\]: you have miai
+twattsir [6k\]: right 
+]
+(;W[ar])
+(;W[gl]
+;B[fn]C[twattsir [6k\]: before this stuff
+])))
+(;W[qf]
+;B[cq]
+;W[nc]
+;B[fp]
+;W[qj]
+;B[ep]C[Zwom [2k\]: even if I let you have those stones, I probably got the better end of the deal
+]))
+(;W[gl]C[Zwom [2k\]: I guess that would be ok for me
+]
+;B[gm]C[Zwom [2k\]: still no cut
+]
+;W[gn]
+;B[gk]
+(;W[fk])
+(;W[hm]
+;B[fk])))
+(;B[kd])
+(;B[qj]TR[fm][fo][io][jp]C[Zwom [2k\]: It maybe ok to play on this side
+Zwom [2k\]: Probably is better in fact
+Zwom [2k\]: A black move on the right is nicely enhanced by your ponnuki from before
+Zwom [2k\]: and whites previous stones have already lost there meaning
+])
+(;B[qg]C[Zwom [2k\]: sometimes.
+Zwom [2k\]: it still has an open door
+twattsir [6k\]: can't you invade the corner with sente
+]
+;W[qc]
+;B[pc]
+;W[qd]
+;B[qe]
+;W[re]C[twattsir [6k\]: and then jump down the side
+]
+;B[rf]
+;W[pe]
+;B[qf]
+;W[pb]
+;B[ob]
+;W[rb]
+(;B[nc])
+(;B[pa]
+;W[qb]
+;B[nc]
+;W[rd]C[Zwom [2k\]: I don't see how to get sente
+twattsir [6k\]: net?
+]
+;B[jg]C[Zwom [2k\]: only if this is a net
+Zwom [2k\]: you should try thinking more globally
+Zwom [2k\]: it gets you into trouble not
+]))
+(;B[qi]
+;W[qn]
+;B[ql]C[twattsir [6k\]: the large knight?
+])
+(;B[jd]TR[eg][fj]C[Zwom [2k\]: back to the top/right question though
+twattsir [6k\]: or is this type of thinking stupidity
+twattsir [6k\]: yes
+twattsir [6k\]: go ahead
+Zwom [2k\]: when black plays on top
+Zwom [2k\]: whites stones are greatly limiting those stones influence
+Zwom [2k\]: white limits black I'm saying
+Zwom [2k\]: however,
+]))
+(;W[bc]
+;B[cg]
+;W[bg]
+;B[bh]
+(;W[ch]
+;B[dg]C[twattsir [6k\]: you would not have done that though
+]
+;W[bi]
+;B[bf]
+;W[ah]
+;B[bd])
+(;W[bf]
+;B[dh]C[Zwom [2k\]: but then this
+]
+;W[dc]
+;B[ec]
+;W[db]
+;B[eb]
+;W[cb]
+;B[kd]C[twattsir [6k\]: you probably would have done this
+])))
+(;B[ek])
+(;B[ch]C[twattsir [6k\]: i have a stupid tendency to do this
+Zwom [2k\]: I don't know if this is a good idea, but it is an idea
+twattsir [6k\]: yes
+])
+(;B[fl]
+;W[gl]
+;B[fk]
+;W[hm]
+;B[ch]C[Zwom [2k\]: lean on the side
+Zwom [2k\]: the board is still really open, you should be wanting to get control over the vast wastelands
+Zwom [2k\]: remember this was the suggestion
+]))
+(;W[hq]C[Zwom [2k\]: I want to do this but I can't.
+]
+;B[kr]
+;W[ir]
+;B[no]C[twattsir [6k\]: that was my plan
+]))
+(;B[hq]C[Zwom [2k\]: You just get more liberties
+Zwom [2k\]: now white should do the same
+twattsir [6k\]: gee why can't I see these things in games
+Zwom [2k\]: there always there, it's just a matter of looking. 
+]
+(;W[kq]
+;B[io]C[twattsir [6k\]: ladder
+Zwom [2k\]: and you capture
+Zwom [2k\]:  right
+twattsir [6k\]: yes
+])
+(;W[kp]
+;B[jo]LB[ho:A][kq:B]C[Zwom [2k\]: if white tries this
+twattsir [6k\]: yes I know
+Zwom [2k\]: white has two worrie
+])))

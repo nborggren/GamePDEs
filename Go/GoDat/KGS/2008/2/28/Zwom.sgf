@@ -1,0 +1,284 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[600]OT[5x30 byo-yomi]
+PW[logicg8]PB[Zwom]WR[8k]DT[2008-02-28]PC[The KGS Go Server at http://www.gokgs.com/]C[Zwom [-\]: this happened last time
+logicg8 [8k\]: 9 stones again?
+Zwom [-\]: I'll give you 70 points komi
+]RE[B+Resign]
+;B[qd]BL[563.571]C[logicg8 [8k\]: Okay
+]
+;W[cp]WL[593.431]
+;B[pp]BL[560.075]
+;W[dc]WL[589.732]
+;B[nc]BL[553.413]
+;W[qj]WL[579.276]
+;B[qi]BL[546.527]
+;W[pi]WL[572.824]
+;B[qh]BL[539.197]
+(;W[qn]WL[558.698]
+;B[qk]BL[530.595]C[Zwom [-\]: this just feels like too good a move
+]
+(;W[pk]WL[552.892]
+;B[rj]BL[527.776]
+;W[pj]WL[549.796]
+;B[ql]BL[526.247]
+;W[pl]WL[535.834]
+;B[qm]BL[522.246]
+;W[pm]WL[529.067]C[Zwom [-\]: you just don't get much of anything here
+]
+;B[pn]BL[519.32]C[Zwom [-\]: you have six liberties above, so they are safe
+Zwom [-\]: and even if they die, it may cost you less then giving up a 25 point corner
+]
+(;W[on]WL[484.321]TR[ri][rk]C[Zwom [-\]: the mistake was not protecting the cut right away, but it's hard to imagine this move being good anyways
+Zwom [-\]: black's weakness here and here are not small weaknesses
+Zwom [-\]: you need to exploit them somehow.
+Zwom [-\]: exploit there aji if not cut directly
+logicg8 [8k\]: Yeah
+Zwom [-\]: spend some time reading these shapes too.  you should be thinking here
+Zwom [-\]: that black is who is weak, not white
+]
+;B[po]BL[515.835]C[Zwom [-\]: kind of make sense?
+logicg8 [8k\]: Running out the group to gain enough liberties is what I missed
+]
+;W[eq]WL[475.003]
+;B[ce]BL[504.039]C[Zwom [-\]: this was a probe believe it or not too.
+Zwom [-\]: I wanted to make sure you pinced.
+Zwom [-\]: not to say I wanted to be pinced, I wanted to know if you knew
+logicg8 [8k\]: Pincing is the right thing to do, right?
+]
+(;W[ci]WL[468.353]
+;B[fd]BL[492.428]
+;W[de]WL[440.082]
+;B[dd]BL[490.051]
+;W[ed]WL[421.755]
+;B[cd]BL[487.263]
+;W[ec]WL[407.545]
+;B[ee]BL[485.282]
+(;W[cc]WL[399.141]
+;B[df]BL[477.675]
+;W[fc]WL[383.446]
+;B[gd]BL[472.156]
+(;W[dk]WL[378.311]C[Zwom [-\]: you feel the need to come back and protect your investment
+Zwom [-\]: anyways
+Zwom [-\]: and should just do it dynamically
+]
+;B[gc]BL[459.286]C[Zwom [-\]: this seems hard to stomach
+]
+;W[gb]WL[374.699]
+;B[hb]BL[457.103]
+;W[fa]WL[372.601]
+;B[ic]BL[449.162]
+;W[og]WL[360.6]C[Zwom [-\]: this was a pretty good move
+Zwom [-\]: and think twice about moves like
+]
+(;B[mo]BL[440.533]TR[pj]C[Zwom [-\]: which eliminates hopes for this wall
+]
+;W[kq]WL[336.151]
+;B[co]BL[428.414]
+;W[do]WL[316.748]
+;B[cn]BL[423.561]
+(;W[cl]WL[301.203]
+(;B[cq]BL[408.138]C[Zwom [-\]: your move isn't bad but it gives me lots of options
+]
+;W[bp]WL[294.826]
+;B[dp]BL[405.437]
+;W[dq]WL[282.396]
+;B[ep]BL[403.699]
+(;W[fp]WL[276.028]C[Zwom [-\]: you may not want to help me get stronger
+Zwom [-\]: you force me into perfect shape
+]
+;B[eo]BL[401.243]
+;W[fo]WL[273.239]
+;B[en]BL[398.229]
+;W[cr]WL[269.034]C[Zwom [-\]: and your stone is good for one remaining peep but that's it
+]
+;B[fq]BL[385.096]
+;W[gq]WL[254.994]
+;B[fr]BL[381.326]
+;W[er]WL[246.478]
+;B[es]BL[373.827]
+(;W[dr]WL[242.169]C[Zwom [-\]: and here.  just read a little bit furthur
+]
+;B[gr]BL[366.375]
+;W[hq]WL[230.737]
+;B[hr]BL[356.165]
+;W[iq]WL[224.611]C[Zwom [-\]: after this I have enough liberties
+]
+;B[br]BL[347.794]
+(;W[bq]WL[215.942]
+;B[cs]BL[344.537]
+;W[ar]WL[158.293]
+;B[bs]BL[335.562]
+;W[bo]WL[153.377]
+;B[bn]BL[332.249]
+;W[ir]WL[116.26]
+;B[ds]BL[316.518]
+;W[nq]WL[82.083]
+;B[mq]BL[306.792]
+;W[mr]WL[79.592]
+;B[np]BL[296.138]
+;W[lq]WL[70.829]
+;B[mp]BL[279.371]
+;W[ko]WL[64.402]
+;B[mm]BL[268.898]C[logicg8 [8k\]: Ididn't like that move
+Zwom [-\]: you are not that weak here
+Zwom [-\]: and that cut isn't worth protecting agains
+Zwom [-\]: t
+]
+;W[nl]WL[57.538]
+;B[fn]BL[264.039]
+;W[ho]WL[44.734]
+;B[bc]BL[248.924]
+;W[bb]WL[41.173]
+;B[bd]BL[241.788]
+(;W[eb]WL[6.337]
+;B[ab]BL[236.686]
+;W[ba]WL[3.99]
+;B[ei]BL[222.824]
+;W[fk]WL[30]OW[5]
+;B[gi]BL[213.777]
+;W[lg]WL[30]OW[5]
+;B[gn]BL[205.769]
+(;W[hn]WL[30]OW[5]
+;B[gl]BL[199.321]
+(;W[cg]WL[30]OW[5]
+;B[bh]BL[196.581]
+;W[bg]WL[30]OW[5]
+;B[ch]BL[186.623]
+;W[dh]WL[30]OW[5]
+;B[di]BL[183.579]
+;W[bi]WL[30]OW[5]
+;B[cj]BL[178.24]
+;W[bj]WL[30]OW[5]
+;B[dj]BL[166.24]
+;W[ck]WL[30]OW[5]
+;B[dg]BL[161.962]
+;W[eh]WL[30]OW[5]
+;B[fh]BL[156.625]
+;W[eg]WL[30]OW[5]
+;B[fg]BL[151.873]
+;W[ah]WL[30]OW[5]
+;B[ch]BL[145.101]
+;W[bh]WL[30]OW[5]
+;B[al]BL[126.253]
+;W[ej]WL[30]OW[5]
+;B[fi]BL[124.203]
+;W[aj]WL[30]OW[5]
+;B[bl]BL[112.582]
+;W[dm]WL[30]OW[5]
+;B[dn]BL[89.638]
+(;W[fl]WL[30]OW[5]
+;B[bk]BL[84.392]C[logicg8 [8k\]: Thank you for the game
+Zwom [-\]: thanks.  sorry to be a bully.
+])
+(;W[bk])
+(;W[el]))
+(;W[bg]C[Zwom [-\]: this shape is harder to attack
+]
+;B[bl]
+;W[bk])
+(;W[bm]C[Zwom [-\]: even here you should use your aji.
+Zwom [-\]: ok.  well keep making moves like:
+]
+;B[ao]
+;W[bg]C[Zwom [-\]: try using your aji a bit too.
+]
+;B[bk]
+;W[am]
+;B[an]
+;W[bj]))
+(;W[hk]C[Zwom [-\]: I'd run again
+]))
+(;W[ab]))
+(;W[bs]C[Zwom [-\]: though come to think of it, I don't know how to counter this
+]))
+(;W[bq]C[Zwom [-\]: typically it's best to capture directly.
+]))
+(;W[cr]
+;B[fp]
+;W[en]C[Zwom [-\]: you can run this stone immediately
+Zwom [-\]: it's a difference of sente and gote
+]))
+(;B[bp]
+;W[cq]
+;B[dm]C[Zwom [-\]: even this gives me one eye which is as many as you had
+]))
+(;W[bp]
+;B[dn]
+;W[eo]
+;B[bk]
+;W[en]C[Zwom [-\]: you can hope for ample territory on the bottom and your stones aren't really all that week
+Zwom [-\]: with this much white strength around
+]))
+(;B[bc]
+;W[bb]
+;B[ab]
+;W[bd]
+;B[ad]C[Zwom [-\]: there is still ko here too
+])
+(;B[eb]C[logicg8 [8k\]: Yeah, I gave you walls facing out in both directions in that corner
+]))
+(;W[hc]
+;B[ck]
+;W[cm]
+;B[ek]))
+(;W[df]C[Zwom [-\]: you are strong in this area so continuing to fight is pretty wise
+Zwom [-\]: but this move is truly necessary
+Zwom [-\]: here
+Zwom [-\]: the corner is complicated, granted
+Zwom [-\]: but black has a cutting point and not very many liberties
+]))
+(;W[ch]C[Zwom [-\]: I'd probably do this one, it applies more pressure and extends furthur
+Zwom [-\]: but your move is fine too.
+]))
+(;W[po]C[Zwom [-\]: and this.
+Zwom [-\]: alright well that's enough of that, thanks for the game.  I hope you still had fun without handicap stones
+logicg8 [8k\]: I did
+logicg8 [8k\]: Thank you for the game and the review
+Zwom [-\]: sure.  laters
+logicg8 [8k\]: Later
+]
+(;B[on]
+(;W[oo]
+;B[qo]
+;W[rn]
+;B[no]
+;W[ri]C[Zwom [-\]: I didn't think you would see this, so I didn't worry about a plan for this move
+Zwom [-\]: but I thought you could get enough liberties
+]
+;B[rk]
+;W[rh]C[Zwom [-\]: you see how hane doesn't work right?
+logicg8 [8k\]: S11,12 etc
+logicg8 [8k\]: Yeah
+]
+;B[qg]
+;W[rg]
+;B[qf]
+;W[ro]
+;B[op]
+;W[rm])
+(;W[qp]))
+(;B[qo]C[logicg8 [8k\]: Fair enough, I didn't see it
+]))
+(;W[rn]C[Zwom [-\]: which will give you more courage for moves like this
+]
+;B[qo]
+;W[ri]
+;B[rk]
+;W[rh]
+;B[qg]
+;W[rg]
+;B[qf]
+;W[rm]C[Zwom [-\]: here is the same
+]))
+(;W[rj]
+;B[pj]
+;W[pk]
+;B[oj]
+;W[ql]
+(;B[nq])
+(;B[oh]
+;W[nq])))
+(;W[pj]
+;B[qm]C[Zwom [-\]: you were worried about this?
+logicg8 [8k\]: Yeah
+]))

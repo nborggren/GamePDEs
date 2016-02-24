@@ -1,0 +1,541 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[5]KM[0.50]TM[900]OT[3x30 byo-yomi]
+PW[Zwom]PB[Ateares]WR[2k]BR[7k]DT[2007-02-18]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][pd][jj][dp][pp]C[Ateares [7k\]: hi
+]RE[W+Resign]
+;W[rr]WL[896.207]C[Ateares [7k\]: have fun
+Zwom [2k\]: hi
+Zwom [2k\]: ok
+]
+;B[rp]BL[890.557]
+;W[rb]WL[893.139]
+;B[rd]BL[882.072]
+;W[bb]WL[889.524]
+(;B[cc]BL[869.365]C[Ateares [7k\]: your moves at the beginning confused me
+Zwom [2k\]: 2x2 is surprising useful.
+Ateares [7k\]: i noticed later :)
+Zwom [2k\]: it's fun, but it's a trick move.
+Zwom [2k\]: the c17 nresponse is the hardest to play agains.
+Zwom [2k\]: but your other moves are not bad.
+]
+;W[qj]WL[886.269]
+;B[qh]BL[863.736]
+;W[qm]WL[880.646]
+;B[qr]BL[860.253]C[Ateares [7k\]: thanks, lol
+]
+;W[oc]WL[873.78]
+;B[qb]BL[858.491]
+;W[ec]WL[862.096]
+;B[cb]BL[853.745]
+;W[jd]WL[860.233]
+(;B[gc]BL[851.838]
+;W[ed]WL[857.347]
+;B[eb]BL[850.348]
+;W[fb]WL[855.333]
+;B[fd]BL[845.248]
+;W[ee]WL[843.73]C[Ateares [7k\]: i think maybe i try to respond to you too much
+]
+;B[jc]BL[841.965]
+;W[ic]WL[834.063]
+;B[gb]BL[840.075]
+;W[db]WL[831.2]C[Ateares [7k\]: ah
+Zwom [2k\]: this part is really complicated...
+]
+;B[id]BL[835.792]
+;W[hd]WL[826.386]
+;B[ie]BL[833.244]
+;W[hc]WL[814.531]
+(;B[kc]BL[824.298]
+;W[he]WL[809.655]
+;B[if]BL[816.897]
+;W[fe]WL[804.616]TR[rb][oc][jd]C[Zwom [2k\]: this maybe a fair enough trade anyways
+Zwom [2k\]: I'm settled and have good follow ups on the left.
+Zwom [2k\]: however I hurt three stones...
+Ateares [7k\]: yeah my corner is very weak
+Ateares [7k\]: oh
+]
+(;B[ke]BL[810.354]C[Zwom [2k\]: this is slow.
+Zwom [2k\]: my weak stones are in no position to attack you.
+]
+;W[mc]WL[800.917]
+;B[ne]BL[804.238]
+(;W[ce]WL[788.337]C[Zwom [2k\]: and I do this right away.
+Zwom [2k\]: you may want to save your liberty.  there is no need to atari
+]
+(;B[dc]BL[797.979]
+;W[ea]WL[784.934]C[Ateares [7k\]: if white d17 instead, i think black dies
+]
+;B[de]BL[797.181]
+;W[df]WL[782.414]
+;B[cf]BL[795.938]
+;W[be]WL[773.985]
+;B[dg]BL[786.977]
+;W[ef]WL[769.445]
+;B[bc]BL[784.997]
+;W[cg]WL[765.656]
+;B[ba]BL[780.414]
+;W[ab]WL[762.568]
+;B[ac]BL[773.8]
+;W[fq]WL[750.322]C[Zwom [2k\]: so you see, the 2x2 can wake up rather quickly.
+]
+;B[ch]BL[751.566]
+;W[bg]WL[743.069]
+;B[cn]BL[747.285]
+;W[cq]WL[730.325]
+(;B[ck]BL[737.367]
+;W[cp]WL[726.22]
+;B[dq]BL[732.814]
+;W[do]WL[723.182]C[Ateares [7k\]: yes, it killed the corner for you there
+]
+;B[co]BL[729.738]
+;W[dr]WL[720.956]C[Zwom [2k\]: you see the difference?
+Ateares [7k\]: yes, i see what you mean
+]
+;B[eo]BL[728.184]
+;W[iq]WL[704.008]
+;B[dh]BL[721.934]
+;W[lq]WL[698.011]TR[ke][qh][jj]C[Ateares [7k\]: oh, by forcing them to connect?
+]
+(;B[nq]BL[717.003]
+;W[pr]WL[694.675]
+;B[qq]BL[710.883]
+;W[oq]WL[688.648]
+(;B[op]BL[690.145]
+;W[nr]WL[684.322]
+;B[ps]BL[680.71]
+;W[np]WL[666.85]
+;B[no]BL[669.969]
+;W[mp]WL[663.829]
+;B[mo]BL[668.662]
+;W[lo]WL[661.299]
+;B[om]BL[663.598]C[Ateares [7k\]: half the time i was confused by your moves, i've nvr played a high handi against someone
+]
+;W[oj]WL[650.898]C[Zwom [2k\]: I have too overplay too win.
+]
+;B[pi]BL[658.648]
+;W[mm]WL[618.892]
+(;B[ok]BL[650.913]
+;W[pj]WL[616.29]
+;B[ml]BL[648.793]TR[pj][ok]C[Zwom [2k\]: this seems like a lousy exchange.
+Zwom [2k\]: white has considerable weakness with that cut.
+]
+;W[ri]WL[597.082]
+;B[rh]BL[643.731]
+;W[nl]WL[585.682]
+;B[nm]BL[641.207]
+;W[ol]WL[582.078]
+;B[nk]BL[633.884]
+;W[pl]WL[576.84]
+;B[lm]BL[625.994]
+;W[mk]WL[565.941]C[Ateares [7k\]: well, i couldn't kill anyways...
+]
+(;B[nj]BL[622.775]
+;W[ll]WL[562.428]C[Zwom [2k\]: and then I get out anyway.
+]
+;B[mn]BL[621.8]
+;W[ml]WL[558.145]TR[li][oi]C[Zwom [2k\]: you are guaranteed one weakness to prevent too much moyo.
+]
+(;B[ni]BL[618.681]
+;W[oi]WL[556.284]
+;B[oh]BL[617.579]
+;W[nh]WL[554.639]
+;B[mh]BL[616.268]
+;W[ng]WL[552.48]
+;B[mg]BL[608.122]
+;W[ln]WL[537.322]
+;B[on]BL[599.759]
+;W[bk]WL[519.684]
+(;B[bj]BL[590.991]TR[bh][bi]C[Ateares [7k\]: ah
+Zwom [2k\]: but moreso... you are open on this side.
+]
+;W[cl]WL[510.224]
+;B[bl]BL[588.314]
+;W[bm]WL[508.007]
+;B[ak]BL[585.602]
+;W[cm]WL[505.599]
+(;B[dn]BL[583.605]
+;W[el]WL[503.967]
+;B[ek]BL[569.144]
+;W[em]WL[491.225]
+;B[er]BL[566.839]
+;W[cr]WL[488.128]
+;B[fr]BL[551.514]
+;W[eq]WL[466.454]
+;B[gq]BL[546.258]
+;W[fp]WL[464.413]
+;B[fo]BL[542.934]
+;W[gp]WL[462.792]
+;B[go]BL[540.569]
+;W[hq]WL[451.02]
+;B[hp]BL[537.702]
+;W[gr]WL[445.028]
+;B[ep]BL[535.822]
+;W[gq]WL[443.441]
+;B[gl]BL[525.94]
+;W[bo]WL[440.766]
+;B[bn]BL[524.102]
+;W[an]WL[439.104]
+;B[bp]BL[516.839]
+;W[ao]WL[424.333]
+(;B[fm]BL[505.159]C[Zwom [2k\]: this is a mistake in that sense.  
+Zwom [2k\]: these moves should be removed from your repertoire.
+]
+;W[fk]WL[418.201]
+;B[fl]BL[495.103]C[Zwom [2k\]: notice the shape you had made.
+Ateares [7k\]: i realize how bad this shape is
+Ateares [7k\]: yeah
+]
+;W[dk]WL[415.091]
+;B[ej]BL[493.009]
+;W[dj]WL[413.269]
+;B[al]BL[478.197]
+;W[am]WL[410.452]
+;B[cj]BL[468.97]
+;W[ei]WL[373.031]
+;B[fj]BL[467.312]
+;W[fi]WL[367.798]
+;B[gj]BL[465.897]
+;W[di]WL[365.711]
+(;B[en]BL[448.51]
+;W[ai]WL[350.981]
+;B[bh]BL[419.656]
+;W[aj]WL[328.834]
+;B[gh]BL[411.788]
+;W[eg]WL[315.65]
+;B[da]BL[400.98]
+;W[eb]WL[304.302]
+;B[gi]BL[388.244]
+;W[km]WL[272.245]
+;B[lj]BL[374.712]
+;W[qc]WL[265.589]
+;B[pb]BL[370.299]
+;W[pc]WL[242.856]
+;B[rc]BL[342.426]
+;W[qd]WL[236.357]
+;B[ra]BL[338.599]
+;W[og]WL[224.422]
+;B[ph]BL[336.52]
+;W[od]WL[209.295]
+;B[pf]BL[333.264]
+;W[pe]WL[194.711]
+;B[of]BL[327.036]
+;W[re]WL[191.1]
+;B[sb]BL[313.9]
+(;W[ob]WL[183.936]
+(;B[nd]BL[309.719]
+;W[qf]WL[148.334]C[Ateares [7k\]: miai eye
+Zwom [2k\]: r14 was kind of a last ditch effort
+Ateares [7k\]: it looked like there was an eye up top... regardless
+]
+(;B[nc]BL[276.286]
+;W[nb]WL[141.229]
+(;B[lb]BL[269.231]
+;W[rg]WL[137.756]
+;B[sg]BL[258.486]
+;W[sf]WL[135.627]
+;B[sh]BL[248.194]
+;W[qg]WL[132.961]
+;B[pg]BL[243.726]
+;W[qo]WL[106.725]
+;B[pn]BL[229.98]
+;W[ro]WL[101.149]
+;B[qn]BL[224.626]
+;W[rn]WL[97.775]
+;B[pq]BL[215.078]
+;W[or]WL[86.887]
+;B[po]BL[212.513]
+;W[rq]WL[76.912]
+;B[qp]BL[199.833]
+;W[rs]WL[66.308]C[Ateares [7k\]: n18 i should have done it
+]
+;B[pk]BL[191.905]
+;W[qk]WL[63.456]
+;B[qs]BL[176.241]
+;W[sp]WL[59.519]
+;B[mj]BL[152.986]
+;W[ho]WL[46.87]C[Zwom [2k\]: well in summary...
+]
+;B[hn]BL[149.237]
+;W[io]WL[44.921]
+;B[dm]BL[143.324]
+;W[dl]WL[37.297]
+;B[eh]BL[135.196]
+;W[fh]WL[34.878]
+;B[fg]BL[134.301]
+;W[bk]WL[30.738]
+;B[gg]BL[127.565]
+;W[hk]WL[7.072]
+;B[ib]BL[120.969]
+;W[hb]WL[2.618]
+;B[ha]BL[116.295]
+;W[jb]WL[30]OW[3]
+;B[ge]BL[100.437]
+;W[ia]WL[30]OW[3]
+;B[hf]BL[85.899]
+;W[ga]WL[30]OW[3]
+;B[gd]BL[83.627]
+;W[gk]WL[30]OW[3]
+;B[ff]BL[56.22]
+;W[hm]WL[30]OW[3]
+;B[gn]BL[38.142]
+;W[im]WL[30]OW[3]
+;B[hl]BL[36.198]
+;W[ik]WL[30]OW[3]
+;B[il]BL[34.895]
+;W[jk]WL[30]OW[3]
+;B[gm]BL[28.657]
+;W[in]WL[30]OW[3]
+;B[jl]BL[22.55]
+;W[kk]WL[30]OW[3]
+;B[jm]BL[18.696]
+;W[jn]WL[30]OW[3]
+;B[gf]BL[1.992]
+;W[mb]WL[30]OW[3]
+;B[kb]BL[30]OB[3]
+;W[ld]WL[30]OW[3]
+;B[kd]BL[30]OB[3]
+;W[kj]WL[30]OW[3]
+;B[ca]BL[30]OB[3]
+;W[ki]WL[30]OW[3]
+;B[li]BL[30]OB[3]
+;W[kh]WL[30]OW[3]
+;B[lh]BL[30]OB[3]
+;W[jf]WL[30]OW[3]
+;B[je]BL[30]OB[3]
+;W[bi]WL[30]OW[3]
+;B[fc]BL[30]OB[3]
+;W[bf]WL[30]OW[3]
+;B[ka]BL[30]OB[3]
+;W[ha]WL[30]OW[3]
+;B[ja]BL[30]OB[3]
+;W[cf]WL[30]OW[3]
+;B[jg]BL[30]OB[3]
+;W[ii]WL[30]OW[3]
+;B[jh]BL[30]OB[3]
+;W[ji]WL[30]OW[3]
+;B[kg]BL[30]OB[3]
+;W[ih]WL[30]OW[3]
+;B[lk]BL[30]OB[3]
+;W[kl]WL[30]OW[3]
+;B[rj]BL[30]OB[3]
+;W[sj]WL[30]OW[3]
+;B[nf]BL[30]OB[3]
+;W[le]WL[30]OW[3]
+;B[lf]BL[30]OB[3]
+;W[rk]WL[30]OW[3]
+;B[sd]BL[30]OB[3]
+;W[se]WL[30]OW[3]
+;B[ib]BL[30]OB[3]
+;W[fa]WL[30]OW[3]
+;B[pa]BL[30]OB[3]
+;W[hj]WL[30]OW[3]
+;B[me]BL[30]OB[3]
+;W[ma]WL[30]OW[3]
+;B[oa]BL[30]OB[3]
+;W[pm]WL[30]OW[3]C[Ateares [7k\]: thx
+Zwom [2k\]: thanks
+Zwom [2k\]: did you want to review?
+Ateares [7k\]: sure
+Zwom [2k\]: for what my opinion is worth...
+])
+(;B[rg]
+;W[mb]
+;B[lb]C[Zwom [2k\]: you've got an opportunity here too.
+]))
+(;B[rg]C[Ateares [7k\]: maybe not...
+Ateares [7k\]: o17?
+]
+(;W[lb]
+;B[nb]
+;W[nc]
+;B[oa]C[Zwom [2k\]: where's the other one?
+]
+;W[mb]
+;B[na]
+;W[ma])
+(;W[mb]
+;B[nc]
+;W[nb]
+;B[lb]
+;W[ma]
+;B[oa])
+(;W[nc]C[Zwom [2k\]: yeah i didn't see an eye up there.
+]
+;B[lb]C[Ateares [7k\]: but i guess i was wrong
+]
+;W[mb]
+;B[na]C[Ateares [7k\]: ah
+Zwom [2k\]: but then this
+Zwom [2k\]: this was the variation I was afraid of.
+])))
+(;B[lb]
+;W[mb]
+;B[nd]
+;W[qf]
+;B[rg]))
+(;W[qf])
+(;W[lb]
+(;B[ob])
+(;B[nb]
+;W[ob]
+;B[oa]
+;W[nc])))
+(;B[bh]C[Ateares [7k\]: i missed this also
+Ateares [7k\]: didn't pay attention
+]))
+(;B[am]C[Zwom [2k\]: this may put up more resistance.
+]
+;W[al]C[Zwom [2k\]: but it is a risk.
+Ateares [7k\]: yeah
+])
+(;B[fk]C[Zwom [2k\]: that's why this is a pretty imperative move.
+Zwom [2k\]: prevents all that.
+]))
+(;B[em]))
+(;B[bl]C[Zwom [2k\]: I'd probably block to this side.
+Ateares [7k\]: why is that?
+Zwom [2k\]: I was hoping to use aji of the d5 stone.  and this is pushing me away from that aji.
+]))
+(;B[li]))
+(;B[ll]
+;W[nj]C[Ateares [7k\]: i was going for the moyo up top
+Zwom [2k\]: but here you have less shape issues.  this is what I had expected to happen.
+])
+(;B[mn]
+;W[nj]
+;B[mh]))
+(;B[pj]
+;W[pk]
+;B[ok]
+;W[ol]
+;B[nk]
+;W[pl]
+;B[nl]
+;W[nm]C[Zwom [2k\]: just cut directly
+]
+;B[qo]C[Ateares [7k\]: yeah, that is much better
+Zwom [2k\]: just this if your worried about life.
+]))
+(;B[np]
+;W[op]
+;B[oo]))
+(;B[pl]
+;W[ql]
+;B[pj]
+;W[pk]
+;B[ok]
+;W[qk]
+;B[oj]TR[rb][mc][oc][jd][lh]C[Ateares [7k\]: large moyo
+Zwom [2k\]: this is a good size territory
+Zwom [2k\]: white has no choice but too some how live, which I was surprised worked in the game.
+Ateares [7k\]: yeah
+]))
+(;B[dq]
+;W[dr]
+;B[cp]
+;W[br]
+;B[bq]
+;W[cr]TR[pk][rk][pl][rl]C[Ateares [7k\]: so, there is much weakness with the d12 postion
+Zwom [2k\]: you can wail on these guys too
+]
+(;B[ck]C[ksente [7k\]: so who won the game?
+Ateares [7k\]: lol, he slaughted me :P
+ksente [7k\]: lol
+Zwom [2k\]: this is a bit more common shape if you wanted the side.  
+]
+;W[pr])
+(;B[jq]C[Zwom [2k\]: this may be the bigger side anyways.
+Zwom [2k\]: the left side is not that big.
+Zwom [2k\]: giving the d12 cut and the open skirt
+Ateares [7k\]: yes, its very true
+Zwom [2k\]: this is pretty important in this situation.
+Zwom [2k\]: well there are my two cents.  keep doing problems, and playing and you'll get better.  and use 2x2 on some 12kyus
+Ateares [7k\]: :D lol
+Ateares [7k\]: thanks for the advice
+Ateares [7k\]: i really appreciate it
+Zwom [2k\]: take care.
+Ateares [7k\]: same to you
+Zwom [2k\]: no problem
+ksente [7k\]: he your teecher?
+Ateares [7k\]: nope
+ksente [7k\]: teacher*
+Ateares [7k\]: just a free game
+ksente [7k\]: ah i see
+Ateares [7k\]: very nice guy though
+ksente [7k\]: yeah even game you a review
+Ateares [7k\]: yeah
+ksente [7k\]: its always hard to play handi games
+ksente [7k\]: for me at least lol
+Ateares [7k\]: yeah
+Ateares [7k\]: he used some techniques i haven't seen before in my own games
+Ateares [7k\]: now, I'll try and put some of those in practice against other players to used them better
+Ateares [7k\]: i'll brb
+ksente [7k\]: nothing really new i saw
+ksente [7k\]: just more complicated than usual
+Ateares [7k\]: yeah, i mean I've seen these moves before in a game, but i've never had to deal with them
+Ateares [7k\]: its so different when its a real game situation vs a problem in a book
+Ateares [7k\]: but i'm going to play one more game before going to my meeting tonight
+ksente [7k\]: well i dont use books 
+Ateares [7k\]: lol
+ksente [7k\]: so i might get confused
+Ateares [7k\]: nether do i
+Ateares [7k\]: this might be the bigger issue :P
+ksente [7k\]: but with high kyu you cant get greedy
+ksente [7k\]: or youll get punished
+ksente [7k\]: that what happened int his game i think
+ksente [7k\]: this*
+Ateares [7k\]: this game was confusing for me
+ksente [7k\]: you were doing well
+ksente [7k\]: but trying to make all you moves do something which is good
+Ateares [7k\]: after the momentum started it got worse b/c i didn't know how to adjust
+ksente [7k\]: but sometime you just need to make sure somethings dead get rid of aji and move one
+ksente [7k\]: on*
+Ateares [7k\]: yeah, i need more practice in this
+ksente [7k\]: anyway i let you get to your game
+Ateares [7k\]: if i play more high handicap games, against lower kyus, I'll probably be able to understand invasions better
+]
+;W[cl]
+;B[fo])
+(;B[pk]
+;W[qk]
+;B[pm]
+;W[pl]
+;B[ol]
+;W[ql]
+;B[pn])))
+(;B[bf]C[Zwom [2k\]: it's hard to say if this move really works.
+]
+;W[be]
+;B[de]
+;W[df]
+;B[cf]C[Ateares [7k\]: yes, this better, even if i lose corner
+Zwom [2k\]: it looks like it would make this move work
+]
+;W[cd]C[Ateares [7k\]: yeah
+]
+;B[dc]
+;W[bc]
+;B[da]
+;W[ad]C[Ateares [7k\]: i thik black dead in corner if d17 instead
+]
+;B[fc]))
+(;W[cf]))
+(;B[cf]C[Zwom [2k\]: but it would probably serve you well to make a move here.
+Ateares [7k\]: i see
+])
+(;B[cg]
+;W[ce]
+;B[de]
+;W[df]
+;B[cd]))
+(;B[he]
+;W[kc]
+;B[jb]
+;W[kb]))
+(;B[ed]
+;W[fc]
+;B[ge]
+;W[hc]
+;B[dj]C[Zwom [2k\]: at least consider simple
+Ateares [7k\]: yeah, this looks better
+]))
+(;B[pj]))

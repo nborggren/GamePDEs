@@ -1,0 +1,415 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[19]KM[0.50]TM[900]OT[20/480 Canadian]
+PW[Zwom]PB[wittel]WR[10k]BR[13k]DT[2005-08-28]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]C[Zwom [10k\]: hello.
+wittel [13k\]: hi
+wittel [13k\]: thx for playing without handi
+]RE[W+Resign]
+;B[pd]CR[pd]BL[877.785]C[Zwom [10k\]: no problem have fun.
+]
+;W[dq]CR[dq]WL[890.404]
+;B[dc]CR[dc]BL[874.877]
+;W[oq]CR[oq]WL[882.242]
+;B[de]CR[de]BL[872.203]
+;W[nc]CR[nc]WL[871.283]C[Zwom [10k\]: Retreating a bit I would typically play at k17 here, but I wanted to test to see if you would pince.
+]
+;B[lc]CR[lc]BL[867.949]C[Zwom [10k\]: And you passed the first test.
+]
+;W[ne]CR[ne]WL[868.246]
+;B[pf]CR[pf]BL[865.995]C[Zwom [10k\]: m17 is a good example of an efficient move.
+]
+;W[kd]CR[kd]WL[866.944]
+;B[ld]CR[ld]BL[862.863]
+;W[le]CR[le]WL[865.293]C[Zwom [10k\]: That was really your only problem in this game is you let your moves hurt the moves you've already made.
+Zwom [10k\]: you did great in the opening but soon as the middle game started, your desire to save everystone came back to make you lose everystone.
+]
+;B[kc]CR[kc]BL[860.916]
+;W[jd]CR[jd]WL[863.056]
+;B[jc]CR[jc]BL[857.927]
+;W[id]CR[id]WL[861.310]C[wittel [13k\]: yes
+]
+(;B[ic]CR[ic]BL[856.170]
+;W[hd]CR[hd]WL[855.165]
+(;B[hc]CR[hc]BL[853.946]
+;W[md]CR[md]WL[853.752]
+(;B[gd]CR[gd]BL[836.700]C[Zwom [10k\]: this is a bit slow.
+]
+;W[cg]CR[cg]WL[840.432]C[wittel [13k\]: much better
+]
+;B[ci]CR[ci]BL[828.864]
+;W[eg]CR[eg]WL[838.469]
+;B[cl]CR[cl]BL[826.307]
+;W[ge]CR[ge]WL[826.770]
+;B[fe]CR[fe]BL[805.656]
+;W[gf]CR[gf]WL[802.150]
+;B[co]CR[co]BL[790.757]C[Zwom [10k\]: this is good here.
+Zwom [10k\]: my influence isn't going to for much with this on the left side and q16 on the right.
+]
+;W[dn]CR[dn]WL[796.038]C[wittel [13k\]:  but it is not safe
+wittel [13k\]: safe is c6
+Zwom [10k\]: one thing you should keep in mind, this is one of my bad habits too, is watch how your use of one stone effects the efficiency of your other stones.
+]
+;B[do]CR[do]BL[783.792]C[Zwom [10k\]: now what do you think about this move.
+wittel [13k\]: well i think it is ok
+]
+;W[cn]CR[cn]WL[792.523]
+;B[cq]CR[cq]BL[778.907]
+;W[cr]CR[cr]WL[786.398]
+;B[bq]CR[bq]BL[772.649]
+;W[eo]CR[eo]WL[783.678]
+;B[br]CR[br]BL[769.164]
+;W[bo]CR[bo]WL[780.436]TR[ci][cl]C[Zwom [10k\]: look what just happened to these stones.
+wittel [13k\]: i knew that but thought i can afford it
+wittel [13k\]: i  still think i can play this, if i play better later on
+Zwom [10k\]: having a weak group on the board is very expensive, If you get 20 points in the corner I don't care because I'll get 50 chasing these characters.
+]
+;B[bp]CR[bp]BL[719.371]
+;W[cp]CR[cp]WL[777.158]
+;B[dp]CR[dp]BL[717.626]
+;W[ep]CR[ep]WL[776.129]
+;B[cp]CR[cp]BL[715.342]
+;W[bn]CR[bn]WL[774.883]
+;B[eq]CR[eq]BL[698.646]
+;W[bj]CR[bj]WL[759.240]
+;B[bi]CR[bi]BL[693.573]
+;W[cj]CR[cj]WL[752.787]
+;B[dj]CR[dj]BL[687.916]
+;W[bl]CR[bl]WL[751.390]
+;B[ck]CR[ck]BL[635.863]
+;W[bk]CR[bk]WL[737.244]
+(;B[ei]CR[ei]BL[626.948]
+;W[ek]CR[ek]WL[730.066]
+;B[el]CR[el]BL[612.953]
+;W[fl]CR[fl]WL[726.609]
+;B[em]CR[em]BL[610.639]
+;W[en]CR[en]WL[710.030]
+;B[fm]CR[fm]BL[607.153]
+;W[fj]CR[fj]WL[702.348]
+;B[dk]CR[dk]BL[590.357]
+;W[dm]CR[dm]WL[699.620]
+;B[dl]CR[dl]BL[588.406]C[Zwom [10k\]: I'm not even thinking killing at this stage.
+]
+;W[dh]CR[dh]WL[697.132]
+(;B[di]CR[di]BL[584.078]
+;W[ho]CR[ho]WL[689.045]
+;B[gl]CR[gl]BL[568.466]
+;W[fk]CR[fk]WL[687.101]
+;B[hm]CR[hm]BL[565.794]
+;W[gn]CR[gn]WL[682.035]
+;B[fi]CR[fi]BL[543.591]
+;W[hj]CR[hj]WL[676.757]
+;B[gi]CR[gi]BL[504.852]
+;W[hk]CR[hk]WL[673.662]
+;B[gm]CR[gm]BL[495.949]
+;W[ff]CR[ff]WL[669.792]
+;B[fq]CR[fq]BL[446.064]
+;W[gp]CR[gp]WL[652.991]
+;B[gq]CR[gq]BL[438.912]
+;W[hq]CR[hq]WL[650.977]
+;B[hi]CR[hi]BL[391.646]
+;W[jj]CR[jj]WL[641.019]TR[ho][gp][hq][oq]C[Zwom [10k\]: I'm thinking make oodles on the side.
+]
+;B[jq]CR[jq]BL[375.106]
+;W[jn]CR[jn]WL[636.878]
+;B[in]CR[in]BL[372.872]C[Zwom [10k\]: have you heard the phrase sabaki before?
+wittel [13k\]: no
+Zwom [10k\]: sabaki means "light shape"
+wittel [13k\]: :)
+Zwom [10k\]: it's a difficult concept but all your doing is getting heavier.
+]
+;W[io]CR[io]WL[635.677]
+;B[jm]CR[jm]BL[369.106]
+;W[kn]CR[kn]WL[625.934]C[wittel [13k\]: yes from here on i played bad
+]
+(;B[km]CR[km]BL[365.123]
+;W[ln]CR[ln]WL[615.894]C[wittel [13k\]: opposite of my game 
+wittel [13k\]: i wanted to chase you and that was a big mistake
+Zwom [10k\]: you need eyes to chase me.
+wittel [13k\]: and i did it completely wrong
+]
+(;B[mq]CR[mq]BL[362.597]C[Zwom [10k\]: this was a bit foolish I can h2 at any time and start attacking these ones too.
+wittel [13k\]: yes
+Zwom [10k\]: if you have to protect 1 stone or 21, protect the 21 stones
+]
+;W[lm]CR[lm]WL[613.574]
+;B[jo]CR[jo]BL[324.466]
+;W[kl]CR[kl]WL[604.169]
+;B[jl]CR[jl]BL[318.655]
+;W[kk]CR[kk]WL[602.438]
+;B[jk]CR[jk]BL[308.149]
+;W[ii]CR[ii]WL[590.650]
+;B[ih]CR[ih]BL[296.028]
+;W[jh]CR[jh]WL[587.998]
+;B[cm]CR[cm]BL[251.773]
+;W[bm]CR[bm]WL[582.780]
+;B[hr]CR[hr]BL[193.463]
+;W[iq]CR[iq]WL[574.181]
+;B[ir]CR[ir]BL[191.395]
+;W[jp]CR[jp]WL[572.586]
+;B[ko]CR[ko]BL[184.517]
+;W[kp]CR[kp]WL[571.114]
+;B[lo]CR[lo]BL[182.284]
+;W[mo]CR[mo]WL[550.582]
+;B[lp]CR[lp]BL[177.855]
+;W[lq]CR[lq]WL[538.142]
+;B[mp]CR[mp]BL[174.175]
+;W[jr]CR[jr]WL[537.006]
+;B[ll]CR[ll]BL[145.706]C[wittel [13k\]: all athat was so bad
+]
+;W[mn]CR[mn]WL[531.256]
+(;B[ml]CR[ml]BL[129.989]
+;W[kj]CR[kj]WL[511.157]
+;B[lr]CR[lr]BL[119.213]
+;W[kq]CR[kq]WL[504.727]
+;B[oo]CR[oo]BL[105.445]
+;W[np]CR[np]WL[495.611]
+;B[nq]CR[nq]BL[77.525]
+;W[no]CR[no]WL[491.255]
+;B[op]CR[op]BL[75.306]
+;W[on]CR[on]WL[483.724]
+;B[pq]CR[pq]BL[66.725]
+;W[or]CR[or]WL[474.540]
+;B[nr]CR[nr]BL[49.068]
+;W[pr]CR[pr]WL[471.272]C[wittel [13k\]: now game over
+wittel [13k\]: i iscounted
+wittel [13k\]: miscounted
+Zwom [10k\]: the idea wasn't so bad.
+]
+(;B[hg]CR[hg]BL[299.108]OB[19]
+;W[if]CR[if]WL[430.459]
+;B[ig]CR[ig]BL[291.820]OB[18]
+;W[jg]CR[jg]WL[421.573]
+;B[hf]CR[hf]BL[228.832]OB[17]
+;W[he]CR[he]WL[385.258]C[Zwom [10k\]: I've got f16 atany time to connect.
+Zwom [10k\]: my stones aren't the weak ones.
+]
+;B[jf]CR[jf]BL[218.072]OB[16]
+;W[ie]CR[ie]WL[382.719]
+(;B[kf]CR[kf]BL[213.628]OB[15]
+;W[gg]CR[gg]WL[377.641]
+;B[hh]CR[hh]BL[203.636]OB[14]
+;W[lg]CR[lg]WL[351.639]
+;B[lf]CR[lf]BL[164.184]OB[13]
+;W[mf]CR[mf]WL[349.241]
+;B[kg]CR[kg]BL[157.567]OB[12]
+;W[kh]CR[kh]WL[344.699]
+;B[lh]CR[lh]BL[142.999]OB[11]
+;W[mg]CR[mg]WL[342.142]
+;B[bg]CR[bg]BL[92.626]OB[10]
+;W[bf]CR[bf]WL[332.757]
+;B[ch]CR[ch]BL[74.926]OB[9]
+;W[ag]CR[ag]WL[326.069]
+;B[ah]CR[ah]BL[68.568]OB[8]
+;W[cf]CR[cf]WL[320.106]
+;B[af]CR[af]BL[65.623]OB[7]
+;W[bd]CR[bd]WL[307.974]
+;B[be]CR[be]BL[51.334]OB[6]
+;W[ce]CR[ce]WL[303.228]
+(;B[ad]CR[ad]BL[43.822]OB[5]
+;W[ac]CR[ac]WL[295.837]TR[dc][gd][de][fe]C[wittel [13k\]: my worst move
+Zwom [10k\]: this was just a misread I think but you did find one eye.
+Zwom [10k\]: Again consider the efficiency of these stones.
+wittel [13k\]: c16?
+Zwom [10k\]: When you are running around with a weak group even if you do get two eyes, everything else on the board has been rendered considerably less useful.
+]
+(;B[pj]CR[pj]BL[319.872]OB[4]
+;W[ph]CR[ph]WL[281.834]
+;B[qh]CR[qh]BL[243.482]OB[3]
+;W[qg]CR[qg]WL[259.120]
+;B[pg]CR[pg]BL[237.673]OB[2]
+;W[qi]CR[qi]WL[257.545]
+;B[rh]CR[rh]BL[236.032]OB[1]
+;W[pi]CR[pi]WL[249.533]
+;B[ri]CR[ri]BL[480.000]OB[20]
+;W[qj]CR[qj]WL[246.936]
+;B[rj]CR[rj]BL[477.594]OB[19]
+;W[qk]CR[qk]WL[245.151]
+;B[pk]CR[pk]BL[436.043]OB[18]
+;W[pl]CR[pl]WL[241.173]
+;B[ol]CR[ol]BL[429.913]OB[17]
+;W[pm]CR[pm]WL[231.138]
+;B[pn]CR[pn]BL[399.383]OB[16]
+;W[om]CR[om]WL[226.537]
+;B[mm]CR[mm]BL[371.021]OB[15]
+;W[nn]CR[nn]WL[220.101]
+;B[qn]CR[qn]BL[349.582]OB[14]
+;W[ok]CR[ok]WL[204.803]
+;B[oj]CR[oj]BL[347.241]OB[13]
+;W[nk]CR[nk]WL[186.716]C[wittel [13k\]: time to resign
+Zwom [10k\]: thanks.
+Zwom [10k\]: Did you want to review?
+wittel [13k\]: i think i know where i fucked it up
+wittel [13k\]: but yes
+Zwom [10k\]: There's at least one good lesson I can think of.
+Zwom [10k\]: That reoccurs plent.
+wittel [13k\]: i played some bad moves in a row
+])
+(;B[cd]CR[cd]C[wittel [13k\]: instead of a16?
+]
+;W[ae]CR[ae]))
+(;B[cd]CR[cd]
+;W[ae]CR[ae]
+;B[bc]CR[bc]C[Zwom [10k\]: a bit better for your corner yes.
+]))
+(;B[gg]CR[gg]LB[fd:A][ke:B]C[wittel [13k\]: here agin i did not play coherently
+wittel [13k\]: i wanted to build eyes and at the same time captureg15
+Zwom [10k\]: miai
+Zwom [10k\]: assuming k14 can attack something
+Zwom [10k\]: but I'm not exactly worried about that stone.
+]))
+(;B[qr]CR[qr]
+;W[sa]CR[sa]
+;B[qq]CR[qq]
+;W[pn]CR[pn]
+;B[pp]CR[pp]
+;W[ok]CR[ok]C[Zwom [10k\]: But even if you win my corner your game is still pretty hopeless.
+wittel [13k\]: yes
+]))
+(;B[kj]CR[kj]
+;W[lk]CR[lk]
+;B[lj]CR[lj]
+;W[mk]CR[mk]))
+(;B[kk]CR[kk]C[Zwom [10k\]: try making shapes in two dimensions.
+]
+;W[hr]CR[hr]C[wittel [13k\]: yes
+]
+;B[nl]CR[nl]C[wittel [13k\]: here it started really
+]))
+(;B[jk]CR[jk]C[wittel [13k\]: i think i got carried away
+]
+(;W[ij]CR[ij]
+;B[ll]CR[ll]
+;W[kj]CR[kj]
+;B[ln]CR[ln]
+;W[lo]CR[lo]
+;B[om]CR[om]C[Zwom [10k\]: it may be thin I'm just making things up. but you need to be fast that is the point.
+])
+(;W[km]CR[km]
+;B[kl]CR[kl]
+;W[ll]CR[ll]
+;B[lk]CR[lk]
+;W[ml]CR[ml]
+;B[kj]CR[kj]
+;W[ii]CR[ii]
+;B[ih]CR[ih]
+;W[jh]CR[jh]
+;B[ki]CR[ki]
+;W[ji]CR[ji]
+;B[nj]CR[nj]C[wittel [13k\]: exactly
+Zwom [10k\]: Here I think my chances of killing would be nil.
+]
+;W[hr]CR[hr]
+(;B[mq]CR[mq]
+;W[lp]CR[lp]
+;B[lq]CR[lq]
+;W[kr]CR[kr]
+;B[jr]CR[jr]
+;W[kq]CR[kq]
+;B[kp]CR[kp]
+;W[jp]CR[jp])
+(;B[po]CR[po]
+;W[pm]CR[pm]
+;B[pq]CR[pq]
+;W[pr]CR[pr]
+;B[qq]CR[qq]
+;W[op]CR[op]
+;B[qr]CR[qr]
+;W[or]CR[or]
+;B[oo]CR[oo]C[Zwom [10k\]: and you can get on with your game.
+]))))
+(;B[gl]CR[gl]
+;W[fk]CR[fk]
+;B[go]CR[go]
+;W[di]CR[di]
+;B[jm]CR[jm]C[Zwom [10k\]: just sacrifice something and use the tempo to make useful shapes.
+]))
+(;B[fk]CR[fk]
+;W[di]CR[di]
+;B[ei]CR[ei]
+;W[dh]CR[dh]
+;B[em]CR[em]
+;W[en]CR[en]
+;B[hj]CR[hj]C[Zwom [10k\]: here is a bit more sabakiesque play.
+wittel [13k\]: yes, makes sense
+Zwom [10k\]: you've heard the proverb losing stones doesn't mean losing games, I would use it here.
+]))
+(;B[po]CR[po])
+(;B[qp]CR[qp])
+(;B[co]CR[co]C[wittel [13k\]: and then i fucked it up badly in  asequence of terrible moves
+]))
+(;B[md]CR[md]C[wittel [13k\]: oh yes
+Zwom [10k\]: I'd double peep here, 
+])
+(;B[gc]CR[gc]C[wittel [13k\]: i learnt a lot now
+wittel [13k\]: that really helped
+Zwom [10k\]: I'm glad you enjoyed it.  Have you heard of the Iwamoto Torneo Tournament?
+wittel [13k\]: no
+Zwom [10k\]: it's a summer tournament that is one game a week for 9 weeks that just ended.
+wittel [13k\]: wow
+Zwom [10k\]: Keep your eyes peeled next year though
+Zwom [10k\]: it's played on KGS.
+wittel [13k\]: i google it
+Zwom [10k\]: The reason I bring it up is it is a handicapless tournament.
+wittel [13k\]: thx again
+wittel [13k\]: hope it was not a complete waste of time for you
+Zwom [10k\]: not at all, I enjoy this game too.
+wittel [13k\]: ahh
+]
+;W[md]CR[md]C[wittel [13k\]: that is good
+Zwom [10k\]: I've read a few books.
+Zwom [10k\]: I recommend Yilun Yang's Basic Principles of Go.
+wittel [13k\]: i just ordered some
+Zwom [10k\]: which ones?
+wittel [13k\]: davies
+Zwom [10k\]: the basic joseki one?
+wittel [13k\]: life and death
+wittel [13k\]: and tesuji
+Zwom [10k\]: that's cool, life and death are helpful.
+Zwom [10k\]: Sakata Tesuji collection is free online and those are truly elegant tesuji's.
+wittel [13k\]: i work through them, and hopefully will be a better opponent for you next time
+Zwom [10k\]: Great, in addition do you do KGS +
+wittel [13k\]: :)
+Zwom [10k\]: ?
+wittel [13k\]: what is that?
+Zwom [10k\]: It's a KGS member's club that is really reasonable, I think $5 a month and it is a lecture a weak from a pro.
+wittel [13k\]: ah yes
+wittel [13k\]: funny, i signed up today
+Zwom [10k\]: They are REALLY good.  
+wittel [13k\]: where are you from?
+Zwom [10k\]: Also Mingjiu and Juju Jiang (9p!) do free lectures on sunday mornings.
+Zwom [10k\]: oh Arizona, but I just moved to New York.
+wittel [13k\]: nice
+wittel [13k\]: i wish i could live in ny
+Zwom [10k\]: where you from?
+wittel [13k\]: germany, but live in the uk
+Zwom [10k\]: There's a lot of german's at the school I'm at.  In fact people are surprised that I'm american when I say it.
+wittel [13k\]: which school
+Zwom [10k\]: SUNY Stony Brook.
+wittel [13k\]: oh i see
+wittel [13k\]: i guess i'm much older than you
+wittel [13k\]:  i am 42
+Zwom [10k\]: flip the digits around and that's my age.
+wittel [13k\]: so what do you study
+Zwom [10k\]: physics.
+wittel [13k\]: respect
+wittel [13k\]: never understood that
+Zwom [10k\]: Thanks, it's easier then go is.
+wittel [13k\]: nothing is more complicated that go
+Zwom [10k\]: true that.  well I'm going to run.  see you around, enjoy the lectures.
+wittel [13k\]: i am a sociology lecturer
+wittel [13k\]: thx again and see you around
+]
+;B[co]CR[co]
+;W[ep]CR[ep]C[wittel [13k\]: how do you learn?
+]
+;B[dk]CR[dk]
+;W[qp]CR[qp]
+;B[qj]CR[qj]C[Zwom [10k\]: I think something like this would have very good prospects for black.
+]))
+(;B[hc]CR[hc])
+(;B[md]CR[md]
+;W[me]CR[me]
+;B[nd]CR[nd]
+;W[od]CR[od]
+;B[oe]CR[oe]
+;W[oc]CR[oc]C[wittel [13k\]: i thin up to move 90 or so i was fine
+]))

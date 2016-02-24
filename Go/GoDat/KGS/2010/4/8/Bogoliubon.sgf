@@ -1,0 +1,250 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[0.50]TM[600]OT[5x40 byo-yomi]
+PW[Bogoliubon]PB[logicg8]WR[1k]BR[2k]DT[2010-04-08]PC[The KGS Go Server at http://www.gokgs.com/]C[logicg8 [2k\]: Have a good game
+]RE[W+Resign]
+;B[qd]BL[592.628]C[Bogoliubon [1k\]: you too.
+]
+;W[dd]WL[593.253]
+;B[pq]BL[585.237]
+;W[dp]WL[589.805]
+;B[fc]BL[581.557]
+;W[cf]WL[578.222]
+;B[kc]BL[576.876]
+;W[qo]WL[555.33]
+;B[qk]BL[571.441]
+;W[mq]WL[522.583]C[Bogoliubon [1k\]: let's see if eidogo says anything here.
+logicg8 [2k\]: I know my splitting move is joseki
+logicg8 [2k\]: q8, really?
+Bogoliubon [1k\]: that's what it says
+Bogoliubon [1k\]: I don't think it could possibly be correct in this fuseki
+logicg8 [2k\]: I dont get light stones
+]
+;B[op]BL[549.897]
+(;W[pn]WL[468.501]
+;B[nn]BL[531.475]
+;W[jq]WL[455.023]C[FlameBlade [-\]: white went wrong somewhere
+logicg8 [2k\]: it ends up okay for w
+Bogoliubon [1k\]: until he went right
+Bogoliubon [1k\]: or black went wrong
+logicg8 [2k\]: I can't fight
+]
+;B[qp]BL[519.953]
+;W[nm]WL[400.714]
+;B[on]BL[497.011]C[FlameBlade [-\]: wow
+]
+;W[om]WL[392.62]
+(;B[pm]BL[491.868]C[Bogoliubon [1k\]: I was hoping you'd do this
+Bogoliubon [1k\]: I think this is a bad idea
+]
+;W[pl]WL[390.97]
+;B[qm]BL[489.557]
+;W[ql]WL[389.778]
+;B[qn]BL[482.46]C[Bogoliubon [1k\]: the corner here is small
+logicg8 [2k\]: I was happy here you had a floating goup and I had territory
+Bogoliubon [1k\]: relative to that
+]
+;W[rm]WL[357.954]
+;B[rn]BL[461.833]
+;W[ok]WL[322.309]
+(;B[rk]BL[441.163]C[logicg8 [2k\]: you love forcing moves
+Bogoliubon [1k\]: yeah, I want to reduce your top half
+]
+;W[mn]WL[316.958]
+;B[mm]BL[426.697]
+;W[mo]WL[300.253]
+;B[po]BL[415.537]
+;W[ml]WL[287.407]
+;B[lm]BL[411.908]
+;W[ll]WL[283.852]
+;B[km]BL[399.624]
+;W[kl]WL[271.929]
+;B[jm]BL[395.981]C[Bogoliubon [1k\]: you're group is floating too.
+]
+(;W[oh]WL[255.398]LB[od:B][rl:A]C[Bogoliubon [1k\]: this makes r8 really big too.
+logicg8 [2k\]: or rather I would have hated it
+Bogoliubon [1k\]: this had these follow ups
+Bogoliubon [1k\]: I was still more worried about p16
+]
+;B[lp]BL[390.459]C[Bogoliubon [1k\]: this is overplay...
+]
+;W[mp]WL[248.248]
+;B[lq]BL[386.345]
+;W[ko]WL[238.436]
+;B[jp]BL[367.635]
+;W[kp]WL[229.294]
+;B[kq]BL[356.261]
+;W[jr]WL[201.89]
+;B[jo]BL[320.941]
+;W[kn]WL[194.663]
+;B[jl]BL[308.478]
+(;W[jn]WL[141.031]C[logicg8 [2k\]: this was a total disaster
+]
+;B[in]BL[281.051]
+;W[jk]WL[131.615]
+;B[ik]BL[277.786]
+;W[jj]WL[105.188]C[Bogoliubon [1k\]: I gave you an opportunity to protect
+logicg8 [2k\]: I considered protecting
+]
+(;B[nq]BL[232.752]
+;W[nr]WL[75.033]
+;B[or]BL[221.918]C[Bogoliubon [1k\]: the main thing is I don't have to answer this
+]
+;W[io]WL[53.582]C[logicg8 [2k\]: but you get a bunch of forcing moves that take territory if I do
+logicg8 [2k\]: there's no good protecting move
+]
+;B[mr]BL[190.915]
+;W[lr]WL[39.448]
+;B[ns]BL[187.88]
+;W[im]WL[31.099]
+;B[hn]BL[180.612]
+;W[il]WL[14.195]C[Bogoliubon [1k\]: this is big...
+]
+;B[ip]BL[173.202]
+;W[ho]WL[8.629]
+;B[hp]BL[163.408]
+;W[go]WL[4.775]
+;B[gp]BL[152.222]
+;W[fp]WL[40]OW[5]
+;B[fo]BL[144.409]
+;W[gn]WL[40]OW[5]
+;B[hm]BL[139.024]
+;W[ln]WL[40]OW[5]
+;B[fn]BL[132.504]
+;W[gm]WL[40]OW[5]
+;B[fm]BL[128.221]
+;W[gl]WL[40]OW[5]
+;B[fq]BL[121.593]
+;W[ep]WL[40]OW[5]
+;B[kr]BL[116.29]C[Bogoliubon [1k\]: so yeah.
+]
+;W[hr]WL[40]OW[4]C[Bogoliubon [1k\]: it doesn't matter much anyway
+Bogoliubon [1k\]: white's got umm influence.
+]
+(;B[gq]BL[82.03]
+(;W[gr]WL[40]OW[4]C[logicg8 [2k\]: h3 sucks
+Bogoliubon [1k\]: this is hard though
+Bogoliubon [1k\]: I was sure about this one
+]
+;B[fr]BL[66.065]
+;W[eq]WL[40]OW[4]
+;B[ir]BL[30.064]
+;W[iq]WL[40]OW[4]
+;B[is]BL[0.187]
+;W[js]WL[40]OW[4]
+;B[er]BL[40]OB[4]
+;W[dr]WL[40]OW[4]C[Bogoliubon [1k\]: thanks
+logicg8 [2k\]: Thank you for the game
+Bogoliubon [1k\]: madness.
+Bogoliubon [1k\]: not that Iknow how it goes.
+])
+(;W[od]
+;B[dr]))
+(;B[gr]C[logicg8 [2k\]: I didn't think this worked
+Bogoliubon [1k\]: not this one.
+logicg8 [2k\]: Yes seeing how this didn't work either
+]
+(;W[eq]C[logicg8 [2k\]: I thought h3 solved w's problems here
+Bogoliubon [1k\]: I think it removes my own liberty
+Bogoliubon [1k\]: I have the thrown in sequence here.
+]
+;B[er]C[Bogoliubon [1k\]: but I still have black up by one on this.
+]
+;W[dr]
+;B[gq]
+;W[js]C[Bogoliubon [1k\]: why can't I read this?
+Bogoliubon [1k\]: out of practice.
+])
+(;W[hq]
+;B[gq]C[logicg8 [2k\]: maybe not
+Bogoliubon [1k\]: I'm still having trouble reading it.
+]
+;W[eq])))
+(;B[ho]))
+(;W[jk]
+;B[ik]
+;W[jj]))
+(;W[ik]C[logicg8 [2k\]: I didn't think you'd tenuki to help the side
+Bogoliubon [1k\]: I should probably continue.
+logicg8 [2k\]: I like j9
+Bogoliubon [1k\]: but yeah I think this is right.
+]))
+(;B[mm]C[Bogoliubon [1k\]: now I'd hane
+logicg8 [2k\]: Hey Dan
+Bogoliubon [1k\]: hey
+FlameBlade [-\]: hey
+]))
+(;B[mn]C[logicg8 [2k\]: what about hane instead of extend
+]
+;W[pl]
+;B[pi]C[Bogoliubon [1k\]: this is just clear
+Bogoliubon [1k\]: white's shape is stupid
+])
+(;B[mm]C[Bogoliubon [1k\]: you can
+Bogoliubon [1k\]: probably
+Bogoliubon [1k\]: but it leaves a cut
+Bogoliubon [1k\]: and I'd want to take gote with q11
+Bogoliubon [1k\]: these are dame points here
+Bogoliubon [1k\]: you need to get out
+Bogoliubon [1k\]: but not much more then that.
+]
+(;W[mn])
+(;W[pl]
+;B[ln]
+;W[pi]C[Bogoliubon [1k\]: who know
+Bogoliubon [1k\]: s
+])))
+(;W[jq]C[Bogoliubon [1k\]: it says this
+Bogoliubon [1k\]: hmm
+logicg8 [2k\]: what next? q6?
+logicg8 [2k\]: r4?
+Bogoliubon [1k\]: joseki is here right away apparently.
+FlameBlade [-\]: and black covers with Q6, or black can tenuki if he feels like it
+Bogoliubon [1k\]: yeah
+Bogoliubon [1k\]: should we look at a pro game?
+Bogoliubon [1k\]: anyone inclined?
+logicg8 [2k\]: I think I am going to pass out
+logicg8 [2k\]: I was up till almost 6 last night
+logicg8 [2k\]: *4
+FlameBlade [-\]: my body is badly beaten up
+FlameBlade [-\]: so pass on my part as well
+Bogoliubon [1k\]: ok, 
+logicg8 [2k\]: Thanks again for the game
+logicg8 [2k\]: You want to play in person some time?
+Bogoliubon [1k\]: well I guess it's g'night then.  thank you.  yeah sure.  it's tempting to go to queens too sometime.
+logicg8 [2k\]: How about next weekend?
+Bogoliubon [1k\]: sure, I'll run it by amber, she's got a talk, so she may want me out of her hair.
+Bogoliubon [1k\]: saturday or sunday?
+logicg8 [2k\]: cool. g/night
+logicg8 [2k\]: Saturday?
+Bogoliubon [1k\]: ok, I'll confirm later.
+Bogoliubon [1k\]: night.
+logicg8 [2k\]: Okay g'night
+]
+(;B[pn]
+;W[qm]
+;B[qn]
+;W[rn]
+;B[pm]
+;W[ql]
+;B[pl]
+;W[rk]
+;B[rj]
+;W[qj]
+;B[pk]
+;W[rl]
+;B[qi]
+;W[rq]
+;B[qp]
+;W[rp]
+;B[po]
+;W[ro]
+;B[pj])
+(;B[qp]C[Bogoliubon [1k\]: this is the other one.
+]
+;W[pl]
+;B[pk]
+;W[ol]
+;B[ok]
+;W[nl]
+;B[mj]
+;W[ll])))

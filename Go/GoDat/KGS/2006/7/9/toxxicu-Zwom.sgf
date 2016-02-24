@@ -1,0 +1,405 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[2100]OT[5x30 byo-yomi]
+PW[toxxicu]PB[Zwom]WR[9d]BR[7k]DT[2006-07-09]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AB[pd][dp][pp]C[toxxicu [9d?\]: have a good game
+toxxicu [9d?\]: let's look from the start
+]RE[W+Resign]
+;W[cd]CR[cd]WL[2241.880]C[Zwom [7k\]: you too
+]
+;B[ec]CR[ec]BL[2240.350]
+;W[hd]CR[hd]WL[2205.908]
+;B[ef]CR[ef]BL[2225.608]
+;W[ee]CR[ee]WL[2165.147]
+(;B[de]CR[de]BL[2158.259]
+;W[dd]CR[dd]WL[2130.714]
+;B[ed]CR[ed]BL[2152.139]
+;W[fe]CR[fe]WL[2127.589]
+;B[ce]CR[ce]BL[2148.655]
+;W[db]CR[db]WL[2117.396]
+;B[bd]CR[bd]BL[2122.112]
+;W[bc]CR[bc]WL[2101.082]
+;B[be]CR[be]BL[2108.857]
+;W[eb]CR[eb]WL[2085.571]C[toxxicu [9d?\]: good for w
+toxxicu [9d?\]: big points and some thickness too
+]
+;B[cj]CR[cj]BL[2086.495]
+;W[jq]CR[jq]WL[2037.291]
+;B[pj]CR[pj]BL[2053.389]
+;W[nq]CR[nq]WL[1987.407]C[toxxicu [9d?\]: m3 is not so good unless you have a stone around h3
+]
+(;B[lq]CR[lq]BL[2024.106]C[Zwom [7k\]: my thinking was I didn't want you to get an approach at f3, so I sacrificed knowing this would be the shape and then get a stone
+]
+;W[no]CR[no]WL[1918.284]
+;B[pn]CR[pn]BL[2019.621]
+;W[pr]CR[pr]WL[1898.850]
+;B[qq]CR[qq]BL[2013.643]
+;W[kp]CR[kp]WL[1863.295]C[toxxicu [9d?\]: you usually play this as b to leave some aji
+toxxicu [9d?\]: but that aji works only with stones on h line
+]
+;B[fq]CR[fq]BL[2002.962]
+;W[qf]CR[qf]WL[1837.879]
+;B[qe]CR[qe]BL[1995.770]
+;W[pf]CR[pf]WL[1820.674]
+;B[nd]CR[nd]BL[1992.763]
+;W[ph]CR[ph]WL[1798.792]
+;B[qi]CR[qi]BL[1981.112]
+;W[lc]CR[lc]WL[1789.036]C[Zwom [7k\]: or k17
+toxxicu [9d?\]: k16 is not it
+]
+(;B[mc]CR[mc]BL[1933.218]C[toxxicu [9d?\]: this is bad
+toxxicu [9d?\]: BAD
+toxxicu [9d?\]: you have to forget this kind of move
+Zwom [7k\]: we discussed this shape before
+toxxicu [9d?\]: to aproach one dan level
+toxxicu [9d?\]: you try to make the corner territory
+toxxicu [9d?\]: but it's actually bad shape at p17
+toxxicu [9d?\]: as long as r17 is open
+toxxicu [9d?\]: n17 is 0 points
+toxxicu [9d?\]: w gets stronger
+toxxicu [9d?\]: and after some stones in the center
+toxxicu [9d?\]: your corner becomes weaker
+toxxicu [9d?\]: you have a much better move
+Zwom [7k\]: I was thinking k16 also
+]
+;W[ld]CR[ld]WL[1785.991]C[toxxicu [9d?\]: on the contrary
+toxxicu [9d?\]: this kosumi
+toxxicu [9d?\]: helps w to get rid of k17 aji
+toxxicu [9d?\]: and pushesw in the center
+toxxicu [9d?\]: coming closer to connecting
+]
+;B[gg]CR[gg]BL[1929.783]
+;W[gf]CR[gf]WL[1763.417]
+;B[fg]CR[fg]BL[1924.127]
+;W[bo]CR[bo]WL[1761.650]C[toxxicu [9d?\]: big thing here
+toxxicu [9d?\]: you need to attack w
+toxxicu [9d?\]: and keep the corner
+toxxicu [9d?\]: you let me get easy life + points
+]
+(;B[cn]CR[cn]BL[1883.672]C[toxxicu [9d?\]: this kind of c6 is rarely good
+toxxicu [9d?\]: only in some cases where u can build a huge center
+toxxicu [9d?\]: or attack a group
+toxxicu [9d?\]: otherwise it's too soft on w
+toxxicu [9d?\]: no attack
+toxxicu [9d?\]: and give up a very big corner
+toxxicu [9d?\]: the difference is points is huge
+toxxicu [9d?\]: at least 25
+toxxicu [9d?\]: 25 points + a strong group for w
+toxxicu [9d?\]: compared to this
+]
+;W[bn]CR[bn]WL[1745.713]
+;B[cm]CR[cm]BL[1869.118]
+;W[cq]CR[cq]WL[1741.824]
+;B[cp]CR[cp]BL[1844.247]
+;W[bp]CR[bp]WL[1740.488]
+;B[bm]CR[bm]BL[1836.472]C[Zwom [7k\]: could you show c4 variation?
+toxxicu [9d?\]: this way you keepc12 witha  few extra points at c9
+toxxicu [9d?\]: but instead of 15 points corner
+toxxicu [9d?\]: w gets a 10 point corner
+toxxicu [9d?\]: + w has no weak groups
+]
+;W[dq]CR[dq]WL[1737.400]
+;B[eq]CR[eq]BL[1784.989]C[toxxicu [9d?\]: that is exactly what you did
+toxxicu [9d?\]: c7 is very strong
+toxxicu [9d?\]: so is d15
+toxxicu [9d?\]: but c10 is extra
+toxxicu [9d?\]: not needed
+]
+;W[mg]CR[mg]WL[1733.133]C[toxxicu [9d?\]: i wanted to secure my group
+Zwom [7k\]: I was heartbroken here
+toxxicu [9d?\]: and make miai of q8 and r17
+]
+;B[nm]CR[nm]BL[1700.441]
+;W[qc]CR[qc]WL[1727.667]
+;B[rf]CR[rf]BL[1686.339]
+(;W[rg]CR[rg]WL[1716.102]
+;B[pc]CR[pc]BL[1677.948]
+;W[ep]CR[ep]WL[1658.841]
+;B[hq]CR[hq]BL[1615.298]
+;W[eo]CR[eo]WL[1632.387]
+;B[dn]CR[dn]BL[1610.396]
+;W[go]CR[go]WL[1621.714]
+;B[ip]CR[ip]BL[1603.722]C[toxxicu [9d?\]: good moves
+]
+;W[in]CR[in]WL[1611.410]
+(;B[jo]CR[jo]BL[1598.125]C[Zwom [7k\]: I opted to confuse myself instead
+toxxicu [9d?\]: yes
+]
+;W[dj]CR[dj]WL[1564.568]
+;B[ci]CR[ci]BL[1565.553]
+;W[mm]CR[mm]WL[1560.351]
+;B[mp]CR[mp]BL[1553.883]
+;W[np]CR[np]WL[1555.696]
+;B[mo]CR[mo]BL[1511.750]
+;W[mn]CR[mn]WL[1539.264]
+;B[nn]CR[nn]BL[1484.362]
+;W[lo]CR[lo]WL[1533.775]C[toxxicu [9d?\]: the cut at o6 is not important if i can connect
+toxxicu [9d?\]: by capturing
+toxxicu [9d?\]: the game is good for w like this
+toxxicu [9d?\]: n4 became a loss without compensation
+]
+;B[jn]CR[jn]BL[1394.385]
+;W[il]CR[il]WL[1527.343]
+;B[hn]CR[hn]BL[1375.880]
+;W[hm]CR[hm]WL[1520.980]
+;B[gn]CR[gn]BL[1370.305]
+;W[qr]CR[qr]WL[1481.771]
+(;B[ml]CR[ml]BL[1360.078]
+;W[mq]CR[mq]WL[1461.635]
+;B[lm]CR[lm]BL[1328.589]
+;W[ln]CR[ln]WL[1458.292]
+;B[km]CR[km]BL[1323.803]
+;W[ii]CR[ii]WL[1441.078]C[Zwom [7k\]: I thought with l7 I could keep an attack, but I didn't really have one
+toxxicu [9d?\]: yes
+toxxicu [9d?\]: tough on b now
+toxxicu [9d?\]: you need s2 also
+]
+(;B[hf]CR[hf]BL[1286.315]
+;W[kk]CR[kk]WL[1431.531]
+;B[gd]CR[gd]BL[1268.344]
+;W[fd]CR[fd]WL[1425.617]
+;B[jj]CR[jj]BL[1231.196]
+;W[ij]CR[ij]WL[1416.108]
+;B[jk]CR[jk]BL[1228.305]
+;W[jl]CR[jl]WL[1414.869]
+;B[kl]CR[kl]BL[1160.688]
+;W[ji]CR[ji]WL[1376.392]
+;B[re]CR[re]BL[1012.976]
+;W[he]CR[he]WL[1368.880]
+;B[ig]CR[ig]BL[1005.957]
+;W[if]CR[if]WL[1366.131]
+;B[hg]CR[hg]BL[1002.442]
+;W[kj]CR[kj]WL[1343.524]
+;B[hk]CR[hk]BL[941.913]
+;W[gk]CR[gk]WL[1329.689]
+;B[gm]CR[gm]BL[931.622]
+;W[hl]CR[hl]WL[1244.502]
+;B[jf]CR[jf]BL[909.322]
+;W[ie]CR[ie]WL[1229.855]
+;B[kg]CR[kg]BL[900.252]
+;W[nl]CR[nl]WL[1189.647]
+;B[ol]CR[ol]BL[893.985]
+;W[nk]CR[nk]WL[1187.596]
+;B[ok]CR[ok]BL[889.291]
+;W[mk]CR[mk]WL[1185.403]
+;B[bb]CR[bb]BL[829.439]
+;W[dc]CR[dc]WL[1162.414]
+;B[ac]CR[ac]BL[817.089]
+;W[qo]CR[qo]WL[1159.605]C[toxxicu [9d?\]: this was a problem since r2
+toxxicu [9d?\]: you should have answered it
+]
+;B[rr]CR[rr]BL[791.313]
+;W[po]CR[po]WL[1156.703]C[Zwom [7k\]: thanks
+toxxicu [9d?\]: tahnks
+toxxicu [9d?\]: thanks
+])
+(;B[rr]CR[rr]C[Zwom [7k\]: s16 I mean
+]
+(;W[nb]CR[nb]C[toxxicu [9d?\]: w has moves like this one too
+Zwom [7k\]: I thought s15 could live too.
+]
+(;B[mb]CR[mb]
+;W[rd]CR[rd]
+;B[re]CR[re]
+;W[pb]CR[pb]C[toxxicu [9d?\]: this is the proper seq
+])
+(;B[pb]CR[pb]
+;W[re]CR[re]
+;B[rd]CR[rd]
+;W[sf]CR[sf]
+;B[rc]CR[rc]
+;W[mb]CR[mb]C[toxxicu [9d?\]: like this w gets yose on both sides
+toxxicu [9d?\]: questions ?
+Zwom [7k\]: not really
+Zwom [7k\]: n13 was verry annoying but that's why I needed to n15
+Zwom [7k\]: very
+toxxicu [9d?\]: yes
+toxxicu [9d?\]: ok then
+toxxicu [9d?\]: i hope you learned some things from this game :)
+Zwom [7k\]: how to play domi points
+toxxicu [9d?\]: domi ?
+Zwom [7k\]: zero point moves
+toxxicu [9d?\]: dame points
+Zwom [7k\]: dame. ok
+Zwom [7k\]: but that's what I did
+Zwom [7k\]: not what I learned
+toxxicu [9d?\]: :)
+Zwom [7k\]: I've been busy so I'll try getting more practice in before next time.
+toxxicu [9d?\]: shall we have our next lesson on thurday ?
+toxxicu [9d?\]: you do that
+toxxicu [9d?\]: practice never hearts
+toxxicu [9d?\]: hurts
+toxxicu [9d?\]: :)
+Zwom [7k\]: let's wait a week.  I'm a little to busy this week.
+toxxicu [9d?\]: ok
+toxxicu [9d?\]: what time ?
+toxxicu [9d?\]: 19 gmt ?
+toxxicu [9d?\]: in 2 weeks i mean
+toxxicu [9d?\]: 20th
+Zwom [7k\]: that's fine 19 GMT on the 20th if that's a thursday
+toxxicu [9d?\]: yes
+toxxicu [9d?\]: ok i wrote it down
+toxxicu [9d?\]: if something comes up just mail me
+toxxicu [9d?\]: :)
+toxxicu [9d?\]: enjoy fo until then !
+Zwom [7k\]: always do.  until I lose
+toxxicu [9d?\]: playing bad moves is worse than losing
+toxxicu [9d?\]: that's what you should avoid
+Zwom [7k\]: just for a recap...
+toxxicu [9d?\]: :)
+Zwom [7k\]: the primary mistakes seemed to be n17, c6, and not responding to r2
+toxxicu [9d?\]: r2 is small compared to n17 and c6
+Zwom [7k\]: and d15 small compared to r2?
+toxxicu [9d?\]: about the same :)
+Zwom [7k\]: ok great.  I won't ever make a mistake again now.
+toxxicu [9d?\]: good
+toxxicu [9d?\]: i'll hold you to that !
+Zwom [7k\]: sure thing boss.
+toxxicu [9d?\]: :)
+toxxicu [9d?\]: take care !
+Zwom [7k\]: have fun.
+Zwom [7k\]: bye
+]))
+(;W[rd]CR[rd]
+;B[re]CR[re]
+;W[pb]CR[pb]
+;B[rb]CR[rb]
+;W[qb]CR[qb]
+;B[ob]CR[ob]C[toxxicu [9d?\]: no
+]
+;W[ra]CR[ra]
+;B[sb]CR[sb]C[Zwom [7k\]: but s18 rather then q 18
+toxxicu [9d?\]: it's dead like this 
+])))
+(;B[rr]CR[rr]
+;W[pq]CR[pq]
+;B[qp]CR[qp]
+;W[gm]CR[gm]
+;B[fn]CR[fn]
+;W[fm]CR[fm]
+;B[en]CR[en]
+(;W[jm]CR[jm]C[toxxicu [9d?\]: i expected this
+])
+(;W[kl]CR[kl])))
+(;B[jp]CR[jp]
+;W[kq]CR[kq]
+;B[ko]CR[ko]
+;W[lp]CR[lp]
+;B[jn]CR[jn]C[toxxicu [9d?\]: i think this is better for b
+toxxicu [9d?\]: you can use your strength in this fight
+]))
+(;W[oc]CR[oc]
+;B[od]CR[od]
+;W[rd]CR[rd]
+;B[re]CR[re]
+;W[ob]CR[ob]C[toxxicu [9d?\]: i had this option
+]
+;B[qh]CR[qh]C[toxxicu [9d?\]: it's probably better than the game
+]))
+(;B[bp]CR[bp]C[toxxicu [9d?\]: this or c4
+toxxicu [9d?\]: i bet that if you make a poll at 15-20k
+toxxicu [9d?\]: 90% would play b4
+toxxicu [9d?\]: ot
+toxxicu [9d?\]: it is the most normal move in this position
+toxxicu [9d?\]: it defends territroy in the corner
+toxxicu [9d?\]: it blocks w acces
+toxxicu [9d?\]: it takes a liberty
+toxxicu [9d?\]: for more than one reason
+toxxicu [9d?\]: b4 is natural
+toxxicu [9d?\]: why do you think it's funny shape ?
+Zwom [7k\]: moreso c4
+Zwom [7k\]: I thought given the upper stones I needed to close you in
+toxxicu [9d?\]: ok i'll show you why c4 is an option
+toxxicu [9d?\]: it;s exactly the oposite
+toxxicu [9d?\]: the upper stones
+toxxicu [9d?\]: are strong
+toxxicu [9d?\]: you want to use those for attacking
+toxxicu [9d?\]: you don't want to play from them
+toxxicu [9d?\]: and make other strong stones facing that wall
+]
+(;W[cp]CR[cp]C[Zwom [7k\]: they  both seemed funny shape.  
+]
+(;B[co]CR[co]
+;W[cq]CR[cq]
+;B[bq]CR[bq]
+;W[do]CR[do]
+;B[cn]CR[cn]
+;W[dq]CR[dq]
+;B[ep]CR[ep]
+;W[bn]CR[bn]
+;B[br]CR[br]
+;W[cm]CR[cm]
+;B[dn]CR[dn]
+;W[em]CR[em]C[toxxicu [9d?\]: w can make a nice shape like this by sacrificing the corner
+toxxicu [9d?\]: sometimes this is good enough
+toxxicu [9d?\]: for b
+]
+;B[en]CR[en]C[toxxicu [9d?\]: or this
+toxxicu [9d?\]: try to understand this reasoning and you will make a big step forward
+toxxicu [9d?\]: is it hard?
+Zwom [7k\]: not particularly
+Zwom [7k\]: I just don't have a memory
+toxxicu [9d?\]: haha
+toxxicu [9d?\]: remember the logic behind it
+toxxicu [9d?\]: better take some points and keep w weak at the same time
+toxxicu [9d?\]: than give up points for some korigatachi 
+toxxicu [9d?\]: and at the same time lose a nice target
+Zwom [7k\]: korigatachi?
+Zwom [7k\]: overconcentrate?
+toxxicu [9d?\]: overconcentration
+toxxicu [9d?\]: yes
+]
+;W[fn]CR[fn]
+;B[dm]CR[dm]
+;W[dl]CR[dl]
+;B[eo]CR[eo]
+;W[bl]CR[bl]C[toxxicu [9d?\]: sometimes b really wants to attack w
+])
+(;B[cq]CR[cq]
+;W[co]CR[co]
+;B[bq]CR[bq]
+;W[do]CR[do]
+;B[ep]CR[ep]
+;W[cl]CR[cl]C[toxxicu [9d?\]: this is not so weak anymore
+toxxicu [9d?\]: because of d5 in sente
+]))
+(;W[co]CR[co]
+;B[cp]CR[cp]
+;W[cl]CR[cl]
+;B[dm]CR[dm]C[toxxicu [9d?\]: you can use f13 to attack this w group
+toxxicu [9d?\]: in points you keep c12 territory and a big solid corner
+]))
+(;B[cp]CR[cp]C[toxxicu [9d?\]: that's when c4 is good
+toxxicu [9d?\]: w doesn't have a good sabaki
+toxxicu [9d?\]: it's a weak group
+]
+;W[bp]CR[bp]
+;B[bq]CR[bq]
+;W[cl]CR[cl]
+;B[bm]CR[bm]C[toxxicu [9d?\]: same idea
+toxxicu [9d?\]: b gets an attack
+toxxicu [9d?\]: and keeps both the corner
+]))
+(;B[me]CR[me]TR[jc][ni]C[toxxicu [9d?\]: "divide and conquer"
+toxxicu [9d?\]: you go out in the center keeping your stones safe\\
+toxxicu [9d?\]: at the same time you cut w
+toxxicu [9d?\]: q12 from m17
+toxxicu [9d?\]: and now you have miai
+toxxicu [9d?\]: n15 looks slow
+toxxicu [9d?\]: but is very very powerful
+]))
+(;B[pn]CR[pn]C[Zwom [7k\]: at f3
+]
+;W[fq]CR[fq]
+;B[dn]CR[dn]C[toxxicu [9d?\]: this way you have good shapes on both sides
+toxxicu [9d?\]: and w is vulnerable at h3 and m3
+toxxicu [9d?\]: so it's not necessarily bad
+]))
+(;B[fe]CR[fe]C[toxxicu [9d?\]: this is better
+]
+;W[de]CR[de]
+;B[fd]CR[fd]
+;W[ff]CR[ff]
+;B[gf]CR[gf]
+;W[fg]CR[fg]
+;B[he]CR[he]
+;W[dh]CR[dh]
+;B[id]CR[id]))

@@ -1,0 +1,460 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[600]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[cunyandy]WR[2k]BR[2k]DT[2009-03-07]PC[The KGS Go Server at http://www.gokgs.com/]C[cunyandy [2k\]: hi
+Bogoliubon [2k\]: one sec
+Bogoliubon [2k\]: hi
+Joven [-\]: hey
+Bogoliubon [2k\]: so we'll look quick then maybe grab a pro game.
+Bogoliubon [2k\]: I've been spending a lot of time with go world
+Bogoliubon [2k\]: game reviews in english are kind of enlightening
+]RE[W+Time]
+;B[pp]BL[595.868]C[Bogoliubon [2k\]: hi
+]
+;W[pe]WL[592.42]
+;B[dq]BL[592.641]
+;W[de]WL[589.423]C[Joven [-\]: Ive started going back through the free audiogolessons.com
+Bogoliubon [2k\]: cool.
+Bogoliubon [2k\]: I'm trying this as a new white opening
+Joven [-\]: btw have I sent you the goama archives I have.. there are a ton of reviewed games by breakfast
+Bogoliubon [2k\]: I can't make hoshi, san-san or komoku work as white
+Bogoliubon [2k\]: so here we are
+]
+;B[co]BL[591.941]C[Joven [-\]: so in this shape I always play K3
+Joven [-\]: Ive never played J3
+]
+;W[iq]WL[582.499]C[Joven [-\]: it sounds like a reasonable opening
+Bogoliubon [2k\]: just an idea
+]
+(;B[lq]BL[585.673]C[Bogoliubon [2k\]: let me give you control
+Joven [-\]: ok
+Bogoliubon [2k\]: it worked
+Joven [-\]: yeah nothing wrong with it
+Joven [-\]: just different than what I do so I wanted to think about it
+]
+;W[fq]WL[579.719]C[Joven [-\]: I think him playing at M3 rather than L3 is a little soft on you
+Bogoliubon [2k\]: c3 was my motive, but I'm sure it's overplay
+Joven [-\]: c3 is fine once you are strong on outside
+]
+;B[pc]BL[579.829]
+;W[nd]WL[570.819]C[Bogoliubon [2k\]: my head's already spinning
+Bogoliubon [2k\]: ladders could get subtle too with d3 and f3
+Joven [-\]: yeah
+Joven [-\]: for now I think Im going to avoid that move
+Joven [-\]: lol
+]
+(;B[nc]BL[572.849]
+;W[md]WL[561.822]C[Bogoliubon [2k\]: let me get some water, be back in one sec
+Joven [-\]: k
+]
+;B[mc]BL[569.222]
+;W[ld]WL[548.854]
+(;B[rd]BL[566.399]C[Joven [-\]: wierd...
+Joven [-\]: brb as well
+Joven [-\]: back
+Bogoliubon [2k\]: so yeah s16
+Joven [-\]: you opponent is crazy
+Bogoliubon [2k\]: was appreciated
+]
+(;W[qd]WL[545.378]
+;B[qc]BL[564.828]
+;W[re]WL[543.493]
+;B[rc]BL[555.247]
+(;W[lc]WL[540.328]C[Bogoliubon [2k\]: so you think m17 is a mistake
+Bogoliubon [2k\]: t16 is my sente
+Joven [-\]: I think this is fine
+Bogoliubon [2k\]: I wouldn't do this then
+Joven [-\]: ok
+]
+(;B[oe]BL[553.454]C[Joven [-\]: oh he did it right away
+]
+(;W[od]WL[538.813]
+;B[pd]BL[547.769]
+;W[qe]WL[536.922]
+;B[of]BL[534.709]
+;W[qg]WL[532.455]C[Bogoliubon [2k\]: I think go seigen would kill this corner
+Joven [-\]: Its pretty hard to do but mabe its possible
+Joven [-\]: but not with this time control
+Joven [-\]: Id have to stare at it for 20 minutes to figure it out
+]
+;B[oc]BL[520.073]C[Joven [-\]: you got everything then
+]
+;W[oh]WL[523.62]C[Joven [-\]: he connects
+Joven [-\]: wow
+Bogoliubon [2k\]: yeah
+Joven [-\]: this is amazing for you
+]
+;B[dd]BL[492.179]C[Joven [-\]: that move seems crazy
+Bogoliubon [2k\]: it's probably playable but not in this fuseki
+Bogoliubon [2k\]: you have control again
+Joven [-\]: its probably playable but its subpar compared to D17 I think
+]
+;W[cd]WL[511.777]C[Joven [-\]: ?
+]
+;B[cc]BL[459.814]
+;W[bc]WL[494.607]
+;B[bd]BL[378.183]
+;W[ce]WL[487.254]
+;B[bb]BL[375.056]
+;W[dc]WL[484.597]
+;B[cb]BL[373.722]
+;W[ed]WL[480.971]
+;B[hd]BL[366.867]
+;W[ng]WL[454.746]
+;B[fc]BL[363.724]
+;W[db]WL[452.506]
+;B[jb]BL[347.243]
+;W[ac]WL[449.603]
+;B[lb]BL[327.05]
+;W[ic]WL[446.059]
+;B[hb]BL[321.37]
+;W[ib]WL[440.411]
+;B[ia]BL[318.059]
+;W[jc]WL[433.651]
+;B[kc]BL[309.13]
+;W[kd]WL[430.42]
+;B[kb]BL[308.128]
+;W[hc]WL[423.207]C[Joven [-\]: wow he trades 30 points for 8
+]
+;B[gb]BL[306.351]
+;W[gd]WL[415.08]
+;B[fd]BL[303.533]
+;W[ge]WL[399.578]
+;B[fe]BL[298.851]
+;W[ff]WL[391.292]
+;B[ef]BL[290.816]
+;W[gf]WL[381.512]
+;B[ee]BL[289.399]
+;W[cg]WL[364.329]
+;B[da]BL[283.605]
+;W[ea]WL[354.835]
+;B[fg]BL[269.088]
+;W[if]WL[328.135]C[Bogoliubon [2k\]: to run on dame
+Joven [-\]: this is very much a Im just going to be thick becuase im already winning move
+]
+;B[dg]BL[240.542]
+;W[ch]WL[322.914]
+;B[qk]BL[197.778]
+;W[qq]WL[316.119]
+;B[qp]BL[191.094]
+;W[pq]WL[314.163]
+;B[oq]BL[189.946]
+;W[or]WL[311.199]
+;B[nr]BL[188.63]C[Joven [-\]: hmm is it better to still keep the corner
+Joven [-\]: Its hard to say
+Bogoliubon [2k\]: say again
+Bogoliubon [2k\]: where you speaking ov
+]
+(;W[nq]WL[304.843]
+;B[op]BL[187.506]
+;W[mr]WL[302.863]
+;B[pr]BL[185.517]
+;W[ns]WL[300.621]
+;B[qr]BL[184.592]
+;W[np]WL[296.601]
+;B[no]BL[183.099]
+;W[mo]WL[291.11]
+;B[nn]BL[151.99]
+;W[lp]WL[261.451]
+;B[qi]BL[124.273]
+;W[pl]WL[245.409]C[Bogoliubon [2k\]: I wanted to wake up the s3 aji
+Bogoliubon [2k\]: and I'm strong as hell
+Joven [-\]: makes sense
+]
+;B[nk]BL[96.987]
+;W[nm]WL[228.967]
+;B[mm]BL[92.884]
+;W[ok]WL[211.11]
+;B[oj]BL[89.045]
+;W[nj]WL[189.773]
+;B[oi]BL[64.118]
+;W[ni]WL[170.596]
+;B[pk]BL[51.741]
+;W[mk]WL[151.108]
+;B[nl]BL[44.693]
+;W[om]WL[142.004]
+;B[ml]BL[28.037]
+;W[oo]WL[107.516]
+;B[on]BL[17.604]
+;W[pn]WL[68.965]
+;B[mn]BL[30]OB[5]
+;W[rq]WL[63.167]C[Bogoliubon [2k\]: so I got what I ordered
+Bogoliubon [2k\]: and getting o10 is nice
+Joven [-\]: ok food time
+Bogoliubon [2k\]: a thousand things could've happened there
+Bogoliubon [2k\]: alright
+Bogoliubon [2k\]: enjoy
+]
+;B[rp]BL[30]OB[5]
+;W[rr]WL[58.17]
+;B[po]BL[30]OB[5]
+;W[lk]WL[37.157]
+;B[ji]BL[30]OB[5]
+;W[ja]WL[24.512]
+;B[ha]BL[30]OB[5]
+;W[cq]WL[30]OW[5]
+;B[dp]BL[30]OB[5]
+;W[dr]WL[30]OW[5]
+;B[er]BL[30]OB[5]
+;W[br]WL[30]OW[5]
+;B[ds]BL[30]OB[5]
+;W[cr]WL[30]OW[5]
+;B[eq]BL[30]OB[5]
+;W[bp]WL[30]OW[5]
+;B[bo]BL[30]OB[5]
+;W[aq]WL[30]OW[5]
+;B[li]BL[30]OB[5]
+;W[kj]WL[30]OW[5]
+;B[ki]BL[30]OB[5]
+;W[ik]WL[30]OW[5]
+;B[mh]BL[30]OB[5]
+;W[nh]WL[30]OW[5]
+;B[gi]BL[30]OB[5]
+;W[hi]WL[30]OW[5]
+;B[jj]BL[30]OB[5]
+;W[jk]WL[30]OW[5]
+;B[hh]BL[30]OB[5]
+;W[cl]WL[30]OW[4]
+;B[el]BL[30]OB[5]
+;W[em]WL[30]OW[4]
+;B[fp]BL[30]OB[5]
+;W[gq]WL[30]OW[4]
+;B[fm]BL[30]OB[5]
+;W[dm]WL[30]OW[4]
+;B[gp]BL[30]OB[5]
+;W[hp]WL[30]OW[4]
+;B[jp]BL[30]OB[5]
+;W[eo]WL[30]OW[4]
+;B[ep]BL[30]OB[4]
+;W[ho]WL[30]OW[4]
+;B[gn]BL[30]OB[4]
+;W[fn]WL[30]OW[4]
+;B[go]BL[30]OB[4]
+;W[gm]WL[30]OW[4]
+;B[hn]BL[30]OB[4]
+;W[in]WL[30]OW[4]
+;B[hm]BL[30]OB[4]
+;W[fl]WL[30]OW[4]
+;B[im]BL[30]OB[4]
+;W[jm]WL[30]OW[4]
+;B[gl]BL[30]OB[4]
+;W[gk]WL[30]OW[4]
+;B[fm]BL[30]OB[4]
+;W[fk]WL[30]OW[4]
+;B[hk]BL[30]OB[4]
+;W[hj]WL[30]OW[4]
+;B[io]BL[30]OB[3]
+;W[jn]WL[30]OW[4]
+;B[jq]BL[30]OB[3]
+;W[jr]WL[30]OW[4]
+;B[kr]BL[30]OB[3]
+;W[ir]WL[30]OW[4]
+(;B[ip]BL[30]OB[3]
+;W[hq]WL[30]OW[4]
+;B[gr]BL[30]OB[2]
+;W[kq]WL[30]OW[4]
+;B[kp]BL[30]OB[2]
+;W[ko]WL[30]OW[4]
+;B[mf]BL[30]OB[2]
+;W[ih]WL[30]OW[4]
+;B[ii]BL[30]OB[2]
+;W[hg]WL[30]OW[4]
+;B[gh]BL[30]OB[2]
+;W[hl]WL[30]OW[4]
+;B[jg]BL[30]OB[2]
+;W[ig]WL[30]OW[4]
+;B[me]BL[30]OB[2]
+;W[mg]WL[30]OW[4]
+;B[ke]BL[30]OB[2]
+;W[je]WL[30]OW[4]
+;B[le]BL[30]OB[2]
+;W[kf]WL[30]OW[4]
+;B[jd]BL[30]OB[2]
+;W[id]WL[30]OW[4]
+;B[lg]BL[30]OB[2]
+;W[kg]WL[30]OW[4]
+;B[lf]BL[30]OB[2]
+;W[jh]WL[30]OW[4]
+;B[ph]BL[30]OB[2]
+;W[pg]WL[30]OW[4]
+;B[mj]BL[30]OB[2]
+;W[og]WL[30]OW[4]
+;B[rh]BL[30]OB[2]
+;W[rg]WL[30]OW[4]
+;B[qh]BL[30]OB[2]
+;W[lj]WL[30]OW[4]
+;B[mi]BL[30]OB[2]
+;W[lh]WL[30]OW[4]
+;B[kh]BL[30]OB[2]
+;W[jf]WL[30]OW[4]
+;B[fr]BL[30]OB[1]
+;W[jo]WL[30]OW[4]
+;B[bm]BL[30]OB[1]
+;W[bl]WL[30]OW[4]
+;B[kq]BL[30]OB[1]
+;W[ks]WL[30]OW[4]
+;B[hr]BL[30]OB[1]
+;W[lr]WL[30]OW[4]
+;B[ao]BL[30]OB[1]
+;W[cm]WL[30]OW[4]
+;B[il]BL[30]OB[1]
+;W[gm]WL[30]OW[4]
+;B[ll]BL[30]OB[1]
+;W[kk]WL[30]OW[4]
+;B[jl]BL[30]OB[1]
+;W[kl]WL[30]OW[4]
+;B[km]BL[30]OB[1]
+;W[bn]WL[30]OW[4]
+;B[cj]BL[30]OB[1]
+;W[ei]WL[30]OW[4]
+;B[ba]BL[30]OB[1]
+(;W[be]WL[30]OW[4]
+;B[eb]BL[30]OB[1]
+;W[ca]WL[30]OW[4]
+;B[ne]BL[30]OB[1]
+;W[jd]WL[30]OW[4]
+;B[da]BL[30]OB[1]
+;W[mb]WL[30]OW[4]
+;B[ka]BL[30]OB[1]
+;W[ca]WL[30]OW[4]
+;B[sq]BL[30]OB[1]
+;W[ps]WL[30]OW[4]
+;B[da]BL[30]OB[1]
+;W[la]WL[30]OW[4]
+;B[ma]BL[30]OB[1]
+;W[ca]WL[30]OW[4]
+;B[sr]BL[30]OB[1]
+;W[ec]WL[30]OW[4]
+;B[fa]BL[30]OB[1]
+;W[fb]WL[30]OW[4]
+;B[kn]BL[30]OB[1]
+;W[mq]WL[30]OW[4]
+;B[eb]BL[30]OB[1]
+;W[dd]WL[30]OW[4]
+;B[da]BL[30]OB[1]
+;W[eh]WL[30]OW[4]C[Bogoliubon [2k\]: thanks
+])
+(;W[ab]
+;B[ad]
+;W[eb]
+;B[aa]
+;W[ac]
+;B[bf]
+;W[be]
+;B[cf]
+;W[ae]
+;B[bc]
+;W[df]))
+(;B[hq]
+;W[hr]
+;B[ip]
+;W[hq]
+;B[ko]
+(;W[kq]
+;B[kp]
+;W[ln]
+;B[lo]
+;W[mp]
+;B[kn]
+;W[lm]
+;B[km]
+;W[ll]
+;B[jl])
+(;W[fs]
+;B[es]
+;W[js]
+;B[ks]
+;W[fr])
+(;W[js]
+;B[lr]
+;W[fr]
+;B[gs]
+;W[fs])))
+(;W[rp]C[Joven [-\]: Im considering this move
+Bogoliubon [2k\]: proteus distracted me
+Bogoliubon [2k\]: I should learn these
+Bogoliubon [2k\]: how to keep the corner if I want
+Bogoliubon [2k\]: I thought with j3
+Joven [-\]: this way you can either take ponnuki on other side
+Bogoliubon [2k\]: it would be ok to split, though my shape sucks
+Joven [-\]: or live in corner
+]
+;B[ro]
+;W[qo]
+(;B[op]C[Joven [-\]: if he keeps things simple
+]
+;W[rn]
+;B[rq]C[Joven [-\]: you get ponnuki here
+]
+;W[so]C[Bogoliubon [2k\]: interesting
+]
+;B[qr]
+;W[on]C[Bogoliubon [2k\]: s4 seems pretty key
+])
+(;B[po]C[Joven [-\]: or he can fight back
+]
+;W[rq]
+;B[qn]
+(;W[ps])
+(;W[nq]
+;B[op]
+;W[mr]C[Bogoliubon [2k\]: capture yeah
+Joven [-\]: and you live in the corner
+Bogoliubon [2k\]: I didn't see the ko in the corner till he played it top left
+Bogoliubon [2k\]: let me fast forward a bit and then we can look at a progame
+Joven [-\]: almost dinner time for me
+Joven [-\]: carrie is making food
+Bogoliubon [2k\]: nice
+Joven [-\]: ok fast forward
+]))))
+(;W[pf])
+(;W[of]))
+(;B[qj]C[Bogoliubon [2k\]: back too
+])
+(;B[qk]C[Joven [-\]: he should totally just do something like this
+Joven [-\]: your stones are going to cry if you dont protect
+]
+(;W[oe]
+;B[qp]C[Bogoliubon [2k\]: with d17 open
+Joven [-\]: I dont know how he cant be happy with this
+]
+;W[dc]C[Bogoliubon [2k\]: sould you play on the right
+]
+;B[dj]C[Joven [-\]: and I think this seems reasonable
+Bogoliubon [2k\]: except for p15
+Bogoliubon [2k\]: I don't have time for that
+Joven [-\]: no I think this opening is fine for both
+Bogoliubon [2k\]: show me how they cry
+])
+(;W[dc]
+;B[oe]
+;W[od]
+;B[pd]
+;W[qe]
+;B[of]
+;W[qg]
+;B[oh]C[Joven [-\]: looks rather painful to me
+])
+(;W[qi]C[Bogoliubon [2k\]: can protect like this too I guess
+])))
+(;W[qj]
+;B[kc]
+;W[qn]))
+(;W[lc]))
+(;B[lc])
+(;B[kc]))
+(;B[qe]C[Joven [-\]: so I talked to greg about this move
+Joven [-\]: and he claims it can turn into one of the most complicated josekis in go
+Joven [-\]: lol
+]
+;W[qd]
+;B[pd]
+;W[qc]
+;B[qb]C[Joven [-\]: and he says this can be bloody complicated
+]))
+(;B[kq]
+;W[fq]C[Bogoliubon [2k\]: I tried it just cause.  my thinking was he'll want to play from the hoshi side
+Bogoliubon [2k\]: and I like the c3 follow up
+Joven [-\]: well you are also more squezzed against his stones
+Bogoliubon [2k\]: but bottom right is big
+Joven [-\]: but whatever
+]))

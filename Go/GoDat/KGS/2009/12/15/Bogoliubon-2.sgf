@@ -1,0 +1,174 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]HA[2]KM[0.50]TM[600]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[resool]WR[2k]BR[4k]DT[2009-12-15]PC[The KGS Go Server at http://www.gokgs.com/]C[resool [4k\]: hi
+resool [4k\]: gg
+]RE[W+Resign]
+;B[qd]BL[593.094]C[Bogoliubon [2k\]: hello
+]
+;B[cq]BL[591.33]
+;W[cd]WL[587.588]
+;B[pp]BL[587.504]
+;W[oc]WL[580.998]
+;B[pe]BL[584.328]
+;W[kc]WL[574.726]
+;B[qj]BL[580.447]
+;W[nq]WL[568.766]
+;B[pn]BL[574.766]
+;W[pr]WL[565.881]
+;B[qq]BL[572.901]
+;W[kq]WL[555.922]
+;B[fp]BL[567.364]
+;W[cl]WL[536.203]C[Bogoliubon [1k\]: was in hopes I'd get something to attack
+Bogoliubon [1k\]: in c11 area soon enough
+Bogoliubon [1k\]: and c6 feels overconcentrated, but is probably good enough in a handicap game
+]
+;B[cn]BL[556.809]
+;W[dp]WL[502.743]
+;B[cp]BL[550.85]
+;W[dn]WL[489.392]
+;B[dq]BL[540.479]C[Bogoliubon [1k\]: but that's enough of this.
+logicg8 [3k\]: blitz game?
+Bogoliubon [1k\]: sure
+logicg8 [3k\]: I've got to go to work soon
+Bogoliubon [1k\]: ok
+logicg8 [3k\]: I'll set it up
+]
+;W[cm]WL[474.595]
+(;B[bn]BL[523.299]
+;W[do]WL[462.056]
+(;B[iq]BL[502.453]
+;W[ed]WL[420.407]C[logicg8 [3k\]: It's tough to pick
+]
+(;B[ci]BL[491.134]C[Bogoliubon [1k\]: part of the reason I played far here
+]
+;W[cg]WL[415.094]
+;B[ei]BL[454.723]
+;W[eq]WL[408.467]
+;B[ep]BL[417.118]
+;W[fl]WL[391.457]
+;B[eg]BL[374.256]
+;W[dh]WL[385.096]C[Bogoliubon [1k\]: you played well here.
+Bogoliubon [1k\]: it's white who is pressed to find good moves
+]
+;B[di]BL[345.387]
+;W[eh]WL[380.038]
+;B[fh]BL[343.463]
+;W[fi]WL[366.507]
+;B[cf]BL[334.373]
+(;W[fg]WL[243.136]
+;B[gh]BL[329.042]
+;W[ef]WL[170.845]C[Bogoliubon [1k\]: it's hard to say
+Bogoliubon [1k\]: but f11 is a very important stone
+Bogoliubon [1k\]: and white is weak around e7
+]
+(;B[bg]BL[309.962]C[resool [5k\]: yes
+]
+;W[gi]WL[157.702]C[Bogoliubon [1k\]: after this move I don't care how many points you get on the left
+]
+(;B[ch]BL[303.481]C[Bogoliubon [1k\]: just living is almost never sufficient
+Bogoliubon [1k\]: (adam)
+]
+;W[dg]WL[154.415]
+;B[df]BL[299.713]
+;W[eg]WL[153.032]C[Bogoliubon [1k\]: white's shape is crap, courtesy your good c14 move
+Bogoliubon [1k\]: I still think the g12 stones are more important then anything on the left
+]
+;B[be]BL[298.618]
+;W[bd]WL[143.367]
+;B[af]BL[294.875]
+;W[de]WL[128.67]
+;B[ce]BL[290.819]
+;W[ad]WL[117.324]C[Bogoliubon [1k\]: but I get to fix it easily because of your moves inside
+]
+;B[ae]BL[288.893]
+;W[hh]WL[108.07]C[Bogoliubon [1k\]: you need a net breaker not a ladder breaker here.
+]
+;B[dc]BL[266.716]
+;W[dd]WL[102.279]
+;B[jd]BL[242.384]
+;W[jc]WL[88.988]
+;B[id]BL[235.357]
+;W[hc]WL[47.296]
+;B[gg]BL[228.034]
+;W[hf]WL[38.764]
+;B[gf]BL[225.516]
+;W[ge]WL[37.058]
+;B[he]BL[194.385]
+;W[hg]WL[19.518]
+;B[gd]BL[127.759]
+;W[fe]WL[30]OW[5]
+;B[hd]BL[100.445]C[Bogoliubon [1k\]: also notice that even if you break into the side, you have that living thing to work out
+]
+;W[gc]WL[30]OW[5]
+(;B[ic]BL[24.068]
+;W[ib]WL[30]OW[5]
+;B[fc]BL[18.311]
+;W[fd]WL[30]OW[4]
+;B[fb]BL[13.854]
+;W[gb]WL[30]OW[4]C[Bogoliubon [1k\]: this ended up removing your own liberties on g16 stones
+resool [5k\]:  ye, this was bad
+]
+;B[cb]BL[11.444]
+;W[bb]WL[30]OW[4]
+;B[fa]BL[8.407]
+;W[jb]WL[30]OW[4]
+;B[le]BL[30]OB[5]
+;W[oe]WL[30]OW[4]
+;B[mc]BL[30]OB[5]C[Bogoliubon [1k\]: this need not be a bad strategy
+Bogoliubon [1k\]: provided you are trying to attack p15
+Bogoliubon [1k\]: stones
+Bogoliubon [1k\]: I didn't have time to check if I could get away cutting
+]
+;W[kd]WL[30]OW[4]C[Bogoliubon [1k\]: so i just played simple
+Bogoliubon [1k\]: which seemed to be sufficient
+]
+(;B[ke]BL[30]OB[5]C[resool [4k\]: thank you
+Bogoliubon [1k\]: thanks
+resool [5k\]: bye
+Bogoliubon [1k\]: bye
+Bogoliubon [1k\]: you there adam?
+logicg8 [3k\]: EVIL
+resool [5k\]: me?
+Bogoliubon [1k\]: who got anywhere in this world by good
+])
+(;B[of]C[Bogoliubon [1k\]: it may be a little premature to resign
+Bogoliubon [1k\]: you do have a lot of territory
+resool [5k\]: ok
+Bogoliubon [1k\]: but you would need to get a lot out of this attack
+]))
+(;B[le]C[Bogoliubon [1k\]: since the aji doesn't work right away
+Bogoliubon [1k\]:  just wait
+])
+(;B[nd]
+;W[nc]
+;B[le]))
+(;B[hi]C[Bogoliubon [1k\]: to the point I'd consider a counterattack like this
+]))
+(;B[fj]
+;W[gi]
+;B[gj]
+;W[hi]
+;B[hj]C[Bogoliubon [1k\]: I'm tempted to push out here were I you
+Bogoliubon [1k\]: f8 stones are not strong
+]))
+(;W[bf]
+;B[bg]
+;W[bh]
+;B[ch]C[Bogoliubon [1k\]: classic tesuji
+resool [5k\]: ok
+]))
+(;B[eh])
+(;B[gc])
+(;B[el]C[resool [5k\]: ok.. thank you, have to go, see you somtimes :-) 
+Bogoliubon [1k\]: ok, thanks for the game
+Bogoliubon [1k\]: you there adam
+logicg8 [3k\]: Yup
+Bogoliubon [1k\]: he needed a better invasion point
+]))
+(;B[ed]))
+(;B[do]C[Bogoliubon [1k\]: I'd be tempted here
+Bogoliubon [1k\]: point wise it's smaller
+Bogoliubon [1k\]: but white's d6 stone seems silly
+]
+(;W[bn])
+(;W[ed])))

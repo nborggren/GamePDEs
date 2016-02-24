@@ -1,0 +1,520 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[9]KM[0.50]
+PW[Zwom]PB[LaRochelle]WR[3k]BR[19k]DT[2006-11-12]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[Zwom [3k\]: let's just look from the start
+LaRochelle [19k\]: uh oh
+]RE[W+Resign]
+;W[]
+;B[gg]
+;W[]
+;B[mg]
+;W[]
+;B[gm]
+;W[]
+;B[mm]C[Zwom [3k\]: now let's start!
+]
+;W[nq]C[LaRochelle [19k\]: ok!
+Zwom [3k\]: your doing great up til now.
+LaRochelle [19k\]: haha, very funny
+]
+(;B[mq]
+;W[no]TR[pp]C[LaRochelle [19k\]: I thought that was the proper move
+Zwom [3k\]: watch what happens to this stone
+]
+;B[pn]
+;W[fq]
+;B[dq]
+;W[jq]
+;B[lq]
+;W[kp]
+;B[kq]
+;W[ko]
+;B[nr]
+;W[oq]
+;B[or]
+;W[pq]
+;B[pr]
+;W[qq]TR[pp][pq][pr]C[Zwom [3k\]: you'r weaking it considerably
+]
+;B[mr]
+;W[jr]C[Zwom [3k\]: after this
+LaRochelle [19k\]: I wasn't sure I could save it at all
+Zwom [3k\]: assuming I can't be cut and captures
+]
+(;B[jo]
+;W[kn]
+;B[nn]
+;W[mo]
+;B[ln]
+;W[jn]
+;B[in]
+;W[im]
+;B[io]
+;W[kr]C[Zwom [3k\]: so I do this soon as I think I have enough liberties
+]
+;B[qr]
+;W[rr]
+;B[rq]
+;W[rp]
+;B[rs]
+;W[sq]
+;B[ls]C[LaRochelle [19k\]: one more where?
+]
+;W[lr]C[LaRochelle [19k\]: I felt like I was just scraping along
+]
+(;B[ms]
+;W[kl]
+;B[mk]
+;W[qm]
+;B[pl]
+;W[hm]
+;B[hn]
+;W[gn]
+;B[go]
+;W[fn]
+;B[fo]
+;W[hp]
+(;B[en]
+;W[fm]
+;B[eo]
+;W[ho]C[LaRochelle [19k\]: hmmm... not doing so well thus far.
+]
+;B[om]
+;W[qf]
+;B[qe]
+;W[of]
+;B[oe]
+;W[nf]C[LaRochelle [19k\]: indeed
+]
+;B[ne]
+;W[mf]
+;B[me]TR[me][mf][mg]C[LaRochelle [19k\]: still okay?
+Zwom [3k\]: you should try avoiding this shape
+]
+(;W[qc]
+;B[pc]
+;W[re]C[LaRochelle [19k\]: bc?
+]
+;B[qd]
+;W[rd]
+;B[nb]
+;W[lf]
+;B[le]
+;W[nl]C[LaRochelle [19k\]: ouch
+Zwom [3k\]: this move had very evil intentions.
+LaRochelle [19k\]: yep
+Zwom [3k\]: it ended up being exactly the vital point
+]
+;B[nm]
+;W[kj]
+;B[lj]
+;W[ki]
+;B[li]
+;W[lh]
+;B[mh]C[LaRochelle [19k\]: n8?
+]
+;W[lg]C[LaRochelle [19k\]: N
+]
+(;B[ll]C[LaRochelle [19k\]: I always forget that, as stupid as that sounds
+LaRochelle [19k\]: I get so wrapped up in connecting
+Zwom [3k\]: this move gives you ko but you should try avoiding it
+LaRochelle [19k\]: ko?
+LaRochelle [19k\]: how can you see that?
+]
+;W[ni]
+;B[oh]
+;W[nh]
+;B[mi]
+;W[oi]
+;B[nj]
+;W[oj]
+;B[ok]
+;W[nk]
+;B[mj]
+;W[pi]C[Zwom [3k\]: white can't atari notice
+]
+(;B[ol]C[Zwom [3k\]: this is bad
+]
+;W[qj]C[LaRochelle [19k\]: again, I got wrapped up on connecting
+Zwom [3k\]: allowing me to atari fixes my problems and removes mos hope of eyes
+]
+(;B[pk]
+;W[qk]C[LaRochelle [19k\]: 011 was bad fir ne
+LaRochelle [19k\]: 'for me
+]
+;B[ql]
+;W[qi]
+;B[rl]C[LaRochelle [19k\]: wow, so many possibilities I missed
+]
+;W[qn]
+;B[oo]
+;W[pm]
+;B[ml]
+;W[qo]
+;B[kk]
+;W[jk]
+;B[km]C[LaRochelle [19k\]: k
+LaRochelle [19k\]: so I was okay there, yes?
+]
+;W[jl]
+;B[lo]
+;W[lp]
+;B[mp]
+;W[jm]
+(;B[lm]C[LaRochelle [19k\]: yep
+]
+;W[np]
+;B[op]C[LaRochelle [19k\]: being narrow-sighted again
+]
+;W[cc]
+;B[dc]
+;W[cd]
+;B[de]
+;W[ce]
+;B[cf]
+;W[bf]
+;B[cg]
+;W[bg]
+(;B[ch]
+;W[db]C[LaRochelle [19k\]: sorry, misclicked
+]
+;B[eb]
+;W[cb]
+;B[fc]
+;W[jb]C[Zwom [3k\]: an invasion like this is total fantasy
+Zwom [3k\]: I need a mistake for it to work
+]
+;B[ic]
+;W[mb]
+;B[mc]
+;W[lb]
+;B[lc]
+;W[kc]C[LaRochelle [19k\]: so you shouldn't have been able to do it?
+Zwom [3k\]: no I don't think so
+LaRochelle [19k\]: *embarrassed*
+Zwom [3k\]: your first moves were go
+Zwom [3k\]: good
+Zwom [3k\]: it was just up til here
+Zwom [3k\]: it's not an easy problem to solve.  you shouldn't be embrassed.
+]
+(;B[kd]C[LaRochelle [19k\]: that's two cases now where an empty triangle would've worked
+LaRochelle [19k\]: that was tough
+]
+;W[ib]C[LaRochelle [19k\]: I thought I did a little better there
+]
+;B[hb]
+;W[jc]C[Zwom [3k\]: I think after this I'm alive
+]
+(;B[hd]
+;W[ka]
+;B[na]
+;W[ma]
+;B[nc]
+;W[cl]
+;B[dm]
+;W[cj]
+;B[di]
+;W[bh]
+;B[ci]
+;W[bj]
+;B[dl]
+;W[cm]
+;B[cn]
+;W[bn]
+;B[co]
+;W[dk]
+;B[ek]
+;W[ck]
+;B[gl]
+;W[fl]
+;B[gk]
+;W[fk]
+;B[el]
+;W[fj]
+;B[fi]
+;W[gj]
+;B[ej]
+;W[gi]
+;B[fh]
+;W[er]
+;B[cr]
+;W[qb]
+;B[pb]
+;W[ig]
+;B[if]
+;W[jf]
+;B[je]
+;W[hf]
+;B[he]
+;W[ie]
+;B[id]
+;W[gf]
+;B[ff]
+;W[ge]
+;B[fe]
+;W[gd]
+;B[gc]
+;W[hg]
+;B[gh]
+;W[hh]
+;B[fd]
+;W[bo]
+;B[bp]
+;W[dr]
+;B[bm]
+;W[am]
+;B[ao]
+;W[bl]
+;B[ds]
+;W[es]
+;B[cs]
+;W[ea]
+;B[fa]
+;W[da]
+;B[gb]
+;W[ha]
+;B[ga]
+;W[ia]
+;B[hc]
+;W[pa]
+;B[oa]
+;W[qa]
+;B[pf]
+;W[pg]
+;B[qg]
+;W[pe]
+;B[rf]
+;W[pf]
+;B[ng]
+;W[ph]
+;B[rm]
+;W[rn]
+;B[rk]
+;W[rj]
+;B[sj]
+;W[si]
+;B[sk]
+;W[sm]
+;B[kh]
+;W[ji]
+;B[kf]
+;W[kg]
+;B[jg]
+;W[jh]
+;B[ke]
+;W[gp]
+;B[fp]
+;W[rg]
+;B[if]
+;W[jg]
+;B[ks]
+;W[js]
+;B[qs]
+;W[os]
+;B[eq]
+;W[gr]
+;B[ij]
+;W[an]
+;B[ap]
+;W[bi]
+;B[hk]
+;W[so]
+;B[ik]
+;W[ie]
+;B[il]
+;W[ip]C[LaRochelle [19k\]: ack!
+Zwom [3k\]: so much for taking it easy on you
+LaRochelle [19k\]: yeah, no kidding!  you demolished me
+])
+(;B[ka]
+;W[hc]
+;B[id]
+;W[gb]
+;B[kb]
+;W[ha]
+;B[ja]))
+(;B[jc]C[LaRochelle [19k\]: ??
+]
+;W[ib]
+;B[hb]
+;W[kd]
+;B[ke]
+;W[ka]
+;B[ma]C[Zwom [3k\]: you can kill this
+Zwom [3k\]: it shouldn't live
+])
+(;B[ib]C[Zwom [3k\]: that's probably sufficient to.
+LaRochelle [19k\]: hm
+Zwom [3k\]: that's probably simplest though
+LaRochelle [19k\]: my reading skills are still not good... I can only see a few moves then it's all mush
+Zwom [3k\]: They say "if you can read two moves ahead perfectly, you're already pro"
+LaRochelle [19k\]: key word, "perfectly"
+Zwom [3k\]: problems are a good way to get better.  read read read read read as my teacher says
+LaRochelle [19k\]: :)
+Zwom [3k\]: he's right too.
+Zwom [3k\]: well that's about enough review.
+Zwom [3k\]: do you save your games and review them later?
+Zwom [3k\]: this may be a good one to save to the disk
+LaRochelle [19k\]: I enjoy our games, I always learn alot.  Yes, I save the good teaching ones
+Zwom [3k\]: that's good.  well I need to get back to work.  it's been fun.
+LaRochelle [19k\]: Thanks.  Hope we can play again soon.
+Zwom [3k\]: sure
+Zwom [3k\]: bye now.
+LaRochelle [19k\]: bye
+]
+(;W[kd]
+;B[ke]
+;W[ka]
+;B[ma])
+(;W[ka]
+;B[jc]))
+(;B[kb])
+(;B[ka]C[Zwom [3k\]: it looks like this works too
+]
+;W[ib]
+;B[hc]
+;W[hb]
+;B[gb]
+;W[kd]
+;B[ke]
+;W[ja]
+;B[ha])
+(;B[ma]C[LaRochelle [19k\]: I should actually do things like that... I never do
+Zwom [3k\]: just read out variations in your head first.  I think this works too
+]
+;W[ib]
+;B[hb]
+;W[jc]
+;B[id]
+;W[ka]
+;B[ia]))
+(;B[ci]
+;W[db]))
+(;B[np]C[Zwom [3k\]: this would have solved all your problems
+LaRochelle [19k\]: go back a couple more moves please
+LaRochelle [19k\]: there it is
+Zwom [3k\]: and this was probably the last of the pssibillities
+Zwom [3k\]: the best solution would be to avoid these complications in the first place, but in life and death situations the mantra should be "maximize eye space"
+LaRochelle [19k\]: I will try to keep that forefront in my mind
+]))
+(;B[qk]
+;W[pk]
+;B[ql]
+;W[qn]))
+(;B[kk]
+;W[jk]
+;B[jl]
+;W[lk]C[LaRochelle [19k\]: oh
+Zwom [3k\]: ko
+LaRochelle [19k\]: that one
+])
+(;B[qj]
+;W[ql]
+;B[qi]
+;W[qh]
+;B[ph]
+;W[ng]
+;B[rh]
+;W[qg]
+;B[rg]
+;W[rf]
+;B[rk]
+;W[qk]
+;B[pk]
+;W[rl]
+;B[rj]
+;W[si]
+;B[sh]C[Zwom [3k\]: you can find a second eye still it seems
+]))
+(;B[ql]
+;W[rl]
+;B[rk]
+;W[rm]
+;B[qh]C[Zwom [3k\]: you should try maximizing your eyespace when people are trying to kill you
+]))
+(;W[lf]C[LaRochelle [19k\]: oh
+Zwom [3k\]: The closer your stones are together when they are cut the more severe the cut
+LaRochelle [19k\]: ah
+Zwom [3k\]: it means you have to live on both sides
+]))
+(;B[ho]
+;W[eo]
+;B[en]
+;W[fm]
+;B[ep]C[LaRochelle [19k\]: that was it for that area
+]
+;W[do]
+;B[fp]C[LaRochelle [19k\]: I thought once you played h5
+LaRochelle [19k\]: er, h4
+]
+;W[cc]
+(;B[hr]
+;W[iq]
+;B[hq]
+;W[gp]
+;B[gq]
+;W[ip]
+;B[ir]C[LaRochelle [19k\]: dead?
+Zwom [3k\]: white is dead
+])
+(;B[hq]
+;W[iq]
+;B[hr]
+;W[ip]
+;B[gp]
+;W[gq]C[Zwom [3k\]: furthermore that makes your n2 group alive
+]
+;B[ir]C[Zwom [3k\]: same this way
+LaRochelle [19k\]: dead
+])))
+(;B[lo]
+;W[lp]
+;B[mp]
+;W[lm]
+;B[mn]
+;W[np]
+;B[jm]
+;W[km]
+;B[jl]C[LaRochelle [19k\]: oh
+LaRochelle [19k\]: wow
+Zwom [3k\]: I'd try to fight,
+Zwom [3k\]: I don't know if this works or not, but you shoud try
+]
+;W[kk]
+(;B[kl]C[LaRochelle [19k\]: j8
+]
+;W[ll]C[LaRochelle [19k\]: ?
+])
+(;B[lk]
+(;W[ll]
+;B[ml]
+;W[kl]
+;B[kj])
+(;W[kl]
+;B[kj]
+;W[jk]
+;B[ik]C[Zwom [3k\]: maybe not I can't tell
+]
+;W[il]))))
+(;B[kr]C[Zwom [3k\]: you need one more move to live
+]
+(;W[ls]
+;B[ks]
+;W[qr]
+;B[ps]
+;W[ms]
+;B[ns]C[Zwom [3k\]: two eyes
+Zwom [3k\]: no problems
+LaRochelle [19k\]: oic
+])
+(;W[qr]C[LaRochelle [19k\]: small but alive
+]
+;B[ls]C[Zwom [3k\]: right
+]))
+(;B[qr]C[Zwom [3k\]: this works to
+LaRochelle [19k\]: really?
+])
+(;B[ks]))
+(;B[oq]
+;W[np]
+;B[pn]C[Zwom [3k\]: kick from this side
+]))

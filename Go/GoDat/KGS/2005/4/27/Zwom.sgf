@@ -1,0 +1,235 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[13]KM[0.50]TM[300]OT[5x30 byo-yomi]
+PW[sharr]PB[Zwom]WR[9k]BR[12k]DT[2005-04-27]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]C[sharr [9k\]: hi
+]RE[B+Resign]
+(;B[je]CR[je]BL[445.908]
+;W[dk]CR[dk]WL[446.495]C[Zwom [12k\]: hell
+]
+;B[ce]CR[ce]BL[439.246]
+;W[jj]CR[jj]WL[442.816]
+;B[jc]CR[jc]BL[432.591]
+;W[kg]CR[kg]WL[437.526]
+;B[kf]CR[kf]BL[426.351]
+;W[jg]CR[jg]WL[433.111]
+;B[di]CR[di]BL[423.180]
+;W[ci]CR[ci]WL[425.954]
+;B[ch]CR[ch]BL[418.385]
+;W[cj]CR[cj]WL[424.534]
+;B[eh]CR[eh]BL[412.697]
+;W[fj]CR[fj]WL[419.983]
+;B[if]CR[if]BL[392.112]
+;W[dc]CR[dc]WL[414.558]
+;B[cc]CR[cc]BL[388.549]
+;W[cb]CR[cb]WL[411.450]
+;B[bc]CR[bc]BL[384.745]
+;W[bb]CR[bb]WL[404.660]
+;B[ec]CR[ec]BL[382.424]
+;W[dd]CR[dd]WL[401.795]
+;B[de]CR[de]BL[378.608]
+;W[eb]CR[eb]WL[393.589]
+;B[ed]CR[ed]BL[348.335]
+;W[fb]CR[fb]WL[387.073]
+;B[db]CR[db]BL[345.855]
+;W[da]CR[da]WL[385.224]
+;B[ab]CR[ab]BL[343.304]
+;W[ba]CR[ba]WL[375.296]
+;B[jk]CR[jk]BL[329.447]
+;W[ik]CR[ik]WL[371.199]
+;B[kk]CR[kk]BL[327.363]
+;W[kj]CR[kj]WL[369.677]
+;B[il]CR[il]BL[316.701]
+;W[hl]CR[hl]WL[355.153]
+;B[lj]CR[lj]BL[310.287]
+;W[jl]CR[jl]WL[344.598]
+;B[ij]CR[ij]BL[300.982]
+;W[hk]CR[hk]WL[331.982]
+;B[ji]CR[ji]BL[299.418]
+;W[ki]CR[ki]WL[325.193]
+;B[kh]CR[kh]BL[297.611]
+;W[lg]CR[lg]WL[291.946]
+;B[ig]CR[ig]BL[284.651]
+;W[kd]CR[kd]WL[277.478]
+;B[lf]CR[lf]BL[277.180]
+;W[jd]CR[jd]WL[272.896]
+;B[id]CR[id]BL[275.244]
+;W[kc]CR[kc]WL[263.624]
+;B[jb]CR[jb]BL[272.166]
+;W[kb]CR[kb]WL[258.077]
+;B[hc]CR[hc]BL[265.294]
+;W[le]CR[le]WL[250.377]
+;B[ke]CR[ke]BL[255.504]
+(;W[md]CR[md]WL[244.141]C[Azazil [-\]: The shape should be white to live, or black to kill, depending who plays first
+]
+(;B[mb]CR[mb]BL[246.743]C[Azazil [-\]: lol, ah
+Azazil [-\]: m12
+Azazil [-\]: n12 is the wrong first move to kill
+Azazil [-\]: can I have controll?
+Zwom [12k\]: sure.
+]
+;W[lb]CR[lb]WL[202.974]C[Zwom [12k\]: o
+]
+;B[mf]CR[mf]BL[234.884]C[sharr [9k\]: thanks
+Zwom [12k\]: thanks.  ko no?
+Azazil [-\]: n11
+]
+;W[mc]CR[mc]
+;B[ld]CR[ld]C[Azazil [-\]: n13
+]
+;W[ma]CR[ma]C[Azazil [-\]: miai, so white lives, because black started at the wrong place
+]
+;B[ka]CR[ka]
+;W[me]CR[me]
+;B[la]CR[la]
+;W[ja]CR[ja]
+;B[ka]CR[ka]
+;W[la]CR[la])
+(;B[ka]CR[ka]C[Azazil [-\]: this is the right move to kill
+]
+;W[la]CR[la]
+;B[mb]TR[ka][mb]C[Zwom [12k\]: I see.  
+Azazil [-\]: these two moves together are the winning tesuji
+Azazil [-\]: it's worth knowing however,
+]
+(;W[lb]CR[lb]
+;B[mf]CR[mf]
+;W[mc]CR[mc]
+;B[ld]CR[ld]C[Azazil [-\]: dead
+])
+(;W[lc]CR[lc]
+;B[mf]CR[mf]
+;W[me]CR[me]
+;B[mc]CR[mc]C[Azazil [-\]: still dead
+])))
+(;W[ja]CR[ja]C[Azazil [-\]: if white can get this in sente
+Azazil [-\]: then white is alive
+]
+;B[ib]CR[ib]
+;W[md]CR[md]C[Azazil [-\]: now this is alive shape
+Azazil [-\]: in general
+]
+;B[ka]CR[ka]
+;W[lb]CR[lb]C[Azazil [-\]: best response for white
+Zwom [12k\]: interesting
+]))
+(;AE[jd]AW[hb][jb][jc][hd][je][ke][le][lg]AB[kb][kc][kd][ld]C[Azazil [-\]: to borrow James Davies terms,
+Azazil [-\]: This is the L group
+Azazil [-\]: It is the single most important shape in life and death in my opinion
+Azazil [-\]: You need to *know* without reading, that it is always dead
+Azazil [-\]: doesnt' matter who plays first, it's always dead
+Azazil [-\]: most other shapes seem to reduce back into this
+Azazil [-\]: it's worth looking at this again later
+Azazil [-\]: you should burn this shpae into your memory :)
+Azazil [-\]: This is important since,
+]
+(;B[mb]CR[mb]
+;W[la]CR[la]
+;B[ka]CR[ka]
+;W[md]CR[md]
+;B[mc]CR[mc]
+;W[lb]CR[lb]C[Azazil [-\]: dead
+])
+(;B[md]CR[md]
+;W[ka]CR[ka]
+;B[la]CR[la]
+;W[mb]CR[mb]C[Azazil [-\]: dead
+])
+(;AW[lf]AB[le]C[Azazil [-\]: suppose it's like this
+Azazil [-\]: is the shape alive, dead, or does it depends who plays first?
+Zwom [12k\]: I'm thinking it depends on who plays first.
+Azazil [-\]: that's right
+Azazil [-\]: if black goes first, it's easy to live
+]
+(;B[mb]CR[mb]
+;W[la]CR[la]
+;B[ka]CR[ka]
+;W[me]CR[me]
+;B[md]CR[md]
+;W[lb]CR[lb]
+;B[lc]CR[lc]C[Azazil [-\]: no problem
+])
+(;B[dj]CR[dj]C[Azazil [-\]: if white goes first,
+]
+;W[me]CR[me]TR[kb][kc][kd][ld]C[Azazil [-\]: when white plays here, it is the L group again right?
+Zwom [12k\]: Indeed!
+Azazil [-\]: As I said, it comes up again and again :)
+Azazil [-\]: similarly
+]))
+(;AE[hc]AW[ib][id]AB[jb]C[Azazil [-\]: same thing with this shape,
+Azazil [-\]: if you know, without thinking that the L group is dead,
+Azazil [-\]: then it's easy to see how to kill this
+]
+;B[dj]CR[dj]
+;W[ja]CR[ja])
+(;AE[ld]AW[lf]AB[md][le]C[Azazil [-\]: this is known as the J group
+Azazil [-\]: it's a lot like the L+1 (L with an extension)
+Azazil [-\]: white can kill, black can live
+Azazil [-\]: the only other trick in this shape is the hane at k13
+]
+(;B[mb]CR[mb]C[Azazil [-\]: this is the best way to live
+Azazil [-\]: (sorta a theme going here :)
+])
+(;B[dj]CR[dj]
+(;W[ka]CR[ka]C[Azazil [-\]: and this is the only way to kill unconditionally
+]
+;B[la]CR[la]
+;W[mb]CR[mb])
+(;W[lb]CR[lb]C[Azazil [-\]: if white tries here he gets ko, instead of just killing
+]
+;B[mb]CR[mb]
+;W[ka]CR[ka]
+;B[la]CR[la]
+;W[ma]CR[ma]
+;B[lc]CR[lc]C[Azazil [-\]: see?
+Zwom [12k\]: yes
+]))
+(;B[ja]CR[ja]
+;W[ib]CR[ib]C[Azazil [-\]: if black can get the hane in
+Azazil [-\]: then he's alive
+]
+;B[dj]CR[dj]
+;W[ka]CR[ka]
+;B[lb]CR[lb]C[Azazil [-\]: so for example
+])))
+(;B[jd]CR[jd]
+;W[kf]CR[kf]
+;B[dj]CR[dj]
+;W[hc]CR[hc]
+;B[dd]CR[dd]
+;W[ie]CR[ie]C[Azazil [-\]: black is off playing another game :)
+Azazil [-\]: but now he has to live in the corner
+]
+;B[kc]CR[kc]
+;W[ld]CR[ld]
+;B[lc]CR[lc]
+;W[kd]CR[kd]C[Azazil [-\]: let's start with a mistakek
+]
+(;B[ib]CR[ib]
+;W[ic]CR[ic]
+;B[jc]CR[jc]
+;W[hb]CR[hb]C[Azazil [-\]: now,
+Azazil [-\]: we know if black plays k13 he dies right?
+Azazil [-\]: since it's whites turn
+Zwom [12k\]: right.
+]
+;B[je]CR[je]
+;W[jf]CR[jf]
+;B[md]CR[md]C[Azazil [-\]: so black has to make this exchange first
+Azazil [-\]: it is sente, so white has to answer,
+]
+;W[lf]CR[lf]
+;B[ja]CR[ja]TR[md]C[Azazil [-\]: now black is alive
+Azazil [-\]: anyway, those are some common corner shapes
+Zwom [12k\]: thanks for discussing this with me 
+Azazil [-\]: Burn the L group into your memory, it comes up after reading out a lot of seqeucnes
+Azazil [-\]: any other questions?
+Zwom [12k\]: that's it. 
+Azazil [-\]: best of luck to ya
+])
+(;B[ic]CR[ic]C[Azazil [-\]: this is a mistake and black dies outright
+Azazil [-\]: we can see this, knowing the shapes we know...
+]
+;W[ib]CR[ib]
+;B[jb]CR[jb]
+;W[hb]CR[hb]TR[jb][jc][kc][lc]C[Azazil [-\]: see?
+Zwom [12k\]: yes.
+])))

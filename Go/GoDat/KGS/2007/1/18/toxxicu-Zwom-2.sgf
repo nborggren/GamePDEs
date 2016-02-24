@@ -1,0 +1,420 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[900]OT[5x60 byo-yomi]
+PW[toxxicu]PB[Zwom]WR[7d]BR[2k]DT[2007-01-18]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[toxxicu [7d\]: have a good one
+]RE[B+0.50]
+;W[ce]WL[891.702]C[Zwom [2k\]: thanks.
+Zwom [2k\]:  you too.
+]
+;B[pj]BL[862.784]
+;W[nq]WL[886.258]
+;B[pn]BL[858.221]
+;W[jq]WL[861.06]
+;B[ed]BL[847.682]
+;W[dc]WL[854.539]
+;B[ec]BL[840.957]
+;W[dd]WL[851.808]
+;B[ee]BL[827.457]
+;W[df]WL[849.873]
+;B[jd]BL[798.825]
+;W[cn]WL[845.125]
+;B[fq]BL[791.565]
+;W[bp]WL[842.265]
+;B[cq]BL[780.113]
+;W[dl]WL[839.417]
+(;B[hq]BL[766.338]C[toxxicu [7d\]: this was a bit slow for fuseki
+]
+(;W[pr]WL[829.512]
+;B[qq]BL[761.761]
+;W[lp]WL[826.728]
+;B[qf]BL[748.26]
+;W[ob]WL[819.428]
+;B[pc]BL[727.289]
+;W[pb]WL[816.282]
+;B[qb]BL[725.683]
+;W[rb]WL[813.029]
+;B[qa]BL[717.824]
+;W[lc]WL[809.885]
+;B[kb]BL[712.177]
+;W[lb]WL[786.994]
+;B[kc]BL[707.155]
+;W[le]WL[784.276]
+(;B[fg]BL[675.611]
+;W[kf]WL[769.577]
+;B[eh]BL[664.182]
+;W[qh]WL[745.468]
+;B[md]BL[640.909]
+;W[ld]WL[741.402]
+;B[nc]BL[637.152]
+;W[nb]WL[735.601]
+;B[og]BL[580.89]
+;W[oh]WL[730.62]
+;B[nh]BL[575.688]
+;W[oi]WL[727.782]
+;B[pg]BL[568.143]
+;W[oj]WL[720.531]
+;B[pk]BL[560.398]
+;W[ok]WL[711.155]
+;B[pl]BL[553.547]
+;W[qi]WL[708.327]
+;B[rj]BL[518.792]
+;W[if]WL[700.441]
+(;B[mg]BL[493.711]
+;W[hd]WL[689.263]
+;B[he]BL[485.185]
+;W[ie]WL[687.029]
+;B[hc]BL[460.772]
+;W[gc]WL[638.201]
+;B[gd]BL[448.345]
+;W[id]WL[635.628]
+;B[ic]BL[446.838]
+(;W[ge]WL[529.973]
+;B[fd]BL[418.04]C[Zwom [2k\]: you're too kind.
+toxxicu [7d\]: it's not working
+toxxicu [7d\]: that's what i was reading :)
+]
+;W[gf]WL[499.714]
+;B[fl]BL[265.119]
+;W[dj]WL[472.894]
+;B[ch]BL[257.188]
+;W[ef]WL[417.344]
+;B[db]BL[253.716]
+;W[cb]WL[411.658]
+(;B[fj]BL[191.79]C[Gwenydu [5k?\]: g18
+]
+;W[qr]WL[366.924]C[Zwom [2k\]: doesn't work, and keep it quiet please.
+Gwenydu [5k?\]: so sorry
+]
+;B[bq]BL[135.975]
+;W[ci]WL[346.919]
+;B[dh]BL[119.765]
+;W[qj]WL[295.447]
+;B[qk]BL[110.526]
+;W[ri]WL[289.285]
+;B[rk]BL[107.616]
+;W[rd]WL[277.638]C[toxxicu [7d\]: u mean here?
+Zwom [2k\]: I thought you would connect underneath.  yes
+Zwom [2k\]: if I kept the corner
+]
+(;B[rg]BL[48.649]
+;W[qc]WL[271.843]
+;B[nm]BL[43.308]
+;W[lj]WL[268.226]
+;B[kh]BL[38.125]
+;W[kk]WL[261.789]
+;B[mk]BL[27.851]
+;W[mj]WL[258.242]
+;B[lm]BL[17.231]
+;W[lh]WL[251.302]
+;B[lg]BL[14.579]
+;W[kg]WL[248.535]
+;B[ki]BL[12.378]
+;W[li]WL[241.553]
+;B[jj]BL[60]OB[5]
+;W[jk]WL[82.867]
+;B[hj]BL[60]OB[5]
+;W[jm]WL[57.369]
+;B[qd]BL[60]OB[5]
+;W[rc]WL[29.788]
+;B[re]BL[60]OB[5]C[Atitos [2k\]: o15 nice move?
+]
+;W[iq]WL[60]OW[4]
+;B[hp]BL[60]OB[5]C[babyskunk: please, no comments, the players can read us
+Atitos [2k\]: escuse me
+]
+;W[jo]WL[60]OW[4]
+;B[bi]BL[60]OB[5]
+;W[bj]WL[60]OW[4]
+;B[bh]BL[60]OB[5]
+;W[eb]WL[60]OW[4]C[JanFre [1d?\]: Why do you think the players can read us?
+babyskunk: teaching game
+]
+;B[fb]BL[60]OB[5]
+;W[da]WL[60]OW[4]
+;B[gb]BL[60]OB[5]
+;W[rr]WL[60]OW[4]
+;B[rq]BL[60]OB[5]
+;W[sq]WL[60]OW[4]
+;B[sp]BL[60]OB[5]
+;W[sr]WL[60]OW[4]
+;B[ro]BL[60]OB[5]
+;W[fm]WL[60]OW[4]
+;B[hg]BL[60]OB[5]
+;W[hf]WL[60]OW[4]
+;B[bf]BL[60]OB[5]
+;W[be]WL[60]OW[4]
+;B[af]BL[60]OB[5]
+;W[co]WL[60]OW[4]
+;B[ck]BL[60]OB[5]
+;W[bk]WL[60]OW[4]
+;B[cl]BL[60]OB[5]
+;W[dk]WL[60]OW[4]
+;B[cj]BL[60]OB[5]
+;W[bl]WL[60]OW[4]
+;B[cm]BL[60]OB[5]
+;W[dm]WL[60]OW[4]
+;B[di]BL[60]OB[5]
+;W[bm]WL[60]OW[4]
+;B[ci]BL[60]OB[5]
+;W[eo]WL[60]OW[4]
+;B[ir]BL[60]OB[5]
+;W[jr]WL[60]OW[4]
+;B[hr]BL[60]OB[5]
+;W[me]WL[60]OW[4]
+;B[ne]BL[60]OB[5]
+;W[oc]WL[60]OW[4]
+;B[od]BL[60]OB[5]
+;W[mn]WL[60]OW[4]
+;B[mm]BL[60]OB[5]
+;W[aq]WL[60]OW[4]
+;B[ar]BL[60]OB[5]
+;W[ap]WL[60]OW[4]
+;B[bs]BL[60]OB[5]
+;W[gg]WL[60]OW[4]
+;B[gh]BL[60]OB[5]
+;W[hh]WL[60]OW[4]
+;B[hi]BL[60]OB[5]
+;W[ih]WL[60]OW[4]
+;B[ik]BL[60]OB[5]
+;W[ep]WL[60]OW[4]
+;B[eq]BL[60]OB[5]
+;W[il]WL[60]OW[4]
+;B[hl]BL[60]OB[5]
+;W[hm]WL[60]OW[4]
+;B[gm]BL[60]OB[5]
+;W[gn]WL[60]OW[4]
+;B[gl]BL[60]OB[5]
+;W[hn]WL[60]OW[4]
+;B[ae]BL[60]OB[5]
+;W[bc]WL[60]OW[4]
+;B[js]BL[60]OB[5]
+;W[ks]WL[60]OW[4]
+;B[is]BL[60]OB[5]
+;W[lr]WL[60]OW[4]
+;B[cp]BL[60]OB[5]
+;W[bo]WL[60]OW[4]
+;B[nn]BL[60]OB[5]
+;W[ln]WL[60]OW[4]
+;B[sd]BL[60]OB[5]
+;W[no]WL[60]OW[4]
+;B[oo]BL[60]OB[5]
+;W[np]WL[60]OW[4]
+;B[sc]BL[60]OB[5]
+;W[sb]WL[60]OW[4]
+;B[se]BL[60]OB[5]
+;W[pa]WL[60]OW[4]
+;B[km]BL[60]OB[5]
+;W[kn]WL[60]OW[4]
+;B[kl]BL[60]OB[5]
+;W[jl]WL[60]OW[4]
+;B[oq]BL[60]OB[5]
+;W[or]WL[60]OW[4]
+;B[cf]BL[60]OB[5]
+;W[de]WL[60]OW[4]
+;B[ac]BL[60]OB[5]
+;W[ab]WL[60]OW[4]
+;B[ad]BL[60]OB[5]
+;W[mc]WL[60]OW[4]
+;B[nd]BL[60]OB[5]
+;W[mf]WL[60]OW[4]
+;B[nf]BL[60]OB[5]
+;W[ej]WL[60]OW[4]
+;B[ek]BL[60]OB[5]
+;W[el]WL[60]OW[4]
+;B[fk]BL[60]OB[5]
+;W[fo]WL[60]OW[4]C[marius1 [?\]: b wins
+]
+;B[ii]BL[60]OB[5]
+;W[jh]WL[60]OW[4]
+;B[ji]BL[60]OB[5]
+;W[je]WL[60]OW[4]
+;B[la]BL[60]OB[5]
+;W[ma]WL[60]OW[4]
+;B[ka]BL[60]OB[5]
+;W[kd]WL[60]OW[4]C[EaglesEye [2k\]: strong 2k :)
+]
+;B[jc]BL[60]OB[5]C[Zwom [2k\]: no such thing
+]
+;W[ei]WL[60]OW[4]
+;B[fi]BL[60]OB[5]C[EaglesEye [2k\]: or maybe kind 7d :)
+]
+;W[do]WL[60]OW[4]
+;B[ol]BL[60]OB[5]
+;W[lk]WL[60]OW[4]
+;B[si]BL[60]OB[5]
+;W[sh]WL[60]OW[4]
+;B[sj]BL[60]OB[5]
+;W[rh]WL[60]OW[4]
+;B[sg]BL[60]OB[5]
+;W[nk]WL[60]OW[4]
+;B[ml]BL[60]OB[5]
+;W[dg]WL[60]OW[4]C[EaglesEye [2k\]: j5
+]
+;B[ni]BL[60]OB[5]
+;W[nj]WL[60]OW[4]
+;B[aj]BL[60]OB[5]
+;W[cg]WL[60]OW[4]
+;B[bg]BL[60]OB[5]
+;W[ak]WL[60]OW[4]
+;B[ai]BL[60]OB[5]
+;W[ip]WL[60]OW[4]
+;B[ho]BL[60]OB[5]
+;W[io]WL[60]OW[4]
+;B[fa]BL[60]OB[5]C[EaglesEye [2k\]: b lost on yose :(
+chrissly [6k\]: wow only 3 handi
+chrissly [6k\]: i bet w wants to win 0.5:-)
+]
+;W[gp]WL[60]OW[4]C[EaglesEye [2k\]: yes
+EaglesEye [2k\]: exactly
+]
+;B[gq]BL[60]OB[5]C[EaglesEye [2k\]: what will happen
+]
+;W[ea]WL[60]OW[4]
+;B[bd]BL[60]OB[5]
+;W[cd]WL[60]OW[4]
+;B[fc]BL[60]OB[5]
+;W[]WL[60]OW[4]
+;B[eg]BL[60]OB[5]
+;W[mh]WL[60]OW[4]
+;B[ng]BL[60]OB[5]C[marius1 [?\]: w +1.5
+]
+;W[]WL[60]OW[4]
+;B[]BL[60]OB[5]TW[aa][ba][ca][na][oa][qa][ra][sa][bb][db][mb][qb][cc][he][ke][jf][hg][ig][jg][al][am][em][im][an][bn][dn][en][fn][in][jn][ao][ko][lo][mo][jp][kp][mp][kq][lq][mq][kr][mr][nr][ls][ms][ns][os][ps][qs][rs][ss]TB[ga][ha][ia][ja][hb][ib][jb][gc][oe][pe][qe][of][pf][rf][sf][ag][ah][fh][gi][gj][ij][gk][hk][sk][ql][rl][sl][om][pm][qm][rm][sm][on][qn][rn][sn][po][qo][so][qp][rp][dq][br][cr][dr][er][fr][gr][as][cs][ds][es][fs][gs][hs]C[EaglesEye [2k\]: no !
+EaglesEye [2k\]: lol
+toxxicu [7d\]: last point costed me the game 
+Zwom [2k\]: hahhah
+babyskunk: gg =)
+toxxicu [7d\]: i thought that was not a point anyway :)
+Zwom [2k\]: I just needed that rather then capture.
+Zwom [2k\]: interesting game.
+toxxicu [7d\]: yes indeed
+toxxicu [7d\]: i was surprised you gave up top right corner
+])
+(;B[rc]C[toxxicu [7d\]: it's quite big
+toxxicu [7d\]: i thought i won after that
+toxxicu [7d\]: but i was wrong :)
+toxxicu [7d\]: good lesson for me
+Zwom [2k\]: would you like me to review for you?
+toxxicu [7d\]: you could do that :)
+]
+(;W[rf]
+;B[rg]
+;W[qg]
+;B[re]
+;W[qe]C[Zwom [2k\]: I see.  then what was your intention with s16?
+]
+;B[sf])
+(;W[qd]
+;B[qc]
+;W[rf]
+;B[rg]
+;W[qg]
+;B[re]
+;W[qe]
+;B[sf]
+;W[pf]
+;B[rf]
+;W[pe]
+;B[oe]C[toxxicu [7d\]: i lose 
+toxxicu [7d\]: hmm\\
+toxxicu [7d\]: testing your reading i guess
+Zwom [2k\]: welp.  failed that one.  good thing you lose concentration in endgame.
+toxxicu [7d\]: :)
+toxxicu [7d\]: thanks for today
+Zwom [2k\]: thanks for the lessons.
+toxxicu [7d\]: you are welcome
+toxxicu [7d\]: i'll see you around :)
+Zwom [2k\]: bye.
+])))
+(;B[eb]BL[241.906]
+;W[fj]WL[403.529]C[Zwom [2k\]: e18 was silly
+toxxicu [7d\]: undo ?
+Zwom [2k\]: just to make it a game again
+]))
+(;W[gb]
+(;B[eb]C[toxxicu [7d\]: i don't win the semeai
+toxxicu [7d\]: no other way
+toxxicu [7d\]: agree?
+Zwom [2k\]: I see now.  e18 would have been hard for me to find.
+]
+;W[ib]
+;B[hb]
+;W[ha]
+;B[jc]
+;W[je]
+;B[fa]
+;W[ga]
+;B[fc]
+;W[kd]
+;B[fb]C[toxxicu [7d\]: that;s it
+])
+(;B[fb]
+;W[fd]
+;B[ge]
+;W[fc]C[Zwom [2k\]: hence my worries...
+toxxicu [7d\]: this is wrong
+]
+;B[eb]
+;W[fe]
+;B[gf]
+;W[ff]C[toxxicu [7d\]: what else?
+Zwom [2k\]: was giving up the corner to start an attack not a good idea because I don't really have a profit area?
+])))
+(;B[hd]C[toxxicu [7d\]: i expected a defensive move
+toxxicu [7d\]: don't you like it ?
+Zwom [2k\]: I wanted to attack your stones at some point.  so I couldn't have the cut.  but yes I should have protected, at least to lower my heart rate in the ensuing fight
+]
+(;W[ng]C[toxxicu [7d\]: you didn't look into it enough
+]
+;B[mh]C[toxxicu [7d\]: this cut is not really safe for w
+]
+;W[nf]
+;B[mj]C[Zwom [2k\]: I see.
+toxxicu [7d\]: i can't catch the center group and then i am under attack
+Zwom [2k\]: and to think I was worried.
+])
+(;W[li]C[toxxicu [7d\]: i was planning on a move someting like this
+]
+;B[mg]
+(;W[mj]
+;B[kh]C[toxxicu [7d\]: you can still cut
+])
+(;W[kh]
+;B[mj]C[toxxicu [7d\]: or here
+]))))
+(;B[jf]C[toxxicu [7d\]: i'd jump here first to keep pressure
+]
+;W[lg]
+;B[cj]C[toxxicu [7d\]: and then invade
+]
+;W[ck]
+;B[dj]
+;W[fl]
+;B[fj]C[toxxicu [7d\]: this is good for B
+chrissly [6k\]: c10 looks quite risky for 2k against 7d
+Zwom [2k\]: I agree.  I'd probably use 4th line
+toxxicu [7d\]: a move is good or bad
+toxxicu [7d\]: not to take in consideration your opponent
+toxxicu [7d\]: go is the same
+chrissly [6k\]: i also would have played 4th line
+Zwom [2k\]: all my groups around are safe I guess is the key.
+toxxicu [7d\]: yes
+toxxicu [7d\]: anything else you wanted to ask >?
+Zwom [2k\]: can you show me why you ataried rather then g18
+]))
+(;W[qf]C[toxxicu [7d\]: i could have played on top
+]
+;B[lq]
+;W[pq]C[toxxicu [7d\]: the invasion can be handled lightly for now
+]))
+(;B[pf]C[toxxicu [7d\]: i prefer something like this
+]
+;W[bq]C[toxxicu [7d\]: if you are afraid
+toxxicu [7d\]: to this move
+toxxicu [7d\]: you can answer
+]
+;B[hq]C[toxxicu [7d\]: this is solid
+Zwom [2k\]: I figured it to be sente, but I guess it just kills m3 aji
+toxxicu [7d\]: yes
+toxxicu [7d\]: exactly
+toxxicu [7d\]: plus it's not 100% sente
+]))

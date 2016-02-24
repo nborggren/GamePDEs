@@ -1,0 +1,509 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[19]KM[0.50]TM[1500]OT[5x30 byo-yomi]
+PW[Wooskie]PB[Zwom]WR[14k]BR[15k]DT[2005-01-22]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]C[Wooskie [14k\]: hello
+]RE[B+16.50]
+;B[dp]CR[dp]BL[1642.806]C[Wooskie [14k\]: enjoy
+Zwom [15k\]: hello again.  enjoy.
+]
+;W[qd]CR[qd]WL[1635.875]
+;B[qq]CR[qq]BL[1634.436]
+;W[dc]CR[dc]WL[1631.989]
+;B[ce]CR[ce]BL[1627.295]
+;W[fd]CR[fd]WL[1626.347]
+;B[dh]CR[dh]BL[1623.261]C[toxxicu [7d\]: so far everything normal
+]
+(;W[ef]CR[ef]WL[1612.192]
+(;B[ee]CR[ee]BL[1606.650]C[toxxicu [7d\]: i had a feeling
+toxxicu [7d\]: :)
+toxxicu [7d\]: e14 is funny
+toxxicu [7d\]: and e15 as well
+toxxicu [7d\]: why did you play here?
+]
+(;W[cd]CR[cd]WL[1605.941]C[toxxicu [7d\]: oh
+toxxicu [7d\]: he didn't answer :)
+]
+(;B[oc]CR[oc]BL[1588.429]C[toxxicu [7d\]: very strange
+]
+;W[mc]CR[mc]WL[1591.396]
+;B[oe]CR[oe]BL[1585.480]
+;W[qf]CR[qf]WL[1580.785]
+;B[jc]CR[jc]BL[1581.328]
+;W[pc]CR[pc]WL[1568.084]
+;B[le]CR[le]BL[1570.681]C[toxxicu [7d\]: what was your plan with m15 ?
+Zwom [15k\]: cap off n17, though it looks silly to me now.
+toxxicu [7d\]: ok maybe you forgot :)
+toxxicu [7d\]: sorry i had some net lag
+Zwom [15k\]: didn't even notice.
+toxxicu [7d\]: it is not very efficient as an attacking move
+toxxicu [7d\]: because of 2 things
+toxxicu [7d\]: 1st and most important
+Zwom [15k\]: l16 one of those things.
+]
+;W[ob]CR[ob]WL[1537.715]TR[jc][le]C[toxxicu [7d\]: yes
+toxxicu [7d\]: l16 is the 2nd reason :)
+toxxicu [7d\]: first one is that w can connect
+toxxicu [7d\]: this shape is to be avoided
+toxxicu [7d\]: l16 is a invitation to cut
+]
+;B[nb]CR[nb]BL[1568.889]C[toxxicu [7d\]: this is a misreading
+toxxicu [7d\]: you can not prevent w from cutting
+toxxicu [7d\]: from linking i mean
+]
+;W[nc]CR[nc]WL[1532.828]
+;B[od]CR[od]BL[1558.953]
+;W[mb]CR[mb]WL[1527.912]LB[kd:B][me:A]TR[jc][oc][od][le][oe]C[toxxicu [7d\]: since w conneted already
+toxxicu [7d\]: your stones are floating without a base
+toxxicu [7d\]: and still not connected
+toxxicu [7d\]: w has two places to cut
+]
+;B[gc]CR[gc]BL[1555.955]
+;W[fe]CR[fe]WL[1513.814]C[toxxicu [7d\]: finally someone played THE Move
+toxxicu [7d\]: there are big moves
+toxxicu [7d\]: and there are important ones
+toxxicu [7d\]: important ones come first
+]
+(;B[ed]CR[ed]BL[1536.590]
+;W[ec]CR[ec]WL[1506.529]C[toxxicu [7d\]: again a problem in reading
+toxxicu [7d\]: i guess you were planning on cutting next
+toxxicu [7d\]: am i right ?
+Zwom [15k\]: I guess, I don't remember
+toxxicu [7d\]: otherwise the push does not make sense
+]
+;B[df]CR[df]BL[1529.193]C[toxxicu [7d\]: snapback
+]
+;W[de]CR[de]WL[1502.664]C[toxxicu [7d\]: we have to fix this very soon
+toxxicu [7d\]: small reading errors like this one
+toxxicu [7d\]: can easily cost you a game
+]
+(;B[dg]CR[dg]BL[1516.289]LB[cn:A][pn:G][qo:D][np:F][pp:H][fq:B][jq:C][oq:E]C[toxxicu [7d\]: do you know the basic rule of fuseki ?
+Zwom [15k\]: pray tell.
+toxxicu [7d\]: first you play in the corners
+toxxicu [7d\]: then
+toxxicu [7d\]: shimari or kakari
+toxxicu [7d\]: let me know if any of the terms is not familiar to you
+Zwom [15k\]: so far so good.
+toxxicu [7d\]: ok
+toxxicu [7d\]: after no more kakari or shimari left :) you go on to play on the sides
+toxxicu [7d\]: and only after look at the center
+toxxicu [7d\]: right now
+toxxicu [7d\]: i can see
+toxxicu [7d\]: 2 corners 
+toxxicu [7d\]: with no aproach moves
+toxxicu [7d\]: and big sides
+toxxicu [7d\]: a lot of candidate moves
+toxxicu [7d\]: considering that the w corner is 100% alive
+toxxicu [7d\]: c14 doesn't matter for eyes
+toxxicu [7d\]: so it's only territory at stake
+toxxicu [7d\]: and a small one
+toxxicu [7d\]: consider tenuki more often from now on
+]
+(;W[cf]CR[cf]WL[1475.151]C[toxxicu [7d\]: w chose to capture a stone
+]
+(;B[bf]CR[bf]BL[1489.367]C[toxxicu [7d\]: both you and w player
+toxxicu [7d\]: got caught up in a local battle 
+toxxicu [7d\]: unimportant at this stage
+]
+;W[be]CR[be]WL[1468.472]
+;B[cg]CR[cg]BL[1485.272]C[toxxicu [7d\]: like this you got caught up locally
+toxxicu [7d\]: you played a good sequence if we are looking just at that corner
+toxxicu [7d\]: but overall
+]
+;W[cn]CR[cn]WL[1447.434]C[toxxicu [7d\]: you gave w the chance to get the next big point
+]
+;B[cl]CR[cl]BL[1476.121]
+;W[en]CR[en]WL[1446.374]C[toxxicu [7d\]: c8 is good
+toxxicu [7d\]: makes good  balance with the d12 formation
+]
+;B[fp]CR[fp]BL[1474.306]
+;W[gn]CR[gn]WL[1438.524]
+;B[hp]CR[hp]BL[1470.504]
+;W[dl]CR[dl]WL[1423.474]
+(;B[dm]CR[dm]BL[1462.721]C[toxxicu [7d\]: this is too agressive
+toxxicu [7d\]: w is already not so weak because he jumped so many times
+]
+;W[cm]CR[cm]WL[1413.783]C[toxxicu [7d\]: once w cuts
+toxxicu [7d\]: it's hard to save both stones
+Zwom [15k\]: I may have been aiming at d9 sente with that move.
+toxxicu [7d\]: if w gets one his group is safe
+]
+;B[dk]CR[dk]BL[1459.342]
+;W[el]CR[el]WL[1409.947]
+(;B[bl]CR[bl]BL[1453.466]C[toxxicu [7d\]: like this
+toxxicu [7d\]: d7 is an eye
+toxxicu [7d\]: that w didn't have before
+toxxicu [7d\]: not to mention the territorial loss
+toxxicu [7d\]: and now you played b8
+toxxicu [7d\]: to defend against c8 right ?
+Zwom [15k\]: c9 right.
+toxxicu [7d\]: ok lets move on
+]
+;W[ek]CR[ek]WL[1393.155]C[toxxicu [7d\]: but w has this sente now
+toxxicu [7d\]: you have to defend
+]
+;B[dj]CR[dj]BL[1449.540]C[toxxicu [7d\]: agree?
+Zwom [15k\]: better to just c9?
+]
+;W[cp]CR[cp]WL[1368.011]
+;B[do]CR[do]BL[1431.046]
+;W[cq]CR[cq]WL[1352.152]
+;B[dn]CR[dn]BL[1416.733]C[toxxicu [7d\]: very good !
+toxxicu [7d\]: w made a mistake and you punished him
+toxxicu [7d\]: this is very good for B
+]
+;W[dq]CR[dq]WL[1342.720]
+;B[co]CR[co]BL[1414.884]
+;W[eq]CR[eq]WL[1316.075]
+;B[fq]CR[fq]BL[1407.940]
+;W[ep]CR[ep]WL[1302.713]
+;B[eo]CR[eo]BL[1400.167]
+;W[em]CR[em]WL[1273.495]
+;B[bo]CR[bo]BL[1397.501]C[toxxicu [7d\]: great result
+toxxicu [7d\]: you are connecyed
+toxxicu [7d\]: his center is weak
+toxxicu [7d\]: so is his corner
+]
+;W[bp]CR[bp]WL[1266.098]
+;B[br]CR[br]BL[1390.754]
+;W[fr]CR[fr]WL[1215.526]
+;B[gr]CR[gr]BL[1387.744]
+;W[fo]CR[fo]WL[1201.967]
+(;B[ao]CR[ao]BL[1372.060]
+;W[ap]CR[ap]WL[1191.658]
+;B[bm]CR[bm]BL[1343.364]
+;W[fs]CR[fs]WL[1152.771]
+;B[gs]CR[gs]BL[1336.375]
+;W[dr]CR[dr]WL[1148.131]C[toxxicu [7d\]: now you have a problem at g3
+]
+;B[hq]CR[hq]BL[1303.263]
+(;W[og]CR[og]WL[1107.662]C[Zwom [15k\]: maybe another 3 or 4
+toxxicu [7d\]: is that big in your oppinion for this stage of the game ?
+Zwom [15k\]: not with r3 sitting there.
+toxxicu [7d\]: yes
+toxxicu [7d\]: and also g6
+]
+(;B[nf]CR[nf]BL[1282.023]C[toxxicu [7d\]: you were looking at he 3 stones
+toxxicu [7d\]: and tried to save them
+toxxicu [7d\]: but you have to consider if those stones are crucial
+toxxicu [7d\]: are they cutting anything
+toxxicu [7d\]: ?
+toxxicu [7d\]: if w gets them how much additional territory will he get
+toxxicu [7d\]: besides the obvious 6 points
+]
+;W[qj]CR[qj]WL[1102.055]
+;B[lq]CR[lq]BL[1275.118]
+;W[qn]CR[qn]WL[1089.449]
+;B[po]CR[po]BL[1272.914]
+;W[pn]CR[pn]WL[1086.996]
+;B[oo]CR[oo]BL[1249.042]
+;W[io]CR[io]WL[1057.519]
+;B[jp]CR[jp]BL[1223.406]
+;W[ip]CR[ip]WL[1050.128]
+;B[iq]CR[iq]BL[1221.661]
+;W[jo]CR[jo]WL[1048.957]
+;B[kp]CR[kp]BL[1218.473]
+;W[ik]CR[ik]WL[1034.551]
+;B[gi]CR[gi]BL[1217.196]
+;W[gj]CR[gj]WL[1028.602]
+;B[fj]CR[fj]BL[1201.238]
+;W[gk]CR[gk]WL[1023.104]
+;B[on]CR[on]BL[1168.992]
+;W[om]CR[om]WL[1011.574]
+;B[nm]CR[nm]BL[1161.064]
+;W[nl]CR[nl]WL[996.681]
+;B[ml]CR[ml]BL[1158.331]
+;W[mm]CR[mm]WL[991.648]
+;B[nn]CR[nn]BL[1155.524]
+;W[ll]CR[ll]WL[976.522]
+;B[mk]CR[mk]BL[1151.612]
+;W[ok]CR[ok]WL[974.374]
+;B[kn]CR[kn]BL[1120.319]
+;W[jm]CR[jm]WL[966.424]
+;B[lm]CR[lm]BL[1111.011]
+;W[km]CR[km]WL[964.305]
+;B[ln]CR[ln]BL[1106.474]
+;W[rp]CR[rp]WL[961.180]
+;B[nk]CR[nk]BL[1068.479]
+;W[rq]CR[rq]WL[947.513]
+;B[qr]CR[qr]BL[1055.304]
+;W[qp]CR[qp]WL[941.816]
+;B[ol]CR[ol]BL[1041.387]
+;W[pp]CR[pp]WL[934.738]
+;B[oq]CR[oq]BL[1039.381]
+;W[op]CR[op]WL[929.212]
+;B[np]CR[np]BL[1038.383]
+;W[pq]CR[pq]WL[927.727]
+;B[pr]CR[pr]BL[1031.672]
+;W[rr]CR[rr]WL[908.605]
+;B[or]CR[or]BL[1015.675]
+;W[pl]CR[pl]WL[892.017]
+;B[pm]CR[pm]BL[1008.136]
+;W[qm]CR[qm]WL[885.773]
+;B[om]CR[om]BL[1006.908]
+;W[oj]CR[oj]WL[878.425]
+;B[mh]CR[mh]BL[1003.562]
+;W[fb]CR[fb]WL[874.277]
+;B[gb]CR[gb]BL[1000.806]
+;W[ja]CR[ja]WL[873.142]
+;B[kb]CR[kb]BL[972.477]
+;W[ka]CR[ka]WL[870.929]
+;B[fc]CR[fc]BL[967.104]
+;W[ea]CR[ea]WL[862.585]
+;B[he]CR[he]BL[936.161]
+;W[jb]CR[jb]WL[822.125]
+;B[kc]CR[kc]BL[922.666]
+;W[bg]CR[bg]WL[820.341]
+;B[bh]CR[bh]BL[917.848]
+;W[af]CR[af]WL[816.957]
+;B[hi]CR[hi]BL[904.950]
+;W[kj]CR[kj]WL[800.964]
+;B[ki]CR[ki]BL[896.587]
+;W[ii]CR[ii]WL[797.309]
+;B[ih]CR[ih]BL[893.029]
+;W[ji]CR[ji]WL[795.777]
+;B[jh]CR[jh]BL[890.394]
+;W[gg]CR[gg]WL[786.894]
+;B[ff]CR[ff]BL[879.920]
+;W[fg]CR[fg]WL[771.896]
+;B[eg]CR[eg]BL[873.015]
+;W[gf]CR[gf]WL[768.012]
+;B[ef]CR[ef]BL[871.167]C[Wooskie [14k\]: lol
+Wooskie [14k\]: oops
+Zwom [15k\]: I've had no shortage of blunders either this game.
+Wooskie [14k\]: haha. guess we're even
+]
+;W[li]CR[li]WL[722.148]
+;B[kh]CR[kh]BL[868.494]
+;W[lk]CR[lk]WL[718.903]
+;B[qo]CR[qo]BL[831.228]
+;W[ro]CR[ro]WL[716.257]
+;B[pi]CR[pi]BL[805.429]
+;W[oi]CR[oi]WL[708.669]
+;B[oh]CR[oh]BL[788.805]
+;W[ph]CR[ph]WL[705.424]
+;B[nh]CR[nh]BL[785.844]
+;W[qi]CR[qi]WL[700.808]
+;B[pg]CR[pg]BL[779.095]
+;W[qh]CR[qh]WL[694.253]
+;B[pf]CR[pf]BL[776.653]
+;W[qg]CR[qg]WL[685.239]
+;B[ib]CR[ib]BL[762.248]C[Wooskie [14k\]: well done. I was hoping for 4th line territory there
+Zwom [15k\]: thanks, I was hoping to avoid it.
+]
+;W[la]CR[la]WL[664.340]
+;B[ho]CR[ho]BL[733.621]
+;W[hn]CR[hn]WL[659.477]
+;B[fk]CR[fk]BL[703.735]
+;W[fl]CR[fl]WL[657.708]
+;B[ej]CR[ej]BL[691.222]
+;W[pe]CR[pe]WL[641.165]
+;B[of]CR[of]BL[685.676]
+;W[dd]CR[dd]WL[603.605]
+;B[go]CR[go]BL[675.779]
+;W[fn]CR[fn]WL[599.551]
+;B[ij]CR[ij]BL[632.569]
+;W[jj]CR[jj]WL[593.622]
+;B[hj]CR[hj]BL[631.072]
+;W[hk]CR[hk]WL[592.116]
+;B[ia]CR[ia]BL[601.489]
+;W[ah]CR[ah]WL[563.554]
+;B[ai]CR[ai]BL[595.590]
+;W[ag]CR[ag]WL[550.833]
+;B[bi]CR[bi]BL[593.885]
+;W[pd]CR[pd]WL[544.990]
+;B[rs]CR[rs]BL[567.971]
+;W[jn]CR[jn]WL[528.475]
+;B[lh]CR[lh]BL[557.574]
+;W[mi]CR[mi]WL[524.107]
+;B[ni]CR[ni]BL[556.306]
+;W[lj]CR[lj]WL[513.361]
+;B[md]CR[md]BL[535.227]
+;W[ga]CR[ga]WL[491.054]
+;B[hb]CR[hb]BL[515.137]
+;W[nj]CR[nj]WL[475.187]
+;B[mn]CR[mn]BL[507.753]
+;W[ql]CR[ql]WL[442.072]
+;B[nd]CR[nd]BL[482.085]
+;W[lb]CR[lb]WL[430.910]
+;B[lc]CR[lc]BL[466.547]
+;W[na]CR[na]WL[429.245]
+;B[cr]CR[cr]BL[441.378]
+;W[cs]CR[cs]WL[397.345]
+;B[bs]CR[bs]BL[425.189]
+;W[ds]CR[ds]WL[396.170]
+;B[es]CR[es]BL[412.848]
+;W[er]CR[er]WL[390.805]
+;B[ar]CR[ar]BL[408.891]C[Wooskie [14k\]: well done
+Zwom [15k\]: thanks
+]
+;W[sr]CR[sr]WL[361.142]
+;B[ko]CR[ko]BL[405.683]
+;W[ss]CR[ss]WL[358.326]
+;B[qs]CR[qs]BL[401.298]
+;W[]WL[358.326]
+;B[]BL[401.298]TW[aa][ba][ca][da][ma][oa][pa][qa][ra][sa][ab][bb][cb][db][eb][nb][pb][qb][rb][sb][ac][bc][cc][qc][rc][sc][ad][bd][rd][sd][ae][ce][qe][re][se][bf][rf][sf][rg][sg][rh][sh][pi][ri][si][pj][rj][sj][jk][kk][pk][qk][rk][sk][gl][hl][il][jl][kl][rl][sl][fm][gm][hm][im][rm][sm][in][rn][sn][so][sp][sq]TB[hc][ic][fd][gd][hd][id][jd][kd][ld][fe][ge][ie][je][ke][me][ne][gf][hf][if][jf][kf][lf][mf][fg][gg][hg][ig][jg][kg][lg][mg][ng][og][ch][eh][fh][gh][hh][ci][di][ei][fi][aj][bj][cj][ak][bk][ck][al][nl][am][cm][mm][an][bn][cn][lo][mo][no][gp][lp][mp][gq][jq][kq][mq][nq][hr][ir][jr][kr][lr][mr][nr][hs][is][js][ks][ls][ms][ns][os][ps]KGSDE[fd][fe][gf][fg][gg][og][pi][cm][cn]C[Zwom [15k\]: thanks for the game.
+Wooskie [14k\]: yes, thanks
+Zwom [15k\]: you won the last game.
+Wooskie [14k\]: looks like you're getting better!
+Zwom [15k\]: I hope so, I spend enough time with the game.  see you later.
+Wooskie [14k\]: (I'd rather not think I was getting worse)
+Wooskie [14k\]: later
+toxxicu [7d\]: thanks
+toxxicu [7d\]: you can give me control
+Zwom [15k\]: how do you do that?
+toxxicu [7d\]: click on my name
+toxxicu [7d\]: and in the menu
+toxxicu [7d\]: you will have
+toxxicu [7d\]: give control
+Zwom [15k\]: word.
+]KGSSW[78.50]KGSSB[95.00])
+(;B[in]CR[in]
+;W[hl]CR[hl]
+;B[jl]CR[jl]
+;W[ij]CR[ij]
+;B[op]CR[op]C[toxxicu [7d\]: how does this look ?
+Zwom [15k\]: sexy
+toxxicu [7d\]: lol
+toxxicu [7d\]: i bet it does :)
+toxxicu [7d\]: the moyo looks like 50 points
+toxxicu [7d\]: with potential to develop
+toxxicu [7d\]: w still needs to add one more to make the 9 points :)
+]
+(;W[nf]CR[nf]C[Zwom [15k\]: then r9 or vicinity?
+])
+(;W[qk]CR[qk]
+;B[qm]CR[qm]C[toxxicu [7d\]: yes much better
+toxxicu [7d\]: but then
+toxxicu [7d\]: p13 was not that big for w
+])))
+(;W[jn]CR[jn]
+;B[kp]CR[kp]
+;W[pn]CR[pn]
+;B[op]CR[op]
+;W[pk]CR[pk]C[toxxicu [7d\]: this what w should do
+toxxicu [7d\]: protect the weak group
+toxxicu [7d\]: and then take big points
+Zwom [15k\]: you make it look as though it's easy.
+toxxicu [7d\]: it is :)
+toxxicu [7d\]: simple logic and plans
+toxxicu [7d\]: read a few moves ahead and that's it
+toxxicu [7d\]: :)
+toxxicu [7d\]: we can stop here for tonight
+toxxicu [7d\]: please let me know in chat about your impressions on first lesson
+Zwom [15k\]: Alright.  
+]))
+(;B[bn]CR[bn]C[toxxicu [7d\]: better here
+toxxicu [7d\]: a5 gives him
+toxxicu [7d\]: sente at a4
+]))
+(;B[ck]CR[ck]C[toxxicu [7d\]: yes you got it
+]
+;W[ek]CR[ek]C[toxxicu [7d\]: this is not sente anymore
+toxxicu [7d\]: this time proper connection was the best choice
+toxxicu [7d\]: i am not trying to teach you something about this shape in particular
+toxxicu [7d\]: but a way to think about connecting
+toxxicu [7d\]: always analyze the context
+])
+(;B[cj]CR[cj]C[toxxicu [7d\]: this is also a move to connect
+toxxicu [7d\]: why do you think it's wrong
+toxxicu [7d\]: ?
+Zwom [15k\]: b8
+toxxicu [7d\]: yes !
+toxxicu [7d\]: w gets a free atari
+toxxicu [7d\]: that helps for eyes on the side
+toxxicu [7d\]: and also good for yose
+])
+(;B[bk]CR[bk]C[toxxicu [7d\]: how about this connection ?
+Zwom [15k\]: e9 sente again
+]
+(;W[ek]CR[ek]
+;B[dj]CR[dj]
+;W[bl]CR[bl]C[toxxicu [7d\]: and atari too
+]
+;B[ck]CR[ck]C[toxxicu [7d\]: is it boring ?:)
+Zwom [15k\]: not at all.
+toxxicu [7d\]: ok then lets look at the order of moves
+toxxicu [7d\]: what if w played atari first
+toxxicu [7d\]: like this w gets both
+])
+(;W[bl]CR[bl]
+;B[ck]CR[ck]C[toxxicu [7d\]: what do you think about this
+]
+;W[ek]CR[ek]C[Zwom [15k\]: black can tenuki
+toxxicu [7d\]: yes exactly
+toxxicu [7d\]: the order of moves can be very important
+])))
+(;B[dk]CR[dk]C[toxxicu [7d\]: but d9 is sente
+toxxicu [7d\]: and it's the proper place to play
+]
+;W[el]CR[el]
+;B[cm]CR[cm]
+;W[dn]CR[dn]C[toxxicu [7d\]: this is what should have happened
+]))
+(;B[jp]CR[jp]C[toxxicu [7d\]: what if you ignore
+]
+;W[cg]CR[cg]
+;B[ch]CR[ch]
+;W[be]CR[be]C[toxxicu [7d\]: what can  w do locally
+]
+;B[dm]CR[dm]C[Zwom [15k\]: not much
+toxxicu [7d\]: looking at the whole board
+toxxicu [7d\]: you realize that c15 was not urgent at all
+Zwom [15k\]: now I do.
+toxxicu [7d\]: you have to ask yourself those questions every time
+toxxicu [7d\]: is it important ?
+toxxicu [7d\]: are there any other big areas
+toxxicu [7d\]: ?
+]))
+(;W[cn]CR[cn])
+(;W[fq]CR[fq])
+(;W[pn]CR[pn])
+(;W[np]CR[np])
+(;W[pp]CR[pp]))
+(;B[cf]CR[cf]C[toxxicu [7d\]: this was better
+toxxicu [7d\]: you protect both stones like this
+Zwom [15k\]: I see.
+toxxicu [7d\]: connecting is not the only important thing
+toxxicu [7d\]: once you decide you need to add one more stone
+toxxicu [7d\]: you need to look for the best way to do it
+toxxicu [7d\]: most efficient and secure at the same time
+toxxicu [7d\]: sometimes you need to make a balance between safety and efficiency
+]))
+(;B[df]CR[df]C[toxxicu [7d\]: without that push
+toxxicu [7d\]: you can play here
+toxxicu [7d\]: and there is no danger
+toxxicu [7d\]: w can not capture
+]
+;W[de]CR[de]
+;B[dd]CR[dd]))
+(;B[fe]CR[fe]TR[fd][ef]C[toxxicu [7d\]: b needs to play here
+toxxicu [7d\]: this shape is very bad for w
+toxxicu [7d\]: is a cut keima
+toxxicu [7d\]: you know keima right ?
+Zwom [15k\]: yes.  
+Zwom [15k\]: I'm surprised I didn't in that that was part of the goal of e15 in the first place.
+Zwom [15k\]: didn't cut that is.
+toxxicu [7d\]: yes change of plans :)
+Zwom [15k\]: my dad gets annoyed with that one too.
+toxxicu [7d\]: becomes aparent it is bad to change them :)
+]))
+(;W[fe]CR[fe]C[toxxicu [7d\]: he should be happy to link his stones
+toxxicu [7d\]: and b still has a problem at c14
+toxxicu [7d\]: you can't ignore that
+]
+;B[df]CR[df]C[Zwom [15k\]: I see.
+]
+;W[eg]CR[eg]C[toxxicu [7d\]: you must defend
+toxxicu [7d\]: and now his vague move became sort of a wall
+]))
+(;B[dg]CR[dg]C[toxxicu [7d\]: you should just defend
+toxxicu [7d\]: against c14
+toxxicu [7d\]: the exchange is bad for w
+toxxicu [7d\]: now he doesn't have any weakness at c13 to exploit
+toxxicu [7d\]: this gives b a sure profit
+toxxicu [7d\]: while e14 is vague towards the center
+]))
+(;W[cj]CR[cj]C[toxxicu [7d\]: it's much more effective for w to attack from here
+toxxicu [7d\]: aiming at c13
+toxxicu [7d\]: agree?
+Zwom [15k\]: Yes.
+]))

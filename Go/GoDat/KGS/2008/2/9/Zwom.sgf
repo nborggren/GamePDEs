@@ -1,0 +1,408 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[AGA]SZ[19]KM[7.50]
+PW[mud]PB[Zwom]DT[2008-02-09]PC[The KGS Go Server at http://www.gokgs.com/]C[Zwom [-\]: hi
+mud [?\]: hi there, sorry i'm late
+mud [?\]: have a good game
+Zwom [-\]: no problem
+]RE[B+Resign]
+;B[qd]
+;W[dc]
+;B[dp]
+;W[pp]
+;B[ce]
+;W[ed]
+;B[ci]
+;W[oc]
+;B[pe]
+;W[kc]C[Ubiquity [-\]: either side looks good
+Ubiquity [-\]: since you have high stones at both corners
+Ubiquity [-\]: but bottom might be bigger
+Ubiquity [-\]: because you have the left
+]
+;B[nq]C[Ubiquity [-\]: so you're multi-dimensional
+]
+;W[jp]C[Zwom [-\]: I didn't know what side to approach on here
+]
+;B[qq]
+;W[pq]
+;B[qp]
+;W[po]
+;B[pr]
+;W[or]
+;B[qr]
+;W[oq]
+;B[qn]
+(;W[pn]C[Ubiquity [-\]: i think this is the first actual bad move
+Ubiquity [-\]: of the game
+Ubiquity [-\]: why did you play this?
+mud [?\]: because i'm a retard
+Ubiquity [-\]: no seriously
+mud [?\]: i meant to play p7
+Ubiquity [-\]: why did you play it
+Ubiquity [-\]: ok, but?
+mud [?\]: no but. i just meant to play p7, then when i looked back i hadn't played p7
+Ubiquity [-\]: i see
+]
+;B[qm]
+;W[fq]
+(;B[fp]C[Ubiquity [-\]: so nate
+Ubiquity [-\]: you have some stones on the left
+Ubiquity [-\]: is that why you chose this move?
+Ubiquity [-\]: to build a moyo?
+Zwom [-\]: yes, I thought it made him overconcentrated and reinforced my shape
+Zwom [-\]: build moyo
+Ubiquity [-\]: i see
+Ubiquity [-\]: no, this doesn't actually overconcentrate him here
+]
+;W[gp]
+;B[fo]
+(;W[dq]
+;B[eq]
+;W[er]
+;B[ep]
+;W[gr]
+;B[cq]
+;W[dr]C[Zwom [-\]: but that was foolish too.
+Ubiquity [-\]: except that G5 is a big turning move for him too
+Ubiquity [-\]: your shape is a little short of liberties
+]
+(;B[pm]
+;W[go]C[Ubiquity [-\]: which you can tell, right?
+Zwom [-\]: after he played this, I didn't look before
+Ubiquity [-\]: ahh
+]
+;B[fm]C[Zwom [-\]: I just new the c4 cut worked
+]
+;W[gn]C[Zwom [-\]: for white
+]
+;B[co]
+;W[dj]
+;B[di]
+;W[ej]
+;B[bk]C[Ubiquity [-\]: this is ok
+Ubiquity [-\]: it's hard to do much else here
+Ubiquity [-\]: your moyo is already ruined
+Ubiquity [-\]: and it prevent him from blocking at C10
+]
+;W[fn]
+;B[en]
+;W[ei]
+;B[eh]
+;W[fh]
+(;B[dg]
+(;W[eg]
+;B[dh]C[Ubiquity [-\]: is this significantly different?
+mud [?\]: no
+Ubiquity [-\]: ok, well
+mud [?\]: i had no idea of a real plan, because i already fucked up
+Ubiquity [-\]: you helped him make F7 stronger
+Ubiquity [-\]: but is there anything else you can possibly do with F7?
+mud [?\]: yeah, i might want to cut or clamp or something later
+Ubiquity [-\]: right, so
+Ubiquity [-\]: you don't want to throw that aji away
+]
+(;W[gm]C[Ubiquity [-\]: but also
+Zwom [-\]: was b9 a mistake for me?
+Ubiquity [-\]: so why are you playing here?
+mud [?\]: i'm trying to do something with the bottom, but it's pretty dumb
+Zwom [-\]: I guess that question is for both of us
+]
+;B[fl]
+;W[gl]
+;B[nm]
+;W[np]
+;B[nr]C[Ubiquity [-\]: why would josh play Q6
+Ubiquity [-\]: wtf
+]
+;W[os]
+;B[qi]
+;W[cd]
+;B[de]
+;W[pj]
+;B[qj]
+;W[pk]
+;B[pi]
+;W[oe]
+;B[nj]
+;W[pf]
+;B[qf]
+;W[pd]
+;B[qe]
+;W[ff]
+;B[fk]
+;W[pg]
+;B[qg]
+;W[gi]C[FlameBlade [-\]: man, I think I may have affected Nate in a bad way.
+mud [?\]: i wanted to cap but i couldn't. i was afraid of the aji w/ o14 and such
+]
+(;B[kf]C[FlameBlade [-\]: as I was saying...
+mud [?\]: i was planning on just going n14
+Ubiquity [-\]: yeah, white has had a good game so far
+mud [?\]: if he did that
+mud [?\]: ...i thought i was losing
+Ubiquity [-\]: josh, he's low on both sides
+Ubiquity [-\]: and you actually made something with potential on the top
+mud [?\]: yeah, but the bottom is more retarded than any group ever
+Ubiquity [-\]: and you have komi
+Ubiquity [-\]: how are you losing?
+Ubiquity [-\]: the bottom isn't small
+mud [?\]: i guess i was still pissed i played q6, haha
+]
+(;W[ng]
+;B[ki]
+;W[kh]
+;B[lh]
+;W[lg]
+;B[kg]
+;W[jh]
+;B[mg]
+;W[mh]
+;B[lf]
+;W[li]
+;B[nh]
+;W[lg]C[FlameBlade [-\]: wonder if josh counted before this
+]
+;B[mf]
+;W[ni]
+;B[oh]
+;W[nf]
+;B[ne]
+;W[nd]
+;B[me]
+;W[of]
+;B[jc]C[mud [?\]: just hane under or something?
+]
+(;W[jd]C[Ubiquity [-\]: you probably only want to play this move if
+]
+;B[lc]
+(;W[ld]
+;B[kb]
+;W[kd]
+;B[mc]
+;W[md]C[mud [?\]: ya
+]
+;B[ib]
+;W[ic]
+;B[jb]C[FlameBlade [-\]: mind if I ask...K16 seemed funny
+FlameBlade [-\]: allowed black to have forcing moves.
+]
+(;W[mm]
+;B[ml]C[mud [?\]: thanks for the game
+Zwom [-\]: thanks
+Zwom [-\]: really?
+mud [?\]: i have no idea how i could ever win this
+mud [?\]: ever
+mud [?\]: pretty sure i've been behind since q6
+mud [?\]: by a billion
+Zwom [-\]: I'll turn on coordinates so I can see what you are talking about.
+mud [?\]: ill see if greg can review
+FlameBlade [-\]: that weird push on lower right
+Zwom [-\]: oh I see.
+mud [?\]: i meant to play the knights move, then i didn't...and the knights move wasn't even very good
+Zwom [-\]: I still think I'm losing
+mud [?\]: i have no idea how that'd be possible
+mud [?\]: i barely have points
+Zwom [-\]: I'll pass control to greg
+Ubiquity [-\]: wow, you resigned this game josh?
+mud [?\]: yeah
+Ubiquity [-\]: anyway josh
+Ubiquity [-\]: you give up too easily
+Ubiquity [-\]: you should count first
+Ubiquity [-\]: or did you?
+mud [?\]: i did, but i guess i was pessimistic or something
+mud [?\]: if you still think i can win
+Ubiquity [-\]: there's a raeson there are no time limits
+Ubiquity [-\]: it's so you can be more accurate
+Ubiquity [-\]: well, N7 hurts you a little
+Ubiquity [-\]: but you should still wait until the game is clearer
+Ubiquity [-\]: before deciding to resign
+mud [?\]: okay
+Ubiquity [-\]: weird resignations in vacuous space are bad
+FlameBlade [-\]: and this sorta still is a fight
+Ubiquity [-\]: wait until you're definitely behind
+Ubiquity [-\]: with no way to make it up
+Ubiquity [-\]: then you can resign
+Ubiquity [-\]: but here there's still possibilities all over
+Ubiquity [-\]: there are
+mud [?\]: alright, i will from now on
+Ubiquity [-\]: ok
+Ubiquity [-\]: good game
+mud [?\]: thanks for the review
+Ubiquity [-\]: np
+mud [?\]: and thanks again for the game nathan
+Zwom [-\]: thanks greg, josh
+Zwom [-\]: thanks for resigning
+mud [?\]: haha
+Ubiquity [-\]: haha
+Zwom [-\]: thanks for watching everybody too
+mud [?\]: hmm, i hope i can play another game tonight
+mud [?\]: there's still a lot of games left
+Zwom [-\]: it seems g5 was really bad of me to forget
+Zwom [-\]: yeah is this going to be a three week round?
+Zwom [-\]: after all?
+Ubiquity [-\]: yeah, probably
+Ubiquity [-\]: unless you guys manage to finish faster
+mud [?\]: i think i can finish in 2
+mud [?\]: but i'll see
+mud [?\]: is kei still playing?
+mud [?\]: or did he drop out?
+Zwom [-\]: I prefer three, it gives time for problems and review of the reviews 
+Ubiquity [-\]: kei dropped
+mud [?\]: okay
+Ubiquity [-\]: if you need 3 that's fine
+Vash3G [?\]: review over?
+Ubiquity [-\]: i doubt everyone will finish before that
+Ubiquity [-\]: yes
+FlameBlade [-\]: okay, 3 more people for me then
+Zwom [-\]: bye
+mud [?\]: dan maybe we'll have time to play tonight, if you're around?
+FlameBlade [-\]: I'm not sure.
+FlameBlade [-\]: I'm kinda coming down with something.
+mud [?\]: oh lame :(
+FlameBlade [-\]: yeah, I left work early yesterday
+FlameBlade [-\]: and napped for like 4 hours.
+mud [?\]: ahh
+mud [?\]: damn
+mud [?\]: i hope you feel better
+FlameBlade [-\]: yeah, I'm totally screwed up now
+FlameBlade [-\]: me too
+FlameBlade [-\]: though, I did play nick last night...only because I wanted to finish the game
+mud [?\]: nizzity or hobo?
+FlameBlade [-\]: haha
+FlameBlade [-\]: hobo
+mud [?\]: oh, cool
+mud [?\]: ill have to look at that later
+FlameBlade [-\]: so maybe I can play tonight
+FlameBlade [-\]: but not sure.
+FlameBlade [-\]: if you catch someone else, it's fine
+mud [?\]: yeah, we can just wait until you're definitely feeling better
+])
+(;W[mk]
+(;B[nk]
+;W[ml]C[Ubiquity [-\]: i think it's still a game
+Zwom [-\]: I think it's still a white win.
+Zwom [-\]: I was hoping to get f17
+Ubiquity [-\]: haha
+mud [?\]: i don't feel like i can win
+FlameBlade [-\]: hmmm, I'm thinking black N8 instead of O9.
+Ubiquity [-\]: well, this move still threatens the stones at O10
+])
+(;B[ml]
+;W[nk]C[Ubiquity [-\]: like this?
+FlameBlade [-\]: yeah, something like this
+Ubiquity [-\]: white's Q9 stones are really valuable
+FlameBlade [-\]: yea
+Ubiquity [-\]: because he can block at R9
+FlameBlade [-\]: and O9 is sente...
+FlameBlade [-\]: guess it's a matter of positional judgement
+FlameBlade [-\]: P3 isn't that healthy
+]
+;B[mp]C[Ubiquity [-\]: are you thinking in terms of this move?
+FlameBlade [-\]: I'm thinking in terms of abusing the group a bit
+FlameBlade [-\]: to break in
+]
+;W[mo]C[Ubiquity [-\]: how so
+FlameBlade [-\]: ah
+FlameBlade [-\]: O9 is a too strong move
+FlameBlade [-\]: black not going to do much
+FlameBlade [-\]: okay
+FlameBlade [-\]: now I'm convinced
+])))
+(;W[kd]C[Ubiquity [-\]: you can answer this way to this move
+]
+;B[ld]C[mud [?\]: ah
+]
+;W[lb]
+;B[mb]
+;W[kb]
+;B[mc]C[Ubiquity [-\]: it seemds to depend on the fight between your isolated groups
+]))
+(;W[jb]
+;B[kb]
+;W[lb]
+;B[kd]
+;W[lc]
+;B[ib]
+;W[ka]C[Ubiquity [-\]: still probably tough for black
+Ubiquity [-\]: even with these forcing moves
+mud [?\]: okay
+]
+(;B[id]C[Ubiquity [-\]: need to make some eyes somehow
+]
+;W[hc]
+;B[ic]C[Zwom [-\]: f17 seems a vital point still
+Ubiquity [-\]: it is
+])
+(;B[fc]
+;W[ic]C[Ubiquity [-\]: but it's hard to deal with this
+])))
+(;W[lg]C[Ubiquity [-\]: why not something a littel more severe?
+Ubiquity [-\]: i can't type today
+mud [?\]: hmm
+Ubiquity [-\]: he jumped into the heart of your moyo
+mud [?\]: yeah, i guess that's better
+Ubiquity [-\]: you can't just go easy on him
+]))
+(;B[ng]C[Zwom [-\]: I felt I was losing and needed to be ambitious
+Ubiquity [-\]: maybe if he started here
+]))
+(;W[em]
+;B[el]
+;W[dm]
+(;B[dl]
+;W[dn]
+;B[eo]
+;W[fl]
+;B[gm]
+;W[cl]C[Ubiquity [-\]: even now, how does this seem?
+mud [?\]: that seems annoying for him
+Ubiquity [-\]: probably more than annoying
+])
+(;B[fl]
+;W[dl]
+;B[dk]
+;W[ck]
+;B[ek]
+;W[cj]C[Ubiquity [-\]: how about this situation?
+mud [?\]: yeah, that's pretty awful for black
+])))
+(;W[fg]C[Ubiquity [-\]: usually you don't want to play all ataris in sight
+Ubiquity [-\]: because there might be useful way to exploit shortage of liberties later
+mud [?\]: ok
+Ubiquity [-\]: so in this situation, this move would probably be better
+]))
+(;B[eg]C[Ubiquity [-\]: josh, let's say he played here
+Ubiquity [-\]: what would you play?
+mud [?\]: probably g10 i guess
+]))
+(;B[go]C[Ubiquity [-\]: you should probably play this one
+Ubiquity [-\]: since it's not making him significantly stronger
+]
+;W[hp]C[Ubiquity [-\]: in this sense, K4 actually might be a little overconcentrated
+Zwom [-\]: I thought the peep and k3 would come in handy to utilize o3 aji
+]))
+(;W[eq]
+;B[dq]C[Ubiquity [-\]: now, as for your moyo
+]
+;W[dj]C[Ubiquity [-\]: it's not really there
+Zwom [-\]: I noticed eventually
+Ubiquity [-\]: so in that sense, your leaning moves don't really end up that effective
+]))
+(;B[hq]C[Ubiquity [-\]: as long as this weak point remains
+Ubiquity [-\]: you don't want to help him get stronger
+Ubiquity [-\]: because otherwise he'll just naturally fix it
+Ubiquity [-\]: right?
+Zwom [-\]: yes
+])
+(;B[dn]C[Ubiquity [-\]: simply defending leaves that threat for later
+]))
+(;W[fq]C[Ubiquity [-\]: this is probably the right follow-up
+]
+;B[dn]
+;W[np]C[mud [?\]: yeah, i guess that makes sense
+Ubiquity [-\]: and leave options like R7 or R8 available for later
+mud [?\]: i was worried about o5 or something, but i guess he can't do that
+mud [?\]: since the corner is bigger
+Ubiquity [-\]: o5 when?
+mud [?\]: instead of d6...but i see why that's  bad
+]))

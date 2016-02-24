@@ -1,0 +1,389 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[0.50]TM[600]OT[5x40 byo-yomi]
+PW[donclaboni]PB[Bogoliubon]WR[1k]BR[2k]DT[2008-12-22]PC[The KGS Go Server at http://www.gokgs.com/]C[donclaboni [1k\]: hi
+Joven [-\]: howdy
+Bogoliubon [2k\]: hello.  for drunk go yesterday this worked pretty well.
+]RE[B+30.50]
+;B[qd]BL[592.965]
+;W[dc]WL[597.622]C[Bogoliubon [2k\]: hello
+]
+;B[dp]BL[568.52]
+;W[pq]WL[592.98]C[Joven [-\]: one second
+Joven [-\]: back
+Bogoliubon [2k\]: I seem to get all the important sente's in the opening.  but what's your move here.
+Joven [-\]: Id play D15 or C15
+Joven [-\]: depending on my mood
+]
+;B[oc]BL[552.584]C[Joven [-\]: not small either
+Bogoliubon [2k\]: I just called q5 and d15 miai
+Bogoliubon [2k\]: after this
+]
+;W[fq]WL[588.042]
+;B[po]BL[543.61]
+;W[pl]WL[583.37]C[Bogoliubon [2k\]: so here craziness pays off
+]
+;B[lp]BL[522.609]
+;W[oo]WL[569.698]C[Joven [-\]: hmm funky..
+]
+;B[hp]BL[465.968]C[Bogoliubon [2k\]: I had this idea
+Joven [-\]: so here I would be tempted to take another move on the right as white
+Joven [-\]: otherwise I think this will be good for black
+Bogoliubon [2k\]: yeah he needs to get back first
+]
+;W[cq]WL[560.852]
+;B[dq]BL[448.574]
+;W[cp]WL[553.335]
+;B[do]BL[440.453]
+;W[dr]WL[550.826]
+;B[er]BL[438.145]C[Joven [-\]: what do you think?
+Joven [-\]: what do you think?
+]
+;W[cr]WL[549.407]
+;B[eq]BL[436.764]
+;W[cn]WL[548.274]C[Bogoliubon [2k\]: I agree
+Bogoliubon [2k\]: or play for sente here first
+Joven [-\]: sorry internet lagged
+Joven [-\]: yeah now you get to play P6
+Bogoliubon [2k\]: I didn't like p6 here
+]
+(;B[op]BL[435.569]
+;W[pp]WL[546.087]
+;B[oq]BL[412.666]
+;W[or]WL[540.975]
+;B[nr]BL[370.21]
+;W[pr]WL[533.053]
+;B[nq]BL[311.975]
+;W[pn]WL[528.394]
+;B[qo]BL[308.615]
+;W[qn]WL[525.196]C[Joven [-\]: hit corner is just really big this way
+Bogoliubon [2k\]: and m4 is pretty close
+]
+;B[rp]BL[298.845]
+;W[rq]WL[486.272]
+;B[rn]BL[289.486]
+;W[rl]WL[377.771]
+;B[on]BL[232.788]
+;W[no]WL[372.596]
+;B[sq]BL[206.799]
+;W[qp]WL[332.803]
+;B[ro]BL[175.937]
+;W[sr]WL[329.58]
+;B[om]BL[91.95]
+;W[rm]WL[308.338]
+;B[mn]BL[55.719]C[Bogoliubon [2k\]: but I thought this an efficient sacrifice
+Bogoliubon [2k\]: m4 not that retarded
+Bogoliubon [2k\]: now
+Joven [-\]: nah its not bad
+Joven [-\]: but I think there might be better
+Bogoliubon [2k\]: if you straight count
+Bogoliubon [2k\]: white has maybe 35 points
+Bogoliubon [2k\]: and black 30ish on the bottom
+Bogoliubon [2k\]: if you can count that
+Bogoliubon [2k\]: so I like black still
+Bogoliubon [2k\]: it just makes judgement easier
+Joven [-\]: indeed
+Bogoliubon [2k\]: you want to look at a pro game or something?  I just woke up from a nap
+]
+;W[sp]WL[297.379]C[Joven [-\]: Id consider it even
+]
+;B[mo]BL[51.606]C[Bogoliubon [2k\]: here?
+Joven [-\]: yup
+Joven [-\]: since you can't stop the connect underneath
+Joven [-\]: and its only like 14 points in stone
+Joven [-\]: stones
+Bogoliubon [2k\]: I would've too, but it's kgs, everybody is capture hungry
+]
+;W[sn]WL[294.571]C[Joven [-\]: so I might  tenuki here as white
+]
+;B[de]BL[47.047]C[Joven [-\]: its hard to decide
+]
+;W[cg]WL[289.946]C[Joven [-\]: now the game is definitly good for you
+]
+;B[em]BL[24.559]
+;W[cm]WL[284.443]
+;B[ej]BL[13.672]
+;W[el]WL[271.057]
+;B[dl]BL[40]OB[5]
+;W[en]WL[265.587]
+(;B[fl]BL[40]OB[5]
+;W[fm]WL[193.312]
+;B[dm]BL[40]OB[5]
+;W[dn]WL[191.12]
+;B[fn]BL[40]OB[5]C[Bogoliubon [2k\]: i just thought it was a perfectly placed penuki my way
+]
+;W[fo]WL[185.862]
+;B[gn]BL[40]OB[5]C[Bogoliubon [2k\]: I figured if penuki is 20 points
+Bogoliubon [2k\]: 30 points rather
+Bogoliubon [2k\]: then I'm up 15 even if e2 die
+]
+;W[fr]WL[171.486]
+;B[fp]BL[40]OB[4]
+;W[gp]WL[166.169]
+;B[eo]BL[40]OB[4]
+;W[ep]WL[155.595]
+;B[go]BL[40]OB[4]C[Joven [-\]: it is
+Joven [-\]: you just have to give up cash for it
+Joven [-\]: its hard to now which is better
+Joven [-\]: I think this way your outside is better
+Joven [-\]: but you had to give up some points
+Joven [-\]: but its sente
+]
+;W[fp]WL[152.023]
+;B[gr]BL[40]OB[4]
+;W[es]WL[146.502]
+;B[ef]BL[40]OB[4]C[Bogoliubon [2k\]: what do you think of that?
+Joven [-\]: hmm so I can tell you love muyos
+Joven [-\]: control for a second
+Joven [-\]: and this move is big
+Joven [-\]: you muyo is the world
+]
+;W[ck]WL[100.05]
+;B[dk]BL[40]OB[4]
+;W[cj]WL[95.023]
+;B[ec]BL[40]OB[4]C[Joven [-\]: he really did this?
+Joven [-\]: wow
+Joven [-\]: your way is much better now
+Bogoliubon [2k\]: he's just not counting this game
+]
+;W[eb]WL[91.606]
+;B[fc]BL[40]OB[4]
+;W[cd]WL[75.544]
+;B[ce]BL[40]OB[4]
+;W[cb]WL[54.286]C[Bogoliubon [2k\]: this was slow
+Joven [-\]: yeah need to play around O10
+Joven [-\]: then game is over
+Joven [-\]: stupid close button right near arrow
+]
+;B[fb]BL[40]OB[4]
+;W[ok]WL[26.41]C[Joven [-\]: hmm seems too slow
+]
+;B[mk]BL[40]OB[4]
+;W[ni]WL[40]OW[5]
+;B[li]BL[40]OB[4]
+;W[qf]WL[40]OW[5]C[Joven [-\]: wow
+Bogoliubon [2k\]: I think we both go the wrong direction here
+]
+;B[nh]BL[40]OB[4]
+;W[oh]WL[40]OW[5]
+;B[ng]BL[40]OB[4]
+;W[mi]WL[40]OW[5]
+(;B[og]BL[40]OB[4]
+;W[lh]WL[40]OW[5]
+(;B[ph]BL[40]OB[4]
+;W[oi]WL[40]OW[5]
+;B[mh]BL[40]OB[4]
+;W[lj]WL[40]OW[5]
+;B[ki]BL[40]OB[4]C[Bogoliubon [2k\]: if you read it you get it anyways
+]
+;W[mj]WL[40]OW[5]
+;B[qg]BL[40]OB[4]
+;W[fa]WL[40]OW[5]C[Bogoliubon [2k\]: yeah
+]
+;B[ga]BL[40]OB[4]
+;W[ea]WL[40]OW[5]
+;B[hb]BL[40]OB[4]C[Bogoliubon [2k\]: he's all done now
+Joven [-\]: wow he helped you hear
+Joven [-\]: here
+Joven [-\]: now no way to invade the top
+Bogoliubon [2k\]: I thought p9
+Bogoliubon [2k\]: would have been better at p15
+Bogoliubon [2k\]: perhaps
+Bogoliubon [2k\]: he needs to disrupt bigg
+Bogoliubon [2k\]: big
+Joven [-\]: yeah
+Joven [-\]: wow you have so many points
+Bogoliubon [2k\]: my sacrifices all worked well together
+Joven [-\]: you are winning by a million
+Bogoliubon [2k\]: and r13
+Bogoliubon [2k\]: is so huge
+]
+(;W[kj]WL[40]OW[5]
+;B[ji]BL[40]OB[4]
+;W[jj]WL[40]OW[5]
+;B[ii]BL[40]OB[4]
+;W[di]WL[40]OW[5]C[Bogoliubon [2k\]: that was my thought up til he passed
+]
+;B[ei]BL[40]OB[4]
+;W[eh]WL[40]OW[5]
+;B[fh]BL[40]OB[4]
+;W[eg]WL[40]OW[5]
+;B[fg]BL[40]OB[4]
+;W[rh]WL[40]OW[4]
+;B[rg]BL[40]OB[4]
+;W[ri]WL[40]OW[4]
+;B[bg]BL[40]OB[4]
+;W[bh]WL[40]OW[4]
+;B[bf]BL[40]OB[4]
+;W[sg]WL[40]OW[4]C[Joven [-\]: can you see anything?
+Joven [-\]: oh well
+Joven [-\]: you cant eat his ace
+Joven [-\]: face
+]
+(;B[sf]BL[40]OB[4]
+;W[sh]WL[40]OW[4]
+;B[rf]BL[40]OB[4]
+;W[jm]WL[40]OW[4]
+;B[jo]BL[40]OB[4]
+;W[hq]WL[40]OW[4]
+;B[gq]BL[40]OB[4]
+;W[co]WL[40]OW[4]
+;B[iq]BL[40]OB[4]
+;W[hr]WL[40]OW[4]
+;B[ir]BL[40]OB[4]
+;W[gs]WL[40]OW[4]
+;B[gm]BL[40]OB[4]
+;W[ij]WL[40]OW[4]
+;B[hj]BL[40]OB[4]
+;W[is]WL[40]OW[4]
+;B[jr]BL[40]OB[4]
+;W[js]WL[40]OW[4]
+;B[ks]BL[40]OB[4]
+;W[hs]WL[40]OW[4]
+;B[lr]BL[40]OB[4]
+;W[hk]WL[40]OW[4]
+;B[gj]BL[40]OB[4]
+;W[bd]WL[40]OW[4]
+;B[ah]BL[40]OB[4]
+;W[bi]WL[40]OW[4]
+;B[cl]BL[40]OB[4]
+;W[bl]WL[40]OW[4]
+;B[dj]BL[40]OB[4]
+;W[dh]WL[40]OW[4]C[Joven [-\]: yeah I read it
+Joven [-\]: anyways good sacrifices
+Joven [-\]: Im so bad at sacrificing things
+Bogoliubon [2k\]: it's just me catching my mistakes early enough usually
+Bogoliubon [2k\]: I get to capture k7
+Bogoliubon [2k\]: believe it or not
+Joven [-\]: really?
+Bogoliubon [2k\]: which is the last cool part
+Joven [-\]: pls show it
+Bogoliubon [2k\]: only because he didn't play right
+]
+;B[pi]BL[40]OB[4]
+;W[pj]WL[40]OW[4]
+;B[qj]BL[40]OB[4]
+;W[rj]WL[40]OW[4]
+;B[qk]BL[40]OB[4]
+;W[qi]WL[40]OW[4]
+;B[rk]BL[40]OB[4]C[Bogoliubon [2k\]: this was misread
+]
+;W[sk]WL[40]OW[4]
+;B[sj]BL[40]OB[4]
+;W[ql]WL[40]OW[4]
+;B[sl]BL[40]OB[4]
+;W[pk]WL[40]OW[4]
+;B[qh]BL[40]OB[4]
+;W[sk]WL[40]OW[4]
+;B[ae]BL[40]OB[4]
+;W[ad]WL[40]OW[4]
+;B[dd]BL[40]OB[4]C[Joven [-\]: yeah it happens
+Bogoliubon [2k\]: the hane did work though
+Bogoliubon [2k\]: if you read it
+]
+;W[ml]WL[40]OW[4]
+;B[ll]BL[40]OB[4]
+;W[lk]WL[40]OW[4]
+;B[il]BL[40]OB[4]
+;W[ik]WL[40]OW[4]
+;B[jl]BL[40]OB[4]
+;W[kl]WL[40]OW[4]
+(;B[nn]BL[40]OB[4]C[Bogoliubon [2k\]: get rid of my cutting point first
+]
+;W[so]WL[40]OW[4]
+;B[km]BL[40]OB[4]C[Joven [-\]: might as well
+]
+;W[lm]WL[40]OW[4]
+;B[kn]BL[40]OB[4]C[Bogoliubon [2k\]: I have to even
+Bogoliubon [2k\]: or I would be getting cut at the moment
+Joven [-\]: ?
+]
+;W[hl]WL[40]OW[4]
+;B[im]BL[40]OB[4]
+;W[hm]WL[40]OW[4]
+;B[in]BL[40]OB[4]
+;W[ho]WL[40]OW[4]
+;B[ip]BL[40]OB[4]
+;W[hn]WL[40]OW[4]
+;B[gl]BL[40]OB[4]
+;W[gk]WL[40]OW[4]
+;B[fk]BL[40]OB[4]
+;W[cf]WL[40]OW[4]
+;B[be]BL[40]OB[4]
+;W[df]WL[40]OW[4]
+;B[fe]BL[40]OB[4]
+;W[ln]WL[40]OW[4]
+;B[lo]BL[40]OB[4]
+;W[io]WL[40]OW[4]
+;B[nl]BL[40]OB[4]
+;W[jk]WL[40]OW[4]
+;B[jn]BL[40]OB[4]
+;W[nk]WL[40]OW[4]
+;B[mm]BL[40]OB[4]
+;W[ll]WL[40]OW[4]
+;B[np]BL[40]OB[4]
+;W[po]WL[40]OW[4]
+;B[os]BL[40]OB[4]
+;W[ps]WL[40]OW[4]
+;B[ns]BL[40]OB[4]
+;W[ai]WL[40]OW[4]
+;B[ag]BL[40]OB[4]
+;W[pm]WL[40]OW[4]
+;B[ol]BL[40]OB[4]
+;W[]WL[40]OW[4]
+;B[]BL[40]OB[4]TW[aa][ba][ca][da][ab][bb][db][ac][bc][cc][dg][ch][ci][si][aj][bj][nj][oj][qj][sj][ak][bk][kk][mk][qk][rk][al][sl][am][bm][qm][sm][an][bn][rn][ao][bo][do][eo][qo][ro][ap][bp][dp][rp][aq][bq][dq][eq][gq][qq][sq][ar][br][er][gr][qr][rr][as][bs][cs][ds][fs][qs][rs][ss]TB[ha][ia][ja][ka][la][ma][na][oa][pa][qa][ra][sa][gb][ib][jb][kb][lb][mb][nb][ob][pb][qb][rb][sb][gc][hc][ic][jc][kc][lc][mc][nc][pc][qc][rc][sc][ed][fd][gd][hd][id][jd][kd][ld][md][nd][od][pd][rd][sd][ee][ge][he][ie][je][ke][le][me][ne][oe][pe][qe][re][se][af][ff][gf][hf][if][jf][kf][lf][mf][nf][of][pf][qf][gg][hg][ig][jg][kg][lg][mg][pg][gh][hh][ih][jh][kh][lh][fi][gi][hi][fj][ek][el][fm][jm][nm][ko][jp][kp][mp][jq][kq][lq][mq][kr][mr][ls][ms]C[donclaboni [1k\]: thx
+Bogoliubon [2k\]: thanks for the game
+])
+(;B[km]C[Joven [-\]: Ive done the same
+]
+;W[lm]
+;B[kn]C[Bogoliubon [2k\]: I thought it was a cool game.  I won by simply counting
+Joven [-\]: no it is definitly cool
+Joven [-\]: definitly portrays the lesson that stones dont give you points
+Bogoliubon [2k\]: right, and I like sacrificing, because it's easy to count how much you give up
+Bogoliubon [2k\]: and that's exactly how much they get
+Bogoliubon [2k\]: while you aren't bounded
+]
+;W[nn]C[Bogoliubon [2k\]: oh yeah
+Joven [-\]: lol
+Bogoliubon [2k\]: atari
+]))
+(;B[bd]
+;W[bc]
+;B[dd]
+;W[cc]C[Joven [-\]: I want to be able to do something
+])
+(;B[bb]C[Joven [-\]: oo there we go
+]
+(;W[bc]
+;B[ca]C[Bogoliubon [2k\]: but b19
+Joven [-\]: Im thinking if he does this
+Bogoliubon [2k\]: as reply
+])
+(;W[ba]C[Joven [-\]: oh yeah darn
+])))
+(;W[nc]C[Joven [-\]: if I was white Iw ould close my eyes and try this
+Bogoliubon [2k\]: yeah he never did that
+Joven [-\]: and if I die i die but I ahve to try
+]))
+(;B[mh]
+;W[lj]
+;B[ki]C[Joven [-\]: still maybe this
+]))
+(;B[lh]C[Joven [-\]: yeah
+Bogoliubon [2k\]: the top is bigger
+]))
+(;B[dn]
+;W[dm]
+;B[fm]
+;W[fl]
+;B[gl]C[Joven [-\]: this might be another way
+Bogoliubon [2k\]: I see.  
+Bogoliubon [2k\]: white can lean on e10 and d15 stones now though
+Joven [-\]: well its not easy for white to save the two stones
+Bogoliubon [2k\]: it's probably better
+]))
+(;B[on]
+;W[op]C[Bogoliubon [2k\]: I didn't know how to protect
+Bogoliubon [2k\]: and now m3 is open
+Bogoliubon [2k\]: and f3 more aji
+]))

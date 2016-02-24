@@ -1,0 +1,438 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[300]OT[5x30 byo-yomi]
+PW[Bogoliubon]PB[GoOoG]WR[2k]BR[5k]DT[2008-12-12]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[Bogoliubon [2k\]: hello
+GoOoG [5k\]: hi
+]RE[B+4.50]
+;W[ed]WL[290.386]
+;B[cd]BL[297.113]
+;W[df]WL[285.95]
+;B[de]BL[290.787]
+;W[ee]WL[282.511]
+;B[cf]BL[289.18]
+;W[dg]WL[257.582]
+;B[cg]BL[285.868]
+;W[dh]WL[250.039]
+;B[ch]BL[279.276]
+;W[ci]WL[238.598]
+;B[di]BL[276.765]
+;W[cj]WL[234.747]
+;B[ei]BL[274.232]
+;W[fg]WL[231.106]
+;B[dc]BL[271.088]
+;W[cn]WL[224.895]C[GoOoG [5k\]: thx
+Bogoliubon [2k\]: you're pretty strong here
+Bogoliubon [2k\]: you have a free stone at d4
+]
+(;B[fq]BL[268.275]
+;W[ek]WL[207.383]LB[cl:B][dl:A]C[Bogoliubon [2k\]: now white has those 12 points anyways
+Bogoliubon [2k\]: more like 15 now
+Bogoliubon [2k\]: black's corner is open
+Bogoliubon [2k\]: and now white's f13 group is perfectly placed
+GoOoG [5k\]: need to think, you are right
+Bogoliubon [2k\]: do you see the difference?
+GoOoG [5k\]: yes
+Bogoliubon [2k\]: so if you can avoid moves like this one do so
+Bogoliubon [2k\]: white's shape has weakness at a and b
+Bogoliubon [2k\]: so you want to be careful not to remove it
+Bogoliubon [2k\]: for just a few points
+]
+(;B[co]BL[265.315]C[Bogoliubon [2k\]: I have to type a couple blank lines
+Bogoliubon [2k\]: my java doesn't scroll up
+Bogoliubon [2k\]: the bottom
+]
+;W[dn]WL[203.149]C[Bogoliubon [2k\]: you get about 10 in the corner
+Bogoliubon [2k\]: but are still weak
+Bogoliubon [2k\]: white has easy answers if you try that now
+Bogoliubon [2k\]: this is so called 'aji keshi'
+Bogoliubon [2k\]: potential destroying
+]
+;B[bn]BL[263.539]
+;W[bm]WL[201.414]
+;B[bo]BL[262.156]
+;W[ec]WL[198.466]C[GoOoG [5k\]: very good your comments
+]
+;B[db]BL[259.657]
+;W[jd]WL[193.655]
+;B[mc]BL[257.402]C[Bogoliubon [2k\]: thanks
+]
+;W[qf]WL[187.414]C[Bogoliubon [2k\]: so far you've played pretty well
+Bogoliubon [2k\]: a couple other ideas
+Bogoliubon [2k\]: this move is just small
+]
+;B[fb]BL[252.722]C[Bogoliubon [2k\]: you give white exactly what he wants
+]
+;W[gc]WL[180.58]LB[ea:1][ge:2][he:3][ie:4][gf:5][hf:6]C[Bogoliubon [2k\]: you force white to take 5 points or so
+Bogoliubon [2k\]: in exchange for one point
+GoOoG [5k\]: what's meaninh thoses numbers ?
+Bogoliubon [2k\]: so it's of negative value first off
+GoOoG [5k\]: 1 thru 6 ?
+Bogoliubon [2k\]: I'm just counting
+Bogoliubon [2k\]: 2-6 white can almost count on
+Bogoliubon [2k\]: e11
+GoOoG [5k\]: how d you count ?
+Bogoliubon [2k\]: I'm just estimating
+Bogoliubon [2k\]: but what I'm thinking
+Bogoliubon [2k\]: is
+GoOoG [5k\]: oh, i see
+Bogoliubon [2k\]: you are weakening
+Bogoliubon [2k\]: e11 stones
+Bogoliubon [2k\]: if my f13 stones are weak
+Bogoliubon [2k\]: you're stones are by default stronger
+Bogoliubon [2k\]: so strengthening me is weakening you
+Bogoliubon [2k\]: is that clear?
+GoOoG [5k\]: yes
+]
+;B[fc]BL[249.124]C[Bogoliubon [2k\]: but it's simply small
+Bogoliubon [2k\]: this is endgame at best
+Bogoliubon [2k\]: with r16, r6, k3, 03 on the board
+GoOoG [5k\]: hehe, i am weak player
+Bogoliubon [2k\]: this game is a long way away from that stage
+Bogoliubon [2k\]: I'll respond
+Bogoliubon [2k\]: but again the cost of the exchange is negative for you
+GoOoG [5k\]: see
+Bogoliubon [2k\]: because I'm taking more territory and weakening your other stones more and more
+]
+;W[gd]WL[177.587]
+;B[gb]BL[246.75]C[Bogoliubon [2k\]: these are way to early
+Bogoliubon [2k\]: there are bigger fish to fry
+Bogoliubon [2k\]: well good luck with your next games
+GoOoG [5k\]: thx for all
+Bogoliubon [2k\]: sure
+GoOoG [5k\]: cu
+]
+;W[qn]WL[163.401]
+;B[nq]BL[244.239]
+;W[fo]WL[160.4]
+;B[gi]BL[240.402]C[Bogoliubon [2k\]: the right side has no illusion of being white territory at this stage
+Bogoliubon [2k\]: so the lesson is one of timing really
+Bogoliubon [2k\]: you did this move way to late
+Bogoliubon [2k\]: remember my first comment...
+]
+;W[ii]WL[156.877]C[Bogoliubon [2k\]: now that I'm strong I can apply the utmost resistance
+]
+;B[hj]BL[236.972]
+;W[jk]WL[151.578]LB[gi:1][ii:2][hj:3][jk:4]C[Bogoliubon [2k\]: do you see that you are running out on dame points
+Bogoliubon [2k\]: if they live it will be for zero points
+GoOoG [5k\]: dame points ?
+Bogoliubon [2k\]: neutral territory
+Bogoliubon [2k\]: you're not building eyes
+Bogoliubon [2k\]: you're building a dragon
+Bogoliubon [2k\]: and I'm building moyo
+]
+;B[gl]BL[232.648]C[Bogoliubon [2k\]: you're move was good here
+Bogoliubon [2k\]: the mistake here is mine
+Bogoliubon [2k\]: I didn't see a way to block entirely
+]
+(;W[fj]WL[104.223]
+;B[im]BL[223.739]
+;W[il]WL[66.733]
+;B[gn]BL[215.98]
+;W[go]WL[54.857]C[Bogoliubon [2k\]: you're stones are already connected right?
+GoOoG [5k\]: yes
+]
+(;B[hi]BL[210.358]C[Bogoliubon [2k\]: so this move removes a liberty from me
+Bogoliubon [2k\]: but doesn't gain a liberty for you
+Bogoliubon [2k\]: but more so
+Bogoliubon [2k\]: you have a cut to consider
+]
+;W[gk]WL[51.245]C[Bogoliubon [2k\]: this is easy for me now
+Bogoliubon [2k\]: after the cut
+]
+;B[hl]BL[206.555]
+;W[hk]WL[48.9]
+;B[ij]BL[204.987]C[Bogoliubon [2k\]: now you have two weak groups to manage
+]
+;W[jj]WL[39.977]
+;B[ik]BL[202.423]
+;W[jl]WL[38.221]
+;B[fl]BL[200.172]
+;W[fk]WL[26.592]
+;B[fn]BL[196.752]
+;W[en]WL[30]OW[5]
+;B[ho]BL[192.25]
+;W[ep]WL[30]OW[5]
+;B[eq]BL[189.516]
+;W[hp]WL[30]OW[5]
+;B[io]BL[186.91]
+;W[ih]WL[30]OW[5]C[Bogoliubon [2k\]: and as usual
+Bogoliubon [2k\]: one settles at the cost of the other
+]
+;B[gp]BL[183.825]LB[mh:A]C[Bogoliubon [2k\]: but notice how much I got out of the attack
+Bogoliubon [2k\]: but now
+]
+;W[el]WL[30]OW[5]
+;B[fp]BL[179.501]
+;W[eo]WL[30]OW[5]
+;B[ic]BL[170.347]
+;W[jc]WL[30]OW[5]
+;B[ib]BL[165.911]
+;W[id]WL[30]OW[5]
+;B[kb]BL[163.612]
+;W[lq]WL[30]OW[5]
+;B[jq]BL[156.906]
+;W[kn]WL[30]OW[5]
+;B[lp]BL[154.143]
+;W[kp]WL[30]OW[5]
+;B[kq]BL[151.947]
+;W[mp]WL[30]OW[5]
+;B[lo]BL[150.105]
+;W[mq]WL[30]OW[5]
+;B[ko]BL[147.062]
+;W[mo]WL[30]OW[5]
+;B[ln]BL[144.188]
+;W[qq]WL[30]OW[5]
+;B[qp]BL[139.158]
+;W[pq]WL[30]OW[5]
+;B[op]BL[137.245]
+;W[mn]WL[30]OW[5]
+;B[lm]BL[132.545]
+;W[nr]WL[30]OW[5]
+;B[on]BL[125.462]
+;W[pl]WL[30]OW[5]
+;B[pm]BL[118.186]
+;W[qm]WL[30]OW[5]
+;B[ol]BL[115.826]
+;W[ok]WL[30]OW[5]
+;B[nl]BL[113.184]
+;W[mm]WL[30]OW[5]
+;B[ml]BL[110.62]
+;W[ll]WL[30]OW[5]
+;B[pk]BL[107.77]
+;W[ql]WL[30]OW[5]
+;B[pj]BL[104.272]
+;W[oj]WL[30]OW[5]
+;B[pi]BL[101.432]
+;W[oi]WL[30]OW[5]
+;B[ph]BL[98.851]
+;W[oh]WL[30]OW[5]
+;B[pg]BL[96.699]
+;W[nm]WL[30]OW[5]
+;B[om]BL[93.526]
+;W[lk]WL[30]OW[5]
+;B[qk]BL[90.085]
+;W[ro]WL[30]OW[5]
+;B[rp]BL[87.482]
+;W[rq]WL[30]OW[5]
+;B[so]BL[84.816]
+;W[sn]WL[30]OW[5]
+;B[sp]BL[82.823]
+;W[rk]WL[30]OW[5]
+;B[rm]BL[76.668]
+;W[rl]WL[30]OW[5]
+;B[qo]BL[71.345]
+;W[rn]WL[30]OW[5]
+;B[rj]BL[67.963]
+;W[sm]WL[30]OW[5]
+;B[sk]BL[65.167]
+;W[oo]WL[30]OW[5]
+;B[po]BL[58.622]
+;W[no]WL[30]OW[5]
+;B[pn]BL[55.478]
+;W[nk]WL[30]OW[5]
+;B[sj]BL[51.408]
+;W[qd]WL[30]OW[5]
+;B[qc]BL[46.825]
+;W[pc]WL[30]OW[5]
+;B[pe]BL[43.592]
+;W[qe]WL[30]OW[5]
+;B[pb]BL[40.059]
+;W[oc]WL[30]OW[5]
+;B[qb]BL[37.968]
+;W[pf]WL[30]OW[5]
+;B[og]BL[30.035]
+;W[ng]WL[30]OW[5]
+;B[of]BL[17.899]
+;W[oe]WL[30]OW[5]
+;B[ob]BL[9.826]
+;W[nf]WL[30]OW[5]
+;B[ne]BL[7.361]
+;W[nd]WL[30]OW[5]
+;B[me]BL[4.334]
+;W[md]WL[30]OW[5]
+;B[nc]BL[0.109]
+;W[od]WL[30]OW[5]
+;B[le]BL[30]OB[5]
+;W[ld]WL[30]OW[5]
+;B[mg]BL[30]OB[5]
+;W[mh]WL[30]OW[5]
+;B[nh]BL[30]OB[5]
+;W[ni]WL[30]OW[5]
+;B[mf]BL[30]OB[5]
+;W[nh]WL[30]OW[5]
+;B[lh]BL[30]OB[5]
+;W[li]WL[30]OW[5]
+;B[kh]BL[30]OB[5]
+;W[ke]WL[30]OW[5]
+;B[kf]BL[30]OB[5]
+;W[lg]WL[30]OW[5]
+;B[ig]BL[30]OB[5]
+;W[hh]WL[30]OW[5]
+;B[ki]BL[30]OB[5]
+;W[kj]WL[30]OW[5]
+;B[lf]BL[30]OB[5]
+;W[jf]WL[30]OW[5]
+;B[fd]BL[30]OB[5]
+;W[fe]WL[30]OW[5]
+;B[ge]BL[30]OB[5]
+;W[he]WL[30]OW[5]
+;B[gf]BL[30]OB[5]
+;W[gg]WL[30]OW[5]
+;B[oq]BL[30]OB[5]
+;W[or]WL[30]OW[5]
+;B[sq]BL[30]OB[5]
+;W[rr]WL[30]OW[5]
+;B[lr]BL[30]OB[5]
+;W[mr]WL[30]OW[5]
+;B[kr]BL[30]OB[5]
+;W[jb]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[lb]WL[30]OW[5]
+;B[mb]BL[30]OB[5]
+;W[kc]WL[30]OW[5]
+;B[ma]BL[30]OB[5]
+;W[ka]WL[30]OW[5]
+;B[hb]BL[30]OB[5]
+;W[hd]WL[30]OW[5]
+;B[sr]BL[30]OB[5]
+;W[ps]WL[30]OW[5]
+;B[qg]BL[30]OB[5]
+;W[rg]WL[30]OW[5]
+;B[rh]BL[30]OB[5]
+;W[sh]WL[30]OW[5]
+;B[rf]BL[30]OB[5]
+;W[sf]WL[30]OW[5]
+;B[re]BL[30]OB[5]
+;W[ri]WL[30]OW[5]
+;B[sg]BL[30]OB[5]
+;W[eb]WL[30]OW[5]
+;B[ea]BL[30]OB[5]
+;W[rg]WL[30]OW[5]
+;B[rd]BL[30]OB[5]
+;W[qh]WL[30]OW[5]
+;B[sl]BL[30]OB[5]
+;W[fa]WL[30]OW[5]
+;B[da]BL[30]OB[5]
+;W[ga]WL[30]OW[5]
+;B[ha]BL[30]OB[5]
+;W[bh]WL[30]OW[5]
+;B[dd]BL[30]OB[5]
+;W[bf]WL[30]OW[5]
+;B[be]BL[30]OB[5]
+;W[bg]WL[30]OW[5]
+;B[ce]BL[30]OB[5]
+;W[hq]WL[30]OW[5]
+;B[jp]BL[30]OB[5]
+;W[jn]WL[30]OW[5]
+;B[in]BL[30]OB[5]
+;W[km]WL[30]OW[5]
+;B[jo]BL[30]OB[5]
+;W[an]WL[30]OW[5]
+;B[ao]BL[30]OB[5]
+;W[am]WL[30]OW[5]
+;B[cq]BL[30]OB[5]
+;W[fm]WL[30]OW[5]
+;B[gm]BL[30]OB[5]
+;W[em]WL[30]OW[5]
+;B[rs]BL[30]OB[5]
+;W[qs]WL[30]OW[5]
+;B[ss]BL[30]OB[5]
+;W[ae]WL[30]OW[5]
+;B[ad]BL[30]OB[5]
+;W[af]WL[30]OW[5]
+;B[fa]BL[30]OB[5]
+;W[ls]WL[30]OW[5]
+;B[ks]BL[30]OB[5]
+;W[ms]WL[30]OW[5]
+;B[jm]BL[30]OB[5]
+;W[kl]WL[30]OW[5]
+;B[mk]BL[30]OB[5]
+;W[mj]WL[30]OW[5]
+;B[rm]BL[30]OB[5]
+;W[la]WL[30]OW[5]
+;B[lc]BL[30]OB[5]
+;W[ia]WL[30]OW[5]
+;B[eg]BL[30]OB[5]
+;W[ff]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[hn]WL[30]OW[5]
+;B[hm]BL[30]OB[5]
+;W[ia]WL[30]OW[5]
+;B[bi]BL[30]OB[5]
+;W[bj]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[rc]WL[30]OW[5]
+;B[rb]BL[30]OB[5]
+;W[ia]WL[30]OW[5]
+;B[eh]BL[30]OB[5]
+;W[ef]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[sd]WL[30]OW[5]
+;B[sc]BL[30]OB[5]
+;W[ia]WL[30]OW[5]
+;B[ai]BL[30]OB[5]
+;W[aj]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[se]WL[30]OW[5]
+;B[sg]BL[30]OB[5]
+;W[ia]WL[30]OW[5]
+;B[ah]BL[30]OB[5]
+;W[ag]WL[30]OW[5]
+;B[ja]BL[30]OB[5]
+;W[kb]WL[30]OW[5]
+;B[ia]BL[30]OB[5]
+;W[do]WL[30]OW[5]
+;B[bc]BL[30]OB[4]
+;W[]WL[30]OW[5]
+;B[]BL[30]OB[4]TW[kd][pd][ge][ie][je][le][me][ne][pe][gf][hf][if][kf][lf][mf][eg][hg][ig][jg][kg][mg][ah][eh][fh][gh][jh][kh][lh][ai][bi][di][ei][fi][gi][hi][ji][ki][mi][dj][ej][gj][hj][ij][lj][nj][ak][bk][ck][dk][ik][kk][al][bl][cl][dl][cm][dm][pr][qr][ns][os]TB[aa][ba][ca][ga][na][oa][pa][qa][ra][sa][ab][bb][cb][nb][sb][ac][cc][rc][bd][sd][se][sf][rg][qh][rh][sh][qi][ri][si][qj][rk][pl][ql][rl][qm][sm][hn][qn][rn][sn][ro][ap][bp][cp][hp][ip][kp][aq][bq][dq][gq][hq][iq][ar][br][cr][dr][er][fr][gr][hr][ir][jr][as][bs][cs][ds][es][fs][gs][hs][is][js]C[GoOoG [5k\]: thx
+Bogoliubon [2k\]: thanks
+Bogoliubon [2k\]: good game
+Bogoliubon [2k\]: care to review?
+GoOoG [5k\]: hehe
+GoOoG [5k\]: if you hvce time, thx
+Bogoliubon [2k\]: no problem
+])
+(;B[hl]
+;W[hk]
+;B[gk]
+;W[ik]
+;B[gj]LB[hg:A]C[Bogoliubon [2k\]: you're connected out
+Bogoliubon [2k\]: it's pretty important to not let white build too much territory here
+]))
+(;W[io]C[Bogoliubon [2k\]: and just keep running you
+Bogoliubon [2k\]: and keep building moyo
+]))
+(;B[gi]C[Bogoliubon [2k\]: I would run these stones immediately
+Bogoliubon [2k\]: both of whites shapes have problems
+GoOoG [5k\]: yes
+]))
+(;B[dk]C[Bogoliubon [2k\]: to do this immediately
+GoOoG [5k\]: thx, i will do like you said
+Bogoliubon [2k\]: but also
+]
+;W[ck]
+;B[dl]
+;W[cl]C[GoOoG [5k\]: no good for me
+]
+;B[dn]LB[el:1][fl:2][gl:3][em:4][fm:5][gm:6][en:7][fn:8][gn:9][eo:10][fo:11][go:12]C[Bogoliubon [2k\]: I'd be tempted to link up
+Bogoliubon [2k\]: white needs week groups to win handicap games
+Bogoliubon [2k\]: we can count white's territory on the left
+Bogoliubon [2k\]: 12 points
+GoOoG [5k\]: white play d7
+Bogoliubon [2k\]: not to say these are points
+Bogoliubon [2k\]: but this is all black needs
+Bogoliubon [2k\]: to break even
+Bogoliubon [2k\]: furthermore
+Bogoliubon [2k\]: he has a stone at q4
+Bogoliubon [2k\]: and above all else
+Bogoliubon [2k\]: the f13 group has nothing to attack
+Bogoliubon [2k\]: and is open at e17
+Bogoliubon [2k\]: these stones are almost a burden
+Bogoliubon [2k\]: so yeah this looks funny
+Bogoliubon [2k\]: but it's easy
+Bogoliubon [2k\]: and much better then the game
+Bogoliubon [2k\]: and if you get a stone around k4
+Bogoliubon [2k\]: you are golden
+Bogoliubon [2k\]: and k16 too
+Bogoliubon [2k\]: and you can expect to get one or the other
+Bogoliubon [2k\]: miai, though k4 is bigger
+]))

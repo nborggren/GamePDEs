@@ -1,0 +1,419 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[6]KM[0.50]TM[60]OT[5x20 byo-yomi]
+PW[Bogoliubon]PB[En]WR[2k]BR[8k]DT[2008-05-07]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][pd][dj][pj][dp][pp]C[En [8k\]: hello
+Bogoliubon [2k\]: hi
+En [8k\]: thanks
+Bogoliubon [2k\]: my pleasure
+En [8k\]: Shall try
+]RE[B+15.50]
+;W[nq]WL[47.437]C[En [8k\]: Nice pic
+]
+;B[kq]BL[55.028]LB[qn:C][no:A][qq:B]C[En [8k\]: yes, good point
+En [8k\]: that is indeed one of my weaknesses
+Bogoliubon [2k\]: it can be a hard choice influence or territory
+Bogoliubon [2k\]: i tend towards territory
+Bogoliubon [2k\]: but it can come back to haunt you
+En [8k\]: for sure
+Bogoliubon [2k\]: this move is fine
+Bogoliubon [2k\]: but be aware it's pretty lose
+Bogoliubon [2k\]: I had no issue tenuki here
+Bogoliubon [2k\]: because I can 
+Bogoliubon [2k\]: JI still have option
+Bogoliubon [2k\]: miai
+Bogoliubon [2k\]: but moreso
+En [8k\]: "moreso"?
+Bogoliubon [2k\]: you understand the word miai?
+Bogoliubon [2k\]: more so
+Bogoliubon [2k\]: as in even better then miai
+En [8k\]: 2 options of equal value
+Bogoliubon [2k\]: which is already good
+Bogoliubon [2k\]: right
+Bogoliubon [2k\]: I have three options of equal value
+En [8k\]: 見合い
+En [8k\]: ？
+Bogoliubon [2k\]: I can read black
+Bogoliubon [2k\]: white miai
+Bogoliubon [2k\]: your move is fine
+En [8k\]: k
+]
+;W[fc]WL[40.519]
+;B[hd]BL[48.646]
+;W[re]WL[37.532]
+(;B[rc]BL[43.596]C[Bogoliubon [2k\]: your move is fine
+Bogoliubon [2k\]: but think influence with all your stones around
+En [8k\]: k
+]
+;W[br]WL[35.128]C[Bogoliubon [2k\]: so far you've done ok
+]
+(;B[gq]BL[38.575]TR[cn][cq][eq][iq]C[En [8k\]: so far?
+Bogoliubon [2k\]: this is the first mistake
+Bogoliubon [2k\]: even with this stone
+Bogoliubon [2k\]: you have lots of weaknesses
+Bogoliubon [2k\]: it doesn't help prevent much
+Bogoliubon [2k\]: you make my stupid move
+Bogoliubon [2k\]: almost a good one
+]
+(;W[pn]WL[27.131]
+;B[np]BL[32.434]
+;W[op]WL[22.269]
+;B[oq]BL[30.621]
+;W[oo]WL[20.863]
+;B[pq]BL[28.315]
+;W[mq]WL[17.848]
+(;B[ro]BL[23.754]C[En [8k\]: sorry, I will have to retire -- no time for a long review
+]
+;W[qo]WL[7.336]C[En [8k\]: work tomorrow
+Bogoliubon [2k\]: ok
+Bogoliubon [2k\]: I see
+En [8k\]: it is midnight here
+Bogoliubon [2k\]: here too
+Bogoliubon [2k\]: you must be in NY
+En [8k\]: where?
+Bogoliubon [2k\]: stony brook
+En [8k\]: I could be in Georgia to Toronto Canada
+En [8k\]: But, I am in Pittsburgh
+Bogoliubon [2k\]: let alone the south tropic
+Bogoliubon [2k\]: I'm thinking density
+En [8k\]: well
+Bogoliubon [2k\]: anyways
+Bogoliubon [2k\]: one point you should be aware of
+En [8k\]: Hey, thanks for the game and the review
+Bogoliubon [2k\]: is you protect way to often
+En [8k\]: yes,
+En [8k\]: ...
+]
+;B[qp]BL[20.892]
+;W[rn]WL[5.942]
+;B[sp]BL[19.672]
+;W[po]WL[20]OW[5]
+;B[rq]BL[13.292]
+;W[nj]WL[20]OW[5]
+;B[mo]BL[10.918]
+;W[pe]WL[20]OW[5]
+;B[oc]BL[7.199]
+;W[oe]WL[20]OW[5]
+;B[ol]BL[3.894]
+;W[lo]WL[20]OW[5]
+;B[mn]BL[20]OB[5]
+;W[nm]WL[20]OW[5]
+;B[oh]BL[20]OB[5]
+;W[pi]WL[20]OW[5]
+;B[qi]BL[20]OB[5]
+;W[oi]WL[20]OW[5]
+;B[qh]BL[20]OB[5]
+;W[ph]WL[20]OW[5]
+;B[qm]BL[20]OB[5]
+;W[pm]WL[20]OW[5]
+;B[ql]BL[20]OB[5]
+;W[pl]WL[20]OW[5]
+;B[pk]BL[20]OB[5]
+;W[qn]WL[20]OW[5]
+;B[qg]BL[20]OB[5]
+;W[pg]WL[20]OW[5]
+;B[qf]BL[20]OB[5]
+;W[qe]WL[20]OW[5]
+;B[rm]BL[20]OB[5]
+;W[sm]WL[20]OW[5]
+;B[rk]BL[20]OB[5]
+;W[sl]WL[20]OW[5]
+;B[rj]BL[20]OB[5]
+;W[lp]WL[20]OW[5]
+;B[ok]BL[20]OB[5]
+;W[ml]WL[20]OW[5]
+;B[lm]BL[20]OB[5]
+;W[jo]WL[20]OW[5]
+;B[kl]BL[20]OB[5]
+;W[eq]WL[20]OW[5]
+;B[ip]BL[20]OB[5]
+;W[hq]WL[20]OW[5]
+;B[hp]BL[20]OB[5]
+;W[iq]WL[20]OW[5]
+;B[jp]BL[20]OB[5]
+;W[gr]WL[20]OW[5]
+;B[fp]BL[20]OB[5]
+;W[fq]WL[20]OW[5]
+;B[gp]BL[20]OB[5]
+;W[ep]WL[20]OW[5]
+;B[lq]BL[20]OB[5]
+;W[mp]WL[20]OW[5]
+;B[no]BL[20]OB[5]
+;W[nn]WL[20]OW[5]
+;B[mk]BL[20]OB[5]
+;W[ll]WL[20]OW[5]
+;B[km]BL[20]OB[5]
+;W[lk]WL[20]OW[5]
+;B[im]BL[20]OB[5]
+;W[in]WL[20]OW[5]
+;B[hn]BL[20]OB[5]
+;W[jm]WL[20]OW[5]
+;B[il]BL[20]OB[5]
+;W[jl]WL[20]OW[5]
+;B[jk]BL[20]OB[5]
+;W[jn]WL[20]OW[5]
+;B[kk]BL[20]OB[5]
+;W[ik]WL[20]OW[5]
+;B[hm]BL[20]OB[5]
+;W[ij]WL[20]OW[5]
+;B[lj]BL[20]OB[5]
+;W[mj]WL[20]OW[5]
+;B[ki]BL[20]OB[5]
+;W[mm]WL[20]OW[5]
+;B[ln]BL[20]OB[5]
+;W[nk]WL[20]OW[5]
+;B[mi]BL[20]OB[5]
+;W[do]WL[20]OW[5]
+;B[cm]BL[20]OB[5]
+;W[fo]WL[20]OW[5]
+;B[gn]BL[20]OB[5]
+;W[ck]WL[20]OW[5]
+;B[dk]BL[20]OB[5]
+;W[cl]WL[20]OW[5]
+;B[dl]BL[20]OB[5]
+;W[bm]WL[20]OW[5]
+;B[dm]BL[20]OB[5]
+;W[bn]WL[20]OW[5]
+;B[cj]BL[20]OB[5]
+;W[fe]WL[20]OW[5]
+;B[cf]BL[20]OB[5]
+;W[lh]WL[20]OW[5]
+;B[li]BL[20]OB[5]
+;W[ji]WL[20]OW[5]
+;B[kh]BL[20]OB[5]
+;W[jd]WL[20]OW[4]
+;B[jh]BL[20]OB[5]
+;W[ih]WL[20]OW[4]
+;B[ig]BL[20]OB[5]
+;W[hh]WL[20]OW[4]
+;B[hg]BL[20]OB[5]
+;W[gg]WL[20]OW[4]
+;B[jf]BL[20]OB[5]
+;W[fh]WL[20]OW[4]
+;B[gf]BL[20]OB[5]
+;W[ff]WL[20]OW[4]
+;B[ld]BL[20]OB[5]
+;W[nc]WL[20]OW[4]
+;B[nd]BL[20]OB[5]
+;W[od]WL[20]OW[4]
+;B[nb]BL[20]OB[5]
+;W[mc]WL[20]OW[4]
+;B[mb]BL[20]OB[5]
+;W[lc]WL[20]OW[4]
+;B[pb]BL[20]OB[5]
+;W[hc]WL[20]OW[4]
+;B[kd]BL[20]OB[5]
+;W[kc]WL[20]OW[4]
+;B[je]BL[20]OB[5]
+;W[id]WL[20]OW[4]
+;B[lg]BL[20]OB[5]
+;W[nh]WL[20]OW[4]
+;B[mh]BL[20]OB[5]
+;W[ng]WL[20]OW[4]
+;B[mf]BL[20]OB[5]
+;W[nf]WL[20]OW[4]
+;B[qd]BL[20]OB[5]
+;W[cg]WL[20]OW[4]
+;B[bg]BL[20]OB[5]
+;W[bh]WL[20]OW[4]
+;B[dg]BL[20]OB[5]
+;W[ch]WL[20]OW[4]
+;B[dh]BL[20]OB[5]
+;W[df]WL[20]OW[4]
+;B[de]BL[20]OB[5]
+;W[ef]WL[20]OW[4]
+;B[be]BL[20]OB[5]
+;W[ag]WL[20]OW[4]
+;B[cc]BL[20]OB[5]
+;W[bf]WL[20]OW[4]
+;B[ce]BL[20]OB[5]
+;W[db]WL[20]OW[4]
+;B[cb]BL[20]OB[5]
+;W[bd]WL[20]OW[4]
+;B[ae]BL[20]OB[5]
+;W[dc]WL[20]OW[4]
+;B[bc]BL[20]OB[5]
+;W[ci]WL[20]OW[4]
+;B[bj]BL[20]OB[5]
+;W[di]WL[20]OW[4]
+;B[fk]BL[20]OB[5]
+;W[bk]WL[20]OW[4]
+;B[ak]BL[20]OB[5]
+;W[bl]WL[20]OW[4]
+;B[ge]BL[20]OB[5]
+;W[gd]WL[20]OW[4]
+;B[co]BL[20]OB[5]
+;W[cn]WL[20]OW[4]
+;B[dn]BL[20]OB[5]
+;W[eo]WL[20]OW[4]
+;B[cp]BL[20]OB[5]
+;W[bo]WL[20]OW[4]
+;B[cr]BL[20]OB[5]
+;W[bp]WL[20]OW[4]
+;B[dr]BL[20]OB[5]
+;W[gl]WL[20]OW[4]
+;B[fm]BL[20]OB[5]
+;W[lr]WL[20]OW[4]
+;B[kr]BL[20]OB[5]
+;W[mr]WL[20]OW[4]
+;B[er]BL[20]OB[5]
+;W[fr]WL[20]OW[4]
+;B[is]BL[20]OB[5]
+;W[or]WL[20]OW[3]
+;B[pr]BL[20]OB[5]
+;W[ks]WL[20]OW[3]
+;B[jr]BL[20]OB[5]
+;W[ns]WL[20]OW[3]
+;B[ls]BL[20]OB[5]
+;W[hs]WL[20]OW[3]
+;B[ir]BL[20]OB[5]
+;W[hr]WL[20]OW[3]
+;B[bs]BL[20]OB[5]
+;W[cq]WL[20]OW[3]
+;B[dq]BL[20]OB[5]
+;W[bq]WL[20]OW[3]
+;B[fn]BL[20]OB[5]
+;W[en]WL[20]OW[3]
+;B[em]BL[20]OB[5]
+;W[es]WL[20]OW[3]
+;B[fs]BL[20]OB[5]
+;W[gs]WL[20]OW[3]
+;B[gk]BL[20]OB[5]
+;W[ej]WL[20]OW[3]
+;B[hk]BL[20]OB[5]
+;W[io]WL[20]OW[3]
+;B[kp]BL[20]OB[5]
+;W[ko]WL[20]OW[3]
+;B[gi]BL[20]OB[5]
+;W[gh]WL[20]OW[3]
+;B[hi]BL[20]OB[5]
+;W[ii]WL[20]OW[3]
+;B[fi]BL[20]OB[5]
+;W[ei]WL[20]OW[3]
+;B[ek]BL[20]OB[5]
+;W[fl]WL[20]OW[3]
+;B[ps]BL[20]OB[5]
+;W[os]WL[20]OW[3]
+;B[js]BL[20]OB[5]
+;W[ai]WL[20]OW[3]
+;B[aj]BL[20]OB[5]
+;W[al]WL[20]OW[3]
+;B[ks]BL[20]OB[5]
+;W[ms]WL[20]OW[3]
+;B[kj]BL[20]OB[5]
+;W[fj]WL[20]OW[3]
+;B[kn]BL[20]OB[5]
+;W[sh]WL[20]OW[3]
+;B[sg]BL[20]OB[5]
+;W[rg]WL[20]OW[3]
+;B[rf]BL[20]OB[5]
+;W[sf]WL[20]OW[3]
+;B[rh]BL[20]OB[5]
+;W[sg]WL[20]OW[3]
+;B[si]BL[20]OB[5]
+;W[se]WL[20]OW[3]
+;B[rl]BL[20]OB[5]
+;W[lb]WL[20]OW[3]
+;B[ed]BL[20]OB[5]
+;W[hf]WL[20]OW[3]
+;B[if]BL[20]OB[5]
+;W[he]WL[20]OW[3]
+;B[go]BL[20]OB[5]
+;W[cs]WL[20]OW[3]
+;B[ho]BL[20]OB[5]
+;W[sn]WL[20]OW[3]
+;B[so]BL[20]OB[5]
+;W[md]WL[20]OW[3]
+;B[me]BL[20]OB[5]
+;W[ne]WL[20]OW[3]
+;B[da]BL[20]OB[5]
+;W[eb]WL[20]OW[3]
+;B[ea]BL[20]OB[5]
+;W[fa]WL[20]OW[3]
+;B[ca]BL[20]OB[5]
+;W[om]WL[20]OW[3]
+;B[sk]BL[20]OB[5]
+;W[sc]WL[20]OW[3]
+;B[rb]BL[20]OB[5]
+;W[sb]WL[20]OW[3]
+;B[rd]BL[20]OB[5]
+;W[sd]WL[20]OW[3]
+;B[qa]BL[20]OB[5]
+;W[gj]WL[20]OW[3]
+;B[hj]BL[20]OB[5]
+;W[mg]WL[20]OW[3]
+;B[lf]BL[20]OB[5]
+;W[ma]WL[20]OW[2]
+;B[na]BL[20]OB[5]
+;W[la]WL[20]OW[2]
+;B[pf]BL[20]OB[5]
+;W[of]WL[20]OW[2]
+;B[ra]BL[20]OB[5]
+;W[bi]WL[20]OW[2]
+;B[ac]BL[20]OB[5]
+;W[af]WL[20]OW[2]
+;B[]BL[20]OB[5]
+;W[ec]WL[20]OW[2]
+;B[fd]BL[20]OB[5]
+;W[gb]WL[20]OW[2]
+;B[]BL[20]OB[5]C[bathman78 [7k\]: hey En
+bathman78 [7k\]: Going to bed
+bathman78 [7k\]: Night
+]
+;W[nl]WL[20]OW[2]
+;B[jq]BL[20]OB[5]
+;W[ds]WL[20]OW[2]
+;B[]BL[20]OB[5]
+;W[]WL[20]OW[2]TW[ga][ha][ia][ja][ka][fb][hb][ib][jb][kb][gc][ic][jc][hd][nd][ge][gf][bg][dg][eg][fg][og][ah][dh][eh][oh][mk][am][an][on][ao][co][ap][cp][dp][aq][dq][ar][cr][dr][er][as][bs][fs]TB[aa][ba][oa][pa][ab][bb][ob][qb][pc][qc][ad][bd][cd][ke][le][kf][jg][kg][lh][ri][qj][sj][qk][el][fl][gl][hl][jl][gm][jm][in][jn][io][jo][ko][lo][lp][mp][rp][mq][nq][qq][sq][lr][mr][nr][or][qr][rr][sr][ms][ns][os][qs][rs][ss]C[En [8k\]: thank you
+Bogoliubon [2k\]: thank yyu
+En [8k\]: hi
+Bogoliubon [2k\]: care to review?
+En [8k\]: thanks
+En [8k\]: sure
+En [8k\]: thank you
+])
+(;B[qn]
+;W[qo]C[Bogoliubon [2k\]: I can't do this
+]
+;B[po]C[Bogoliubon [2k\]: you have better moves locally
+])
+(;B[mp]C[Bogoliubon [2k\]: protect by counter attack!
+Bogoliubon [2k\]: try it
+Bogoliubon [2k\]: good night.
+En [8k\]: hmmm
+En [8k\]: cool
+En [8k\]: thanks
+En [8k\]: I will try to remember
+En [8k\]: be well
+Bogoliubon [2k\]: bu
+Bogoliubon [2k\]: by
+]))
+(;W[eq]
+;B[dq]
+;W[dr]C[Bogoliubon [2k\]: I can live locally trivially
+Bogoliubon [2k\]: your move doesn't help much
+]
+;B[er]
+;W[cq]
+;B[ds]
+;W[cr]
+;B[fr]
+(;W[bo])
+(;W[cp]
+;B[do]
+;W[cn]C[Bogoliubon [2k\]: even get a position
+])))
+(;B[dq])
+(;B[cq]C[Bogoliubon [2k\]: consider these
+En [8k\]: k
+Bogoliubon [2k\]: they accomplish different good ideas
+En [8k\]: i think I see
+])
+(;B[oq]))
+(;B[qe]
+;W[rd]
+(;B[qc])
+(;B[qf]
+;W[qc]
+;B[pc]C[Bogoliubon [2k\]: I'd be tempted to just get tons of influence
+Bogoliubon [2k\]: give me 5 points
+Bogoliubon [2k\]: who cares
+])))

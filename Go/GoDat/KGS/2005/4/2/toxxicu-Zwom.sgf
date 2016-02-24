@@ -1,0 +1,359 @@
+(;GM[1]FF[4]CA[UTF-8]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[900]OT[3x60 byo-yomi]
+PW[toxxicu]PB[Zwom]WR[7d]BR[12k]DT[2005-04-02]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]AB[pd][dp][pp]C[toxxicu [7d\]: enjoy
+]RE[W+Resign]
+;W[de]CR[de]WL[1070.435]C[Zwom [12k\]: sure.  you too.
+]
+;B[ec]CR[ec]BL[1051.280]
+;W[cc]CR[cc]WL[1036.862]
+;B[ic]CR[ic]BL[1038.175]
+;W[qf]CR[qf]WL[1031.237]
+;B[nc]CR[nc]BL[1016.815]
+;W[rd]CR[rd]WL[1026.820]
+;B[qc]CR[qc]BL[1014.430]
+;W[qi]CR[qi]WL[1024.346]
+;B[cj]CR[cj]BL[993.275]
+;W[jq]CR[jq]WL[1017.078]
+;B[gq]CR[gq]BL[970.897]
+;W[nq]CR[nq]WL[1005.292]
+;B[qn]CR[qn]BL[956.672]
+;W[ch]WL[955.791]TR[de][qf][ch][qi]C[toxxicu [7d\]: this is ogeima
+toxxicu [7d\]: can you cut it ?
+toxxicu [7d\]: this is nikentobi
+toxxicu [7d\]: same question
+Zwom [12k\]: alright let me rearrange my question then.
+Zwom [12k\]: ogeima and nikentobi towards the center, this still is common.
+toxxicu [7d\]: not as common as on the sides
+Zwom [12k\]: those shapes are uncuttable right here just because of the side of the board.
+toxxicu [7d\]: and i can assure you that pros take into consideration the possible cuts
+toxxicu [7d\]: and have ways to deal with them prepared in advance
+toxxicu [7d\]: but i can not show what exactly
+toxxicu [7d\]: because that depends on the context
+toxxicu [7d\]: ok ?
+Zwom [12k\]: right context, no general statements in go.  Schrodinger's equation describes any atom anywhere but none exist for go!
+toxxicu [7d\]: math and phisics are easy compared to go :)
+Zwom [12k\]: so is lion taming.
+toxxicu [7d\]: 9x9 ?
+Zwom [12k\]: yeah ok we
+Zwom [12k\]: 'll hop to it.
+]
+;B[cp]CR[cp]BL[944.640]
+;W[gc]CR[gc]WL[915.221]
+(;B[hd]CR[hd]BL[924.966]C[Zwom [12k\]: this was wrong direction and wrong move.
+toxxicu [7d\]: yes exactly
+toxxicu [7d\]: you are pushing w towards a connection
+toxxicu [7d\]: and e17 is becoming weaker
+]
+;W[gd]CR[gd]WL[910.506]C[toxxicu [7d\]: now it would be a good idea to sacrifice it
+]
+(;B[he]CR[he]BL[906.474]
+;W[ge]CR[ge]WL[901.475]C[Zwom [12k\]: alright.  
+]
+;B[cd]CR[cd]BL[889.794]C[toxxicu [7d\]: trying to live here just lost some aji
+toxxicu [7d\]: c14 kind of move
+]
+;W[dd]CR[dd]WL[898.686]
+;B[dc]CR[dc]BL[888.183]
+;W[cb]CR[cb]WL[887.696]
+;B[gb]CR[gb]BL[878.646]
+;W[hb]CR[hb]WL[883.461]
+;B[fb]CR[fb]BL[864.834]
+;W[hc]CR[hc]WL[881.873]C[toxxicu [7d\]: you lost more points with these
+]
+;B[bd]CR[bd]BL[854.565]
+;W[ce]CR[ce]WL[878.275]
+;B[jd]CR[jd]BL[824.740]
+;W[pq]CR[pq]WL[859.353]
+;B[qq]CR[qq]BL[809.996]
+;W[qr]CR[qr]WL[857.474]
+(;B[pr]CR[pr]BL[802.035]C[toxxicu [7d\]: this is not goood most of the times
+]
+;W[oq]CR[oq]WL[855.436]
+;B[rr]CR[rr]BL[800.224]
+;W[qp]CR[qp]WL[853.469]
+;B[rq]CR[rq]BL[783.079]
+;W[po]CR[po]WL[851.252]
+;B[qo]CR[qo]BL[773.638]
+;W[op]CR[op]WL[845.528]
+;B[rp]CR[rp]BL[771.407]
+(;W[cl]CR[cl]WL[833.087]
+(;B[ej]CR[ej]BL[747.473]
+;W[bj]CR[bj]WL[821.897]
+;B[ck]CR[ck]BL[711.020]
+;W[bk]CR[bk]WL[813.339]C[Zwom [12k\]: true but certain shapes radiate at certain wavelengths in general so to speak.
+]
+;B[dl]CR[dl]BL[681.976]
+;W[cm]CR[cm]WL[807.800]
+;B[dm]CR[dm]BL[662.966]
+;W[cn]CR[cn]WL[800.425]C[toxxicu [7d\]: from now on w has an easy game
+]
+;B[dn]CR[dn]BL[631.110]
+;W[hr]CR[hr]WL[784.070]C[Zwom [12k\]: maybe we should take an extra hour and you can show me how to deal with g17 and s7 moves, I either die or build useless walls.
+Zwom [12k\]: standard practice by the way.
+]
+;B[gr]CR[gr]BL[551.736]C[toxxicu [7d\]: ok
+]
+;W[hq]CR[hq]WL[774.669]
+;B[hp]CR[hp]BL[543.527]
+;W[ip]CR[ip]WL[771.166]
+;B[ho]CR[ho]BL[539.413]C[Zwom [12k\]: yeah I had to breathe into a paper bag after that exchange.
+]
+;W[ql]CR[ql]WL[750.479]
+;B[of]CR[of]BL[533.449]
+;W[jb]CR[jb]WL[746.119]C[toxxicu [7d\]: it started here
+]
+;B[ib]CR[ib]BL[526.495]
+;W[ia]CR[ia]WL[743.942]
+(;B[kc]CR[kc]BL[499.052]
+;W[kb]CR[kb]WL[741.290]C[Zwom [12k\]: when is the keima appropriate?  to jump out?
+]
+(;B[lb]CR[lb]BL[496.963]
+;W[jc]CR[jc]WL[737.459]
+;B[id]CR[id]BL[494.846]
+;W[lc]CR[lc]WL[735.790]
+;B[kd]CR[kd]BL[466.946]
+;W[mb]CR[mb]WL[733.011]
+;B[ld]CR[ld]BL[437.066]
+;W[mc]CR[mc]WL[730.210]C[Zwom [12k\]: live with the g18 group?
+]
+;B[md]CR[md]BL[435.388]
+;W[nb]CR[nb]WL[728.683]C[Zwom [12k\]: could you back to where I had to nobi?
+toxxicu [7d\]: you missed a life and death problem
+toxxicu [7d\]: you can live
+toxxicu [7d\]: can you try to solve it now ?
+Zwom [12k\]: m19
+toxxicu [7d\]: yes that's it
+Zwom [12k\]: alright let me alter my perceptions a bit then.
+Zwom [12k\]: seems like g19 can get me one eye.
+toxxicu [7d\]: not really
+]
+(;B[oc]CR[oc]BL[433.553]
+;W[ha]CR[ha]WL[718.899]C[Zwom [12k\]: This isn't exactly representative play, typically I wait another 100 moves before I resign.  this game is botched already.
+toxxicu [7d\]: w winning yes
+toxxicu [7d\]: thats why i connected
+Zwom [12k\]: that's been sitting there for a while no?
+toxxicu [7d\]: so w can't lose after this
+toxxicu [7d\]: too much territory 
+toxxicu [7d\]: other questions?
+Zwom [12k\]: not on this in particular
+toxxicu [7d\]: ok
+Zwom [12k\]: but kind of getting back to situations with the pincer that splits my stones...
+toxxicu [7d\]: we can play some 9x9 games if you want
+toxxicu [7d\]: it's a matter of fighting :)
+toxxicu [7d\]: i can't tell you stories about how to fight
+toxxicu [7d\]: you need to practice a lot
+Zwom [12k\]: I see
+toxxicu [7d\]: and i can give you some pointers sometimes
+toxxicu [7d\]: tsumego is really important too
+Zwom [12k\]: first some shape questions
+Zwom [12k\]: two moves I don't really ever use but I see in professional games often
+Zwom [12k\]: are the two point jumps and the ogeima I believe it is called.
+toxxicu [7d\]: yes what about those ?
+Zwom [12k\]: they are both cuttable, easily so, and wonder how you use them?
+toxxicu [7d\]: your statement is too general and it is wrong
+]
+;B[oi]CR[oi]BL[306.435]
+;W[jn]CR[jn]WL[712.254]
+;B[jl]CR[jl]BL[264.501]
+;W[gg]CR[gg]WL[708.452]
+;B[ff]CR[ff]BL[254.564]
+;W[gf]CR[gf]WL[705.969]
+;B[ih]CR[ih]BL[215.333]
+;W[ig]CR[ig]WL[698.822]
+;B[hg]CR[hg]BL[180.000]
+;W[hf]CR[hf]WL[695.070]
+;B[if]CR[if]BL[180.000]
+;W[hh]CR[hh]WL[692.122]
+;B[jg]CR[jg]BL[180.000]
+;W[ii]CR[ii]WL[685.938]
+;B[jh]CR[jh]BL[180.000]
+;W[hi]CR[hi]WL[683.467]
+;B[om]CR[om]BL[180.000]
+;W[ji]CR[ji]WL[677.183]
+;B[ki]CR[ki]BL[180.000]
+;W[kj]CR[kj]WL[675.641]
+;B[li]CR[li]BL[180.000]
+;W[lj]CR[lj]WL[673.741]
+;B[mj]CR[mj]BL[180.000]
+;W[mk]CR[mk]WL[670.284]
+;B[nj]CR[nj]BL[180.000]
+;W[kl]CR[kl]WL[658.960]
+;B[ob]CR[ob]BL[180.000]
+;W[la]CR[la]WL[655.775]
+;B[km]CR[km]BL[180.000]
+;W[jm]CR[jm]WL[652.978]
+;B[ll]CR[ll]BL[180.000]
+;W[kk]CR[kk]WL[651.340]
+;B[lk]CR[lk]BL[180.000]
+;W[lm]CR[lm]WL[648.432]
+;B[ml]CR[ml]BL[180.000]
+;W[mm]CR[mm]WL[645.229]
+;B[nl]CR[nl]BL[180.000]
+;W[il]CR[il]WL[643.927]
+;B[rj]CR[rj]BL[180.000]
+;W[qj]CR[qj]WL[641.003]
+;B[rl]CR[rl]BL[180.000]
+;W[rk]CR[rk]WL[639.123]
+;B[sk]CR[sk]BL[180.000]
+;W[qk]CR[qk]WL[636.912]
+;B[rm]CR[rm]BL[180.000]
+;W[ri]CR[ri]WL[634.868]
+;B[sj]CR[sj]BL[180.000]
+;W[si]CR[si]WL[630.926]
+;B[sl]CR[sl]BL[180.000]
+;W[pg]CR[pg]WL[614.700]
+;B[rg]CR[rg]BL[180.000]
+;W[rf]CR[rf]WL[608.446]
+;B[rc]CR[rc]BL[180.000]
+;W[jf]CR[jf]WL[597.256]
+;B[ie]CR[ie]BL[180.000]
+;W[kg]CR[kg]WL[595.293]
+;B[kh]CR[kh]BL[180.000]
+;W[mi]CR[mi]WL[593.445]
+;B[lh]CR[lh]BL[180.000]
+;W[mh]CR[mh]WL[589.795]
+;B[lg]CR[lg]BL[180.000]
+;W[mg]CR[mg]WL[588.341]
+;B[lf]CR[lf]BL[180.000]
+;W[og]CR[og]WL[585.449]
+;B[re]CR[re]BL[180.000]
+;W[pn]CR[pn]WL[578.648]
+;B[qm]CR[qm]BL[180.000]
+;W[pm]CR[pm]WL[576.706]
+;B[pl]CR[pl]BL[180.000]
+;W[ok]CR[ok]WL[574.246]
+;B[pk]CR[pk]BL[180.000]
+;W[pj]CR[pj]WL[571.306]
+;B[ol]CR[ol]BL[180.000]
+;W[oj]CR[oj]WL[568.640]
+;B[nk]CR[nk]BL[180.000]
+;W[ni]CR[ni]WL[552.184]C[toxxicu [7d\]: now it's fine
+]
+;B[mo]CR[mo]BL[120.000]
+;W[nn]CR[nn]WL[542.337]
+;B[on]CR[on]BL[120.000]
+;W[oo]CR[oo]WL[540.409]C[toxxicu [7d\]: thank you
+Zwom [12k\]: thank you.  
+toxxicu [7d\]: i can't replay anything
+])
+(;B[la]CR[la]
+;W[ma]CR[ma]C[Zwom [12k\]: p18
+]
+;B[ob]CR[ob]
+;W[ka]CR[ka]C[Zwom [12k\]: maybe I'm not sure what your talking about.
+])
+(;B[ga]CR[ga]
+;W[ha]CR[ha]C[toxxicu [7d\]: one eye is not enough
+toxxicu [7d\]: you can make 2 of them
+Zwom [12k\]: right so let me threaten the c18 stones first with d18
+]
+;B[db]CR[db]
+;W[be]CR[be]
+;B[ea]CR[ea]C[toxxicu [7d\]: alive !
+toxxicu [7d\]: pretty big
+]))
+(;B[lc]CR[lc]C[toxxicu [7d\]: here you had to nobi
+toxxicu [7d\]: yes keima is escaping as well
+Zwom [12k\]: still thinking about e10.  
+toxxicu [7d\]: yes i see
+Zwom [12k\]: but bad for pressure.
+Zwom [12k\]: ?
+toxxicu [7d\]: it leaves a cut
+]))
+(;B[ga]CR[ga]
+;W[ha]CR[ha]
+;B[db]CR[db]
+;W[be]CR[be]
+;B[ea]CR[ea]C[toxxicu [7d\]: you can live
+]
+;W[jc]CR[jc]
+;B[id]CR[id]
+;W[kd]CR[kd]TR[ib][ic][hd][id][jd][he]C[toxxicu [7d\]: but
+toxxicu [7d\]: i destroy all the points
+toxxicu [7d\]: and i separate your stones
+]))
+(;B[dk]CR[dk]
+;W[dl]CR[dl]
+;B[fk]CR[fk]C[toxxicu [7d\]: you can attack this group
+toxxicu [7d\]: w has cash on the upper left and a little on lower side
+toxxicu [7d\]: but you have potential in the center
+toxxicu [7d\]: and lower right corner
+toxxicu [7d\]: plus initiative
+Zwom [12k\]: I see.  Now does the kosumi necessitate a strong position at c4 to work?
+toxxicu [7d\]: yes it is much more efective this way
+toxxicu [7d\]: if
+])
+(;B[ek]CR[ek]
+;W[dj]CR[dj]C[toxxicu [7d\]: this move
+toxxicu [7d\]: it is dificult to answer this kind of question
+Zwom [12k\]: I see, needs a working ladder to work?
+toxxicu [7d\]: because a stone in the other side of the board
+toxxicu [7d\]: could change the outcome
+toxxicu [7d\]: so let's talk only in particular
+toxxicu [7d\]: a general answer is wrong most of the time in a particular situation :)
+]))
+(;AW[cl][cp][dp]AB[ej]C[toxxicu [7d\]: this was the postion
+toxxicu [7d\]: tobi is better
+toxxicu [7d\]: you are escaping from w's moyo
+toxxicu [7d\]: you want to be fast and w doesn't want to connect anyway
+Zwom [12k\]: I see, I've been wondering about that question.
+]))
+(;B[qp]CR[qp]C[toxxicu [7d\]: connection is normal
+]
+;W[or]CR[or]
+;B[qk]CR[qk]C[toxxicu [7d\]: and then this
+toxxicu [7d\]: it's still close
+toxxicu [7d\]: even considering the upper left
+Zwom [12k\]: would you invade around c8 now.
+Zwom [12k\]: ?
+toxxicu [7d\]: yes probably
+]
+;W[cl]CR[cl]
+(;B[dk]CR[dk]C[toxxicu [7d\]: this kosumi is more severe
+toxxicu [7d\]: since w can not connect with b10 anymore
+]
+;W[bj]CR[bj]
+;B[bi]CR[bi]
+;W[ci]CR[ci]
+;B[bk]CR[bk]C[toxxicu [7d\]: if you jump instead of kosumi
+])
+(;B[ej]CR[ej]
+;W[bj]CR[bj]
+;B[bi]CR[bi]
+;W[ci]CR[ci]
+;B[bk]CR[bk]
+;W[dj]CR[dj]
+;B[ck]CR[ck]
+;W[dk]CR[dk]C[toxxicu [7d\]: this is not so good for you
+Zwom [12k\]: that's the variation I looked at in the game.
+Zwom [12k\]: now pray tell...
+])))
+(;B[ge]CR[ge]
+;W[fe]CR[fe]
+;B[gf]CR[gf]
+;W[ed]CR[ed]
+;B[ph]CR[ph]
+;W[qh]CR[qh]
+;B[pf]CR[pf]C[toxxicu [7d\]: how does this look ?
+Zwom [12k\]: white's corner is pretty big. but black has a lot of potential.
+toxxicu [7d\]: yes
+toxxicu [7d\]: i think this compensates
+]
+;W[qe]CR[qe]
+;B[pe]CR[pe]C[Zwom [12k\]: just because I have handicap stones on the board or in general.
+Zwom [12k\]: ?
+toxxicu [7d\]: ofcourse the left side is big too
+toxxicu [7d\]: but locally
+toxxicu [7d\]: cash for w on the upper left
+toxxicu [7d\]: and a lot of potential
+toxxicu [7d\]: for b
+toxxicu [7d\]: seems even
+Zwom [12k\]: would that make acceptable h16 then?
+toxxicu [7d\]: yes 
+toxxicu [7d\]: overall the position is good for b
+toxxicu [7d\]: when i said even i meant just the upper part of the board
+]))
+(;B[ee]CR[ee]C[toxxicu [7d\]: here you could play tsuke and separate w
+toxxicu [7d\]: did you consider it ?
+Zwom [12k\]: no.
+]))
