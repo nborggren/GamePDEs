@@ -1,0 +1,466 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[9]KM[0.50]TM[0]OT[1x10 byo-yomi]
+PW[Tencyou]PB[logicg8]WR[9d]BR[11k]DT[2007-12-04]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]RE[W+19.50]
+;W[qn]WL[10]OW[1]
+;B[ql]BL[10]OB[1]
+;W[pq]WL[10]OW[1]C[kencabbit [1k\]: trick play
+kencabbit [1k\]: not sure the best response
+kencabbit [1k\]: I don't really like white's handicap strategy
+kencabbit [1k\]: for an instrtuctive game
+kencabbit [1k\]: white should just play solid, good moves
+kencabbit [1k\]: instead of try to trick you into losing
+]
+(;B[oq]BL[10]OB[1]C[kencabbit [1k\]: this is probably too much
+kencabbit [1k\]: you want to keep it simple
+]
+;W[qp]WL[10]OW[1]
+;B[op]BL[10]OB[1]
+;W[qq]WL[10]OW[1]
+;B[or]BL[10]OB[1]
+;W[qh]WL[10]OW[1]C[kencabbit [1k\]: order of operations
+kencabbit [1k\]: 1. fix weakness
+kencabbit [1k\]: 2. attack weakness
+kencabbit [1k\]: 3. big point
+kencabbit [1k\]: white has two weak groups
+kencabbit [1k\]: you want to attack the weaker one
+kencabbit [1k\]: the loer corner has the corner as a resource
+logicg8 [11k\]: Yeah
+]
+(;B[ph]BL[10]OB[1]C[kencabbit [1k\]: so you want to attack this stone
+kencabbit [1k\]: but you play a defensive moe
+kencabbit [1k\]: instead of an attacking move
+logicg8 [11k\]: I think so
+kencabbit [1k\]: this helps white settle
+kencabbit [1k\]: in exchange for even more strength towards the center
+kencabbit [1k\]: but , it's probably more valuable to not strengthen this stone
+]
+;W[pg]WL[10]OW[1]
+;B[pi]BL[10]OB[1]
+;W[qf]WL[10]OW[1]
+;B[on]BL[10]OB[1]C[kencabbit [1k\]: now the corner needs to be defended
+kencabbit [1k\]: so I like this move
+]
+;W[ng]WL[10]OW[1]SQ[pd][pg][pj][qn]C[kencabbit [1k\]: but white ignores it
+kencabbit [1k\]: whitie sttill has two weak looking groups
+kencabbit [1k\]: and the weakest black stone is the one I marked
+kencabbit [1k\]: if you attack the corner, white might try to cut off the black stones..
+kencabbit [1k\]: as part of a counterattack
+]
+(;B[ni]BL[10]OB[1]C[kencabbit [1k\]: this move is okay
+logicg8 [11k\]: Why not on the fourth line?
+]
+;W[rj]WL[10]OW[1]
+(;B[jm]BL[10]OB[1]C[kencabbit [1k\]: this is a bad move all around
+kencabbit [1k\]: really rethink moves like this if they pop into your head
+kencabbit [1k\]: it doesn't do anything to pressure white
+kencabbit [1k\]: and as big points go, it's not very big
+kencabbit [1k\]: it's in the middle of your structure
+kencabbit [1k\]: this is slow, and not active
+]
+;W[nd]WL[10]OW[1]
+;B[ld]BL[10]OB[1]LB[pd:A]C[kencabbit [1k\]: help the inside stone first
+kencabbit [1k\]: it's the weakest
+kencabbit [1k\]: thinking that you'll just give it up shouldn't be acceptable
+kencabbit [1k\]: it's giving away a large chunk of your handicap advantage
+]
+;W[md]WL[10]OW[1]
+;B[lf]BL[10]OB[1]
+;W[lc]WL[10]OW[1]
+;B[kc]BL[10]OB[1]
+;W[le]WL[10]OW[1]
+;B[kd]BL[10]OB[1]
+;W[qc]WL[10]OW[1]C[kencabbit [1k\]: now you canchoose were to play
+]
+(;B[ke]BL[10]OB[1]
+;W[cf]WL[10]OW[1]C[kencabbit [1k\]: again you help white settle
+]
+;B[df]BL[10]OB[1]C[kencabbit [1k\]: this can be a strong move
+kencabbit [1k\]: sometimes it's good
+]
+;W[dg]WL[10]OW[1]
+;B[ce]BL[10]OB[1]
+;W[ef]WL[10]OW[1]
+;B[de]BL[10]OB[1]
+;W[eg]WL[10]OW[1]
+;B[fd]BL[10]OB[1]C[kencabbit [1k\]: this looks bad for white
+kencabbit [1k\]: you made a lot of territory
+kencabbit [1k\]: and white has another weak group
+]
+;W[fj]WL[10]OW[1]LB[dj:A]C[kencabbit [1k\]: help this stone
+]
+;B[gl]BL[10]OB[1]
+;W[dk]WL[10]OW[1]
+;B[dm]BL[10]OB[1]
+;W[cj]WL[10]OW[1]C[kencabbit [1k\]: now white is settled
+kencabbit [1k\]: you don't have any weak groups
+kencabbit [1k\]: white dosn't have many, save the lower right
+kencabbit [1k\]: so either pressure the lower right
+kencabbit [1k\]: or play a big move
+]
+;B[el]BL[10]OB[1]C[kencabbit [1k\]: this doesn't pressure at all
+kencabbit [1k\]: slow
+]
+;W[gd]WL[10]OW[1]
+;B[gc]BL[10]OB[1]
+;W[cc]WL[10]OW[1]
+;B[dc]BL[10]OB[1]
+;W[db]WL[10]OW[1]
+(;B[eb]BL[10]OB[1]
+;W[bd]WL[10]OW[1]
+;B[be]BL[10]OB[1]C[kencabbit [1k\]: spend a little more time reading here
+kencabbit [1k\]: this might be okay
+]
+;W[bb]WL[10]OW[1]
+(;B[ac]BL[10]OB[1]
+;W[ad]WL[10]OW[1]
+(;B[ae]BL[10]OB[1]C[kencabbit [1k\]: lets white live without a fuss
+]
+;W[ca]WL[10]OW[1]
+;B[cd]BL[10]OB[1]C[kencabbit [1k\]: save this move
+kencabbit [1k\]: for a possible ko threat
+kencabbit [1k\]: it's only worth one point
+]
+;W[bc]WL[10]OW[1]
+;B[hc]BL[10]OB[1]
+;W[dr]WL[10]OW[1]
+;B[fq]BL[10]OB[1]
+;W[cp]WL[10]OW[1]
+(;B[eq]BL[10]OB[1]
+;W[cq]WL[10]OW[1]
+(;B[do]BL[10]OB[1]
+;W[bn]WL[10]OW[1]
+;B[cm]BL[10]OB[1]
+;W[pm]WL[10]OW[1]C[kencabbit [1k\]: now white finally helps out this corner
+kencabbit [1k\]: because this move from white hurts so much
+kencabbit [1k\]: you really wanted to play it sooner
+]
+;B[om]BL[10]OB[1]
+;W[pl]WL[10]OW[1]
+;B[ol]BL[10]OB[1]
+;W[qk]WL[10]OW[1]C[kencabbit [1k\]: now you need to play a really good endgame to win
+kencabbit [1k\]: white has the entire right side
+]
+;B[pk]BL[10]OB[1]C[kencabbit [1k\]: slow
+]
+;W[hj]WL[10]OW[1]
+(;B[il]BL[10]OB[1]
+;W[lg]WL[10]OW[1]
+;B[kg]BL[10]OB[1]
+;W[mg]WL[10]OW[1]
+(;B[ih]BL[10]OB[1]
+;W[li]WL[10]OW[1]C[kencabbit [1k\]: white ignores your move
+kencabbit [1k\]: hurts
+]
+(;B[lk]BL[10]OB[1]
+;W[jq]WL[10]OW[1]
+(;B[iq]BL[10]OB[1]
+;W[ir]WL[10]OW[1]
+(;B[jr]BL[10]OB[1]
+;W[hr]WL[10]OW[1]
+;B[kq]BL[10]OB[1]
+;W[es]WL[10]OW[1]
+(;B[gr]BL[10]OB[1]
+;W[gs]WL[10]OW[1]
+;B[hq]BL[10]OB[1]
+;W[fr]WL[10]OW[1]
+;B[gq]BL[10]OB[1]
+;W[bm]WL[10]OW[1]
+(;B[er]BL[10]OB[1]
+;W[hf]WL[10]OW[1]
+(;B[hs]BL[10]OB[1]
+(;W[bg]WL[10]OW[1]
+;B[lb]BL[10]OB[1]C[kencabbit [1k\]: capturing may have been bigger
+]
+;W[mc]WL[10]OW[1]
+;B[mb]BL[10]OB[1]
+;W[nb]WL[10]OW[1]C[kencabbit [1k\]: don't respond to this
+kencabbit [1k\]: take a big move somewhere else
+]
+(;B[kb]BL[10]OB[1]
+;W[fe]WL[10]OW[1]
+;B[hd]BL[10]OB[1]
+;W[hh]WL[10]OW[1]
+;B[ig]BL[10]OB[1]
+;W[hg]WL[10]OW[1]C[kencabbit [1k\]: seems slow
+]
+;B[ii]BL[10]OB[1]
+;W[hk]WL[10]OW[1]
+(;B[hl]BL[10]OB[1]
+;W[kh]WL[10]OW[1]
+;B[jg]BL[10]OB[1]
+;W[mj]WL[10]OW[1]
+(;B[mk]BL[10]OB[1]
+;W[nj]WL[10]OW[1]
+;B[nk]BL[10]OB[1]
+;W[pr]WL[10]OW[1]
+;B[ps]BL[10]OB[1]
+;W[qs]WL[10]OW[1]
+;B[os]BL[10]OB[1]
+;W[qi]WL[10]OW[1]
+;B[qj]BL[10]OB[1]
+;W[rk]WL[10]OW[1]
+;B[pn]BL[10]OB[1]
+;W[qm]WL[10]OW[1]
+;B[rl]BL[10]OB[1]C[kencabbit [1k\]: oops
+]
+;W[po]WL[10]OW[1]
+;B[oo]BL[10]OB[1]
+;W[qo]WL[10]OW[1]
+;B[co]BL[10]OB[1]
+;W[bo]WL[10]OW[1]
+;B[ek]BL[10]OB[1]
+;W[ej]WL[10]OW[1]
+;B[ck]BL[10]OB[1]
+;W[di]WL[10]OW[1]
+(;B[dl]BL[10]OB[1]
+;W[bk]WL[10]OW[1]
+;B[dj]BL[10]OB[1]
+;W[bj]WL[10]OW[1]
+;B[dk]BL[10]OB[1]C[kencabbit [1k\]: slow
+]
+;W[oj]WL[10]OW[1]
+;B[ok]BL[10]OB[1]
+;W[oi]WL[10]OW[1]
+;B[oh]BL[10]OB[1]
+;W[nh]WL[10]OW[1]
+;B[lj]BL[10]OB[1]
+;W[mi]WL[10]OW[1]
+(;B[ki]BL[10]OB[1]C[kencabbit [1k\]: all bigger than this
+]
+;W[me]WL[10]OW[1]
+;B[mf]BL[10]OB[1]
+;W[nf]WL[10]OW[1]
+;B[kf]BL[10]OB[1]
+;W[ge]WL[10]OW[1]
+;B[he]BL[10]OB[1]
+;W[ed]WL[10]OW[1]
+;B[ec]BL[10]OB[1]
+;W[fc]WL[10]OW[1]
+;B[fb]BL[10]OB[1]
+;W[if]WL[10]OW[1]
+;B[fd]BL[10]OB[1]
+;W[ds]WL[10]OW[1]C[kencabbit [1k\]: white connecting here
+kencabbit [1k\]: tells you that these stones are now big enough
+]
+(;B[ee]BL[10]OB[1]
+;W[fs]WL[10]OW[1]
+;B[is]BL[10]OB[1]
+;W[ma]WL[10]OW[1]
+;B[la]BL[10]OB[1]
+;W[na]WL[10]OW[1]
+;B[ie]BL[10]OB[1]
+;W[fk]WL[10]OW[1]
+;B[fl]BL[10]OB[1]
+;W[jh]WL[10]OW[1]
+;B[hi]BL[10]OB[1]
+;W[gi]WL[10]OW[1]
+;B[ji]BL[10]OB[1]
+;W[lh]WL[10]OW[1]
+;B[ik]BL[10]OB[1]
+;W[ea]WL[10]OW[1]
+;B[fa]BL[10]OB[1]
+;W[da]WL[10]OW[1]
+;B[cn]BL[10]OB[1]
+;W[bf]WL[10]OW[1]
+;B[af]BL[10]OB[1]
+;W[ag]WL[10]OW[1]
+;B[gk]BL[10]OB[1]
+;W[gj]WL[10]OW[1]
+;B[dq]BL[10]OB[1]
+;W[cr]WL[10]OW[1]
+;B[bl]BL[10]OB[1]
+;W[al]WL[10]OW[1]
+;B[cl]BL[10]OB[1]
+;W[og]WL[10]OW[1]
+(;B[ci]BL[10]OB[1]C[kencabbit [1k\]: instead of playing inside
+]
+;W[bi]WL[10]OW[1]
+;B[ch]BL[10]OB[1]
+;W[dh]WL[10]OW[1]
+;B[]BL[10]OB[1]
+;W[gf]WL[10]OW[1]
+;B[]BL[10]OB[1]
+;W[jf]WL[10]OW[1]
+;B[]BL[10]OB[1]
+;W[]WL[10]OW[1]TW[aa][ba][oa][pa][qa][ra][sa][ab][cb][ob][pb][qb][rb][sb][ac][nc][oc][pc][rc][sc][od][pd][qd][rd][sd][ne][oe][pe][qe][re][se][ff][of][pf][rf][sf][cg][fg][gg][qg][rg][sg][ah][bh][ch][eh][fh][gh][mh][rh][sh][ai][ci][ei][fi][ni][ri][si][aj][sj][ak][sk][ql][rl][sl][am][rm][sm][an][rn][sn][ao][ro][so][ap][bp][rp][sp][aq][bq][rq][sq][ar][br][qr][rr][sr][as][bs][cs][rs][ss]TB[ga][ha][ia][ja][ka][gb][hb][ib][jb][fc][ic][jc][ed][id][kj][jk][kk][jl][kl][ll][ml][nl][em][fm][gm][hm][im][km][lm][mm][nm][dn][en][fn][gn][hn][in][jn][kn][ln][mn][nn][eo][fo][go][ho][io][jo][ko][lo][mo][no][ep][fp][gp][hp][ip][kp][lp][mp][np][jq][lq][mq][nq][hr][ir][kr][lr][mr][nr][js][ks][ls][ms][ns]C[logicg8 [11k\]: Thank you for the game
+kencabbit [1k\]: quite instructive, wasn't it =P?
+kencabbit [1k\]: I think white plays in the teaching ladder just so more will notice
+logicg8 [11k\]: I'm going to need to go over it again it all happened so fast
+kencabbit [1k\]: I can review a little if you want
+logicg8 [11k\]: Please
+]
+;B[]TW[ff][fg][gg][eh][fh][gh][mh][ei][fi][ni][am][an][ao][ap][bp][aq][bq][ar][br][as][bs][cs]TB[ga][ha][ia][ja][ka][gb][hb][ib][jb][fc][ic][jc][ed][id][kj][jk][kk][jl][kl][ll][ml][nl][em][fm][gm][hm][im][km][lm][mm][nm][dn][en][fn][gn][hn][in][jn][kn][ln][mn][nn][eo][fo][go][ho][io][jo][ko][lo][mo][no][ep][fp][gp][hp][ip][kp][lp][mp][np][jq][lq][mq][nq][hr][ir][kr][lr][mr][nr][js][ks][ls][ms][ns]C[kencabbit [1k\]: I don't have much time
+kencabbit [1k\]: but I can point out some big mistakes
+kencabbit [1k\]: that you can look at later
+kencabbit [1k\]: if you'll give me control
+logicg8 [11k\]: How do I do that?
+kencabbit [1k\]: right click my name
+])
+(;B[ij]C[kencabbit [1k\]: play this stone outside
+kencabbit [1k\]: and force white to fix
+]
+;W[fh]C[kencabbit [1k\]: because you pllayed inside
+kencabbit [1k\]: you didn't make any points
+kencabbit [1k\]: this way, you gain a point
+kencabbit [1k\]: I guess that's the game =P
+kencabbit [1k\]: you can read all that later
+kencabbit [1k\]: or if you  were listening now, you've got it
+logicg8 [11k\]: Thank you very much for the review
+kencabbit [1k\]: I have to go
+kencabbit [1k\]: sorry if I rushed
+logicg8 [11k\]: Bye
+logicg8 [11k\]: No, I really appreciate your time
+kencabbit [1k\]: good luck in the future
+kencabbit [1k\]: wasn't sure if you were there at the end =P
+logicg8 [11k\]: Thanks
+kencabbit [1k\]: thanks for listening
+]))
+(;B[fs]C[kencabbit [1k\]: so take them
+]))
+(;B[na]C[kencabbit [1k\]: here is big
+])
+(;B[ea]C[kencabbit [1k\]: here too
+])
+(;B[me]C[kencabbit [1k\]: here
+])
+(;B[og]C[kencabbit [1k\]: here
+])
+(;B[hi]C[kencabbit [1k\]: here
+])
+(;B[ge]C[kencabbit [1k\]: are all big yose moves
+]))
+(;B[bl]C[kencabbit [1k\]: better
+]))
+(;B[nk]C[kencabbit [1k\]: better response
+]))
+(;B[cl]
+;W[hl]
+;B[hm]
+;W[ik]
+;B[jk]C[kencabbit [1k\]: don't need to respond right away
+]))
+(;B[cl]))
+(;W[is]
+;B[fs]))
+(;B[fs]C[kencabbit [1k\]: take the ko first
+kencabbit [1k\]: if you want to capture these
+]))
+(;B[cl]C[kencabbit [1k\]: you need this
+kencabbit [1k\]: well, not need
+kencabbit [1k\]: but you really want this big move sometime
+]))
+(;B[bm]C[kencabbit [1k\]: white is connected
+]))
+(;B[kq]
+;W[jr]
+;B[hq]C[kencabbit [1k\]: better idea
+]
+;W[fs]
+;B[gs]
+;W[gr]
+;B[es]
+;W[hs]
+;B[er]C[kencabbit [1k\]: white looks dead
+]))
+(;B[hr]C[kencabbit [1k\]: just because white touches k4
+kencabbit [1k\]: this is probably enough to kill clean and straight
+kencabbit [1k\]: white stone has no eyespace
+kencabbit [1k\]: and nowhere to run
+]
+;W[kp]
+;B[jo]C[kencabbit [1k\]: nothing for white to do but die
+]))
+(;B[lj]C[kencabbit [1k\]: this probably is fine
+]
+;W[mj]
+;B[mi]
+;W[kj]
+;B[lh]
+;W[ki]
+;B[ji]
+;W[kh]
+;B[mh]
+;W[jg]
+;B[kf]C[kencabbit [1k\]: white will have trouble
+kencabbit [1k\]: living
+]))
+(;B[bm]C[kencabbit [1k\]: this move is pretty big
+])
+(;B[gf]C[kencabbit [1k\]: this is decently sized
+])
+(;B[mc]C[kencabbit [1k\]: this too
+])
+(;B[cg]C[kencabbit [1k\]: you've got a lot of big moves you want to play
+kencabbit [1k\]: so sente is important
+kencabbit [1k\]: avoid playing gote at all costs
+])
+(;B[li]C[kencabbit [1k\]: as white points out
+kencabbit [1k\]: this is also very big
+]))
+(;B[ik]C[kencabbit [1k\]: better
+]))
+(;B[co]C[kencabbit [1k\]: no reason this should be bad
+]))
+(;B[dq]C[kencabbit [1k\]: you played too passive here
+]
+;W[cq]
+(;B[er])
+(;B[co]C[kencabbit [1k\]: maybe better
+kencabbit [1k\]: you lost a lot of points from here on on small mistakes
+])))
+(;B[da]C[kencabbit [1k\]: chance 2
+]))
+(;B[da]C[kencabbit [1k\]: here
+kencabbit [1k\]: is where you continue to press
+kencabbit [1k\]: a17 misguided
+]))
+(;B[bc]C[kencabbit [1k\]: this might kill
+]
+;W[fc]C[kencabbit [1k\]: but white has this move for you to worry about sometime
+]))
+(;B[rr]C[kencabbit [1k\]: this move looks really hard on the corner
+]
+;W[rl]C[kencabbit [1k\]: but white has a move like this
+kencabbit [1k\]: in the area
+kencabbit [1k\]: if you cut off this possibility
+kencabbit [1k\]: white will have to respond in the corner
+])
+(;B[pm]C[kencabbit [1k\]: this move
+kencabbit [1k\]: should force white to respond in the corner, in my opinion
+kencabbit [1k\]: and it secures a lot of territory for you
+kencabbit [1k\]: you might consider playing it 
+kencabbit [1k\]: it's probably not the best on the board, though
+]))
+(;B[nd]C[kencabbit [1k\]: this area is bigger
+]))
+(;B[nc]C[kencabbit [1k\]: but I like the move that both pressures whitee
+kencabbit [1k\]: and helps your weaker stone
+])
+(;B[nd]C[kencabbit [1k\]: this is possible too
+kencabbit [1k\]: might even be technically better
+]))
+(;B[oh]C[kencabbit [1k\]: if you want to face the center
+kencabbit [1k\]: back up a little
+kencabbit [1k\]: that way you'r racing the center, and still attacking the stone
+kencabbit [1k\]: as black, you want to attack with almost every move.. but not fight
+kencabbit [1k\]: in a high handicap game
+kencabbit [1k\]: do you know the difference?
+])
+(;B[qf]SQ[pj][ql]C[kencabbit [1k\]: if you pincer
+kencabbit [1k\]: white will probably try to 'attack' these two stones I marked
+kencabbit [1k\]: but it's nothing you should really worry about
+kencabbit [1k\]: just keep it in mind as the game develops
+kencabbit [1k\]: that you don't want them to get weak
+]))
+(;B[qp]C[kencabbit [1k\]: split the stones
+kencabbit [1k\]: breaek the shape
+kencabbit [1k\]: -break
+]
+;W[op]
+;B[oo]C[kencabbit [1k\]: this might not be a good result though
+kencabbit [1k\]: I'm not sure how to respond
+])
+(;B[po]C[kencabbit [1k\]: this might be intersting
+kencabbit [1k\]: but it doesn't feel right
+kencabbit [1k\]: maybe you can ask somebody else later
+]))

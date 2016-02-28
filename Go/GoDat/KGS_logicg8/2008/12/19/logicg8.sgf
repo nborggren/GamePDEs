@@ -1,0 +1,446 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[AGA]SZ[19]KM[7.50]TM[1800]OT[5x30 byo-yomi]
+PW[logicg8]PB[nemoneko]WR[4k]BR[5k]DT[2008-12-19]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+Time]
+;B[pd]BL[1795.807]C[nemoneko [5k\]: hello
+logicg8 [4k\]: Have a good game
+nemoneko [5k\]: please teach me lots
+]
+;W[dp]WL[1790.874]C[logicg8 [4k\]: Me too
+]
+;B[qp]BL[1771.793]
+;W[dc]WL[1785.574]
+;B[de]BL[1716.512]C[nemoneko [5k\]: I'm sure you will be the teacher in this game.
+]
+;W[op]WL[1713.401]
+;B[oq]BL[1697.472]
+;W[nq]WL[1695.999]
+;B[pq]BL[1690.615]
+;W[np]WL[1690.977]
+;B[qn]BL[1688.115]
+;W[jp]WL[1685.342]
+;B[cc]BL[1684.284]
+;W[cb]WL[1681.53]
+;B[cd]BL[1680.501]
+;W[fc]WL[1655.14]
+(;B[ch]BL[1639.673]C[nemoneko [5k\]: go way vash - eat you BBQ
+]
+;W[bb]WL[1615.817]
+(;B[fq]BL[1612.129]
+(;W[hq]WL[1599.151]
+(;B[fo]BL[1608.721]
+;W[dn]WL[1593.8]
+;B[hp]BL[1604.277]C[Tabemasu [6d\]: B has no easy way to settle
+nemoneko [5k\]:  better to run out?
+nemoneko [5k\]: f-7?
+Tabemasu [6d\]: So f5 was not good
+nemoneko [5k\]: okay
+Tabemasu [6d\]: Maybe better, but still bad
+]
+(;W[gp]WL[1496.855]C[Tabemasu [6d\]: Good thing im lagging so amazingly
+]
+(;B[gq]BL[1213.551]
+;W[ho]WL[1446.931]
+;B[iq]BL[1208.387]C[nemoneko [5k\]: ok
+]
+;W[ip]WL[1441.639]
+;B[hr]BL[1207.265]
+;W[hp]WL[1438.587]
+;B[jr]BL[1202.47]
+;W[jq]WL[1429.332]
+;B[ir]BL[1199.9]
+(;W[er]WL[1412.534]
+;B[eq]BL[1153.327]
+;W[dq]WL[1409.252]
+;B[lr]BL[1131.972]
+;W[lq]WL[1388.877]
+;B[kq]BL[1030.395]
+;W[kp]WL[1352.56]
+;B[kr]BL[1021.315]
+;W[mr]WL[1343.737]
+(;B[ck]BL[993.497]C[Tabemasu [6d\]: This is way too greedy
+Tabemasu [6d\]: Now you will die on the bottom
+]
+;W[fr]WL[1338.071]
+;B[gr]BL[987.746]
+;W[fp]WL[1334]
+;B[pj]BL[946.717]
+;W[nc]WL[1323.612]
+;B[lc]BL[943.836]
+;W[qc]WL[1319.382]C[nemoneko [5k\]: r-16
+]
+(;B[pc]BL[941.816]C[Tabemasu [6d\]: This is the wrong direction
+nemoneko [5k\]: okay
+]
+;W[qd]WL[1315.945]
+;B[pe]BL[939.654]
+;W[pb]WL[1313.461]
+;B[ob]BL[938.555]
+;W[qb]WL[1311.383]
+;B[oc]BL[937.643]
+;W[qf]WL[1309.288]
+;B[og]BL[930.087]
+;W[qg]WL[1271.846]C[Tabemasu [6d\]: Now your stone at q10 looks weird
+Tabemasu [6d\]: What is it doing?
+]
+(;B[ri]BL[916.526]C[nemoneko [5k\]: nothing :( 
+]
+;W[ic]WL[1251.559]C[Tabemasu [6d\]: So W took a lot of territory in sente
+Tabemasu [6d\]: Not good for B
+]
+;B[re]BL[911.821]
+;W[qe]WL[1246.776]
+;B[sf]BL[910.246]
+(;W[sg]WL[1236.229]
+;B[rg]BL[908.316]
+;W[rf]WL[1233.874]
+;B[sh]BL[906.932]
+;W[rd]WL[1231.002]
+;B[se]BL[903.178]
+;W[sd]WL[1228.237]
+;B[sg]BL[901.501]
+;W[om]WL[1107.695]C[nemoneko [5k\]: oops, my mom is calling
+Tabemasu [6d\]: You should have read out the life and death before connecting at t15
+Tabemasu [6d\]: You lost sente again
+nemoneko [5k\]: sorry - i have to go :( but i'll read the review later
+]
+;B[pl]BL[863.456]C[Tabemasu [6d\]: ok
+]
+;W[ek]WL[980.926]
+;B[mn]BL[815.106]
+(;W[mo]WL[910.429]
+;B[on]BL[794.262]
+;W[nn]WL[900.535]
+;B[nm]BL[786.382]
+;W[no]WL[897.594]
+(;B[ol]BL[770.307]
+;W[mm]WL[885.146]
+;B[nl]BL[756.82]
+;W[ml]WL[874.827]
+;B[ln]BL[728.625]C[Tabemasu [6d\]: This is a big overplay
+]
+;W[km]WL[811.349]
+;B[kn]BL[712.665]
+(;W[jn]WL[802.021]
+;B[lm]BL[695.746]
+;W[ll]WL[786.291]
+;B[kl]BL[693.541]
+;W[jm]WL[768.176]
+;B[lk]BL[692.131]
+;W[lo]WL[755.309]
+;B[mk]BL[689.615]
+(;W[le]WL[743.618]
+(;B[md]BL[680.908]
+;W[kc]WL[727.57]
+;B[lb]BL[673.605]
+;W[kd]WL[715.051]
+;B[co]BL[642.369]
+;W[do]WL[694.803]
+;B[bn]BL[639.031]
+;W[bp]WL[649.898]
+;B[sb]BL[613.984]
+;W[rb]WL[641.241]
+;B[lg]BL[573.863]
+;W[dj]WL[619.958]C[FlameBlade [4d\]: oh
+FlameBlade [4d\]: K2 is dead
+]
+;B[cj]BL[568.291]C[FlameBlade [4d\]: okay, that changes my positional judgement
+]
+;W[ij]WL[597.446]
+;B[ik]BL[541.098]
+;W[jk]WL[577.503]
+;B[jl]BL[489.787]
+;W[il]WL[569.029]
+;B[hb]BL[457.513]C[FlameBlade [4d\]: wow
+FlameBlade [4d\]: what a psycho tenuki
+Tabemasu [6d\]: This is an overplay
+]
+;W[ib]WL[549.063]
+;B[gd]BL[415.431]
+(;W[hc]WL[531.969]
+;B[gc]BL[412.51]
+;W[gb]WL[529.521]
+;B[fb]BL[411.677]
+(;W[ha]WL[527.825]
+;B[ec]BL[405.949]C[logicg8 [4k\]: Thanks
+nemoneko [5k\]: no pfo 
+]
+;W[fd]WL[516.91]C[FlameBlade [4d\]: someone wasn't reading around H17
+nemoneko [5k\]: no prob
+nemoneko [5k\]: i thought it was weird
+FlameBlade [4d\]: hmmm
+FlameBlade [4d\]: bet white is panicking now
+FlameBlade [4d\]: based on the moves
+]
+;B[fe]BL[285.387]
+;W[ed]WL[501.863]
+;B[eb]BL[277.821]
+;W[ge]WL[496.406]
+;B[dd]BL[276.391]
+;W[hd]WL[492.258]
+;B[db]BL[273.616]C[Tabemasu [6d\]: W lost a lot here
+]
+;W[jg]WL[414.458]
+;B[el]BL[235.533]
+(;W[dl]WL[392.166]
+;B[dk]BL[224.362]C[logicg8 [4k\]: Yeah that was terrible play on my part
+]
+;W[dm]WL[367.912]
+;B[fk]BL[160.589]
+;W[ej]WL[353.357]
+;B[hk]BL[158.891]
+;W[jj]WL[333.639]
+;B[im]BL[44.676]
+;W[hl]WL[30]OW[3]
+;B[gl]BL[15.545]
+;W[hm]WL[30]OW[3]C[Tabemasu [6d\]: These are good moves by B
+]
+;B[gm]BL[11.027]
+;W[hn]WL[30]OW[3]
+;B[fi]BL[9.187]
+;W[hj]WL[30]OW[3]
+;B[gk]BL[3.818]
+;W[em]WL[30]OW[3]
+;B[fl]BL[30]OB[5]
+;W[ee]WL[30]OW[3]
+;B[ef]BL[30]OB[5]
+;W[bm]WL[30]OW[3]
+;B[bl]BL[30]OB[5]
+;W[am]WL[30]OW[3]
+;B[al]BL[30]OB[5]
+;W[cl]WL[30]OW[3]
+;B[jh]BL[30]OB[5]
+;W[ih]WL[30]OW[3]
+;B[kh]BL[30]OB[4]
+;W[ig]WL[30]OW[3]
+;B[ff]BL[30]OB[4]
+;W[ph]WL[30]OW[3]
+;B[oh]BL[30]OB[4]
+;W[qi]WL[30]OW[3]
+;B[qj]BL[30]OB[4]
+;W[kk]WL[30]OW[3]
+;B[kf]BL[30]OB[4]
+;W[jf]WL[30]OW[3]
+;B[ke]BL[30]OB[4]
+;W[ld]WL[30]OW[3]
+;B[je]BL[30]OB[4]
+;W[ie]WL[30]OW[3]
+;B[jd]BL[30]OB[4]
+;W[lf]WL[30]OW[3]
+;B[kg]BL[30]OB[4]C[Tabemasu [6d\]: can you think of a better move
+Tabemasu [6d\]: Not k17
+logicg8 [4k\]: o14
+Tabemasu [6d\]: that is better
+]
+(;W[jc]WL[30]OW[3]
+;B[me]BL[30]OB[4]
+;W[mf]WL[30]OW[3]
+;B[nf]BL[30]OB[4]
+;W[mg]WL[30]OW[3]
+;B[mh]BL[30]OB[4]
+;W[mc]WL[30]OW[3]
+;B[nd]BL[30]OB[4]
+;W[ng]WL[30]OW[3]
+;B[nh]BL[30]OB[4]
+;W[kb]WL[30]OW[3]
+;B[ma]BL[30]OB[4]
+;W[dh]WL[30]OW[3]C[Tabemasu [6d\]: this shouldn't work
+Tabemasu [6d\]: Haha
+]
+;B[eh]BL[30]OB[3]
+;W[ci]WL[30]OW[3]
+;B[di]BL[30]OB[3]
+;W[ei]WL[30]OW[3]
+;B[fj]BL[30]OB[3]
+;W[di]WL[30]OW[3]
+;B[bi]BL[30]OB[3]
+;W[dg]WL[30]OW[3]
+;B[bj]BL[30]OB[3]
+;W[cg]WL[30]OW[3]
+;B[bh]BL[30]OB[3]
+;W[bg]WL[30]OW[2]
+;B[ak]BL[30]OB[3]
+;W[eg]WL[30]OW[2]
+;B[fg]BL[30]OB[3]
+;W[fh]WL[30]OW[2]
+;B[gh]BL[30]OB[3]
+;W[gg]WL[30]OW[2]
+;B[df]BL[30]OB[3]
+;W[gi]WL[30]OW[2]
+;B[eh]BL[30]OB[3]
+(;W[ah]WL[30]OW[2]
+(;B[ai]BL[30]OB[3]
+;W[fh]WL[30]OW[2]
+;B[fs]BL[30]OB[3]
+;W[hh]WL[30]OW[2]
+;B[dr]BL[30]OB[3]
+;W[cr]WL[30]OW[2]
+;B[es]BL[30]OB[3]
+;W[be]WL[30]OW[2]C[Tabemasu [6d\]: Anyway
+Tabemasu [6d\]: W wins for sure now
+Tabemasu [6d\]: Any other questions?
+logicg8 [4k\]: No, thank you very much for the review
+Tabemasu [6d\]: No problem
+Tabemasu [6d\]: See you later
+logicg8 [4k\]: Bye
+]
+;B[bd]BL[30]OB[3]
+;W[lj]WL[30]OW[2]
+;B[mj]BL[30]OB[3]
+;W[li]WL[30]OW[2]
+;B[lh]BL[30]OB[3]C[Elphaba [?\]: a11 was a mistake...b wins outright by just connecting
+]
+;W[or]WL[30]OW[2]
+;B[pr]BL[30]OB[3]
+;W[ps]WL[30]OW[2]
+;B[qs]BL[30]OB[3]
+;W[os]WL[30]OW[2]
+;B[qr]BL[30]OB[3]
+;W[qh]WL[30]OW[2]
+;B[rj]BL[30]OB[3]
+;W[cs]WL[30]OW[2]
+;B[ep]BL[30]OB[3]
+;W[eo]WL[30]OW[2]
+;B[gf]BL[30]OB[3]
+;W[hf]WL[30]OW[2]
+;B[ki]BL[30]OB[3]
+;W[kj]WL[30]OW[2]
+;B[ll]BL[30]OB[3]
+;W[ko]WL[30]OW[1]
+;B[ae]BL[30]OB[3]
+;W[af]WL[30]OW[1]
+;B[ad]BL[30]OB[3]
+;W[gh]WL[30]OW[1]
+;B[ab]BL[30]OB[3]
+;W[pp]WL[30]OW[1]
+;B[po]BL[30]OB[3]
+;W[mi]WL[30]OW[1]
+;B[ni]BL[30]OB[3]
+;W[pa]WL[30]OW[1]
+;B[pf]BL[30]OB[3]
+;W[sc]WL[30]OW[1]
+;B[ms]BL[30]OB[3]
+;W[nr]WL[30]OW[1]
+;B[ji]BL[30]OB[3]
+;W[rh]WL[30]OW[1]
+;B[si]BL[30]OB[3]
+;W[oa]WL[30]OW[1]
+;B[na]BL[30]OB[3]
+;W[ka]WL[30]OW[1]C[nemoneko [5k\]: oo[s
+nemoneko [5k\]: i wasn't paying attention to time
+nemoneko [5k\]: well, thanks for the game
+logicg8 [4k\]: Is there a way to add more time now?
+nemoneko [5k\]: i think it's too late
+Tabemasu [6d\]: W wins anyway
+nemoneko [5k\]: i think so also
+nemoneko [5k\]: thanks for the game
+logicg8 [4k\]: Thank you for the game
+nemoneko [5k\]: the ko fihgt was my mistake
+])
+(;B[fh]C[Tabemasu [6d\]: haha
+logicg8 [4k\]: I don't have enough liberties
+Tabemasu [6d\]: right
+]))
+(;W[aj]C[Tabemasu [6d\]: better threat
+]
+;B[ai]
+;W[fh]))
+(;W[kb]C[Tabemasu [6d\]: This was the move I was thinking of though
+Tabemasu [6d\]: k17 is a dame point
+]))
+(;W[fl]C[Tabemasu [6d\]: So W should just play here
+Tabemasu [6d\]: Not bad
+]))
+(;W[ia]WL[526.881]
+;B[ga]BL[407.746]C[logicg8 [4k\]: misclick
+]))
+(;W[gc]C[Tabemasu [6d\]: Just here
+]))
+(;B[jd]C[Tabemasu [6d\]: B is very thick
+Tabemasu [6d\]: He should attack strongly
+Tabemasu [6d\]: W is a bit harder to play now
+]))
+(;W[je]C[Tabemasu [6d\]: I think W is winning by a lot
+Tabemasu [6d\]: You can probably just reduce here
+]))
+(;W[jm]
+;B[lp]
+;W[lo]
+;B[mq]
+;W[nr]C[Tabemasu [6d\]: W clearly has more liberties
+Tabemasu [6d\]: B can't cut at l5
+]))
+(;B[nl]C[Tabemasu [6d\]: Correct move for B
+]))
+(;W[po]C[Tabemasu [6d\]: This is the right way to disconnect the stone
+]
+;B[lp]
+;W[lo]
+;B[mq]
+;W[or]C[Tabemasu [6d\]: You don't have to worry much about the cut either
+logicg8 [4k\]: Much better
+]))
+(;W[qi]C[Tabemasu [6d\]: W should test B here first
+nemoneko [5k\]: ah
+]))
+(;B[hc]C[Tabemasu [6d\]: You have to try and build your moyo in a new direction now
+]))
+(;B[qd]
+;W[pc]
+;B[od]
+;W[nb]
+;B[me]C[Tabemasu [6d\]: Now your stone at q10 is much better
+]))
+(;B[fr]C[nemoneko [5k\]: my mistake,
+]
+;W[ck]))
+(;W[fp]C[Tabemasu [6d\]: W should simply play here
+Tabemasu [6d\]: And get thickness and sente
+]))
+(;B[go]
+;W[ho]
+;B[hn]
+;W[ip]
+;B[fp]
+;W[in]
+;B[hm]C[Tabemasu [6d\]: B would have a much stronger shape
+]))
+(;W[iq]C[Tabemasu [6d\]: W should simply pull back
+Tabemasu [6d\]: And attack B as a whole
+]))
+(;B[cn]C[Tabemasu [6d\]: B should treat f3 lighty
+]
+;W[fp]
+;B[cq]
+(;W[eq]C[nemoneko [5k\]: ok
+]
+;B[cp]LB[fq:A]C[Tabemasu [6d\]: This stone would still have some aji
+])
+(;W[cp]
+;B[dq]
+;W[ep]C[logicg8 [4k\]: Looks good for b
+]
+;B[fr]C[Tabemasu [6d\]: Yes
+Tabemasu [6d\]: It's a little too good for B
+Tabemasu [6d\]: h3 was a mistake
+]
+;W[bp]
+;B[bq]
+;W[cl]C[Tabemasu [6d\]: This is probably the best way W can play, but it's still not good
+])))
+(;W[eq]
+;B[fp]
+;W[dn]C[Tabemasu [6d\]: W should play this way
+Tabemasu [6d\]: Harder for B
+]
+;B[hp]C[logicg8 [4k\]: I see
+]
+;W[jq]C[nemoneko [5k\]: ah yes, i see also
+]
+;B[gm]))
+(;B[cn]C[Tabemasu [6d\]: There is no need to approach from the side that will make your stone harder to settle
+nemoneko [5k\]: okzh
+nemoneko [5k\]: okay
+]))
+(;B[bb]
+;W[ic]C[Tabemasu [6d\]: b18 is very big
+]))

@@ -1,0 +1,602 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[900]OT[5x30 byo-yomi]
+PW[wajugo]PB[logicg8]WR[4k]BR[5k]DT[2008-08-24]PC[The KGS Go Server at http://www.gokgs.com/]C[logicg8 [5k\]: salut
+]RE[B+9.50]
+;B[qd]BL[889.383]C[wajugo [4k\]: salut
+wajugo [4k\]: bp
+]
+;W[dc]WL[888.124]C[logicg8 [5k\]: bonne partie
+]
+;B[pq]BL[880.466]
+;W[dq]WL[865.139]
+;B[oc]BL[866.76]
+;W[pj]WL[856.037]
+;B[de]BL[844.918]
+;W[cg]WL[848.127]
+;B[cc]BL[827.714]
+;W[cb]WL[842.949]
+;B[cd]BL[824.754]
+(;W[eb]WL[842.003]C[logicg8 [5k\]: Thank you
+FlameBlade [-\]: but anyway
+FlameBlade [-\]: white played this
+]
+(;B[fd]BL[800.996]C[FlameBlade [-\]: the real issue is this move
+]
+;W[gc]WL[831.923]
+;B[bb]BL[790.58]C[logicg8 [5k\]: Hey Dan
+FlameBlade [-\]: black has awkward shape here
+]
+;W[ba]WL[828.969]
+;B[ab]BL[777.258]C[FlameBlade [-\]: hey
+logicg8 [5k\]: Would you review this game with me?
+FlameBlade [-\]: ok
+]
+;W[dj]WL[756.389]C[FlameBlade [-\]: and black isn't alive either
+logicg8 [5k\]: Yeah
+]
+(;B[do]BL[731.646]
+;W[cm]WL[728.865]
+(;B[en]BL[650.196]C[FlameBlade [-\]: now black has burden for rest of the game
+]
+;W[fp]WL[711.804]
+(;B[ql]BL[591.009]C[FlameBlade [-\]: this tenuki
+FlameBlade [-\]: maybe questionable
+logicg8 [5k\]: was it too paniced of a reaction?
+]
+;W[el]WL[675.642]
+;B[cq]BL[582.567]
+;W[cr]WL[670.397]
+;B[cp]BL[579.951]C[FlameBlade [-\]: since your opponent attacked you
+]
+;W[er]WL[662.525]
+(;B[br]BL[573.126]
+;W[bs]WL[660.174]
+;B[cn]BL[558.746]
+;W[dm]WL[632.635]
+;B[ar]BL[539.079]
+;W[bn]WL[617.097]
+;B[bo]BL[533.455]
+;W[dn]WL[613.583]
+(;B[co]BL[530.681]
+;W[bm]WL[599.119]
+;B[fo]BL[496.175]C[FlameBlade [-\]: white got strong around C9
+FlameBlade [-\]: so white got points there
+]
+;W[ep]WL[587.29]
+;B[eo]BL[489.607]
+;W[gp]WL[570.93]C[FlameBlade [-\]: andw hite got strong down there
+FlameBlade [-\]: so white got poitns there too
+]
+;B[gm]BL[457.563]
+;W[gk]WL[545.702]C[FlameBlade [-\]: your group isn't safe yet
+FlameBlade [-\]: keep moving it
+]
+(;B[dh]BL[443.465]
+;W[ch]WL[518.951]
+(;B[di]BL[437.945]
+;W[ci]WL[507.417]
+;B[dg]BL[418.32]
+;W[io]WL[470.883]C[FlameBlade [-\]: you got behind with having two weak groups
+]
+(;B[jq]BL[368.162]C[FlameBlade [-\]: risky
+FlameBlade [-\]: this looks greedy
+FlameBlade [-\]: now with tenuki
+FlameBlade [-\]: it's big, but not urgent
+FlameBlade [-\]: but if against stronger players...
+FlameBlade [-\]: I think they can find ways to kill
+]
+(;W[il]WL[390.402]
+;B[ho]BL[330.761]
+(;W[hp]WL[363.964]
+;B[hn]BL[292.351]
+;W[in]WL[320.343]
+;B[em]BL[242.081]C[logicg8 [5k\]: Yeah, I thought I read a second eye or a way out
+FlameBlade [-\]: lucky
+FlameBlade [-\]: good
+]
+(;W[fl]WL[178.942]C[logicg8 [5k\]: yeah, I thought I was behind and needed to take the risk
+]
+;B[fm]BL[235.914]
+;W[jp]WL[149.421]
+;B[kq]BL[227.812]
+;W[lp]WL[144.988]C[FlameBlade [-\]: somehow black got lucky
+FlameBlade [-\]: so he's still in game
+]
+;B[lq]BL[217.308]
+;W[mp]WL[137.117]
+;B[nq]BL[205.995]
+;W[po]WL[116.974]C[logicg8 [5k\]: Yeah, I thought he let me off light
+]
+;B[no]BL[164.385]
+;W[op]WL[105.976]
+;B[np]BL[161.642]
+;W[oq]WL[104.191]
+;B[or]BL[159.475]
+;W[pp]WL[74.752]
+(;B[qq]BL[148.92]
+(;W[pl]WL[73.227]
+;B[pm]BL[145.607]
+;W[qm]WL[59.413]
+;B[qn]BL[140.541]
+;W[pn]WL[46.871]
+(;B[om]BL[112.066]C[FlameBlade [-\]: looks awkward, in my opinion
+FlameBlade [-\]: let's see if it works
+]
+;W[rm]WL[34.066]
+;B[rn]BL[105.925]
+;W[rl]WL[16.447]
+;B[qp]BL[85.343]C[FlameBlade [-\]: I see
+FlameBlade [-\]: I'm not quite a fan of this sequence :)
+FlameBlade [-\]: but it's points
+]
+;W[qk]WL[30]OW[5]
+;B[on]BL[65.551]
+;W[jc]WL[30]OW[4]
+(;B[qh]BL[57.976]
+(;W[oh]WL[30]OW[4]
+;B[pg]BL[49.084]
+;W[mc]WL[30]OW[4]C[FlameBlade [-\]: black needs to help his group
+FlameBlade [-\]: but I can't decide on the best way
+FlameBlade [-\]: probably its C14
+FlameBlade [-\]: no komi, right?
+logicg8 [5k\]: yup
+FlameBlade [-\]: okay, black isn't behind here
+FlameBlade [-\]: black has large endgame with H2
+FlameBlade [-\]: later on
+FlameBlade [-\]: and P7 is looking into center
+FlameBlade [-\]: so I'd imagine that C14 is a fine move now
+]
+(;B[nd]BL[32.8]C[FlameBlade [-\]: and this move
+FlameBlade [-\]: may be a thankyou move
+FlameBlade [-\]: in fact
+FlameBlade [-\]: it is
+FlameBlade [-\]: it helps white more, I feel
+]
+;W[md]WL[30]OW[4]
+;B[kn]BL[14.388]C[FlameBlade [-\]: how big this area is?
+logicg8 [5k\]: not very
+FlameBlade [-\]: should consider different place
+]
+;W[he]WL[30]OW[2]
+;B[gd]BL[9.017]
+;W[hd]WL[30]OW[2]
+;B[fc]BL[6.218]
+;W[gb]WL[30]OW[2]
+;B[fb]BL[3.081]
+;W[fa]WL[30]OW[2]
+;B[me]BL[30]OB[5]
+;W[le]WL[30]OW[2]
+;B[mf]BL[30]OB[5]
+;W[lf]WL[30]OW[2]
+;B[mg]BL[30]OB[5]
+;W[og]WL[30]OW[2]
+;B[of]BL[30]OB[5]
+;W[nb]WL[30]OW[2]
+;B[ob]BL[30]OB[5]
+;W[cf]WL[30]OW[2]
+;B[df]BL[30]OB[5]
+(;W[lg]WL[30]OW[2]
+;B[gf]BL[30]OB[5]
+;W[hg]WL[30]OW[2]
+;B[hf]BL[30]OB[5]
+;W[if]WL[30]OW[2]
+;B[gg]BL[30]OB[5]
+;W[hh]WL[30]OW[2]
+(;B[nk]BL[30]OB[5]C[FlameBlade [-\]: hard to decide what is best
+]
+;W[ri]WL[30]OW[2]
+;B[rh]BL[30]OB[5]
+;W[lj]WL[30]OW[2]
+;B[be]BL[30]OB[5]
+;W[ce]WL[30]OW[2]
+;B[dd]BL[30]OB[5]
+;W[bf]WL[30]OW[2]
+(;B[ae]BL[30]OB[5]
+;W[af]WL[30]OW[2]C[FlameBlade [-\]: now there's nothing big about C10 anymore
+]
+;B[bd]BL[30]OB[5]C[logicg8 [5k\]: isee
+FlameBlade [-\]: and you play on the inside anyway
+]
+;W[oa]WL[30]OW[2]
+;B[pa]BL[30]OB[5]
+;W[na]WL[30]OW[2]
+;B[pb]BL[30]OB[5]
+;W[sh]WL[30]OW[2]
+;B[sg]BL[30]OB[5]
+;W[si]WL[30]OW[2]
+;B[rg]BL[30]OB[5]
+;W[sn]WL[30]OW[2]
+;B[ro]BL[30]OB[5]
+;W[mh]WL[30]OW[2]
+;B[kk]BL[30]OB[5]
+;W[jj]WL[30]OW[2]
+;B[kj]BL[30]OB[5]
+;W[ki]WL[30]OW[2]
+;B[jk]BL[30]OB[5]
+;W[ij]WL[30]OW[2]
+(;B[hr]BL[30]OB[5]
+;W[gr]WL[30]OW[2]
+;B[iq]BL[30]OB[5]
+;W[ip]WL[30]OW[2]
+;B[kp]BL[30]OB[5]
+;W[jm]WL[30]OW[1]
+;B[km]BL[30]OB[5]
+;W[ik]WL[30]OW[1]
+;B[lk]BL[30]OB[5]
+;W[mj]WL[30]OW[1]
+;B[fi]BL[30]OB[5]
+;W[gh]WL[30]OW[1]
+;B[fh]BL[30]OB[5]
+;W[ge]WL[30]OW[1]
+;B[fe]BL[30]OB[5]
+;W[mk]WL[30]OW[1]
+;B[ml]BL[30]OB[5]
+;W[ll]WL[30]OW[1]
+;B[kl]BL[30]OB[5]
+;W[nl]WL[30]OW[1]
+;B[mm]BL[30]OB[5]
+;W[ol]WL[30]OW[1]
+;B[ec]BL[30]OB[5]
+;W[db]WL[30]OW[1]
+;B[qi]BL[30]OB[5]
+;W[rj]WL[30]OW[1]
+;B[nc]BL[30]OB[5]
+;W[mb]WL[30]OW[1]
+;B[nf]BL[30]OB[4]
+;W[hq]WL[30]OW[1]
+;B[ir]BL[30]OB[4]
+;W[nm]WL[30]OW[1]
+;B[nn]BL[30]OB[4]
+;W[ej]WL[30]OW[1]
+;B[gi]BL[30]OB[4]
+;W[hi]WL[30]OW[1]
+;B[so]BL[30]OB[4]
+;W[ei]WL[30]OW[1]
+;B[eh]BL[30]OB[4]
+;W[ko]WL[30]OW[1]
+;B[lo]BL[30]OB[4]
+;W[jo]WL[30]OW[1]
+;B[mo]BL[30]OB[4]
+;W[pi]WL[30]OW[1]
+(;B[ao]BL[30]OB[4]
+;W[ph]WL[30]OW[1]TR[qj]C[FlameBlade [-\]: necessary to defend?
+logicg8 [5k\]: I thought so at the time
+FlameBlade [-\]: note liberty here
+]
+(;B[pf]BL[30]OB[4]
+;W[hs]WL[30]OW[1]
+;B[is]BL[30]OB[4]
+;W[gs]WL[30]OW[1]
+;B[fj]BL[30]OB[4]
+;W[fk]WL[30]OW[1]
+;B[sm]BL[30]OB[4]
+;W[sl]WL[30]OW[1]
+;B[go]BL[30]OB[4]
+;W[hl]WL[30]OW[1]
+;B[gj]BL[30]OB[4]
+;W[hj]WL[30]OW[1]
+;B[ca]BL[30]OB[4]
+;W[da]WL[30]OW[1]
+;B[aa]BL[30]OB[4]
+;W[ea]WL[30]OW[1]
+;B[ca]BL[30]OB[4]
+;W[ga]WL[30]OW[1]
+;B[ng]BL[30]OB[4]
+;W[nh]WL[30]OW[1]
+;B[an]BL[30]OB[4]
+;W[am]WL[30]OW[1]
+;B[hm]BL[30]OB[4]
+;W[]WL[30]OW[1]
+;B[]BL[30]OB[4]TW[ha][ia][ja][ka][la][ma][hb][ib][jb][kb][lb][hc][ic][kc][lc][id][jd][kd][ld][ie][je][ke][jf][kf][ag][bg][ig][jg][kg][ah][bh][ih][jh][kh][lh][ai][bi][ii][ji][li][mi][ni][oi][aj][bj][cj][nj][oj][sj][ak][bk][ck][dk][ek][hk][nk][ok][pk][rk][sk][al][bl][cl][dl][ql][eq][fq][gq][dr][fr][ds][es][fs]TB[qa][ra][sa][qb][rb][sb][ac][bc][pc][qc][rc][sc][ad][ed][od][pd][rd][sd][ee][ne][oe][pe][qe][re][se][ef][ff][qf][rf][sf][eg][fg][qg][ll][lm][fn][gn][ln][mn][pn][oo][po][qo][ap][bp][lp][mp][op][pp][rp][sp][aq][bq][mq][oq][rq][sq][jr][kr][lr][mr][nr][pr][qr][rr][sr][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[logicg8 [5k\]: merci
+wajugo [4k\]: merci
+FlameBlade [-\]: mmm
+FlameBlade [-\]: you really need to...
+logicg8 [5k\]: he didn't want to fight the two half point kos
+FlameBlade [-\]: stop playing bots.
+FlameBlade [-\]: and 2.  take care of weak groups
+FlameBlade [-\]: I can't tell, but I'm noticing that you have some bad habits that may be taken from playing bots
+logicg8 [5k\]: bots are the only players willing to play at 3am for half hour plus games
+FlameBlade [-\]: seems like greedy play and taking care of weak groups are the big issues.
+logicg8 [5k\]: thank you for the review
+FlameBlade [-\]: welcome
+])
+(;B[gs]
+;W[fs]
+;B[hs]
+;W[qf]
+;B[qg]
+;W[pf]
+;B[rf]
+;W[re]
+;B[qe]
+;W[qj]
+;B[pe]))
+(;B[an]C[FlameBlade [-\]: it's ok to play here
+]))
+(;B[iq]
+(;W[ip]
+;B[gr])
+(;W[hq]
+;B[ip]
+;W[im]
+;B[ik]
+;W[hl]
+(;B[jo])
+(;B[hk]
+;W[gl]
+;B[jo]))))
+(;B[ad]C[FlameBlade [-\]: better shape
+FlameBlade [-\]: no reason to give white A14 for free
+logicg8 [5k\]: I figured I owe move no matter what
+FlameBlade [-\]: then play here
+FlameBlade [-\]: no reason to give your opponents free moves
+FlameBlade [-\]: later
+]
+;W[ss]
+;B[af]C[FlameBlade [-\]: you might want this
+FlameBlade [-\]: and combine this with C10 aji
+FlameBlade [-\]: can make a big difference
+]
+(;W[rs]
+;B[cj])
+(;W[ag]
+;B[ae]
+;W[rs]
+;B[cj]C[FlameBlade [-\]: for instance
+FlameBlade [-\]: not very easy to reply to this
+])))
+(;B[hr]C[FlameBlade [-\]: can be considered
+])
+(;B[iq]
+;W[ip]
+;B[gr])
+(;B[mh]))
+(;W[ff]C[FlameBlade [-\]: I think white can try to be aggressive here
+FlameBlade [-\]: because it looks dangerous suddenly witht his move
+]))
+(;B[cf]C[logicg8 [5k\]: that they do gw
+FlameBlade [-\]: white is pounding against strong position
+])
+(;B[gf]C[FlameBlade [-\]: hrm
+FlameBlade [-\]: let me see if I can find a better move
+]
+;W[df]
+;B[cf]
+;W[ef]
+;B[fh]))
+(;W[df]C[logicg8 [5k\]: I did
+logicg8 [5k\]: but I thought it was too slow
+FlameBlade [-\]: just that I think this looks dangerous
+]
+(;B[cf]
+;W[ef]C[FlameBlade [-\]: chances are, white gets a nice board position here
+logicg8 [5k\]: I feel like a sucker for not taking it now
+])
+(;B[ef]
+;W[cf]C[FlameBlade [-\]: and here
+FlameBlade [-\]: looks like black got a weak group
+GeorgeW [-\]: That's how reviews are supposed to make you feel
+])))
+(;B[cf]C[FlameBlade [-\]: would like to consider this
+]))
+(;B[rm]C[FlameBlade [-\]: take ponnuki for now
+FlameBlade [-\]: so
+FlameBlade [-\]: why didn't you take?
+logicg8 [5k\]: I wanted to keep him separated
+FlameBlade [-\]: ah
+]
+;W[om]
+;B[qm]TR[on][kp]C[FlameBlade [-\]: white has a lot of bad aji on his own
+]
+(;W[on]
+;B[pk]
+;W[ok]
+;B[ol]
+;W[nl]
+;B[pl])
+(;W[nn]
+(;B[ol]
+;W[ok]
+;B[nl]C[FlameBlade [-\]: it's very possible that black can fight
+]
+(;W[pk]
+;B[nm]
+;W[on]
+;B[mn]
+;W[mm]
+;B[ml]
+;W[lm]
+;B[mo]C[FlameBlade [-\]: white is short on liberties
+])
+(;W[mn]
+;B[pk]C[FlameBlade [-\]: this looks painful
+]))
+(;B[pk]
+;W[ol]
+;B[qk]C[FlameBlade [-\]: hrm
+FlameBlade [-\]: hard call, but somehow, to me, this has better relationship to R16
+FlameBlade [-\]: but I could be wrong here
+FlameBlade [-\]: the idea is to try to get better board position
+FlameBlade [-\]: rather than get points
+FlameBlade [-\]: but getting points rae good :)
+]))))
+(;W[pr])
+(;W[nr]C[FlameBlade [-\]: for instance
+FlameBlade [-\]: this can be thinkable in future
+]
+;B[mr]
+;W[pr]
+;B[ns]
+;W[qr]))
+(;B[qr]C[FlameBlade [-\]: I think this is easier on your aji
+FlameBlade [-\]: it's pretty bad
+]))
+(;W[fm]
+;B[fl]
+;W[gl]C[FlameBlade [-\]: plan after this?
+logicg8 [5k\]: f9
+]
+;B[fk]
+;W[fj]C[logicg8 [5k\]: e9
+]
+;B[ek]
+;W[dl]
+;B[ej]
+;W[ei]
+;B[fn]
+;W[dk]
+;B[go]))
+(;W[go]C[FlameBlade [-\]: but what if white plays here now?
+logicg8 [5k\]: g6
+FlameBlade [-\]: or this move
+]
+;B[gn]C[logicg8 [5k\]: and then push though
+logicg8 [5k\]: two space extension
+]
+;W[in]C[logicg8 [5k\]: f7
+FlameBlade [-\]: can be a fight
+]
+;B[fm]
+;W[em]C[FlameBlade [-\]: but I don't think it looks good
+]))
+(;W[hl]C[FlameBlade [-\]: like this
+FlameBlade [-\]: I think this is much stronger than game
+]))
+(;B[hl]C[FlameBlade [-\]: white can consider taking points on bottom
+]))
+(;B[dg]C[FlameBlade [-\]: help your weak group
+]))
+(;B[im]C[FlameBlade [-\]: you have two weak groups now
+FlameBlade [-\]: you want to reduce it to one
+]))
+(;B[fo]))
+(;B[fm]C[FlameBlade [-\]: get out first
+FlameBlade [-\]: I think that's the best you can do
+]))
+(;B[cq]
+;W[cr]
+;B[cp]
+(;W[br]
+(;B[bl])
+(;B[dm]
+(;W[cl]
+(;B[co]
+;W[cn])
+(;B[cn]C[FlameBlade [-\]: don't know how white will reply
+]))
+(;W[cn]C[FlameBlade [-\]: difficult
+])))
+(;W[er]
+;B[el]C[FlameBlade [-\]: white doesn't have that much
+FlameBlade [-\]: you can afford to be patient
+FlameBlade [-\]: it's a lot easier to limit what your opponent can get if you take care of your groups
+FlameBlade [-\]: but...
+]))
+(;B[gn]C[FlameBlade [-\]: for instance
+FlameBlade [-\]: if you get this out
+FlameBlade [-\]: it shouldn't be too bad
+]))
+(;B[cq]C[FlameBlade [-\]: I think you should seek life
+FlameBlade [-\]: it's painful
+]))
+(;B[ss]C[FlameBlade [-\]: also
+logicg8 [5k\]: wow that sucks worse than I thought it did
+FlameBlade [-\]: yeah
+]
+;W[be]C[FlameBlade [-\]: this is a rather severe attack point
+]
+;B[bd]
+;W[ce]
+;B[dd]C[FlameBlade [-\]: (and in G17 in place, it can be difficult
+]
+(;W[ad]C[FlameBlade [-\]: since black doesn't have any eye
+])
+(;W[gd]C[FlameBlade [-\]: but I think white can consider this move
+])))
+(;B[ef]C[FlameBlade [-\]: with E18
+logicg8 [5k\]: I don't know this joseki
+FlameBlade [-\]: you usually see this
+FlameBlade [-\]: we usually see this
+FlameBlade [-\]: this does few things.
+FlameBlade [-\]: 1. strengthen the group
+FlameBlade [-\]: 2. get the group out
+FlameBlade [-\]: 3. create opportunities for living
+]
+(;W[gd]TR[dh]C[FlameBlade [-\]: because if white plays this, black has two choices
+FlameBlade [-\]: this or tenuki
+FlameBlade [-\]: mostly because black is just happy to break things up
+]
+;B[dh]
+;W[ci]C[FlameBlade [-\]: we usually stop here
+FlameBlade [-\]: but if black seriously needs to live
+FlameBlade [-\]: not easy to kill
+]
+;B[ch]
+;W[bh]
+;B[dg]C[FlameBlade [-\]: this should be sufficient
+]
+(;W[bj]
+(;B[bg])
+(;B[cf]))
+(;W[bf]
+;B[cf]
+;W[bg]
+;B[be]))
+(;W[cj]C[FlameBlade [-\]: (but you shouldn't make it until you absolutely need to make life)
+FlameBlade [-\]: because it helps white a lot
+]
+(;B[dg]
+;W[ch]
+;B[cf]C[FlameBlade [-\]: this is an easy life here
+])
+(;B[fc]C[FlameBlade [-\]: anyway
+FlameBlade [-\]: this is an attack point on top
+]
+;W[gc]C[FlameBlade [-\]: I think this is strongest response
+]
+(;B[fb]
+;W[gb]
+(;B[fa]C[FlameBlade [-\]: if black really resist
+]
+;W[fd]C[FlameBlade [-\]: then black should die
+]
+(;B[ec]
+;W[ed]
+;B[dd]
+;W[db])
+(;B[ed]
+;W[ec]
+;B[gd]
+;W[fe]))
+(;B[fd]
+;W[fa]C[FlameBlade [-\]: white sorta in clear now
+]))
+(;B[fd]
+;W[fb]C[FlameBlade [-\]: but like this
+FlameBlade [-\]: can make your group stronger
+FlameBlade [-\]: or keep up attack
+FlameBlade [-\]: but white has a back door in corner, so it's impossible to really kill
+]
+;B[hb]C[logicg8 [5k\]: I see
+]
+;W[bc]
+;B[bd]
+;W[ac]
+;B[ad]
+;W[ba])))))
+(;W[gc]C[FlameBlade [-\]: if white plays this
+]
+;B[eg]C[FlameBlade [-\]: then this is thinkable
+]
+;W[cj]
+;B[eb]
+;W[db]
+;B[ec]
+;W[ed]
+;B[dd]
+;W[ea]
+;B[fd]
+;W[fb]
+;B[ee]C[FlameBlade [-\]: this is joseki
+]
+;W[jc]))

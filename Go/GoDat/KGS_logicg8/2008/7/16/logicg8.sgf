@@ -1,0 +1,533 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[rogers]PB[logicg8]WR[6k]BR[6k]DT[2008-07-16]PC[The KGS Go Server at http://www.gokgs.com/]C[rogers [6k\]: Hi there. Have a good game.
+logicg8 [6k\]: Hello, have a good game
+]RE[B+19.50]
+;B[qd]BL[1786.382]
+;W[pp]WL[1797.126]
+;B[dc]BL[1780.496]
+;W[dp]WL[1793.681]
+;B[cn]BL[1776.636]
+;W[ck]WL[1779.96]
+;B[cq]BL[1770.232]
+;W[dq]WL[1772.018]
+;B[cp]BL[1767.428]
+;W[dn]WL[1766.639]
+;B[cm]BL[1755.788]
+;W[dm]WL[1764.374]
+;B[dl]BL[1753.541]
+;W[co]WL[1753.726]
+;B[bo]BL[1750.583]
+;W[do]WL[1751.121]
+(;B[cr]BL[1732.5]
+;W[dr]WL[1727.66]
+(;B[jq]BL[1691.291]
+;W[cs]WL[1700.024]
+;B[br]BL[1679.302]
+;W[cl]WL[1682.66]
+;B[bm]BL[1665.557]C[FlameBlade [-\]: now black's shape pretty sad
+]
+;W[el]WL[1661.408]
+;B[jd]BL[1655.7]
+;W[ei]WL[1634.624]
+;B[nq]BL[1647.686]
+;W[oq]WL[1625.371]
+;B[np]BL[1644.576]
+;W[pn]WL[1622.552]
+;B[ce]BL[1631.856]
+;W[gd]WL[1613.973]
+;B[ql]BL[1605.45]
+;W[oc]WL[1603.744]C[logicg8 [6k\]: Hey Dan
+FlameBlade [-\]: hai\\
+]
+;B[mc]BL[1599.671]
+;W[oe]WL[1601.194]
+;B[pf]BL[1593.705]
+;W[pd]WL[1593.558]
+;B[qc]BL[1554.942]
+;W[nd]WL[1589.672]C[FlameBlade [-\]: do not understand white here
+FlameBlade [-\]: okay
+FlameBlade [-\]: good time to look at the board
+FlameBlade [-\]: how do you feel about your points?
+logicg8 [6k\]: good
+FlameBlade [-\]: how do you feel about white's points?
+logicg8 [6k\]: big lowr right, but that's it
+FlameBlade [-\]: yes
+FlameBlade [-\]: that's it
+FlameBlade [-\]: ok
+FlameBlade [-\]: next move is important
+FlameBlade [-\]: since it sets the tone
+FlameBlade [-\]: I'm trying to figure out best way
+FlameBlade [-\]: :)
+FlameBlade [-\]: so I think black may want to play a move on right side
+]
+(;B[ff]BL[1535.223]C[FlameBlade [-\]: here
+FlameBlade [-\]: you're attacking
+FlameBlade [-\]: good idea
+FlameBlade [-\]: though, I think not necessary
+]
+;W[ic]WL[1583.912]C[FlameBlade [-\]: hmmm
+logicg8 [6k\]: Would you go over this game with me?
+FlameBlade [-\]: yeah
+]
+;B[jc]BL[1528.327]
+;W[ec]WL[1579.446]
+;B[ed]BL[1524.427]
+;W[fc]WL[1575.637]
+;B[db]BL[1514.052]
+;W[fd]WL[1569.533]
+;B[ee]BL[1505.568]
+;W[gf]WL[1561.832]
+;B[gg]BL[1502.299]
+;W[hf]WL[1559.684]
+;B[id]BL[1492.594]
+;W[hc]WL[1542.811]
+;B[pi]BL[1488.681]C[FlameBlade [-\]: good good
+]
+;W[md]WL[1531.19]
+;B[ld]BL[1483.001]
+;W[le]WL[1528.951]
+;B[ke]BL[1479.091]
+;W[lf]WL[1522.21]
+;B[kc]BL[1464.567]
+;W[je]WL[1515.62]
+;B[jf]BL[1443.997]
+;W[ie]WL[1504.999]
+;B[if]BL[1425.836]
+;W[he]WL[1500.079]
+;B[kf]BL[1423.427]
+;W[hg]WL[1493.211]
+;B[dh]BL[1412.435]C[FlameBlade [-\]: good
+FlameBlade [-\]: cash
+]
+;W[fg]WL[1469.497]
+;B[eg]BL[1408.294]
+;W[gh]WL[1448.881]C[FlameBlade [-\]: no need to hurt yourself a bit
+]
+(;B[nb]BL[1405.361]
+;W[ob]WL[1441.596]C[FlameBlade [-\]: since this kinda exposes your corner
+]
+;B[lb]BL[1367.399]
+;W[of]WL[1398.916]
+;B[pg]BL[1307.43]
+;W[nr]WL[1376.955]C[logicg8 [6k\]: Yeah
+]
+;B[mr]BL[1304.443]
+;W[or]WL[1374.381]
+;B[lq]BL[1289.757]C[FlameBlade [-\]: ok
+FlameBlade [-\]: black on way to win
+]
+;W[hq]WL[1367.879]
+;B[hp]BL[1281.046]C[FlameBlade [-\]: nice move
+]
+;W[gp]WL[1355.18]
+;B[ip]BL[1268.477]
+;W[oo]WL[1342.547]
+;B[mn]BL[1255.795]
+;W[kn]WL[1329.106]
+(;B[iq]BL[1223.764]C[logicg8 [6k\]: I just wanted to wreck whites points and coast on mycash in hand
+]
+;W[hr]WL[1310.82]
+;B[ir]BL[1200.557]
+;W[is]WL[1285.504]
+;B[js]BL[1184.556]
+;W[hs]WL[1282.875]
+;B[go]BL[1180.585]
+;W[fp]WL[1271.561]
+;B[hn]BL[1176.573]
+;W[kl]WL[1268.144]
+;B[rn]BL[1164.094]
+;W[qm]WL[1261.13]
+;B[rm]BL[1162.492]
+;W[pl]WL[1258.328]
+;B[qk]BL[1160.439]
+;W[pk]WL[1254.127]
+;B[qj]BL[1155.132]
+;W[rp]WL[1228.82]
+;B[ml]BL[1123.965]
+;W[jm]WL[1222.6]
+;B[om]BL[1119.276]
+;W[pm]WL[1217.846]
+;B[bi]BL[1101.849]
+;W[ci]WL[1205.335]
+;B[ch]BL[1099.071]
+;W[bj]WL[1200.153]
+;B[lg]BL[1083.746]
+;W[mg]WL[1194.151]
+;B[mf]BL[1076.331]
+;W[me]WL[1189.177]
+;B[mh]BL[1074.447]
+;W[ng]WL[1183.551]
+;B[kh]BL[1070.092]
+;W[il]WL[1158.944]
+;B[gl]BL[1063.803]
+;W[hk]WL[1132.777]
+;B[hl]BL[1031.808]
+;W[jj]WL[1123.688]
+;B[nh]BL[1011.008]
+;W[ra]WL[1094.102]
+;B[rb]BL[1005.802]
+;W[qa]WL[1082.888]
+;B[og]BL[993.354]
+;W[nf]WL[1079.514]
+;B[pe]BL[989.547]
+;W[qb]WL[1070.936]
+;B[sb]BL[986.606]
+;W[mo]WL[1016.686]
+;B[no]BL[965.375]
+;W[lo]WL[1012.02]
+;B[kp]BL[941.171]
+;W[nn]WL[998.717]
+;B[nm]BL[935.834]
+;W[on]WL[993.574]
+;B[mj]BL[932.974]
+;W[li]WL[978.647]
+;B[mi]BL[923.729]
+;W[lh]WL[973.741]
+;B[kg]BL[921.341]
+;W[ki]WL[969.707]
+;B[gk]BL[904.643]
+;W[lp]WL[962.684]
+;B[kr]BL[893.546]C[FlameBlade [-\]: good good
+FlameBlade [-\]: playing the won game
+FlameBlade [-\]: and I hope you used time to count time to time
+FlameBlade [-\]: make sure your lead is still there
+]
+;W[mq]WL[949.211]
+;B[mp]BL[888.554]
+;W[op]WL[945.253]
+;B[mq]BL[886.557]
+;W[hj]WL[922.001]C[logicg8 [6k\]: I only did twice
+]
+;B[qo]BL[881.898]
+;W[qp]WL[915.116]
+(;B[ga]BL[852.845]
+;W[gb]WL[907.846]
+;B[fa]BL[849.094]
+;W[ha]WL[902]
+;B[ea]BL[791.822]
+;W[ja]WL[894.963]
+;B[ka]BL[788.594]
+;W[na]WL[873.704]
+;B[ma]BL[784.233]
+;W[oa]WL[871.25]
+;B[nc]BL[774.832]
+;W[bh]WL[835.388]
+;B[bg]BL[772.274]
+;W[ai]WL[830.04]
+;B[bs]BL[765.493]
+;W[jo]WL[785.034]
+;B[fo]BL[754.327]
+;W[ep]WL[760.875]
+(;B[bl]BL[728.37]
+;W[bk]WL[757.039]
+(;B[al]BL[703.064]
+;W[ag]WL[741.847]
+;B[bf]BL[699.904]
+;W[ln]WL[718.877]
+;B[mm]BL[694.014]
+;W[ro]WL[708.246]
+;B[qn]BL[690.872]
+;W[pj]WL[695.982]
+;B[oi]BL[651.888]
+;W[eh]WL[667.095]
+;B[ef]BL[633.97]
+;W[fk]WL[624.902]
+;B[gj]BL[624.879]
+;W[gi]WL[619.213]
+;B[fj]BL[616.771]
+;W[ej]WL[613.266]
+;B[fl]BL[592.512]
+;W[ek]WL[609.674]
+(;B[rl]BL[581.621]
+;W[jb]WL[601.166]
+;B[kb]BL[576.794]
+;W[ib]WL[584.856]
+;B[ns]BL[565.658]
+;W[os]WL[581.462]
+;B[so]BL[554]
+;W[rr]WL[574.529]
+;B[ih]BL[526.749]
+;W[ii]WL[561.479]
+;B[oj]BL[450.755]
+;W[ok]WL[546.058]
+;B[nk]BL[446.247]
+;W[fm]WL[523.291]
+;B[gm]BL[441.448]
+;W[fn]WL[518.424]
+;B[gn]BL[432.471]
+;W[eo]WL[495.606]
+;B[af]BL[415.348]
+;W[ah]WL[491.095]
+;B[lk]BL[391.575]
+;W[jh]WL[484.317]
+;B[ig]BL[385.922]
+;W[kk]WL[457.932]
+;B[di]BL[357.517]
+;W[dj]WL[453.245]
+(;B[lj]BL[298.28]
+;W[io]WL[414.944]
+;B[ho]BL[291.575]
+;W[in]WL[411.159]
+;B[kj]BL[286.43]
+;W[ji]WL[408.26]
+;B[fi]BL[274.98]
+;W[fh]WL[385.092]
+(;B[ak]BL[240.544]
+;W[pc]WL[372.37]
+;B[aj]BL[217.606]
+;W[bi]WL[369.155]
+;B[ms]BL[206.901]
+;W[sp]WL[362.353]
+;B[sn]BL[203.378]
+;W[eb]WL[341.2]
+;B[ds]BL[186.387]
+;W[es]WL[334.432]
+(;B[ol]BL[147.379]
+;W[cs]WL[283.891]
+;B[hh]BL[113.314]
+;W[ds]WL[263.465]
+;B[lm]BL[78.911]
+;W[qe]WL[236.072]
+;B[re]BL[71.89]
+;W[qf]WL[197.73]
+;B[rf]BL[66.511]
+;W[sa]WL[179.567]
+;B[rd]BL[26.252]
+;W[fe]WL[124.963]
+;B[jp]BL[9.292]
+;W[hi]WL[88.603]
+;B[ko]BL[30]OB[5]
+;W[km]WL[77.36]
+(;B[da]BL[30]OB[5]
+;W[im]WL[66.035]
+;B[]BL[30]OB[5]
+;W[hd]WL[15.731]
+;B[]BL[30]OB[5]
+;W[fb]WL[8.767]
+;B[]BL[30]OB[5]
+;W[ll]WL[30]OW[5]
+;B[]BL[30]OB[5]
+;W[hm]WL[30]OW[5]
+;B[]BL[30]OB[5]
+;W[bp]WL[30]OW[5]
+;B[ap]BL[30]OB[4]
+;W[po]WL[30]OW[5]
+;B[]BL[30]OB[4]
+;W[qi]WL[30]OW[5]
+;B[qh]BL[30]OB[4]
+;W[ri]WL[30]OW[5]
+;B[rh]BL[30]OB[4]
+;W[rj]WL[30]OW[5]
+;B[rk]BL[30]OB[4]
+;W[jg]WL[30]OW[5]
+;B[kd]BL[30]OB[4]
+;W[]WL[30]OW[5]
+;B[]BL[30]OB[4]TW[ia][pa][hb][pb][gc][od][ge][ne][mf][gg][cj][ij][dk][ik][jk][dl][jl][em][en][jn][eq][fq][gq][pq][qq][rq][sq][er][fr][gr][pr][qr][sr][fs][gs][ps][qs][rs][ss]TB[aa][ba][ca][la][ab][bb][cb][mb][ac][bc][cc][lc][rc][sc][ad][bd][cd][dd][sd][ae][be][de][qe][se][cf][df][qf][sf][cg][dg][qg][rg][sg][oh][ph][sh][ni][qi][ri][si][nj][rj][sj][mk][sk][nl][sl][am][sm][an][bn][ao][bp][aq][bq][kq][ar][jr][lr][as][ks][ls]C[logicg8 [6k\]: Thank you for the game
+rogers [6k\]: Thank you.
+FlameBlade [-\]: endgame needs a little work, that is, in terms of seeing where is biggest
+FlameBlade [-\]: but otherwise
+FlameBlade [-\]: very nice, solid game
+logicg8 [6k\]: Thank you for the review
+FlameBlade [-\]: you won the game when you're winning the game
+FlameBlade [-\]: that's important
+FlameBlade [-\]: okay
+FlameBlade [-\]: I'm going to try to catch up on sleep
+FlameBlade [-\]: stupid insomnia
+logicg8 [6k\]: Bye, and thanks again
+FlameBlade [-\]: night!
+])
+(;B[im]C[FlameBlade [-\]: it depends on number of threats
+FlameBlade [-\]: I think white has more threats
+FlameBlade [-\]: but this ko is possible
+FlameBlade [-\]: try to force him to back down
+]))
+(;B[er]C[FlameBlade [-\]: any threats on board?
+FlameBlade [-\]: this can be a sizable ko
+logicg8 [6k\]: mostly for him
+]))
+(;B[pc]
+;W[od]
+;B[pb]
+;W[pa]
+;B[ak]C[FlameBlade [-\]: get your sente
+]))
+(;B[fi]
+;W[fh]))
+(;B[oj]C[FlameBlade [-\]: locally
+FlameBlade [-\]: S8 doesn't really gain you points
+FlameBlade [-\]: since it's pretty much white's privelege
+FlameBlade [-\]: white just has to play T6 or something like that to earn S8
+FlameBlade [-\]: so take something
+FlameBlade [-\]: something worth a bit
+FlameBlade [-\]: P10
+])
+(;B[pc]C[FlameBlade [-\]: or this
+]
+;W[od]
+;B[pb]
+;W[pa]
+(;B[ih]C[FlameBlade [-\]: this is pretty big
+])
+(;B[ib]C[FlameBlade [-\]: this is also endgame tesuji
+]
+;W[hb]
+;B[jb]
+;W[ia])))
+(;B[ds]
+;W[es]
+;B[cs]
+(;W[ss]
+;B[er]
+;W[fs]
+;B[fr]
+;W[gs]
+;B[gq])
+(;W[fr]
+;B[ag]))
+(;B[ag]C[FlameBlade [-\]: either those
+])
+(;B[ss]
+;W[al]
+;B[an]C[FlameBlade [-\]: nothing to worry about
+FlameBlade [-\]: only 2 points
+FlameBlade [-\]: compared to D1
+]))
+(;B[ds]C[FlameBlade [-\]: good time to play this
+]
+;W[es]
+(;B[fr])
+(;B[er]C[FlameBlade [-\]: you have huge threats in top right
+]
+;W[cs]
+;B[pc]
+;W[od]
+;B[ds]
+;W[fs]C[FlameBlade [-\]: see how powerful this ko is now?
+logicg8 [6k\]: Yeah
+]
+;B[gq]C[FlameBlade [-\]: G3 is a good local threat
+]
+(;W[cs]
+;B[fr]
+;W[gs]
+;B[ds])
+(;W[ss])
+(;W[fq]
+;B[fr]
+;W[cs]
+;B[gr]C[FlameBlade [-\]: white screwed.
+])
+(;W[gr]
+;B[fr]C[FlameBlade [-\]: white screwed anyway
+]))))
+(;B[fa]C[FlameBlade [-\]: no reason to do big
+FlameBlade [-\]: also
+])
+(;B[ib]C[FlameBlade [-\]: you have this
+])
+(;B[bh]C[FlameBlade [-\]: I think this is potentially biggest
+FlameBlade [-\]: since
+])
+(;B[ss]
+;W[bh]
+(;B[ai])
+(;B[bg]
+;W[ai]
+;B[rs]
+;W[ag]
+;B[bf]
+;W[af]
+;B[ae]
+;W[ah]C[FlameBlade [-\]: this loss is possible
+]))
+(;B[eb]C[FlameBlade [-\]: maybe this calmly is good enough
+]))
+(;B[hr]C[FlameBlade [-\]: how's this?
+FlameBlade [-\]: of course...
+logicg8 [6k\]: I kind of got lazy
+]
+;W[gq]
+;B[ir]C[FlameBlade [-\]: that's easiest way to lose the game
+FlameBlade [-\]: getting lazy
+])
+(;B[in]C[FlameBlade [-\]: you have this as an option as well
+FlameBlade [-\]: limit white's power in center
+]))
+(;B[lb]C[FlameBlade [-\]: keep it simple
+]
+;W[jb]
+;B[kb]
+;W[ib]
+;B[nb]))
+(;B[ss]
+;W[qe]C[FlameBlade [-\]: I'm slightly worried about this
+FlameBlade [-\]: aha
+]
+;B[qf]C[FlameBlade [-\]: white dies?
+]
+;W[re]
+;B[pe]
+;W[rf]
+;B[rg]
+;W[qg]
+(;B[pg]C[FlameBlade [-\]: based on this
+]
+;W[qh]
+;B[rh]C[FlameBlade [-\]: lots of issues
+FlameBlade [-\]: some issues here as well
+]
+;W[rd]
+;B[rc])
+(;B[rh]
+;W[pg]C[FlameBlade [-\]: ladder issue here, right?
+]))
+(;B[qi]C[FlameBlade [-\]: this is one idea
+FlameBlade [-\]: see the power of patient move?
+FlameBlade [-\]: R11 helps R8
+FlameBlade [-\]: and helps R15 problem
+]
+;W[qe]
+;B[qf]
+(;W[re]
+;B[pe]
+;W[rf]
+;B[rg]
+;W[qg]
+;B[pg]
+;W[qh]
+;B[rh]
+;W[ph]C[FlameBlade [-\]: but even if without ladder
+]
+(;B[oh]C[FlameBlade [-\]: black has ladder here
+])
+(;B[og]C[FlameBlade [-\]: black can draw out here
+]
+;W[oh]
+;B[ng]C[FlameBlade [-\]: then kill S15
+]))
+(;W[pe]
+;B[re]
+;W[rf]
+;B[rd]
+;W[rg]
+;B[qh])))
+(;B[cl]TR[dl]C[FlameBlade [-\]: still can cut
+FlameBlade [-\]: make white's move wasted
+FlameBlade [-\]: also, wall not that useful because of D8 poking in
+logicg8 [6k\]: I guess I panicked
+FlameBlade [-\]: it makes that much harder to make moyo or territory around H4 region
+]))
+(;B[cl]TR[ck][dm]C[FlameBlade [-\]: how's this?
+FlameBlade [-\]: separated
+]
+(;W[bp]
+;B[bq]
+;W[bn]
+;B[ap]
+;W[bm]
+;B[bl])
+(;W[bn]
+;B[bp]
+;W[bm]
+;B[bl])))

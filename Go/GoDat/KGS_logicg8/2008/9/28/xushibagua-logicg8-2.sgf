@@ -1,0 +1,244 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[300]OT[5x60 byo-yomi]
+PW[xushibagua]PB[logicg8]WR[4k]BR[5k]DT[2008-09-28]PC[The KGS Go Server at http://www.gokgs.com/]C[xushibagua [4k\]: have a good game
+logicg8 [5k\]: Have a good game, again
+]RE[B+Resign]
+;B[qd]BL[288.998]C[xushibagua [4k\]: :)
+]
+;W[dd]WL[290.886]
+;B[pq]BL[286.153]
+;W[cp]WL[278.94]
+;B[ep]BL[281.241]
+;W[gq]WL[257.881]
+;B[cq]BL[275.835]
+;W[dq]WL[199.592]
+;B[dp]BL[264.787]
+;W[cr]WL[196.797]
+;B[bq]BL[228.127]
+;W[bp]WL[184.065]
+;B[dr]BL[201.578]
+;W[eq]WL[179.078]
+;B[fq]BL[125.454]
+;W[er]WL[172.995]
+;B[fr]BL[121.271]
+;W[ds]WL[170.522]
+;B[gp]BL[86.09]
+;W[br]WL[164.222]
+;B[co]BL[80.38]
+;W[bo]WL[159.503]
+;B[cn]BL[77.909]
+;W[po]WL[141.784]
+;B[qo]BL[74.314]
+;W[qn]WL[139.313]
+;B[qp]BL[72.901]
+;W[pm]WL[133.751]
+;B[nq]BL[70.978]
+;W[qi]WL[131.492]
+;B[fc]BL[67.718]
+;W[cg]WL[126.214]
+;B[cc]BL[41.941]
+;W[dc]WL[121.976]
+;B[cd]BL[37.851]
+;W[de]WL[120.301]
+;B[bf]BL[35.206]
+;W[cb]WL[94.29]
+;B[bb]BL[32.329]
+;W[db]WL[89.231]
+;B[ba]BL[23.564]
+;W[jc]WL[66.902]
+;B[lc]BL[6.869]
+;W[od]WL[36.198]
+;B[oc]BL[60]OB[5]
+;W[pc]WL[28.544]
+;B[pd]BL[60]OB[5]
+;W[nc]WL[20.983]
+;B[ob]BL[60]OB[5]
+;W[nb]WL[18.473]
+;B[pb]BL[60]OB[5]
+;W[nd]WL[13.162]
+;B[kd]BL[60]OB[5]
+;W[jd]WL[60]OW[4]
+;B[ke]BL[60]OB[5]
+;W[mg]WL[60]OW[4]
+;B[je]BL[60]OB[5]
+;W[hd]WL[60]OW[4]
+;B[mb]BL[60]OB[5]
+;W[na]WL[60]OW[4]
+;B[nf]BL[60]OB[5]
+;W[mf]WL[60]OW[4]
+;B[me]BL[60]OB[5]
+;W[of]WL[60]OW[4]
+;B[ne]BL[60]OB[5]
+;W[oe]WL[60]OW[4]
+;B[ng]BL[60]OB[5]
+;W[qf]WL[60]OW[4]C[FlameBlade [3d\]: someone can die here
+purplecow [1d\]: -)
+]
+;B[pg]BL[60]OB[5]C[FlameBlade [3d\]: of course, I just came in
+]
+;W[og]WL[60]OW[4]C[FlameBlade [3d\]: but sometimes...sometimes...in about 500 moves, someone will die
+]
+;B[oh]BL[60]OB[5]
+;W[ph]WL[60]OW[4]C[purplecow [1d\]: its like seeing into the future
+FlameBlade [3d\]: okay, black in toruble now
+FlameBlade [3d\]: because white has R18
+FlameBlade [3d\]: and white just got stronger
+]
+;B[pi]BL[60]OB[5]
+;W[qh]WL[60]OW[4]
+;B[oi]BL[60]OB[5]C[FlameBlade [3d\]: ok, reading time
+FlameBlade [3d\]: hmmm
+FlameBlade [3d\]: doesn't seem like corner is killable
+FlameBlade [3d\]: but it will be very painful
+]
+;W[lq]WL[60]OW[3]
+;B[lh]BL[60]OB[5]C[purplecow [1d\]: mmm white creates a diversion  
+purplecow [1d\]: but blk doesnt o along
+]
+;W[ie]WL[60]OW[3]
+;B[if]BL[60]OB[5]
+;W[hf]WL[60]OW[3]
+;B[ig]BL[60]OB[5]
+;W[pk]WL[60]OW[3]C[FlameBlade [3d\]: wow
+FlameBlade [3d\]: M12 way too slow
+]
+;B[dj]BL[60]OB[5]C[FlameBlade [3d\]: and even worse
+FlameBlade [3d\]: it doesn't fix all problems
+]
+;W[gh]WL[60]OW[3]
+;B[eh]BL[60]OB[5]
+;W[dg]WL[60]OW[3]
+;B[eg]BL[60]OB[5]
+;W[ef]WL[60]OW[3]
+;B[hg]BL[60]OB[5]
+;W[gg]WL[60]OW[3]
+;B[mp]BL[60]OB[5]
+;W[gr]WL[60]OW[3]
+;B[gs]BL[60]OB[5]
+;W[iq]WL[60]OW[3]
+;B[hr]BL[60]OB[5]
+;W[hq]WL[60]OW[3]
+;B[hp]BL[60]OB[5]
+;W[ir]WL[60]OW[3]
+;B[hs]BL[60]OB[5]
+;W[ip]WL[60]OW[3]
+;B[io]BL[60]OB[5]
+;W[lp]WL[60]OW[3]
+;B[lo]BL[60]OB[5]
+;W[nr]WL[60]OW[2]
+;B[or]BL[60]OB[5]
+;W[mr]WL[60]OW[2]
+;B[ko]BL[60]OB[5]
+;W[kr]WL[60]OW[2]
+;B[gj]BL[60]OB[5]C[FlameBlade [3d\]: for instance....white has N10 as a possible move
+]
+;W[ml]WL[60]OW[2]C[FlameBlade [3d\]: which makes it easier for white to break in
+purplecow [1d\]: true
+]
+;B[kl]BL[60]OB[5]C[FlameBlade [3d\]: I haven't counted, but my gut feeling now is that white is winning
+]
+;W[cm]WL[60]OW[2]C[FlameBlade [3d\]: ok
+FlameBlade [3d\]: change that
+]
+;B[bn]BL[60]OB[5]
+;W[cj]WL[60]OW[2]
+;B[ck]BL[60]OB[5]C[FlameBlade [3d\]: C7/B6 was a terrible exchange
+FlameBlade [3d\]: what white can consider is play B13
+FlameBlade [3d\]: then play at C8
+FlameBlade [3d\]: or maybe C9
+]
+;W[dk]WL[60]OW[2]C[FlameBlade [3d\]: whichever is easier to play
+]
+;B[bk]BL[60]OB[5]
+;W[ej]WL[60]OW[2]
+;B[di]BL[60]OB[5]
+;W[fi]WL[60]OW[2]
+;B[ek]BL[60]OB[5]C[FlameBlade [3d\]: banditry
+]
+;W[fk]WL[60]OW[2]C[FlameBlade [3d\]: if black extends
+FlameBlade [3d\]: easy win for white
+]
+;B[fj]BL[60]OB[5]
+;W[ei]WL[60]OW[2]
+;B[dl]BL[60]OB[5]C[FlameBlade [3d\]: if white cuts at D12
+FlameBlade [3d\]: black can close off easily
+]
+;W[hj]WL[60]OW[2]C[FlameBlade [3d\]: ok
+]
+;B[gi]BL[60]OB[5]C[FlameBlade [3d\]: that's an overplay
+]
+;W[fh]WL[60]OW[2]
+;B[hi]BL[60]OB[5]
+;W[dh]WL[60]OW[2]C[FlameBlade [3d\]: playing at H12 is ok
+]
+;B[hh]BL[60]OB[5]
+;W[lj]WL[60]OW[2]C[buzzsaw [7k\]: hello
+FlameBlade [3d\]: hi!
+]
+;B[mk]BL[60]OB[5]C[buzzsaw [7k\]: logicg8 and I played in Hoboken
+FlameBlade [3d\]: nice
+buzzsaw [7k\]: yeah
+]
+;W[ll]WL[60]OW[2]C[FlameBlade [3d\]: double atari at G14
+buzzsaw [7k\]: it will be our review next thursday
+FlameBlade [3d\]: surprised that it's overlooked.
+FlameBlade [3d\]: nice
+FlameBlade [3d\]: hope yang was merciful :D
+FlameBlade [3d\]: of course he is
+buzzsaw [7k\]: it was a good review
+]
+;B[nl]BL[60]OB[5]C[buzzsaw [7k\]: I asked him to spend an hour on it
+]
+;W[lk]WL[60]OW[2]C[buzzsaw [7k\]: so it will be a long meeting
+FlameBlade [3d\]: great
+FlameBlade [3d\]: wow
+FlameBlade [3d\]: white very brave
+]
+;B[nm]BL[60]OB[5]
+;W[mn]WL[60]OW[2]
+;B[nn]BL[60]OB[5]
+;W[mo]WL[60]OW[2]
+;B[no]BL[60]OB[5]
+;W[ln]WL[60]OW[2]
+;B[kn]BL[60]OB[5]C[purplecow [1d\]: white very inside 
+]
+;W[mj]WL[60]OW[2]C[FlameBlade [3d\]: and even worse
+FlameBlade [3d\]: white can't cut with P4
+FlameBlade [3d\]: black simply respond with O4 to white P4
+]
+;B[nk]BL[60]OB[5]C[FlameBlade [3d\]: O9 here good enough
+]
+;W[nj]WL[60]OW[2]
+;B[oj]BL[60]OB[5]
+;W[mh]WL[60]OW[2]
+;B[nh]BL[60]OB[5]C[FlameBlade [3d\]: this is where L&D skills come in handy
+]
+;W[kh]WL[60]OW[2]
+;B[lg]BL[60]OB[5]
+;W[jl]WL[60]OW[2]
+;B[km]BL[60]OB[5]C[buzzsaw [7k\]: good game
+purplecow [1d\]: mm
+logicg8 [5k\]: Thank you for the game
+FlameBlade [3d\]: steve, you didn't have to go that far in
+FlameBlade [3d\]: I think you can count before trying something
+FlameBlade [3d\]: guess black is winning
+FlameBlade [3d\]: though
+FlameBlade [3d\]: top right corner isn't big
+FlameBlade [3d\]: black owes a move or it will be only few points
+FlameBlade [3d\]: ie:  white R18
+FlameBlade [3d\]: :D
+FlameBlade [3d\]: or white S15 first
+FlameBlade [3d\]: but still painful
+xushibagua [4k\]: huh?
+xushibagua [4k\]: when i counted
+xushibagua [4k\]: i thought if black makes more than 20 in center i loose
+xushibagua [4k\]: lose
+xushibagua [4k\]: how ever you spell it
+FlameBlade [3d\]: it's lose
+FlameBlade [3d\]: hmmm
+FlameBlade [3d\]: okay
+FlameBlade [3d\]: what happened was that...
+FlameBlade [3d\]: C7 exchange was very damaging
+FlameBlade [3d\]: review?
+xushibagua [4k\]: sure
+])

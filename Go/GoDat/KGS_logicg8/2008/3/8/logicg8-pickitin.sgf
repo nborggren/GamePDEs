@@ -1,0 +1,390 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[9]KM[0.50]TM[1800]OT[5x30 byo-yomi]
+PW[logicg8]PB[pickitin]WR[7k]BR[22k]DT[2008-03-08]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]RE[W+90.50]
+;W[nq]WL[1795.141]C[pickitin [22k\]: hi and thanks
+logicg8 [7k\]: Have fun
+]
+;B[fq]BL[1791.013]C[logicg8 [7k\]: This is okay, but it gives me the possibility of a double approach
+]
+(;W[nc]WL[1773.56]C[elegantcow [15k\]: hi thanks for teaching game
+]
+;B[oc]BL[1782.57]TR[nc]C[logicg8 [7k\]: This move does give you the corner, but it forces me to make myself strong as well
+logicg8 [7k\]: Don't attach to a weak stone
+logicg8 [7k\]: That stone was weak
+pickitin [22k\]: ok
+]
+;W[nd]WL[1769.699]TR[qf]
+(;B[ob]BL[1774.233]C[logicg8 [7k\]: This is consistent with taking the corner so that's good
+logicg8 [7k\]: Having a plan and sticking to it is good
+logicg8 [7k\]: Unfortunately it is also slow
+]
+;W[pe]WL[1762.308]
+;B[pf]BL[1759.598]C[logicg8 [7k\]: I don't really know what's going on here
+]
+;W[qe]WL[1737.406]C[logicg8 [7k\]: So I just kept trying to keep you split apart
+]
+;B[rd]BL[1748.278]
+;W[qd]WL[1733.287]
+;B[qc]BL[1747.262]
+;W[re]WL[1727.4]
+;B[rb]BL[1735.189]
+;W[od]WL[1710.928]
+;B[pc]BL[1724.641]
+;W[of]WL[1680.276]
+;B[sc]BL[1714.192]C[logicg8 [7k\]: I don't think this move was needed
+logicg8 [7k\]: It gives me sente (the initiative) and does not make many points for you
+]
+;W[fc]WL[1674.469]
+;B[ec]BL[1710.735]
+;W[fd]WL[1671.934]
+;B[df]BL[1700.661]TR[jd]C[logicg8 [7k\]: This stone is feeling very lonely right now
+]
+;W[jf]WL[1657.872]
+;B[og]BL[1687.589]
+;W[pg]WL[1639.463]
+;B[ph]BL[1679.18]
+;W[qg]WL[1635.169]
+;B[qh]BL[1673.122]
+;W[ng]WL[1625.523]
+;B[oh]BL[1671.54]
+;W[qn]WL[1617.953]C[pickitin [22k\]: yea i have a lot of those:)
+]
+(;B[qp]BL[1665.876]C[logicg8 [7k\]: This was not such a hot move
+logicg8 [7k\]: You probably want to run out into the center instead
+]
+;W[oo]WL[1611.019]C[logicg8 [7k\]: Now things are hard for black
+]
+;B[oq]BL[1660.488]
+;W[np]WL[1606.75]
+(;B[or]BL[1655.363]
+;W[nr]WL[1600.644]
+;B[mo]BL[1654.206]
+;W[ro]WL[1585.225]
+(;B[qr]BL[1645.955]C[logicg8 [7k\]: I think this was the move that let me kill the corner
+logicg8 [7k\]: This move lets me in and gives me a peep that takes away your eyespace
+logicg8 [7k\]: So yeah, at this point I think the corner is dead
+pickitin [22k\]: ok
+]
+;W[rq]WL[1572.036]
+(;B[rp]BL[1644.503]
+;W[sp]WL[1570.848]
+;B[sr]BL[1631.966]
+;W[rr]WL[1554.673]
+;B[qs]BL[1615.821]
+;W[qq]WL[1530.833]
+;B[ns]BL[1590.536]
+;W[ms]WL[1527.887]
+;B[os]BL[1588.451]
+;W[mr]WL[1517.572]
+;B[no]BL[1579.092]
+;W[op]WL[1476.467]
+;B[kr]BL[1543.855]
+;W[hq]WL[1462.216]
+;B[fp]BL[1541.686]
+;W[cn]WL[1450.114]
+;B[co]BL[1537.637]
+;W[bo]WL[1440.258]
+;B[bp]BL[1529.397]
+;W[dh]WL[1436.563]C[pickitin [22k\]: was there still away to save that?
+logicg8 [7k\]: The corner?
+pickitin [22k\]: yess
+]
+(;B[ch]BL[1521.817]C[logicg8 [7k\]: This is attaching to a weak stone again
+]
+;W[ci]WL[1433.39]
+;B[di]BL[1515.213]
+;W[cj]WL[1429.234]
+;B[dg]BL[1514.095]
+;W[eh]WL[1427.154]
+;B[ck]BL[1511.361]
+;W[bh]WL[1423.016]
+;B[cg]BL[1506.099]
+;W[bk]WL[1421.039]
+;B[dk]BL[1503.707]
+;W[bl]WL[1417.695]
+;B[bg]BL[1496.666]
+;W[bi]WL[1408.8]
+;B[fh]BL[1491.252]
+;W[gf]WL[1402.006]
+;B[ei]BL[1489.761]
+;W[ho]WL[1392.473]
+;B[hp]BL[1486.891]
+;W[ip]WL[1388.031]
+;B[gp]BL[1484.616]
+;W[io]WL[1386.37]
+;B[iq]BL[1476.794]
+;W[jq]WL[1384.167]
+;B[ir]BL[1474.472]
+;W[kq]WL[1375.664]
+;B[kp]BL[1464.125]
+;W[lq]WL[1366.91]
+;B[hr]BL[1461.947]
+;W[lo]WL[1361.19]
+;B[lp]BL[1453.682]
+;W[mp]WL[1357.088]TR[mo][no]SQ[jp][kp][lp]C[logicg8 [7k\]: I think If I were you at this point I would sacrifice these two stones
+pickitin [22k\]: ok
+logicg8 [7k\]: and run these 3 out
+]
+;B[ko]BL[1447.81]
+;W[ln]WL[1354.695]
+;B[kn]BL[1446.475]
+;W[lm]WL[1347.999]
+;B[km]BL[1445.259]
+(;W[dn]WL[1330.823]C[pickitin [22k\]: at the time yes
+]
+(;B[do]BL[1434.742]C[logicg8 [7k\]: What were you scared of here?
+]
+;W[fn]WL[1322.532]
+(;B[ap]BL[1416.519]C[logicg8 [7k\]: This was small
+]
+;W[eo]WL[1301.715]
+;B[ep]BL[1408.628]
+;W[gn]WL[1292.742]C[logicg8 [7k\]: Now what has a big thick wall to attack with
+logicg8 [7k\]: *what = white
+]
+;B[bn]BL[1407.209]
+;W[bm]WL[1290.697]
+;B[an]BL[1403.678]
+;W[am]WL[1286.98]
+;B[ao]BL[1400.642]
+;W[cm]WL[1274.232]
+;B[fo]BL[1393.265]C[logicg8 [7k\]: This is what is known as a "thank you" move
+logicg8 [7k\]: You made me fixe my weakness
+logicg8 [7k\]: How many points did you make with that turn?
+pickitin [22k\]: 1
+logicg8 [7k\]: 0
+pickitin [22k\]: ok
+logicg8 [7k\]: I have to connect up later any way
+]
+;W[en]WL[1271.729]
+;B[cr]BL[1390.632]TR[og][oh][ph][qh][pj][km][kn][ko][jp][kp][lp]C[logicg8 [7k\]: You are really really strong in that corner
+logicg8 [7k\]: there was no way I could invade
+logicg8 [7k\]: Before you move you should ask yourself 3 questions in this order:
+logicg8 [7k\]: 1) Are my groups safe?
+logicg8 [7k\]: Both of these groups could use some help
+logicg8 [7k\]: 2) Are my opponents sones safe?
+logicg8 [7k\]: White looks okay at this point
+logicg8 [7k\]: and 3) What is the biggest point on the board
+logicg8 [7k\]: ?
+pickitin [22k\]: ?
+logicg8 [7k\]: Just adding punctuation to the third question
+]
+;W[eg]WL[1252.93]
+;B[ff]BL[1389.783]
+;W[ee]WL[1235.418]
+;B[ef]BL[1381.801]
+;W[gg]WL[1229.665]C[pickitin [22k\]: ok
+]
+;B[fg]BL[1378.303]
+;W[nb]WL[1224.592]
+;B[na]BL[1373.917]
+;W[ma]WL[1221.598]
+;B[oa]BL[1371.395]
+;W[mb]WL[1220.24]
+;B[se]BL[1365.503]C[pickitin [22k\]: so what is the biggest point on this board?
+logicg8 [7k\]: Well probably R8 for you and R9 for me
+pickitin [22k\]: i see
+logicg8 [7k\]: but we needed to stop at question 1 and fix our unsafe groups
+logicg8 [7k\]: R8 would do that for you
+logicg8 [7k\]: This move here doesn't make many points but because I ignored it you got to connect your weak group to the living one in the corner
+logicg8 [7k\]: which was good for you
+]
+;W[qk]WL[1205.316]
+;B[rg]BL[1361.327]
+;W[qf]WL[1201.414]
+;B[rf]BL[1354.185]
+;W[pk]WL[1185.618]
+;B[qj]BL[1352.205]
+;W[nh]WL[1176.11]
+;B[ni]BL[1341.537]
+;W[mi]WL[1173.098]
+;B[nk]BL[1329.543]
+;W[nj]WL[1164.877]
+;B[ri]BL[1299.948]
+;W[rk]WL[1159.151]
+(;B[rh]BL[1291.902]C[logicg8 [7k\]: That move wasn't needed
+]
+;W[mk]WL[1144.831]
+;B[oj]BL[1288.045]
+;W[nl]WL[1111.832]
+;B[oi]BL[1274.974]
+;W[mj]WL[1107.575]
+;B[si]BL[1261.385]C[logicg8 [7k\]: This was small
+]
+;W[hi]WL[1095.132]
+;B[rj]BL[1254.75]TR[jj][km][kn][ko][jp][kp][lp]C[logicg8 [7k\]: these stones are getting cut off and you are letting me do it in exchange for a point
+]
+;W[hk]WL[1085.749]
+;B[ik]BL[1250.163]
+;W[hl]WL[1078.186]
+;B[il]BL[1247.91]
+;W[jh]WL[1069.903]
+;B[ll]BL[1236.115]
+;W[mm]WL[1045.521]
+;B[ok]BL[1216.393]
+;W[ol]WL[1041.436]
+;B[lj]BL[1203.601]
+;W[lk]WL[1024.995]
+;B[kk]BL[1180.773]
+;W[im]WL[990.494]
+;B[jm]BL[1156.553]
+;W[li]WL[965.473]
+;B[ji]BL[1104.09]
+;W[kh]WL[954.848]
+;B[hj]BL[1088.473]
+;W[gj]WL[943.745]
+;B[gi]BL[1072.088]
+;W[gh]WL[894.697]
+;B[fk]BL[1035.692]
+;W[gk]WL[873.229]
+;B[fi]BL[955.06]
+;W[hm]WL[787.236]
+;B[fl]BL[942.241]
+;W[hh]WL[776.052]
+;B[el]BL[940.881]
+;W[eb]WL[772.11]
+(;B[cc]BL[929.417]C[logicg8 [7k\]: This lets me in and lets me fix my weakness in sente
+]
+;W[ag]WL[765.691]
+;B[af]BL[926.908]
+;W[ah]WL[763.772]
+;B[be]BL[920.843]
+;W[ed]WL[757.898]
+;B[fe]BL[914.765]
+;W[ge]WL[754.785]
+;B[db]BL[910.245]
+;W[fb]WL[744.818]
+;B[dc]BL[908.126]
+;W[lr]WL[710.264]
+;B[jr]BL[892.898]
+;W[nn]WL[693.692]
+;B[dm]BL[869.718]
+(;W[aj]WL[675.136]C[logicg8 [7k\]: This wasn't needed for me
+]
+;B[gm]BL[864.906]
+;W[hn]WL[671.98]
+;B[cl]BL[850.082]
+;W[sk]WL[663.62]
+;B[rn]BL[827.975]
+;W[qo]WL[653.216]
+;B[so]BL[816.682]
+;W[sn]WL[649.125]
+;B[rm]BL[772.285]
+;W[po]WL[637.506]C[xevad [2k\]: desperation..
+pickitin [22k\]: yep
+xevad [2k\]: ^cracks open a cold beer
+]
+;B[ks]BL[741.592]
+;W[fj]WL[608.454]
+;B[ej]BL[729.552]
+;W[de]WL[598.958]
+;B[ce]BL[727.624]
+;W[da]WL[587.247]
+;B[ca]BL[723.087]
+;W[ea]WL[585.679]
+;B[bc]BL[715.945]
+;W[em]WL[563.093]
+;B[fm]BL[709.631]
+;W[dl]WL[533.071]
+;B[ek]BL[698.811]
+;W[dm]WL[529.779]
+;B[er]BL[681.721]C[logicg8 [7k\]: Again, no way I could invade
+]
+;W[]WL[524.753]
+;B[go]BL[652.424]
+;W[]WL[501.474]
+;B[sj]BL[644.941]
+;W[]WL[478.389]
+;B[]BL[644.941]TW[fa][ga][ha][ia][ja][ka][la][gb][hb][ib][jb][kb][lb][gc][hc][ic][jc][kc][lc][mc][gd][hd][id][jd][kd][ld][md][he][ie][je][ke][le][me][ne][oe][hf][if][kf][lf][mf][nf][pf][hg][ig][jg][kg][lg][mg][ih][lh][mh][ai][ii][ji][ki][bj][hj][ij][jj][kj][lj][ak][ik][jk][kk][al][il][jl][kl][ll][ml][pl][ql][rl][sl][jm][km][nm][om][pm][qm][rm][sm][in][jn][kn][mn][on][pn][rn][jo][ko][mo][no][so][jp][kp][lp][pp][qp][rp][mq][oq][pq][sq][or][pr][qr][sr][ns][os][ps][qs][rs][ss]TB[aa][ba][pa][qa][ra][sa][ab][bb][cb][pb][qb][sb][ac][rc][ad][bd][cd][sd][ae][bf][cf][sf][eg][sg][dh][eh][sh][pi][qi][bo][cp][aq][bq][cq][dq][eq][gq][hq][ar][br][dr][fr][gr][as][bs][cs][ds][es][fs][gs][hs][is][js]C[logicg8 [7k\]: Would you like to go over the game?
+pickitin [22k\]: thx gg
+logicg8 [7k\]: Good game.
+pickitin [22k\]: yes plz
+logicg8 [7k\]: Thank you for the game
+pickitin [22k\]: thanks for all the help
+logicg8 [7k\]: I hope the review helped, but remember take what I say w/ a grain of salt
+pickitin [22k\]: every one that gives me teaching game...
+pickitin [22k\]: leaves me with some good pointers
+logicg8 [7k\]: I know nothing about go
+pickitin [22k\]: ya right
+logicg8 [7k\]: The difference between me at 22k and me now
+logicg8 [7k\]: is I know a bit better how little of go I understand
+pickitin [22k\]: ya im getting that figured out at least:)
+logicg8 [7k\]: Well good luck
+logicg8 [7k\]: Bye
+pickitin [22k\]: thx much
+logicg8 [7k\]: no problem
+pickitin [22k\]: cya
+])
+(;W[in]C[logicg8 [7k\]: would have guaranteed two eyes jsut as well
+]))
+(;B[db]C[logicg8 [7k\]: keeps your whole corner and I have to defendThen I have to defend
+logicg8 [7k\]: If I play elsewhere
+]
+;W[sk]
+;B[fb]
+;W[ea]
+;B[fa]
+;W[da]
+;B[ca]))
+(;B[kl])
+(;B[gh]))
+(;B[bn]C[logicg8 [7k\]: Still small, but a stone in atari on the thrid line can't escape, right?
+logicg8 [7k\]: Second
+logicg8 [7k\]: Second line
+pickitin [22k\]: ya
+logicg8 [7k\]: sorry
+]))
+(;B[aa]
+;W[do]C[logicg8 [7k\]: This atari?
+pickitin [22k\]: i should have played out farther
+])
+(;B[fn]C[pickitin [22k\]: but now..
+logicg8 [7k\]: Keep me separated
+]))
+(;W[kl]
+;B[im]TR[ho][io][ip]C[logicg8 [7k\]: So you can attack these 2 of my stones
+logicg8 [7k\]: *3
+]))
+(;B[cg]TR[cn][bo]C[logicg8 [7k\]: With this move you take a big corner and my stone doesn't have a base
+pickitin [22k\]: got it
+logicg8 [7k\]: These stones are rdiculously weak
+logicg8 [7k\]: So I really owe you a few moves otver there
+]))
+(;B[qq]
+;W[rp]
+;B[rr]
+;W[sr]
+;B[rs]
+;W[ps]
+;B[os]
+;W[pr]))
+(;B[rp]C[pickitin [22k\]: even at the end i felt if i was a better player...
+]
+;W[qr]C[pickitin [22k\]: there was a way out
+]
+;B[rr]
+;W[sp]
+;B[rq]
+;W[os]
+;B[ps]
+;W[ns]
+;B[qs]
+;W[pr]
+;B[rs]))
+(;B[nr]
+;W[mr]
+;B[or]C[logicg8 [7k\]: I think you live but w gets two walls facing out and is happy
+]))
+(;B[oo]C[logicg8 [7k\]: So do I believe me
+]
+;W[qq]
+;B[qp]
+;W[pq]C[logicg8 [7k\]: White gets a small corner
+logicg8 [7k\]: and black looks fine
+]))
+(;B[qf])
+(;B[pf]C[logicg8 [7k\]: Try and get more
+logicg8 [7k\]: and do not let yourself get sealed in
+]))
+(;W[qn]C[logicg8 [7k\]: That means fights and complications and you generally want to avoid that when you are taking 9 stones
+]))

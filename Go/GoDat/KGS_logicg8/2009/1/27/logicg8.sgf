@@ -1,0 +1,466 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[2]KM[0.50]TM[60]OT[5x13 byo-yomi]
+PW[logicg8]PB[GoTrowaGo]WR[4k]BR[6k]DT[2009-01-26]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp]C[logicg8 [4k\]: gg
+GoTrowaGo [6k\]: gl hf gg
+logicg8 [3k\]: This game was terrible
+logicg8 [3k\]: Neither of us can blitz
+Bogoliubon [2k\]: you're not one to play fast
+Bogoliubon [2k\]: what's this 3 kyu business?
+Bogoliubon [2k\]: we play even now?
+]RE[W+Time]
+;W[qp]WL[53.967]
+;B[dd]BL[41.452]
+;W[fq]WL[50.607]C[logicg8 [3k\]: I wish I could
+Bogoliubon [2k\]: How come I can give myself 4 stones
+]
+;B[hq]BL[26.924]
+;W[cq]WL[47.817]C[logicg8 [3k\]: Hey if we do aga ratings your still 5 stones ahead
+GoTrowaGo [6k\]: lol
+]
+(;B[cp]BL[21.292]
+;W[dq]WL[45.679]
+;B[ep]BL[19.58]
+;W[fr]WL[44.108]
+;B[go]BL[17.273]
+(;W[ci]WL[38.252]C[Bogoliubon [2k\]: because of this move
+Joven [-\]: oh hey
+Bogoliubon [2k\]: hey saul
+]
+;B[op]BL[13]OB[5]C[Bogoliubon [2k\]: this move is smaller now
+Bogoliubon [2k\]: that h2 is open
+Bogoliubon [2k\]: but you're right to tenuki
+]
+;W[oq]WL[31.012]
+;B[nq]BL[13]OB[5]
+;W[pq]WL[29.019]
+;B[ck]BL[13]OB[4]
+;W[cf]WL[26.438]
+;B[ce]BL[13]OB[4]
+;W[df]WL[23.912]TR[ck]C[Bogoliubon [2k\]: black is probably ok here
+]
+;B[fc]BL[13]OB[4]
+;W[nc]WL[20.112]
+(;B[qg]BL[13]OB[3]
+;W[qc]WL[12.227]
+;B[pc]BL[13]OB[2]
+;W[qd]WL[9.401]C[Joven [-\]: R13 shines here..
+Bogoliubon [2k\]: when for r18?
+]
+(;B[pe]BL[13]OB[1]C[Joven [-\]: R15 is must do
+Bogoliubon [2k\]: yeah I thinks so too
+]
+;W[rf]WL[5.997]
+;B[rg]BL[13]OB[1]
+;W[qf]WL[3.871]
+(;B[og]BL[13]OB[1]TR[gp][np]C[Bogoliubon [2k\]: oh and adam
+Bogoliubon [2k\]: 5 2 point groups
+Bogoliubon [2k\]: aren't going to win
+Bogoliubon [2k\]: try findind stones you want to make weak
+logicg8 [3k\]: No fair this is blitz
+Joven [-\]: yeah virus go doesnt work for low handicap games
+logicg8 [3k\]: and I had a handicap on my back
+GoTrowaGo [6k\]: ^.^;;
+Bogoliubon [2k\]: that's all the more reason
+Bogoliubon [2k\]: not to dive into corners
+Bogoliubon [2k\]: and take some pennies
+]
+;W[kc]WL[13]OW[5]
+;B[qb]BL[13]OB[1]
+;W[rb]WL[13]OW[5]
+;B[rd]BL[13]OB[1]
+(;W[qe]WL[13]OW[5]
+;B[pb]BL[13]OB[1]
+;W[ra]WL[13]OW[5]
+;B[sf]BL[13]OB[1]C[GoTrowaGo [6k\]: ?
+]
+;W[se]WL[13]OW[5]
+;B[sg]BL[13]OB[1]
+;W[rc]WL[13]OW[5]
+;B[np]BL[13]OB[1]C[Joven [-\]: black should play Q14 and be thick
+Joven [-\]: I want to play there as white
+Bogoliubon [2k\]: you may want to save endgame
+Bogoliubon [2k\]: you are weaker now
+Bogoliubon [2k\]: as saul is saying
+]
+(;W[qn]WL[13]OW[5]C[Bogoliubon [2k\]: how many stones do you have on the fourth line?
+Bogoliubon [2k\]: adam
+Bogoliubon [2k\]: one
+Bogoliubon [2k\]: one stone
+GoTrowaGo [6k\]: 2
+Bogoliubon [2k\]: and that's only because c15 forced you too
+logicg8 [3k\]: Yes, you can see where my first instinct is to play
+Bogoliubon [2k\]: you should be thinking about neutralizing influence in handicap games
+Bogoliubon [2k\]: not giving away as much of it as possible
+]
+;B[nm]BL[13]OB[1]
+;W[hc]WL[13]OW[5]C[Joven [-\]: big move..
+Bogoliubon [2k\]: has corner follow ups
+Bogoliubon [2k\]: but still
+Joven [-\]: not urgent compared to upper right(as nate is about to say)
+Bogoliubon [2k\]: at least consider a move in the center
+Bogoliubon [2k\]: right
+]
+;B[ej]BL[13]OB[1]C[Bogoliubon [2k\]: this is the move I wanted to prevent
+]
+(;W[ec]WL[13]OW[5]C[Bogoliubon [2k\]: this seems ok though
+]
+;B[ed]BL[13]OB[1]
+(;W[fd]WL[13]OW[5]
+(;B[eb]BL[13]OB[1]C[Joven [-\]: lol
+Joven [-\]: good enough
+]
+;W[gc]WL[13]OW[4]
+;B[dc]BL[13]OB[1]
+;W[fe]WL[13]OW[4]C[Joven [-\]: this is why I hate blitz
+]
+;B[bf]BL[13]OB[1]
+;W[bg]WL[13]OW[4]
+;B[be]BL[13]OB[1]C[Joven [-\]: (and why I suck at it)
+logicg8 [3k\]: I never blitz and it shows
+]
+(;W[eh]WL[13]OW[3]C[Bogoliubon [2k\]: I challenge you go find a smaller move
+Bogoliubon [2k\]: you are protecting (kind of) unimportant stones
+]
+(;B[di]BL[13]OB[1]
+;W[dh]WL[13]OW[3]
+;B[cj]BL[13]OB[1]
+;W[gi]WL[13]OW[3]
+;B[gj]BL[13]OB[1]
+;W[hj]WL[13]OW[3]
+;B[gk]BL[13]OB[1]C[Bogoliubon [2k\]: compare with...
+]
+;W[ii]WL[13]OW[3]C[Bogoliubon [2k\]: white profited from his mistake
+]
+;B[md]BL[13]OB[1]
+;W[mc]WL[13]OW[3]
+;B[ld]BL[13]OB[1]C[Bogoliubon [2k\]: good moves
+Joven [-\]: good move by black
+]
+;W[kd]WL[13]OW[3]C[Joven [-\]: helps protect the weakness actively
+]
+(;B[kf]BL[13]OB[1]
+;W[jf]WL[13]OW[3]
+;B[ke]BL[13]OB[1]
+;W[je]WL[13]OW[3]
+;B[kg]BL[13]OB[1]
+;W[qk]WL[13]OW[3]
+;B[jg]BL[13]OB[1]
+;W[ig]WL[13]OW[3]
+;B[lc]BL[13]OB[1]
+;W[lb]WL[13]OW[3]
+;B[nd]BL[13]OB[1]
+;W[mb]WL[13]OW[3]
+(;B[hr]BL[13]OB[1]
+;W[jm]WL[13]OW[3]C[Joven [-\]: why H2 and not G2
+]
+;B[jo]BL[13]OB[1]
+;W[ln]WL[13]OW[3]C[Bogoliubon [2k\]: I'm going to run, if you want to take over saul
+Joven [-\]: ok
+GoTrowaGo [6k\]: hmm
+]
+(;B[kn]BL[13]OB[1]
+;W[km]WL[13]OW[3]
+;B[lm]BL[13]OB[1]
+;W[mm]WL[13]OW[3]
+;B[ll]BL[13]OB[1]
+;W[nn]WL[13]OW[3]
+(;B[pm]BL[13]OB[1]C[logicg8 [3k\]: I think I'd take atari first
+]
+;W[om]WL[13]OW[3]
+;B[nl]BL[13]OB[1]
+;W[pn]WL[13]OW[3]
+;B[ol]BL[13]OB[1]
+;W[on]WL[13]OW[3]
+;B[ml]BL[13]OB[1]
+;W[pj]WL[13]OW[3]
+;B[rj]BL[13]OB[1]
+(;W[rk]WL[13]OW[3]
+;B[pk]BL[13]OB[1]
+(;W[qm]WL[13]OW[3]
+;B[qj]BL[13]OB[1]
+;W[pl]WL[13]OW[3]
+;B[ok]BL[13]OB[1]
+;W[mn]WL[13]OW[3]
+;B[lo]BL[13]OB[1]
+;W[kj]WL[13]OW[3]
+;B[kk]BL[13]OB[1]
+;W[jk]WL[13]OW[3]
+;B[hk]BL[13]OB[1]
+;W[pi]WL[13]OW[3]
+;B[qh]BL[13]OB[1]
+;W[mi]WL[13]OW[3]
+;B[ni]BL[13]OB[1]
+;W[nj]WL[13]OW[3]
+;B[oj]BL[13]OB[1]
+;W[nh]WL[13]OW[3]
+;B[oi]BL[13]OB[1]
+;W[oh]WL[13]OW[3]
+;B[mh]BL[13]OB[1]
+;W[lk]WL[13]OW[3]
+;B[li]BL[13]OB[1]
+;W[mk]WL[13]OW[3]
+;B[mj]BL[13]OB[1]
+;W[kl]WL[13]OW[3]
+;B[hm]BL[13]OB[1]
+;W[nk]WL[13]OW[3]
+;B[mi]BL[13]OB[1]
+;W[jn]WL[13]OW[3]
+;B[ko]BL[13]OB[1]
+;W[hn]WL[13]OW[3]
+;B[gn]BL[13]OB[1]
+;W[im]WL[13]OW[3]
+;B[bq]BL[13]OB[1]
+;W[br]WL[13]OW[3]
+;B[eq]BL[13]OB[1]
+;W[er]WL[13]OW[3]
+;B[cr]BL[13]OB[1]
+;W[dr]WL[13]OW[3]
+;B[ar]BL[13]OB[1]
+(;W[bs]WL[13]OW[3]C[logicg8 [3k\]: Later Nate
+Bogoliubon [2k\]: bye
+Bogoliubon [2k\]: live next time here
+Bogoliubon [2k\]: or rather die and sacrifice it for some points
+Bogoliubon [2k\]: in the fourth line
+Bogoliubon [2k\]: or the center
+Bogoliubon [2k\]: or something crazy like that
+Bogoliubon [2k\]: late
+Bogoliubon [2k\]: r
+Joven [-\]: isnt white alive here?
+]
+;B[bp]BL[13]OB[1]
+(;W[fp]WL[13]OW[3]C[logicg8 [3k\]: with a move
+Joven [-\]: oh you played this
+]
+;B[fo]BL[13]OB[1]
+;W[bi]WL[13]OW[3]
+;B[bj]BL[13]OB[1]
+;W[hl]WL[13]OW[3]
+;B[gm]BL[13]OB[1]C[logicg8 [3k\]: I didn't consider c1
+logicg8 [3k\]: c1
+]
+(;W[or]WL[13]OW[3]
+(;B[nr]BL[13]OB[1]
+;W[ns]WL[13]OW[3]
+;B[ms]BL[13]OB[1]C[logicg8 [3k\]: I read f1 first
+Joven [-\]: F1 kills as well
+]
+;W[os]WL[13]OW[3]
+;B[mr]BL[13]OB[1]
+;W[sj]WL[13]OW[3]
+;B[ri]BL[13]OB[1]
+;W[ho]WL[13]OW[3]
+;B[hp]BL[13]OB[1]
+;W[ga]WL[13]OW[3]
+;B[gb]BL[13]OB[1]
+;W[hb]WL[13]OW[3]
+;B[ih]BL[13]OB[1]
+;W[hh]WL[13]OW[3]
+;B[if]BL[13]OB[1]
+;W[jh]WL[13]OW[3]
+;B[jd]BL[13]OB[1]
+;W[ie]WL[13]OW[3]
+;B[id]BL[13]OB[1]
+;W[he]WL[13]OW[3]
+;B[kb]BL[13]OB[1]
+;W[jc]WL[13]OW[3]
+;B[jb]BL[13]OB[1]
+;W[ic]WL[13]OW[3]
+;B[oc]BL[13]OB[1]
+;W[ib]WL[13]OW[3]
+;B[nb]BL[13]OB[1]
+;W[ka]WL[13]OW[3]
+;B[ma]BL[13]OB[1]
+;W[ja]WL[13]OW[3]
+;B[fi]BL[13]OB[1]
+;W[fh]WL[13]OW[3]
+;B[ei]BL[13]OB[1]
+;W[fb]WL[13]OW[3]
+;B[io]BL[13]OB[1]
+;W[ea]WL[13]OW[3]
+;B[da]BL[13]OB[1]
+;W[cb]WL[13]OW[3]
+;B[db]BL[13]OB[1]
+;W[bc]WL[13]OW[3]
+;B[ca]BL[13]OB[1]
+;W[ba]WL[13]OW[3]
+;B[cc]BL[13]OB[1]
+;W[bb]WL[13]OW[3]
+;B[bd]BL[13]OB[1]
+;W[de]WL[13]OW[3]
+;B[ac]BL[13]OB[1]
+;W[ad]WL[13]OW[3]C[GoTrowaGo [6k\]: i clicked meh
+Bogoliubon [2k\]: may I?
+GoTrowaGo [6k\]: its alive though
+logicg8 [3k\]: I know
+Bogoliubon [2k\]: the top might be alive
+]
+;B[cs]
+;W[ds]
+;B[fs]C[Bogoliubon [2k\]: this group needs a move
+])
+(;B[fs]C[Joven [-\]: how do you live?
+GoTrowaGo [6k\]: hmm
+GoTrowaGo [6k\]: in this position if he ignores he doesnt?
+Joven [-\]: hint I dont see a way for white to live here
+GoTrowaGo [6k\]: well previous to f1
+]
+;W[cs]
+;B[es]C[logicg8 [3k\]: nm
+]))
+(;W[fs])
+(;W[gs]))
+(;W[ss]
+;B[cs]
+;W[ds]
+;B[fs]C[Bogoliubon [2k\]: even now it's a little risky
+]))
+(;W[cs]))
+(;W[qj]C[Joven [-\]: right?
+logicg8 [3k\]: Yeah
+Joven [-\]: anyways
+GoTrowaGo [6k\]: cool
+GoTrowaGo [6k\]: =\]
+logicg8 [3k\]: I have a joseki question if you've got a minute more
+Joven [-\]: sure
+logicg8 [3k\]: I'll load up the game
+]))
+(;W[mn]C[Joven [-\]: this is very big
+Joven [-\]: since O3 can die
+])
+(;W[pl]C[Joven [-\]: if you want to protect maybe just take the stone
+]))
+(;B[ml]
+;W[mn]
+;B[on]
+;W[om]
+;B[nl]
+;W[oo]
+;B[pn]
+;W[po]
+;B[pm]
+;W[no]))
+(;B[jk]C[Joven [-\]: Id want to attack everything
+]
+;W[ll]
+;B[kj]
+;W[mk]
+(;B[pl]C[Joven [-\]: probing here is a good way to play
+]
+;W[ql]
+;B[mi])
+(;B[pm]C[Joven [-\]: or here
+]
+;W[qm]
+(;B[oj])
+(;B[ok]C[Joven [-\]: not easy for white to live
+]))))
+(;B[ik]C[Bogoliubon [2k\]: I think now this side is bigger
+Joven [-\]: J8 might be better shape.
+])
+(;B[jk]C[Joven [-\]: hmm
+Bogoliubon [2k\]: seems like there's got to be a better move then j8 though
+Bogoliubon [2k\]: this seems to be the shape point
+]
+;W[hk]
+;B[hl]
+;W[il]
+;B[ik]C[Bogoliubon [2k\]: black should welcome any fight here
+]
+;W[gl]
+;B[hm]))
+(;B[ke]C[Bogoliubon [2k\]: there's multiple cuts to worry about though
+Bogoliubon [2k\]: but yeah
+]))
+(;B[bh]C[Bogoliubon [2k\]: there's still this anyways
+])
+(;B[gi]C[Joven [-\]: I think right is more important still
+Bogoliubon [2k\]: might as well keep on building if you're being allowed too
+Bogoliubon [2k\]: if by that you mean cut
+]
+;W[qk]C[Bogoliubon [2k\]: I don't think this is a good idea 
+])
+(;B[ql])
+(;B[pf]))
+(;W[ob]))
+(;B[gd]
+;W[fe]
+;B[gc]C[logicg8 [3k\]: Yeah, I need to correct that...My handicap strategy has always been take all the territory and some how live in the middle of influence
+]))
+(;W[fb]C[Bogoliubon [2k\]: cutting seems big time overplay
+Bogoliubon [2k\]: maybe this
+Joven [-\]: hmm E17 might not be best here
+logicg8 [3k\]: Define consider... I thought about it for 2 seconds and picked at random
+]))
+(;W[cc]C[Joven [-\]: did you consider D18 or C17
+Bogoliubon [2k\]: right or this directly
+]))
+(;W[pf]
+(;B[of]
+(;W[oe]C[Bogoliubon [2k\]: this is still probably unbearable
+])
+(;W[pg]C[Joven [-\]: lots of cuts here
+Bogoliubon [2k\]: black's all done
+]
+;B[ph]
+(;W[qh]
+;B[rh]
+;W[qi]C[Joven [-\]: I think R12 cut is too small
+Joven [-\]: black will give up at R11
+Joven [-\]: and whatnot
+])
+(;W[od])
+(;W[oe]C[Bogoliubon [2k\]: yeah
+Joven [-\]: have to attack large scale
+])))
+(;B[pg]
+;W[of]C[Bogoliubon [2k\]: if  black blocks this way
+Bogoliubon [2k\]: this is rather unbearable
+])))
+(;W[pb]))
+(;B[pf]C[Bogoliubon [2k\]: q14
+Bogoliubon [2k\]: reallly belongs here
+Joven [-\]: yeah cut is less scary here actually
+Bogoliubon [2k\]: there is no l17 stone for starters
+]))
+(;B[qe]
+(;W[re]C[Bogoliubon [2k\]: thoughts Saul?
+]
+;B[qf]
+;W[pb]
+;B[ob]C[Joven [-\]: I think he meansafter R15
+]
+;W[qb]
+;B[oc]C[GoTrowaGo [6k\]: doesn't r18 work?
+])
+(;W[qb]
+;B[pb]C[Joven [-\]: I think he is worried of the cut
+logicg8 [3k\]: I can't cut because you have an extra stone
+]
+(;W[re])
+(;W[pe]C[Bogoliubon [2k\]: still kind of hard for black
+Bogoliubon [2k\]: but I think it should be ok
+Bogoliubon [2k\]: it's not pretty
+]
+;B[od]C[Bogoliubon [2k\]: but probably sufficient all the same
+Joven [-\]: well its plenty sufficient since white fall apart
+]
+;W[oe]
+;B[ne]))))
+(;B[ej]C[Bogoliubon [2k\]: this move is huge
+]))
+(;W[cj]C[Bogoliubon [2k\]: this might be a better move
+]
+;B[cl]C[Bogoliubon [2k\]: because this is clearly over concentrated
+]))
+(;B[dq]C[Bogoliubon [2k\]: got to block this way
+]
+;W[cp]
+;B[do]
+;W[dr]
+;B[er]
+;W[cr]
+;B[eq]
+;W[cn]
+;B[op]C[GoTrowaGo [6k\]: why intercept? not not block towards your star stone?
+GoTrowaGo [6k\]: why*
+]))

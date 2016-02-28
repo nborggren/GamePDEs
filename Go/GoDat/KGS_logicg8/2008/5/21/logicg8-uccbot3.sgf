@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[AGA]SZ[9]KM[7.50]TM[1]OT[5x10 byo-yomi]
+PW[logicg8]PB[uccbot3]WR[7k]DT[2008-05-21]PC[The KGS Go Server at http://www.gokgs.com/]C[uccbot3 [-\]: GTP Engine for uccbot3 (black): GNU Go version 3.7.10
+]RE[W+Time]
+;B[ee]BL[0.845]
+;W[ce]WL[10]OW[5]
+;B[fc]BL[10]OB[2]
+;W[dg]WL[10]OW[5]
+;B[fg]BL[10]OB[2]
+;W[gc]WL[10]OW[5]
+;B[gd]BL[10]OB[2]
+;W[hd]WL[10]OW[5]
+;B[hc]BL[10]OB[2]
+;W[fd]WL[10]OW[5]
+;B[gb]BL[10]OB[2]
+;W[ge]WL[10]OW[5]
+;B[hf]BL[10]OB[1]
+;W[gc]WL[10]OW[5])

@@ -1,0 +1,209 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[1800]OT[5x30 byo-yomi]
+PW[goorf]PB[logicg8]WR[8k]BR[11k]DT[2007-12-12]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]RE[B+Resign]
+;W[dd]WL[1797.727]C[goorf [8k\]: hi gg
+logicg8 [11k\]: Good game
+]
+;B[cn]BL[1789.503]
+;W[jq]WL[1791.274]
+;B[hq]BL[1783.82]
+;W[mq]WL[1785.445]
+;B[oq]BL[1776.795]
+;W[hp]WL[1780.286]
+;B[gp]BL[1771.864]
+;W[ip]WL[1777.657]
+;B[gq]BL[1769.217]
+;W[nc]WL[1773.624]
+;B[nd]BL[1764.811]
+;W[qc]WL[1771.439]
+;B[pc]BL[1761.16]
+;W[pb]WL[1769.93]
+;B[ob]BL[1753.526]
+;W[qb]WL[1768.132]
+;B[oc]BL[1750.911]
+;W[re]WL[1766.603]
+;B[pf]BL[1699.087]
+;W[qg]WL[1761.771]
+;B[qn]BL[1689.452]
+;W[ql]WL[1758.694]
+;B[jd]BL[1681.315]
+;W[hc]WL[1756.711]
+;B[jc]BL[1678.519]
+;W[cj]WL[1754.067]
+;B[dk]BL[1673.027]
+;W[ck]WL[1750.63]
+;B[cl]BL[1667.622]
+;W[dl]WL[1749.507]
+;B[el]BL[1661.689]
+;W[dm]WL[1747.824]
+;B[cm]BL[1658.909]
+;W[em]WL[1744.012]
+;B[fk]BL[1649.964]
+;W[fm]WL[1733.421]
+;B[he]BL[1643.368]
+;W[fd]WL[1729.409]
+;B[fi]BL[1633.834]
+;W[ol]WL[1725.103]
+;B[pg]BL[1630.452]
+;W[qh]WL[1721.813]
+;B[qf]BL[1625.599]
+;W[rf]WL[1720.195]
+;B[ff]BL[1616.584]
+;W[cf]WL[1709.443]
+;B[ee]BL[1606.029]
+;W[ed]WL[1707.063]
+;B[de]BL[1603.48]
+;W[ce]WL[1705.772]
+;B[dj]BL[1595.169]
+;W[di]WL[1704.322]
+;B[ei]BL[1585.408]
+;W[dh]WL[1701.563]
+;B[eh]BL[1581.431]
+;W[eg]WL[1692.884]
+;B[fg]BL[1579.126]
+;W[fe]WL[1689.237]
+;B[ge]BL[1573.405]
+;W[ef]WL[1680.55]
+;B[oi]BL[1568.435]
+;W[pj]WL[1678.472]
+;B[oj]BL[1565.377]
+;W[ep]WL[1676.41]
+;B[eq]BL[1562.591]
+;W[cq]WL[1670.756]
+;B[cp]BL[1556.986]
+;W[eo]WL[1668.041]
+;B[fq]BL[1549.993]
+;W[po]WL[1662.762]
+;B[qo]BL[1547.633]
+;W[oo]WL[1660.931]
+;B[mk]BL[1544.035]
+;W[hl]WL[1657.792]
+;B[hj]BL[1539.596]
+;W[gk]WL[1654.777]
+;B[gj]BL[1537.541]
+;W[jl]WL[1649.04]
+;B[jj]BL[1531.743]
+;W[go]WL[1644.558]
+;B[mm]BL[1526.1]
+;W[kk]WL[1636.097]
+;B[kj]BL[1524.305]
+;W[lj]WL[1633.86]
+;B[lk]BL[1521.558]
+;W[li]WL[1632.687]
+;B[nk]BL[1495.126]
+;W[ph]WL[1625.655]
+;B[oh]BL[1493.017]
+;W[og]WL[1621.748]
+;B[ng]BL[1489.859]
+;W[mc]WL[1614.426]
+;B[md]BL[1484.42]
+;W[mg]WL[1610.513]
+;B[of]BL[1476.23]
+;W[le]WL[1600.815]
+;B[ld]BL[1471.163]
+;W[jg]WL[1592.473]
+;B[ke]BL[1467.775]
+;W[kf]WL[1590.869]
+;B[lf]BL[1464.184]
+;W[je]WL[1587.676]
+;B[kd]BL[1455.847]
+;W[lg]WL[1586.093]
+;B[mf]BL[1452.508]
+;W[ie]WL[1582.904]
+;B[id]BL[1447.387]
+;W[kh]WL[1577.681]
+;B[if]BL[1439.594]
+;W[jf]WL[1575.17]
+;B[ig]BL[1431.793]
+;W[ih]WL[1566.539]
+;B[hh]BL[1421.366]
+;W[ii]WL[1544.798]
+;B[ij]BL[1416.01]
+;W[ki]WL[1542.28]
+;B[ji]BL[1406.242]
+;W[jh]WL[1523.841]
+;B[mh]BL[1397.488]
+;W[hg]WL[1497.859]
+;B[hf]BL[1391.859]
+;W[hi]WL[1495.656]
+;B[gh]BL[1382.526]
+;W[gi]WL[1481.349]
+;B[ek]BL[1359.468]
+;W[fj]WL[1476.823]
+;B[ej]BL[1352.146]
+;W[gg]WL[1456.162]
+;B[gf]BL[1344.548]
+;W[hd]WL[1453.783]
+;B[mi]BL[1290.454]
+;W[jk]WL[1448.629]
+;B[mj]BL[1281.594]
+;W[qq]WL[1426.441]
+;B[pq]BL[1272.948]
+;W[pr]WL[1418.822]
+;B[or]BL[1269.215]
+;W[rp]WL[1417.155]
+;B[ro]BL[1262.228]
+;W[rr]WL[1409.462]
+;B[ps]BL[1254.153]
+;W[sq]WL[1398.698]
+;B[qr]BL[1237.476]
+;W[rs]WL[1373.599]
+;B[qp]BL[1222.858]
+;W[qs]WL[1371.161]
+;B[pr]BL[1218.376]
+;W[bp]WL[1338.851]
+;B[bo]BL[1214.29]
+;W[bq]WL[1336.04]
+;B[dq]BL[1199.383]
+;W[dr]WL[1332.099]
+;B[er]BL[1194.287]
+;W[ds]WL[1329.539]
+;B[bs]BL[1183.202]
+;W[cr]WL[1309.001]
+;B[ap]BL[1155.445]
+;W[br]WL[1294.686]
+;B[aq]BL[1145.771]
+;W[do]WL[1290.88]
+;B[co]BL[1142.529]
+;W[as]WL[1285.403]C[goorf [8k\]: thanks'
+logicg8 [10k\]: Thank you for the game
+jatotek [13k\]: ouch
+logicg8 [10k\]: That 8k was crazy
+jatotek [13k\]: so i see
+jatotek [13k\]: i made 12 k about 3 times today
+logicg8 [10k\]: Damn
+logicg8 [10k\]: I just made 10k back with this game
+jatotek [13k\]: nice
+jatotek [13k\]: are you going tonight
+jatotek [13k\]: ?
+logicg8 [10k\]: No, I've got a partyI have to go to
+jatotek [13k\]: cool
+jatotek [13k\]: i slept through last night
+logicg8 [10k\]: I figured
+jatotek [13k\]: i might sleep through tonight
+logicg8 [10k\]: I brought that problem book to give to you
+jatotek [13k\]: i woke up at 1 am
+jatotek [13k\]: sweet
+jatotek [13k\]: well im a go junkie so youll bump into meh eventually
+jatotek [13k\]: did dana say anything about last wed?
+logicg8 [10k\]: Definitely
+logicg8 [10k\]: Yeah
+jatotek [13k\]: is he gonna stop going?
+logicg8 [10k\]: He's not going this week but he'll be back
+jatotek [13k\]: cool
+jatotek [13k\]: i felt bad about the whole situation
+logicg8 [10k\]: Not your fault
+jatotek [13k\]: i know
+jatotek [13k\]: it justs sucks
+logicg8 [10k\]: Yeah
+jatotek [13k\]: you working right now
+jatotek [13k\]: ???
+logicg8 [10k\]: Between classes at school
+jatotek [13k\]: where do you go ?
+logicg8 [10k\]: Stony Brook
+jatotek [13k\]: ahhh
+jatotek [13k\]: that would explain it 
+jatotek [13k\]: you up for a match?
+logicg8 [10k\]: Sure
+jatotek [13k\]: all set
+])

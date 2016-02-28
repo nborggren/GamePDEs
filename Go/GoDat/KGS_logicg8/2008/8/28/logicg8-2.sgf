@@ -1,0 +1,484 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[900]OT[2x60 byo-yomi]
+PW[Dragon]PB[logicg8]WR[4k]BR[5k]DT[2008-08-28]PC[The KGS Go Server at http://www.gokgs.com/]C[logicg8 [5k\]: Hello, have a good game
+]RE[W+Resign]
+;B[qd]BL[888.042]C[Dragon [4k\]: Hello
+]
+;W[pp]WL[896.104]
+;B[dc]BL[878.349]
+;W[dq]WL[884.473]
+;B[co]BL[866.501]
+;W[dm]WL[880.869]C[Bogoliubon [2k\]: I'm always tempted to press in this situation
+Bogoliubon [2k\]: the ladder is yours too.
+Bogoliubon [2k\]: which helps
+Bogoliubon [2k\]: I can't tell where white is bad
+]
+(;B[eo]BL[802.208]
+;W[fp]WL[841.1]
+;B[dk]BL[787.875]C[Bogoliubon [2k\]: just some move to keep away connection
+]
+;W[fm]WL[825.115]C[Bogoliubon [2k\]: but it's a little more severe then this
+]
+(;B[cm]BL[775.611]C[logicg8 [5k\]: how do you mean?
+Bogoliubon [2k\]: maybe not
+]
+(;W[dn]WL[816.309]
+;B[cn]BL[771.494]
+;W[do]WL[809.77]
+;B[cp]BL[766.91]
+(;W[dp]WL[802.895]C[Bogoliubon [2k\]: the right side seems biggest
+]
+(;B[mq]BL[671.854]C[logicg8 [5k\]: I see
+Bogoliubon [2k\]: but this just seems wrong direction
+Bogoliubon [2k\]: hey dan
+Bogoliubon [2k\]: be a bit more patient in the opening
+Bogoliubon [2k\]: white has a lot of strength here
+Bogoliubon [2k\]: don't let him use it
+]
+;W[lp]WL[727.657]
+(;B[mp]BL[660.845]
+;W[lo]WL[717.104]
+;B[lq]BL[626.043]
+;W[kq]WL[713.24]
+;B[kr]BL[612.515]
+;W[jq]WL[710.546]
+(;B[pr]BL[592.675]C[FlameBlade [-\]: hey
+]
+;W[pn]WL[697.136]
+;B[qq]BL[587.15]
+;W[qp]WL[692.126]
+;B[de]BL[578.329]C[Bogoliubon [2k\]: white's pretty concentrated on his group down there
+]
+;W[oc]WL[664.6]
+;B[kc]BL[569.226]C[logicg8 [5k\]: Hey dan
+]
+;W[ic]WL[636.759]
+;B[pf]BL[553.734]
+;W[qc]WL[626.527]
+;B[rc]BL[547.269]
+;W[qb]WL[621.498]
+;B[pd]BL[537.524]
+;W[od]WL[616.241]C[FlameBlade [-\]: two choices here
+FlameBlade [-\]: I do not see a reason to help white hurt L17
+]
+(;B[rb]BL[530.367]C[Bogoliubon [2k\]: the point is
+Bogoliubon [2k\]: there's a lot of things bigger then this
+]
+;W[nb]WL[602.305]C[FlameBlade [-\]: ok, black played N17, then played P14
+FlameBlade [-\]: something didn't seem consistent there
+]
+;B[mc]BL[522.016]
+;W[oe]WL[588.745]
+;B[of]BL[515.769]
+;W[pe]WL[583.495]
+;B[qe]BL[513.731]
+;W[nf]WL[572.027]C[FlameBlade [-\]: ended up hurting N17
+]
+;B[ne]BL[476.419]
+(;W[mf]WL[558.771]
+;B[me]BL[466.3]
+;W[mb]WL[483.774]
+;B[lb]BL[317.008]
+;W[le]WL[429.9]
+;B[ld]BL[294.401]
+;W[md]WL[422.783]
+;B[ke]BL[261.615]
+;W[nd]WL[415.585]C[Bogoliubon [2k\]: you may want to attack on a bigger scale
+Bogoliubon [2k\]: and the right side looks pretty vulnerable
+]
+;B[gc]BL[253.287]
+;W[ie]WL[407.931]
+;B[jf]BL[250.605]
+;W[if]WL[401.285]
+;B[jd]BL[242.005]
+;W[id]WL[399.187]
+(;B[lf]BL[232.327]
+;W[jg]WL[392.383]
+;B[me]BL[229.147]C[Bogoliubon [2k\]: well the big mistakes
+Bogoliubon [2k\]: you probably know
+]
+;W[lg]WL[380.051]
+;B[kg]BL[219.513]
+;W[kh]WL[377.15]
+;B[kf]BL[217.646]
+;W[mh]WL[345.059]
+;B[jb]BL[196.517]C[Bogoliubon [2k\]: extending was pretty necessary
+]
+;W[ih]WL[309.187]
+;B[hg]BL[175.345]
+;W[ig]WL[306.701]C[logicg8 [5k\]: yeah
+logicg8 [5k\]: this sucks for me
+logicg8 [5k\]: then I make it worse
+Bogoliubon [2k\]: you need to come over to the right
+]
+(;B[hh]BL[173.222]C[FlameBlade [-\]: white abusing right side...
+FlameBlade [-\]: would mean some incredible moyo action
+FlameBlade [-\]: and I'm not talking about Saul's mother.
+Bogoliubon [2k\]: and not to mention you are reducing a group with 11 liberties down to 10
+Bogoliubon [2k\]: and banish these moves
+]
+;W[ib]WL[300.478]
+;B[ka]BL[168.702]C[logicg8 [5k\]: This is not my best game ever
+]
+;W[jc]WL[287.288]
+;B[je]BL[158.526]
+;W[ha]WL[269.2]
+;B[ja]BL[151.313]
+;W[qg]WL[255.309]
+;B[qf]BL[80.996]
+;W[ph]WL[199.407]
+;B[hm]BL[63.964]
+;W[rf]WL[148.428]
+;B[re]BL[61.58]
+;W[rg]WL[145.74]
+;B[pb]BL[48.483]
+;W[pc]WL[132.189]
+;B[ra]BL[28.315]C[logicg8 [5k\]: Don't ask me why I don't live
+FlameBlade [-\]: it's alive
+logicg8 [5k\]: just skip this part please
+]
+;W[se]WL[106.365]
+;B[sd]BL[21.359]
+;W[sf]WL[96.849]
+;B[fk]BL[16.211]
+;W[sb]WL[90.453]
+;B[pl]BL[60]OB[2]
+;W[pj]WL[59.074]
+;B[nl]BL[60]OB[2]
+;W[ll]WL[36.725]C[FlameBlade [-\]: this kind of thing is possible
+]
+;B[nn]BL[60]OB[2]C[FlameBlade [-\]: though a big gamble
+FlameBlade [-\]: this result is, like, ubergoodly
+logicg8 [5k\]: I know
+]
+(;W[nm]WL[60]OW[2]
+;B[om]BL[60]OB[2]C[logicg8 [5k\]: o7 was crazy
+]
+;W[no]WL[60]OW[2]
+;B[mo]BL[60]OB[2]
+;W[mn]WL[60]OW[2]
+;B[mm]BL[60]OB[2]
+;W[ln]WL[60]OW[2]C[FlameBlade [-\]: oh wow
+FlameBlade [-\]: how about S7 here?
+]
+(;B[oo]BL[60]OB[2]
+;W[op]WL[60]OW[2]
+;B[np]BL[60]OB[2]
+;W[or]WL[60]OW[2]
+;B[rp]BL[60]OB[2]
+;W[ro]WL[60]OW[2]
+;B[rr]BL[60]OB[2]
+;W[rn]WL[60]OW[2]
+;B[rl]BL[60]OB[2]
+;W[sp]WL[60]OW[2]
+;B[rq]BL[60]OB[2]
+;W[qs]WL[60]OW[2]
+;B[ps]BL[60]OB[2]
+;W[pq]WL[60]OW[2]
+;B[rs]BL[60]OB[2]
+;W[os]WL[60]OW[2]
+;B[qr]BL[60]OB[2]
+;W[mr]WL[60]OW[2]
+;B[nq]BL[60]OB[2]
+;W[ql]WL[60]OW[2]
+;B[qm]BL[60]OB[2]
+;W[qk]WL[60]OW[2]
+(;B[qn]BL[60]OB[2]
+;W[rm]WL[60]OW[2]
+;B[qo]BL[60]OB[2]
+;W[lr]WL[60]OW[2]C[FlameBlade [-\]: ok, so far so good
+FlameBlade [-\]: O2 is correct
+]
+;B[nr]BL[60]OB[2]
+;W[jr]WL[60]OW[2]C[logicg8 [5k\]: 'night dan
+]
+(;B[ns]BL[60]OB[2]
+;W[cj]WL[60]OW[2]
+;B[ch]BL[60]OB[2]
+;W[cl]WL[60]OW[2]
+(;B[dl]BL[60]OB[2]C[Bogoliubon [2k\]: somewhere in here?
+]
+;W[ck]WL[60]OW[2]
+(;B[cq]BL[60]OB[2]C[logicg8 [5k\]: yeah
+Bogoliubon [2k\]: you're probably right you need more liberties
+]
+;W[dj]WL[60]OW[2]
+;B[ej]BL[60]OB[2]
+;W[ei]WL[60]OW[2]
+(;B[fi]BL[60]OB[2]
+;W[dh]WL[60]OW[2]
+;B[dg]BL[60]OB[2]
+;W[eg]WL[60]OW[2]
+;B[df]BL[60]OB[2]
+;W[ff]WL[60]OW[2]
+;B[fh]BL[60]OB[2]
+;W[eh]WL[60]OW[2]
+;B[fg]BL[60]OB[2]
+;W[ef]WL[60]OW[2]
+;B[ge]BL[60]OB[2]
+;W[gf]WL[60]OW[2]C[Bogoliubon [2k\]: what here?\]
+Bogoliubon [2k\]: or even forcing him to connect
+]
+;B[hf]BL[60]OB[2]
+;W[he]WL[60]OW[2]
+;B[fe]BL[60]OB[2]
+;W[bh]WL[60]OW[2]
+;B[bg]BL[60]OB[2]
+;W[bi]WL[60]OW[2]
+;B[bl]BL[60]OB[2]
+(;W[bk]WL[60]OW[2]
+;B[bm]BL[60]OB[2]
+;W[aj]WL[60]OW[2]
+;B[ah]BL[60]OB[2]C[Bogoliubon [2k\]: nodded for killing moves then
+]
+(;W[hi]WL[60]OW[2]
+;B[gl]BL[60]OB[2]
+;W[fl]WL[60]OW[2]
+;B[gj]BL[60]OB[2]
+;W[hj]WL[60]OW[2]
+(;B[hk]BL[60]OB[2]C[Bogoliubon [2k\]: strange that this doesn't work
+]
+(;W[ek]WL[60]OW[2]
+;B[el]BL[60]OB[2]
+;W[em]WL[60]OW[2]C[Bogoliubon [2k\]: the cut saves his group though
+]
+;B[ek]BL[60]OB[2]
+;W[gh]WL[60]OW[2]
+;B[gi]BL[60]OB[2]
+;W[gg]WL[60]OW[2]C[logicg8 [5k\]: Yeah
+Bogoliubon [2k\]: you want to keep it
+]
+(;B[km]BL[60]OB[2]C[Bogoliubon [2k\]: this move you should avoid too
+Bogoliubon [2k\]: this cut is just good
+]
+;W[lm]WL[60]OW[2]
+;B[il]BL[60]OB[2]
+(;W[jk]WL[60]OW[2]
+;B[ik]BL[60]OB[2]
+;W[gn]WL[60]OW[2]C[logicg8 [5k\]: I thought I had enough liberties to let w cut
+]
+;B[hn]BL[60]OB[2]
+;W[ho]WL[60]OW[2]
+;B[io]BL[60]OB[2]
+;W[ip]WL[60]OW[2]
+;B[gm]BL[60]OB[2]
+;W[go]WL[60]OW[2]
+;B[cr]BL[60]OB[2]
+;W[dr]WL[60]OW[2]
+;B[nj]BL[60]OB[2]
+;W[ni]WL[60]OW[2]
+;B[oj]BL[60]OB[2]
+;W[eb]WL[60]OW[2]
+;B[hb]BL[60]OB[2]
+;W[gb]WL[60]OW[2]
+;B[hc]BL[60]OB[2]
+;W[ia]WL[60]OW[2]
+;B[db]BL[60]OB[2]
+;W[fc]WL[60]OW[2]
+;B[ee]BL[60]OB[2]
+;W[gd]WL[60]OW[2]
+;B[pk]BL[60]OB[2]
+;W[qj]WL[60]OW[2]
+;B[ds]BL[60]OB[2]
+;W[es]WL[60]OW[2]
+;B[cs]BL[60]OB[2]
+;W[fr]WL[60]OW[2]C[Dragon [4k\]: Thanks
+logicg8 [5k\]: thanks
+])
+(;W[ik]
+;B[gm]C[logicg8 [5k\]: Thanks for reviewing my game
+Bogoliubon [2k\]: sure
+Bogoliubon [2k\]: anytime
+logicg8 [5k\]: don't say things you might regret
+Bogoliubon [2k\]: ok
+Bogoliubon [2k\]: most times
+Bogoliubon [2k\]: good night
+logicg8 [5k\]: anyways, thanks again have a good night
+Bogoliubon [2k\]: you too
+]
+;W[im]
+;B[jk]
+;W[ij]
+;B[in]C[Bogoliubon [2k\]: it looks like you live still
+]))
+(;B[il]
+;W[ik]
+;B[jk]
+;W[ij]
+;B[gm]
+;W[im]
+;B[jm]
+;W[in]C[Bogoliubon [2k\]: if he tries poking out the eye
+Bogoliubon [2k\]: it's right there for yah
+]
+;B[kl]
+;W[lm]
+;B[lk]
+;W[ml]
+;B[mk]
+;W[nm]
+;B[nk])
+(;B[lm]
+;W[km]
+;B[kl]))
+(;W[gh]))
+(;B[gk]C[Bogoliubon [2k\]: so this
+]
+;W[gi]))
+(;W[gj]
+;B[fj]
+;W[gk]))
+(;W[ab]WL[60]OW[2]))
+(;B[di]C[Bogoliubon [2k\]: this seems a bit easier
+]
+(;W[fi])
+(;W[ci]
+;B[dh]
+;W[bh]
+;B[bg]
+;W[bi]
+;B[cf]
+;W[bm]
+;B[bn]C[Bogoliubon [2k\]: I think this is dead shape
+]
+(;W[bk]
+;B[aj]
+;W[al]
+;B[an])
+(;W[ak]
+;B[am]
+;W[bl]
+;B[bj]))))
+(;B[dj]))
+(;B[ck]
+;W[bl]
+;B[dl]
+;W[bk]
+;B[bi]
+;W[bj]
+(;B[dj])
+(;B[di])))
+(;B[oi]C[FlameBlade [-\]: okay, good night, all
+Bogoliubon [2k\]: this could be a pain
+Bogoliubon [2k\]: good night
+])
+(;B[qi]
+(;W[pi]
+;B[rk]
+;W[rj]
+;B[qj]
+;W[pk]
+;B[ri]
+;W[pm]
+;B[po])
+(;W[rk]
+;B[oi]
+;W[pi]
+;B[oh]C[logicg8 [5k\]: but I could have been being crazy
+])))
+(;B[rm]C[FlameBlade [-\]: S7
+]
+;W[pm]
+;B[qn]))
+(;B[rm]C[FlameBlade [-\]: black is uberstrong on the outside, so why not?
+FlameBlade [-\]: (thanks to ponnuki)
+])
+(;B[lm]
+;W[km]C[Bogoliubon [2k\]: and white has issues
+]))
+(;W[om]C[logicg8 [5k\]: and then I blow it again
+]
+;B[ol]
+;W[nm]
+;B[mm]
+;W[ml]))
+(;B[qi]LB[me:A]C[Bogoliubon [2k\]: you can see how overconcentrated white was
+Bogoliubon [2k\]: in that
+Bogoliubon [2k\]: after marked mistake
+Bogoliubon [2k\]: you're still ok
+Bogoliubon [2k\]: any other questions or concerns?
+logicg8 [5k\]: Yeah
+Bogoliubon [2k\]: pray tell
+logicg8 [5k\]: I almost made a big kill
+]))
+(;B[jg]C[FlameBlade [-\]: extend.  so big.
+Bogoliubon [2k\]: you shouldn't think twice about this
+]))
+(;W[me]
+;B[nd]C[FlameBlade [-\]: there's a ladder
+]
+;W[md]
+;B[nc]
+;W[lc]
+;B[mb]
+;W[lb]C[Bogoliubon [2k\]: just this
+]))
+(;B[oe]
+;W[ne]
+;B[nf]C[FlameBlade [-\]: attack that stone or extend on right side.
+]
+;W[me]
+;B[ke])
+(;B[ql]C[FlameBlade [-\]: maybe restrain a bit
+FlameBlade [-\]: hard to pick a good point
+Bogoliubon [2k\]: white may have to worry
+Bogoliubon [2k\]: about being cut
+]))
+(;B[nn]))
+(;B[qn]C[Bogoliubon [2k\]: even now
+Bogoliubon [2k\]: I'm still tempted
+]))
+(;B[od])
+(;B[qn]
+;W[np]
+;B[pj]C[Bogoliubon [2k\]: he's just way over concentrated
+])
+(;B[qk]C[Bogoliubon [2k\]: I'd be tempted for this here
+]
+(;W[mq]
+;B[od]C[Bogoliubon [2k\]: white's feeling really slow
+Bogoliubon [2k\]: if he plays again
+])
+(;W[od]
+;B[oc]
+;W[nc]
+;B[pc]
+;W[nd]
+;B[qf]
+;W[jc]
+;B[nq]C[Bogoliubon [2k\]: and you can play for sente
+Bogoliubon [2k\]: and get your move more severely
+])))
+(;W[cq]
+;B[ep]
+;W[dp]
+;B[eq]
+;W[gq]))
+(;W[fo]C[logicg8 [5k\]: not paying attention to the full board?
+Bogoliubon [2k\]: not at all
+logicg8 [5k\]: yeah
+Bogoliubon [2k\]: I'd be tempted to just do this
+logicg8 [5k\]: if I wasn't a retard I'd have won
+Bogoliubon [2k\]: e5 stone not important
+])
+(;W[cn]
+;B[dn]
+;W[bn]))
+(;B[fo]C[Bogoliubon [2k\]: I'd do this here for you first off
+]))
+(;B[ep]C[Bogoliubon [2k\]: that's the one worry
+]
+(;W[dp]
+;B[do]
+;W[eo]
+;B[eq])
+(;W[eq]
+;B[fp]
+;W[fq]
+;B[gp]
+;W[hq]C[Bogoliubon [2k\]: low too perhaps
+]
+(;B[dk])
+(;B[ck]
+;W[el]
+;B[cf]))))

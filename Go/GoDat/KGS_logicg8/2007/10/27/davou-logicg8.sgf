@@ -1,0 +1,342 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]HA[9]KM[0.50]
+PW[davou]PB[logicg8]WR[4k]BR[25k]DT[2007-10-27]PC[The KGS Go Server at http://www.gokgs.com/]C[davou [4k\]: hello
+davou [4k\]: first of all, you speak english, yes?
+logicg8 [25k?\]: Hello
+logicg8 [25k?\]: Yes
+davou [4k\]: good :)
+davou [4k\]: then lets begin 
+davou [4k\]: enjoy
+logicg8 [25k?\]: Thank you for offering the teaching game
+]RE[B+Resign]
+;B[cp]C[davou [4k\]: you get to play nine times
+davou [4k\]: in chinese rules.
+]
+;B[dd]C[davou [4k\]: 9h, wherever you want them
+]
+;B[pq]
+;B[qd]
+;B[eq]C[davou [4k\]: hehe, good :)
+]
+;B[jq]
+;B[oc]C[davou [4k\]: shimari are important in handicap game.
+]
+;B[qo]
+;B[df]
+;W[pr]
+;B[or]
+;W[qq]
+;B[qr]
+;W[pp]
+;B[oq]
+;W[rr]
+;B[ps]
+;W[qp]
+;B[po]
+;W[op]
+;B[np]
+;W[oo]
+;B[ql]
+;W[om]
+;B[pm]
+;W[mp]
+;B[mq]
+;W[no]
+;B[nq]
+;W[gq]
+;B[gp]
+;W[hp]
+;B[go]
+;W[ho]
+;B[dh]
+;W[cc]LB[dc:A][cd:B]C[logicg8 [25k?\]: Okay please
+davou [4k\]: there is an alternate sequence here
+davou [4k\]: this move here
+davou [4k\]: you have two choices to block
+davou [4k\]: in a, its a normal sequence, but in b, you have a slight advantage
+]
+(;B[cd]
+;W[dc]
+;B[ec]
+;W[eb]
+(;B[fc]
+;W[bd]
+;B[be]
+;W[bc]C[davou [4k\]: so. in situations like this
+davou [4k\]: you dont always have to protect the cut.
+]
+(;B[cf]LB[db:A]SQ[fb]C[davou [4k\]: allow me to show you something
+davou [4k\]: threat to capture at A, VS no threat to capture
+davou [4k\]: good.
+davou [4k\]: also
+davou [4k\]: here
+davou [4k\]: because if W tries to cut, you will have a weak group to attack
+logicg8 [25k?\]: I see. A wasted move
+davou [4k\]: no
+davou [4k\]: but by letting white cut, you gain something 
+davou [4k\]: you have two strong groups, and he gets one weak one.
+davou [4k\]: its that type of situation that lets you make territory
+]
+;W[fb]C[davou [4k\]: lets resume
+logicg8 [25k?\]: I see. I can let the cut happen and get strong in the fight while my opponent has to struggle to live
+davou [4k\]: no,
+davou [4k\]: you can only let cuts happen in two situations
+davou [4k\]: number one, the cut is not important
+davou [4k\]: or number two, your strong on both sides of the cut, even if he sucessfully cuts you
+]
+;B[pj]
+;W[cl]
+;B[cj]
+;W[cn]
+;B[dk]
+;W[bp]
+;B[bq]
+;W[bo]
+;B[cq]
+;W[fq]
+;B[er]
+;W[fp]
+;B[fr]
+;W[iq]
+;B[jr]
+;W[qg]
+;B[qi]
+;W[gc]
+;B[fe]
+;W[rd]
+;B[rc]
+;W[qc]
+;B[qb]
+;W[pc]
+;B[pd]C[davou [4k\]: good :)
+]
+;W[re]
+;B[mc]
+;W[rb]
+;B[pb]
+;W[sc]
+;B[of]
+;W[jc]
+;B[kb]C[davou [4k\]: this move here
+davou [4k\]: threatens to take away my territory right?
+logicg8 [25k?\]: Yeah
+davou [4k\]: monkey jump
+davou [4k\]: well, I could defend against it.... but as long as I do the same to you, then I dont have to
+davou [4k\]: this is called 'mutual damage'
+davou [4k\]: I Dont have to defend ten points, if I can take away 10 (or 11) from you
+]
+;W[rp]
+(;B[ro]LB[ro:A]TR[kb][rp]C[davou [4k\]: you attack me
+davou [4k\]: I attack you
+davou [4k\]: so you defend, and all of a sudden, its me who controls the game again
+davou [4k\]: if you wanna attack, then do it
+logicg8 [25k?\]: Okay
+davou [4k\]: You attack me, I attack back, then you attack again!
+davou [4k\]: :)
+]
+;W[rh]
+;B[ri]
+;W[bk]
+;B[bj]C[davou [4k\]: hmmm
+davou [4k\]: IM going to show you something else.
+]
+;W[jb]
+;B[ir]
+;W[hr]
+;B[lp]
+;W[pl]
+;B[qm]
+;W[ol]
+;B[qh]
+;W[pg]
+;B[oh]
+;W[og]
+;B[ng]
+;W[nh]
+;B[ni]
+;W[mh]
+;B[nf]
+;W[oi]
+;B[oj]
+;W[ph]
+;B[nk]
+;W[rs]
+;B[mo]
+;W[mn]
+;B[ln]
+;W[mm]
+;B[gd]
+;W[hd]
+;B[he]
+;W[id]
+;B[ie]
+;W[je]
+;B[ig]
+;W[dl]
+;B[ek]
+;W[ep]C[davou [4k\]: sorry man
+]
+;B[el]C[davou [4k\]: I got into a long conversation
+davou [4k\]: I Dont think I can keep playing
+davou [4k\]: I hope I helped at least a bit.
+logicg8 [25k?\]: Okay, thank you for the lesson
+davou [4k\]: see ya around.
+logicg8 [25k?\]: Later
+])
+(;B[bk]C[davou [4k\]: see?
+davou [4k\]: now its a race.
+]
+;W[rh]
+;B[eo]C[davou [4k\]: but you can do more
+]
+;W[em]
+;B[fo]
+;W[gm]
+;B[ib]
+;W[sm]
+;B[ro]
+;W[so]
+;B[rm]
+;W[sl]
+;B[rj]
+;W[sj]
+;B[si]
+;W[sk]
+;B[ri]
+;W[rk]
+;B[qk]
+;W[rn]
+;B[qn]
+;W[sn]
+;B[rl]
+;W[sp]
+;B[sh]
+;W[sg]
+;B[qh]
+;W[rg]
+;B[fm]
+;W[fn]
+;B[gn]
+;W[fl]
+;B[hn]
+;W[jo]
+;B[im]C[davou [4k\]: again
+davou [4k\]: not about making stuff for yourself
+davou [4k\]: its about chasing me.
+]))
+(;B[fb]
+;W[ce]
+;B[bf]
+;W[de]
+;B[ed]
+(;W[cf]
+(;B[cg]
+;W[ee]
+;B[fe]
+;W[ef])
+(;B[ee]
+;W[cg]
+;B[bg]
+;W[dg]
+;B[eg]
+;W[ch]
+;B[ci]
+;W[bh]
+;B[bi]C[logicg8 [25k?\]: Oh.
+]
+;W[ef]
+;B[ah]))
+(;W[ee]
+;B[cf]
+;W[ef]
+;B[eg]
+;W[ge]
+(;B[gg])
+(;B[hc]
+;W[fg]
+;B[fh]
+;W[gg]
+;B[gh]C[davou [4k\]: you dont have to connect
+davou [4k\]: watch me make territory here
+]
+;W[cm]
+;B[ih]
+;W[hg]
+;B[ig]
+;W[hh]
+;B[hi]
+;W[if]
+;B[jf]
+;W[ie]
+;B[qh]
+;W[je]
+;B[kc]
+;W[kf]
+;B[jg]
+;W[le]
+;B[kg]
+;W[lg]
+;B[mf]
+;W[lf]
+;B[oh]
+;W[lc]
+;B[kd]
+;W[ke]
+;B[ld]
+;W[me]
+;B[md]
+;W[nf]
+;B[ck]C[davou [4k\]: you see
+davou [4k\]: you chase the weak stones around
+logicg8 [25k?\]: Yeah
+]
+;W[hd]
+;B[fe]
+;W[ff]
+;B[gd]
+;W[fd]
+;B[gc]
+;W[ic]
+;B[ib]
+;W[jc]
+;B[jb]
+;W[jd]
+;B[fe]
+;W[hf]C[davou [4k\]: he can make life
+]
+;B[ne]
+;W[nd]
+;B[oe]
+;W[kb]
+;B[mc]
+;W[of]
+;B[od]
+;W[pf]
+;B[mg]TR[bf][cf][df][ig][jg][kg][dh][fh][gh][ih][oh][ck][ql][pm][go][cp][gp][eq]C[davou [4k\]: but hes left weak
+davou [4k\]: everywhere else
+davou [4k\]: now when he invades or reduces
+davou [4k\]: you have all this big strong groups to use against him!
+]))))
+(;B[fb]
+;W[fc]
+;B[ed]
+;W[gb]
+;B[db]
+;W[fa]
+;B[cb]LB[dl:A]C[davou [4k\]: this one is a little better in this case
+davou [4k\]: since it gives you lots of potential in the direction of A
+davou [4k\]: but...
+]))
+(;B[dc]
+;W[cd]
+;B[ce]
+;W[be]
+;B[bf]
+;W[db]
+;B[eb]
+;W[cb]
+;B[fc]LB[bd:A]C[davou [4k\]: Here W is boxed in
+davou [4k\]: his stones are from this point onwards, useless
+logicg8 [25k?\]: I think I get it. Thank you.
+davou [4k\]: do you understand?
+]))

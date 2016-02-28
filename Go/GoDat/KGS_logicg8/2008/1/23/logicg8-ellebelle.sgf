@@ -1,0 +1,137 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]HA[5]KM[6.50]
+PW[logicg8]PB[ellebelle]WR[9k]DT[2008-01-23]PC[The KGS Go Server at http://www.gokgs.com/]AB[cc][gc][ee][cg][gg]C[logicg8 [9k\]: Good luck
+]RE[B+Resign]
+;W[eg]C[ellebelle [?\]: ugh
+]
+;B[ec]
+;W[ff]
+;B[bd]C[logicg8 [9k\]: Making territory is good, but your move doesn't put pressure on me
+]
+;W[ge]
+;B[ce]
+;W[df]
+;B[dh]
+;W[eh]
+;B[bf]
+;W[cf]
+;B[hd]
+;W[he]
+;B[fd]
+;W[gd]C[ellebelle [?\]: i really don't understand what i am doing
+logicg8 [9k\]: You are doing quite well
+]
+;B[hb]
+;W[id]
+;B[fb]
+;W[ch]
+;B[gf]
+;W[fe]
+;B[dd]
+;W[bg]
+;B[ie]
+;W[if]C[ellebelle [?\]: dam it
+]
+;B[fh]C[logicg8 [9k\]: I feel much safer when you can't throw stones at me
+ellebelle [?\]: argh
+]
+;W[hh]
+;B[ig]
+;W[hg]
+;B[gh]
+;W[ih]
+;B[bh]
+;W[dg]
+;B[ci]
+;W[cg]
+;B[ag]
+;W[ei]
+;B[ae]C[ellebelle [?\]: cool
+]
+(;W[ic]
+;B[ib]
+;W[hc]C[ellebelle [?\]: i want to take your stones
+logicg8 [9k\]: Next game
+ellebelle [?\]: boo
+logicg8 [9k\]: You win this game though
+]
+(;B[ah]C[ellebelle [?\]: ok
+]
+;W[di]C[logicg8 [9k\]: Now protect your stone in atari
+ellebelle [?\]: whats atari again
+ellebelle [?\]: which one is in atari
+logicg8 [9k\]: When you have only one liberty left
+logicg8 [9k\]: it means you can be captured next turn
+logicg8 [9k\]: If you play at B1
+logicg8 [9k\]: Your stone at C1 will be safe
+ellebelle [?\]: whats wrong w/ c1?
+ellebelle [?\]: but then i lose liberties
+logicg8 [9k\]: See how there is only 1 line coming out of C1
+logicg8 [9k\]: That means it can be captured next turn
+ellebelle [?\]: but my liberties
+logicg8 [9k\]: You will have two liberites when you connect
+ellebelle [?\]: but i have 3 now
+logicg8 [9k\]: Nope
+ellebelle [?\]: ugh
+logicg8 [9k\]: C1 is all by itself
+]
+;B[bi]C[logicg8 [9k\]: Diagonal connections don't count
+]
+;W[ef]C[ellebelle [?\]: i know
+ellebelle [?\]: this game sucks
+logicg8 [9k\]: Play D5 and we are done
+ellebelle [?\]: why d5
+logicg8 [9k\]: If I play D5 I put you in atari and you have to connect at E6 and you lose a point
+]
+;B[de]
+;W[]C[logicg8 [9k\]: Now we pass
+]
+;B[]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db][eb][fb][gb][hb][ib][ac][bc][cc][dc][ec][fc][gc][ad][bd][cd][dd][ed][fd][hd][ae][be][ce][de][ee][ie][af][bf][gf][hf][ag][fg][gg][ig][ah][bh][dh][fh][gh][ai][bi][ci][fi][gi][hi][ii]C[ellebelle [?\]: how do i count?
+logicg8 [9k\]: The computer does it for us
+ellebelle [?\]: is it done auto
+logicg8 [9k\]: we just have to agree on what is dead
+logicg8 [9k\]: You can just click done
+ellebelle [?\]: how do you have more points than me?
+logicg8 [9k\]: I don't know
+logicg8 [9k\]: Captured stones
+ellebelle [?\]: how do we figure this out
+logicg8 [9k\]: Do you want to go over the game?
+ellebelle [?\]: i want to win
+logicg8 [9k\]: So you can really kick my ass next game
+ellebelle [?\]: i hate this game
+ellebelle [?\]: why are some little and some big now
+logicg8 [9k\]: I guarentee if you go through the interactive way to go you will absolutely destroy me the next time we play
+logicg8 [9k\]: The little ones are points
+ellebelle [?\]: and teh big
+logicg8 [9k\]: The black little ones are your points and the white little ones are my points
+logicg8 [9k\]: the big ones are the stones we played left on the board
+logicg8 [9k\]: the transparent ones are the dead stones left on the board
+ellebelle [?\]: i still don't get teh big ones
+ellebelle [?\]: i have more little ones than you how come i have less points
+logicg8 [9k\]: Captured stones count as points
+ellebelle [?\]: class is over
+logicg8 [9k\]: Okay, see you at home?
+ellebelle [?\]: i am going to back up now and head out.
+ellebelle [?\]: yup
+logicg8 [9k\]: See you soon
+logicg8 [9k\]: Love you
+ellebelle [?\]: love you too
+])
+(;B[ga]C[logicg8 [9k\]: You don't have to do that
+ellebelle [?\]: are we done?
+logicg8 [9k\]: You should solidify the bottom left
+ellebelle [?\]: how
+logicg8 [9k\]: and then we are done
+logicg8 [9k\]: A2
+]))
+(;W[ic]C[ellebelle [?\]: know what do i do
+logicg8 [9k\]: Block me from coming in
+]
+;B[ia]C[logicg8 [9k\]: Protect what's yours
+]
+;W[ib]C[ellebelle [?\]: it looks protected to me
+logicg8 [9k\]: One lower would have been better
+ellebelle [?\]: argh
+logicg8 [9k\]: Now your stone is in atari
+ellebelle [?\]: undo undo
+]))

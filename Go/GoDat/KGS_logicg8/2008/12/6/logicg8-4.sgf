@@ -1,0 +1,673 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[AGA]SZ[19]KM[7.50]TM[1800]OT[5x30 byo-yomi]
+PW[logicg8]PB[GoTrowaGo]WR[4k]BR[6k]DT[2008-12-06]PC[The KGS Go Server at http://www.gokgs.com/]C[logicg8 [4k\]: Have a good game
+GoTrowaGo [6k\]: onegaishimus
+]RE[W+34.50]
+;B[pd]BL[1788.238]
+;W[dp]WL[1796.965]
+;B[pq]BL[1785.052]
+;W[dc]WL[1793.553]
+;B[fq]BL[1780.371]
+;W[hq]WL[1763.655]
+;B[fo]BL[1763.455]
+;W[dn]WL[1759.059]
+;B[ip]BL[1758.842]
+;W[iq]WL[1755.856]
+;B[jp]BL[1756.406]
+;W[hp]WL[1753.203]
+;B[ho]BL[1753.452]
+;W[jq]WL[1750.654]
+;B[kp]BL[1743.573]
+;W[lq]WL[1748.557]C[FlameBlade [4d\]: since black has komoku here
+]
+(;B[mo]BL[1546.527]
+(;W[nq]WL[1727.762]C[FlameBlade [4d\]: personally
+FlameBlade [4d\]: I'm not a fan of this move
+FlameBlade [4d\]: since when H3 loses liberties
+FlameBlade [4d\]: aji can get really gross
+]
+;B[qo]BL[1457.326]
+;W[nc]WL[1668.25]C[logicg8 [4k\]: Gree tea with brown rice is delicious. I love it almost as much as I love the third line.
+]
+;B[lc]BL[1362.628]C[FlameBlade [4d\]: look here
+FlameBlade [4d\]: what is the emphasis here now?
+GoTrowaGo [6k\]: top side
+FlameBlade [4d\]: I mean...
+FlameBlade [4d\]: where is black stuff?
+FlameBlade [4d\]: wall at L4
+FlameBlade [4d\]: black wants something from center
+FlameBlade [4d\]: in future
+FlameBlade [4d\]: or rather, some kind of fights
+FlameBlade [4d\]: more white reduce that power...easier game it will be for white
+]
+(;W[qc]WL[1662.995]C[FlameBlade [4d\]: this doesn't deemphazie L4
+]
+;B[pc]BL[1298.182]C[GoTrowaGo [6k\]: ok
+]
+;W[qd]WL[1625.512]
+;B[pe]BL[1277.565]
+;W[pb]WL[1622.354]
+;B[ob]BL[1271.532]
+;W[qb]WL[1618.928]
+;B[oc]BL[1269.359]
+;W[qf]WL[1617.295]C[FlameBlade [4d\]: so
+FlameBlade [4d\]: P13 maybe questionable
+]
+(;B[og]BL[1221.138]
+(;W[ce]WL[1607.044]C[FlameBlade [4d\]: while huge.
+FlameBlade [4d\]: I think it's besides the point.
+]
+;B[qg]BL[1207.286]
+;W[rg]WL[1533.333]C[FlameBlade [4d\]: mmm
+]
+;B[qh]BL[1052.58]
+(;W[rf]WL[1508.062]C[FlameBlade [4d\]: white gets sente anyway
+FlameBlade [4d\]: but
+FlameBlade [4d\]: black can choose to do something different now
+FlameBlade [4d\]: or make P13 useful
+]
+(;B[rh]BL[1009.156]
+(;W[jc]WL[1500.782]C[FlameBlade [4d\]: emphasis should be more toward center...
+FlameBlade [4d\]: black ain't gonna be scared of that move
+FlameBlade [4d\]: IMO
+FlameBlade [4d\]: Adam is going to panic
+FlameBlade [4d\]: this
+FlameBlade [4d\]: is a big point
+FlameBlade [4d\]: but
+]
+;B[jd]BL[906.772]
+;W[id]WL[1480.037]
+(;B[kd]BL[892.865]C[FlameBlade [4d\]: this is nice
+FlameBlade [4d\]: but doesn't pay attention to J15
+]
+(;W[hc]WL[1472.984]C[FlameBlade [4d\]: this...
+GoTrowaGo [6k\]: yeah I didnt even see j15
+FlameBlade [4d\]: just focuses on territory
+FlameBlade [4d\]: neither did white.
+]
+(;B[jg]BL[887.303]C[FlameBlade [4d\]: this doesn't maximize your effort
+]
+;W[jj]WL[1450.858]C[FlameBlade [4d\]: by the way
+FlameBlade [4d\]: R17 isn't good, I feel
+FlameBlade [4d\]: R14 probably better.
+FlameBlade [4d\]: this is key moment
+]
+(;B[gl]BL[795.04]
+;W[hj]WL[1437.928]
+(;B[cl]BL[738.935]C[GoTrowaGo [6k\]: i like how im playing haha
+GoTrowaGo [6k\]: can I have a taste of your Frosty beverage
+]
+;W[cj]WL[1263.48]
+;B[co]BL[728.737]
+;W[cp]WL[1238.661]
+;B[do]BL[719.664]
+;W[ep]WL[1234.455]
+;B[eo]BL[713.268]
+;W[fp]WL[1227.808]C[FlameBlade [4d\]: that
+FlameBlade [4d\]: is
+FlameBlade [4d\]: one big corner
+FlameBlade [4d\]: now if whtie can take care of group in middle...
+FlameBlade [4d\]: white profited hugely
+]
+(;B[gp]BL[349.096]
+;W[gq]WL[1220.37]C[GoTrowaGo [6k\]: haha safe is better than sorry
+]
+;B[go]BL[345.468]
+;W[hg]WL[1176.048]C[FlameBlade [4d\]: now I think white is on way to win
+FlameBlade [4d\]: but I hate counting massive moyos
+FlameBlade [4d\]: and ended in gote
+FlameBlade [4d\]: this is huge move
+FlameBlade [4d\]: and it got harder for black here
+FlameBlade [4d\]: since white is still looking into black's moyo
+]
+;B[dj]BL[261.731]
+;W[di]WL[1169.107]C[FlameBlade [4d\]: and those moves...made it easier for white to hold on to points
+]
+;B[ej]BL[201.218]
+;W[ei]WL[1151.487]C[FlameBlade [4d\]: here
+FlameBlade [4d\]: black helping white too much
+FlameBlade [4d\]: okay, I think my friends just arrived.
+GoTrowaGo [6k\]: yeah that went real bad
+logicg8 [4k\]: Thanks for the review
+GoTrowaGo [6k\]: thanks for the review =D
+FlameBlade [4d\]: nope
+FlameBlade [4d\]: just some odd guy in staircase
+FlameBlade [4d\]: which somehow got attention of my cat
+FlameBlade [4d\]: okay
+FlameBlade [4d\]: on to more
+GoTrowaGo [6k\]: lol
+]
+;B[fi]BL[192.418]
+;W[fj]WL[1095.246]
+(;B[fk]BL[57.158]C[FlameBlade [4d\]: this atari...
+FlameBlade [4d\]: I think it hurts you a lot
+]
+;W[gj]WL[1090.889]C[FlameBlade [4d\]: now I think it's just too hard here
+FlameBlade [4d\]: but if black played G10...
+FlameBlade [4d\]: might be some chances
+FlameBlade [4d\]: due to complications
+]
+;B[ci]BL[54.603]
+;W[ck]WL[1068.268]
+(;B[dl]BL[8.691]
+;W[ch]WL[1058.692]
+;B[bi]BL[30]OB[3]
+;W[bh]WL[1044.731]
+;B[dk]BL[30]OB[3]
+;W[bj]WL[1021.812]
+;B[ie]BL[30]OB[3]
+;W[he]WL[1013.199]
+;B[if]BL[30]OB[3]
+;W[hf]WL[995.526]C[FlameBlade [4d\]: okay
+FlameBlade [4d\]: white got incredibly thick
+FlameBlade [4d\]: because black helped white do that
+FlameBlade [4d\]: so
+FlameBlade [4d\]: pretty much, almost all endgame is white's
+FlameBlade [4d\]: ok
+FlameBlade [4d\]: black kept making whtie thicker
+]
+(;B[mk]BL[30]OB[2]C[burrito [4k\]: not big enough.  black needs to take more to make enough territory to make it close
+FlameBlade [4d\]: not going happen
+FlameBlade [4d\]: espeically with N9
+burrito [4k\]: nope
+FlameBlade [4d\]: Adam better count and see what he really needs to do
+]
+;W[ro]WL[912.439]C[FlameBlade [4d\]: no
+burrito [4k\]: I don't think there's any need to invade
+FlameBlade [4d\]: that's not what he needs to do
+FlameBlade [4d\]: white is sufficient
+FlameBlade [4d\]: Adam
+FlameBlade [4d\]: did you count?
+logicg8 [4k\]: No
+FlameBlade [4d\]: then S5 is a big mistake
+FlameBlade [4d\]: if you had counted
+FlameBlade [4d\]: you would have seen that pushing from K10 would be sufficient to win
+]
+;B[rp]BL[30]OB[2]C[burrito [4k\]: just reduce and walk to the victory line 
+FlameBlade [4d\]: yeah
+FlameBlade [4d\]: reducing is enough
+]
+;W[qn]WL[863.768]
+;B[po]BL[30]OB[2]C[FlameBlade [4d\]: this kind of moves just takes away some endgame
+]
+;W[rk]WL[843.301]C[FlameBlade [4d\]: it's hard to count massive space
+FlameBlade [4d\]: but really, should count
+FlameBlade [4d\]: because if this dies
+]
+;B[rm]BL[30]OB[2]C[FlameBlade [4d\]: black might come on top
+FlameBlade [4d\]: because all struggle will just make black thicker
+burrito [4k\]: even if he kills it, K10 has two ways to go.  black needs to win both ways to have enough, i think
+FlameBlade [4d\]: you see
+FlameBlade [4d\]: if the struggle becomes big enough
+]
+;W[qm]WL[746.072]C[FlameBlade [4d\]: K10 may well NOT have two ways to go
+]
+;B[rl]BL[30]OB[2]C[FlameBlade [4d\]: make sense?
+]
+;W[ql]WL[734.753]C[burrito [4k\]: yes, it's not impossible...
+FlameBlade [4d\]: more white invest in this
+FlameBlade [4d\]: more easier for black to get big enough to beat white
+]
+;B[qk]BL[30]OB[2]
+;W[pk]WL[659.702]C[GoTrowaGo [6k\]: poison in my veins that got me through
+]
+;B[qj]BL[30]OB[2]
+;W[pj]WL[657.15]
+(;B[pi]BL[30]OB[2]C[FlameBlade [4d\]: not a good move
+burrito [4k\]: by my count, assuming black gets that entire area, he id down by 25-30, so he'd need to build up a lot of thickness here to make those extra points in the center against k10
+FlameBlade [4d\]: now this is just harder
+]
+;W[rj]WL[630.635]
+;B[fr]BL[30]OB[1]C[GoTrowaGo [6k\]: haha whoops thats what I get for eating and playiong
+GoTrowaGo [6k\]: # 93 s10 ~.~
+burrito [4k\]: I think black can still hold white to oneeye on the side
+]
+;W[gr]WL[274.681]
+;B[bp]BL[30]OB[1]C[FlameBlade [4d\]: lots of bad aji down there
+FlameBlade [4d\]: that's why I'm not a fan of O3
+FlameBlade [4d\]: not gonna read this
+FlameBlade [4d\]: I'll leave this up for exercise
+FlameBlade [4d\]: don't have time
+]
+;W[cq]WL[182.242]
+;B[bq]BL[30]OB[1]
+;W[br]WL[121.138]
+;B[kq]BL[30]OB[1]
+;W[kr]WL[119.161]
+;B[jr]BL[30]OB[1]
+;W[ir]WL[95.241]
+;B[lr]BL[30]OB[1]
+;W[js]WL[92.905]C[FlameBlade [4d\]: N2 works.
+]
+;B[mr]BL[30]OB[1]C[FlameBlade [4d\]: disregard my comment
+]
+;W[qi]WL[85.57]
+;B[dr]BL[30]OB[1]
+;W[cr]WL[77.337]C[FlameBlade [4d\]: K1 is a mistake, I feel.
+FlameBlade [4d\]: for not so obvious reason
+]
+;B[oi]BL[30]OB[1]
+;W[ri]WL[70.909]
+;B[li]BL[30]OB[1]
+;W[il]WL[56.397]
+;B[ii]BL[30]OB[1]C[FlameBlade [4d\]: K1 -> L1
+FlameBlade [4d\]: do you see why, burrito?
+]
+;W[ij]WL[16.85]C[FlameBlade [4d\]: crap
+FlameBlade [4d\]: I'm a fool
+FlameBlade [4d\]: silly me
+]
+;B[cc]BL[30]OB[1]C[burrito [4k\]: let me see....  I was busy counting
+FlameBlade [4d\]: I had removed a liberty
+FlameBlade [4d\]: I mean, I threw out a move
+FlameBlade [4d\]: weird order of moves
+FlameBlade [4d\]: K1 is indeed better
+FlameBlade [4d\]: I got retarded...of course, I'm watching tv
+]
+;W[cb]WL[30]OW[5]
+;B[jb]BL[30]OB[1]
+;W[ib]WL[30]OW[5]
+;B[kc]BL[30]OB[1]C[FlameBlade [4d\]: anyway
+]
+;W[ic]WL[30]OW[5]C[FlameBlade [4d\]: O3 sucked.
+FlameBlade [4d\]: that's my opinion
+]
+;B[dq]BL[30]OB[1]
+;W[eq]WL[30]OW[5]
+;B[er]BL[30]OB[1]
+;W[aq]WL[30]OW[5]
+;B[bo]BL[30]OB[1]
+;W[ds]WL[30]OW[5]C[GoTrowaGo [6k\]: b6 b5 b8?
+]
+;B[bk]BL[30]OB[1]
+;W[ai]WL[30]OW[5]
+;B[rn]BL[30]OB[1]
+;W[sh]WL[30]OW[5]
+;B[pf]BL[30]OB[1]
+;W[on]WL[30]OW[5]
+;B[oo]BL[30]OB[1]C[FlameBlade [4d\]: now the result of the game is clear
+burrito [4k\]: I think white by 20
+FlameBlade [4d\]: no more comments from me :)
+]
+;W[kl]WL[30]OW[5]C[FlameBlade [4d\]: white has all endgame
+]
+;B[cs]BL[30]OB[1]
+;W[bs]WL[30]OW[5]C[FlameBlade [4d\]: right move was F1.
+FlameBlade [4d\]: since it's the necessary move
+]
+;B[ih]BL[30]OB[1]
+;W[hh]WL[30]OW[5]
+;B[hi]BL[30]OB[1]
+;W[gi]WL[30]OW[5]
+;B[im]BL[30]OB[1]
+;W[jm]WL[30]OW[5]
+;B[in]BL[30]OB[1]
+;W[jh]WL[30]OW[4]
+;B[ji]BL[30]OB[1]
+;W[ig]WL[30]OW[4]
+;B[kh]BL[30]OB[1]
+;W[kb]WL[30]OW[4]
+;B[lb]BL[30]OB[1]
+;W[ja]WL[30]OW[4]
+;B[qe]BL[30]OB[1]
+;W[re]WL[30]OW[4]
+;B[bl]BL[30]OB[1]
+;W[ma]WL[30]OW[4]
+;B[pa]BL[30]OB[1]
+;W[qa]WL[30]OW[4]
+;B[oa]BL[30]OB[1]
+;W[la]WL[30]OW[4]
+;B[mb]BL[30]OB[1]
+;W[mm]WL[30]OW[4]
+;B[nn]BL[30]OB[1]
+;W[nm]WL[30]OW[4]
+;B[lm]BL[30]OB[1]
+;W[ll]WL[30]OW[4]
+;B[ml]BL[30]OB[1]
+;W[mn]WL[30]OW[4]
+;B[no]BL[30]OB[1]
+;W[ln]WL[30]OW[4]
+;B[om]BL[30]OB[1]
+;W[pn]WL[30]OW[4]
+;B[ol]BL[30]OB[1]
+;W[nl]WL[30]OW[4]
+;B[nk]BL[30]OB[1]
+;W[ok]WL[30]OW[4]
+;B[lo]BL[30]OB[1]
+;W[kn]WL[30]OW[4]
+;B[oj]BL[30]OB[1]
+;W[kj]WL[30]OW[4]
+;B[lj]BL[30]OB[1]
+;W[hl]WL[30]OW[4]
+;B[na]BL[30]OB[1]
+;W[hm]WL[30]OW[4]C[burrito [4k\]: ??
+]
+;B[ka]BL[30]OB[1]
+;W[la]WL[30]OW[4]
+;B[gm]BL[30]OB[1]
+;W[hn]WL[30]OW[4]
+;B[jn]BL[30]OB[1]
+;W[gn]WL[30]OW[4]
+;B[ko]BL[30]OB[1]
+;W[km]WL[30]OW[4]
+;B[fn]BL[30]OB[1]
+;W[gk]WL[30]OW[4]
+;B[fl]BL[30]OB[1]
+;W[lk]WL[30]OW[3]
+;B[ki]BL[30]OB[1]
+;W[ar]WL[30]OW[3]
+;B[sk]BL[30]OB[1]
+;W[sj]WL[30]OW[3]
+;B[sl]BL[30]OB[1]
+;W[ap]WL[30]OW[3]
+;B[ao]BL[30]OB[1]
+;W[ak]WL[30]OW[3]
+;B[al]BL[30]OB[1]
+;W[aj]WL[30]OW[3]
+;B[ma]BL[30]OB[1]
+;W[ka]WL[30]OW[3]
+;B[ls]BL[30]OB[1]
+;W[mq]WL[30]OW[3]
+;B[nr]BL[30]OB[1]
+;W[ks]WL[30]OW[3]
+;B[oq]BL[30]OB[1]
+;W[]WL[30]OW[3]
+;B[]BL[30]OB[1]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ra][sa][ab][bb][db][eb][fb][gb][hb][jb][rb][sb][ac][bc][cc][ec][fc][gc][rc][sc][ad][bd][cd][dd][ed][fd][gd][hd][rd][sd][ae][be][de][ee][fe][ge][se][af][bf][cf][df][ef][ff][gf][sf][ag][bg][cg][dg][eg][fg][gg][sg][ah][dh][eh][fh][gh][bi][ci][fi][si][qj][hk][ik][jk][kk][qk][jl][ol][pl][lm][om][pm][dq][fq][dr][er][fr][hr][jr][as][cs][es][fs][gs][hs][is]TB[nb][mc][nc][ld][md][nd][od][je][ke][le][me][ne][oe][jf][kf][lf][mf][nf][of][kg][lg][mg][ng][pg][jh][lh][mh][nh][oh][ph][mi][ni][mj][nj][ek][el][am][bm][cm][dm][em][fm][sm][an][bn][cn][dn][en][sn][io][jo][ro][so][lp][mp][np][op][pp][qp][sp][lq][mq][nq][qq][rq][sq][or][pr][qr][rr][sr][ms][ns][os][ps][qs][rs][ss]C[FlameBlade [4d\]: gg, both
+GoTrowaGo [6k\]: thanks
+logicg8 [4k\]: Thank  you for the game
+FlameBlade [4d\]: I don't have much time
+FlameBlade [4d\]: but will try to review my best
+FlameBlade [4d\]: not much to comment
+FlameBlade [4d\]: just that...
+FlameBlade [4d\]: fuseki decided the course of the game
+FlameBlade [4d\]: and attitudes of both players also decided the game
+FlameBlade [4d\]: white was too territorial
+FlameBlade [4d\]: black didn't try hard enough to make his plan work
+FlameBlade [4d\]: or rather, make his plan work better
+FlameBlade [4d\]: have to try hard
+FlameBlade [4d\]: and heck, that mean fights
+FlameBlade [4d\]: any questions?
+logicg8 [4k\]: No. Thank you for the review
+GoTrowaGo [6k\]: no that was very good thank you for the review
+FlameBlade [4d\]: you're welcome
+GoTrowaGo [6k\]: GG adam
+Vash3G [-\]: who won?
+logicg8 [4k\]: Good game
+FlameBlade [4d\]: Adam won
+GoTrowaGo [6k\]: <-- has no direction sense
+FlameBlade [4d\]: try to look at whole board, Jon
+FlameBlade [4d\]: try to look at whole board more
+FlameBlade [4d\]: try to make stones fit together
+FlameBlade [4d\]: more practice you put in this
+FlameBlade [4d\]: better it will get
+FlameBlade [4d\]: and make fights more interesting because you will work your fights to fit the board
+FlameBlade [4d\]: okay, I think that's all
+FlameBlade [4d\]: have a good day
+GoTrowaGo [6k\]: thanks
+])
+(;B[rj]TR[kh][li][lj]C[GoTrowaGo [6k\]: yeah
+FlameBlade [4d\]: and if white keep struggling
+FlameBlade [4d\]: white might end up giving...
+FlameBlade [4d\]: this border to black
+FlameBlade [4d\]: and that's not a good thing
+FlameBlade [4d\]: no reason to struggle while ahead.
+GoTrowaGo [6k\]: i thought he already won so my heart wasnt in it
+GoTrowaGo [6k\]: dumb mistakes ~.~
+FlameBlade [4d\]: more white struggle...more points that white might give to black for no reason
+FlameBlade [4d\]: that may very well be black's hope
+]))
+(;B[lj]C[FlameBlade [4d\]: have to go for maximum
+]))
+(;B[dk]C[FlameBlade [4d\]: ugly
+FlameBlade [4d\]: but I think this is only move
+]
+;W[dl]
+;B[ek]
+;W[bl]
+;B[cm]
+;W[ch]
+;B[bi]
+;W[bj]
+;B[aj]
+;W[bk]
+(;B[bh]C[FlameBlade [4d\]: liberties matter
+])
+(;B[dh]
+;W[eh]
+;B[bh]
+;W[dg]
+;B[bg]
+;W[bm]C[FlameBlade [4d\]: but
+FlameBlade [4d\]: must be careful wit this
+]
+;B[cn]
+;W[bo]
+;B[bn]
+;W[an]
+;B[bp]C[FlameBlade [4d\]: thank god
+])))
+(;B[gj]C[FlameBlade [4d\]: btw, white to play
+FlameBlade [4d\]: I wonder if Adam has plan for this
+logicg8 [4k\]: f9 was my plan
+]
+;W[fk]
+;B[gk]C[FlameBlade [4d\]: now?
+logicg8 [4k\]: g11
+]
+;W[gi]C[GoTrowaGo [6k\]: yeah i considered sacrficing them but i didnt
+]
+;B[fh]C[logicg8 [4k\]: d9
+]
+;W[dk]C[GoTrowaGo [6k\]: h11
+FlameBlade [4d\]: let me think quickly
+logicg8 [4k\]: and the ladder doesn't work w have to fight more
+logicg8 [4k\]: I didn't read that move
+]
+(;B[ii])
+(;B[fl]
+;W[ek]
+;B[ii]C[FlameBlade [4d\]: this should cut off center
+FlameBlade [4d\]: and make it really hard
+]
+(;W[ij]
+;B[hi])
+(;W[hi]
+;B[ij]
+;W[ih]
+;B[jh]
+;W[ik]
+;B[ji]
+;W[hk]
+;B[jk]
+;W[jl]
+;B[kk]
+;W[im]
+;B[kl]C[FlameBlade [4d\]: massive center.
+FlameBlade [4d\]: it could be a trade
+FlameBlade [4d\]: but before this kind of thing
+FlameBlade [4d\]: has to read
+FlameBlade [4d\]: and
+FlameBlade [4d\]: count
+FlameBlade [4d\]: I think white might be winning still
+FlameBlade [4d\]: but...
+FlameBlade [4d\]: with aji around H3.
+FlameBlade [4d\]: it's pretty iffy
+FlameBlade [4d\]: which is why I'm not a fan of O3
+FlameBlade [4d\]: problem was
+FlameBlade [4d\]: black helped white build top left too much
+]))))
+(;B[hg]C[FlameBlade [4d\]: this is urgent
+])
+(;B[gi]C[FlameBlade [4d\]: can consider being aggressive
+])
+(;B[gh]C[FlameBlade [4d\]: attack something
+FlameBlade [4d\]: make white's potential go away
+]
+;W[fj]
+;B[ei]
+;W[ej]
+;B[lj]C[FlameBlade [4d\]: and still hold to big moyo
+]))
+(;B[fj]C[FlameBlade [4d\]: IMO
+FlameBlade [4d\]: should be working those two stones
+]
+;W[hh]
+(;B[fh]
+;W[hf]C[FlameBlade [4d\]: you try to look for ways to...
+FlameBlade [4d\]: 1. profit
+FlameBlade [4d\]: 2. reduce his potential
+]
+(;B[lj]C[FlameBlade [4d\]: once done
+FlameBlade [4d\]: could just play here
+FlameBlade [4d\]: notice that...
+FlameBlade [4d\]: H12, H10, K10 isn't making any points
+FlameBlade [4d\]: F10, F12 might make points in future
+FlameBlade [4d\]: and then M10
+FlameBlade [4d\]: it does a lot :D
+])
+(;B[cl]C[FlameBlade [4d\]: I mean, especially after this fight
+]
+;W[dr]
+;B[cg]C[FlameBlade [4d\]: hypothetically, but look at result here
+FlameBlade [4d\]: black got some potential here
+FlameBlade [4d\]: big difference, eh?
+]))
+(;B[hf]C[FlameBlade [4d\]: but when you try to decide best direction
+]
+;W[gg]
+;B[gf]
+;W[eg]
+;B[fh]
+;W[fg]
+;B[lj]C[GoTrowaGo [6k\]: he can run though so how do i decide the best direction to push him?
+FlameBlade [4d\]: it's hard
+])))
+(;B[hj]C[FlameBlade [4d\]: stronger, I feel
+])
+(;B[db]C[FlameBlade [4d\]: could check white here
+FlameBlade [4d\]: might affect stuff in middle
+])
+(;B[cl]C[FlameBlade [4d\]: or counterattack
+FlameBlade [4d\]: attack those two stones
+]))
+(;B[if]C[FlameBlade [4d\]: reach out more
+FlameBlade [4d\]: expand the borders much as you can
+])
+(;B[fm]C[FlameBlade [4d\]: can consider here
+])
+(;B[cl]C[FlameBlade [4d\]: or just start a fight here
+])
+(;B[ig]C[FlameBlade [4d\]: I think this is even better.
+FlameBlade [4d\]: should try to reach out far as you can
+FlameBlade [4d\]: you have power at L4
+FlameBlade [4d\]: and Q15
+FlameBlade [4d\]: use them!
+GoTrowaGo [6k\]: hai
+FlameBlade [4d\]: use them to go far as you can
+]))
+(;W[ie]C[FlameBlade [4d\]: how about this, Adam?
+logicg8 [4k\]: better
+FlameBlade [4d\]: you can give up K17
+FlameBlade [4d\]: it's small compared to center
+logicg8 [4k\]: I worried too much about my own territory and not enough about redicing b
+GoTrowaGo [6k\]: so is k16 a bad move?
+FlameBlade [4d\]: exactly
+]))
+(;B[ie]C[FlameBlade [4d\]: might can consider being more aggressive
+FlameBlade [4d\]: black got a lot of strength around Q15
+FlameBlade [4d\]: of course
+FlameBlade [4d\]: this is a bunch of complications
+FlameBlade [4d\]: reading required
+FlameBlade [4d\]: but you need to associate your attitude with what is going on the board
+FlameBlade [4d\]: and I'm talking about you both
+FlameBlade [4d\]: white is playing territory-based, letting black develop like crazy
+FlameBlade [4d\]: and black is playing moyo
+]
+(;W[kd]
+;B[je]
+;W[kc]
+;B[ke]C[FlameBlade [4d\]: after all, this fits your goal
+GoTrowaGo [6k\]: ahhh alot better
+])
+(;W[je]
+;B[kd]
+;W[he]
+;B[if]C[FlameBlade [4d\]: and it fits your goal as well
+FlameBlade [4d\]: try to fight to make your goal come true
+])))
+(;W[id]C[FlameBlade [4d\]: I think this move or something similar...might be slightly better
+FlameBlade [4d\]: look at the board
+FlameBlade [4d\]: what's black's emphasis right now?
+FlameBlade [4d\]: it's allllllllllllll moyo
+FlameBlade [4d\]: white must work to remove that crazy potential
+]))
+(;B[fm]
+;W[rh]
+;B[qj]C[FlameBlade [4d\]: see how moyo develops?
+])
+(;B[cl]C[FlameBlade [4d\]: or fight
+])
+(;B[fc]C[GoTrowaGo [6k\]: yeah I tried to fight instead of develop
+FlameBlade [4d\]: aim for some development somewhere
+]))
+(;W[rh]
+(;B[ri]
+;W[rf]
+;B[qj]C[FlameBlade [4d\]: this way
+FlameBlade [4d\]: white gets sente
+])
+(;B[re]
+;W[qe]
+;B[rf]
+;W[ri]C[FlameBlade [4d\]: no worries
+])
+(;B[qe]
+;W[re]C[FlameBlade [4d\]: still no worries
+])))
+(;W[qg]C[FlameBlade [4d\]: if black covers R13
+logicg8 [4k\]: not worth it r113 hurt alot
+FlameBlade [4d\]: black gets tons
+FlameBlade [4d\]: yes
+FlameBlade [4d\]: this is urgent
+]))
+(;B[ce]C[FlameBlade [4d\]: it's good time to play here
+])
+(;B[de]C[FlameBlade [4d\]: or here
+FlameBlade [4d\]: maybe engineer something for center
+])
+(;B[qh]C[FlameBlade [4d\]: later
+FlameBlade [4d\]: black might want thismove
+FlameBlade [4d\]: instead of P13
+]
+(;W[qg]
+;B[ph])
+(;W[pf]
+;B[oh])))
+(;W[qf]C[FlameBlade [4d\]: how about this?
+burrito [4k\]: I think that's the joseki move though, if I'm remembering it right
+FlameBlade [4d\]: it is joseki move
+FlameBlade [4d\]: black has no support around Q10
+FlameBlade [4d\]: so this is pretty much valid
+FlameBlade [4d\]: and
+FlameBlade [4d\]: R14 is where white wants his stone to be
+FlameBlade [4d\]: I mean
+]
+;B[nd]
+;W[md]
+;B[mc]
+;W[qd]
+;B[oc]
+;W[qc]C[FlameBlade [4d\]: joseki
+FlameBlade [4d\]: now it's just slightly harder for black to mess around with his power
+]))
+(;W[mq]C[FlameBlade [4d\]: personally
+FlameBlade [4d\]: but...
+FlameBlade [4d\]: not sure if this is right move on this board
+FlameBlade [4d\]: probably somewhere on top or on right side
+]))
+(;B[lp]
+;W[mq]
+;B[mp]
+;W[nq]
+;B[np]C[FlameBlade [4d\]: this is something that black can consider
+]))

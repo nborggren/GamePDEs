@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[0.50]TM[600]OT[5x30 byo-yomi]
+PW[AyaBot04]PB[logicg8]WR[1k]BR[2k]DT[2015-02-21]PC[The KGS Go Server at http://www.gokgs.com/]C[AyaBot04 [1k\]: GTP Engine for AyaBot04 (white): Aya version 7.81b : If life-death is wrong, push 'undo' and remove dead stones. Private chat 'wr' gets winrate.
+]RE[W+Time]
+;B[pd]BL[596.964]
+;W[dp]WL[599.694]
+;B[pq]BL[593.743]
+;W[dd]WL[599.251]
+;B[fc]BL[590.526]
+;W[df]WL[598.978]
+;B[jd]BL[588.282]
+;W[dj]WL[598.487]
+;B[pj]BL[582.939]
+;W[qo]WL[597.548]
+;B[qm]BL[577.642]
+;W[mq]WL[597.039]
+;B[op]BL[574.332]
+;W[pn]WL[596.088])
