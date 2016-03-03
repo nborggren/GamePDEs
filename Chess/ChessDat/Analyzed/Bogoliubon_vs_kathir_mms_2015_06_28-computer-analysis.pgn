@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2015.06.28"]
+[White "Bogoliubon"]
+[Black "kathir_mms"]
+[ECO "D20"]
+[ChesscomGameID "1198639399"]
+[Annotator "Chess.com Computer Analysis"]
+[Result "1-0"]
+[Termination "Bogoliubon won by resignation"]
+[TimeControl "10|0"]
+[BlackElo "1199"]
+[WhiteElo "1207"]
+{Inaccuracies(?!): 2 = 28.6% of moves | Mistakes(?): 1 = 14.3% of moves | Blunders(??): 0 = 0.0% of moves}
+
+1. d4 {(Book Move)}  d5 {(Book Move)} 
+2. c4 {(Book Move)}  dxc4 {(Book Move)} 
+3. e4 {(Book Move)}  b5 {(Book Move)} 
+4. Nf3 $6 {(0.31) INACCURACY - Perhaps better was 4. a4} 
+({BEST MOVE (0.62)} 4. a4 c6 5. axb5 cxb5 6. Nc3 Bd7 7. d5 e6   $14)
+({INACCURACY (0.31)} 4. Nf3 e6 5. Nc3 a6 6. a4 b4 7. Na2 Bb7   $14)
+4... c6 {(0.53)} 
+5. Nc3 {(0.22)}  a6 {(0.39)} 
+6. Be2 {(0.6)}  e6 {(0.35)} 
+7. O-O {(0.26)}  Qf6 $2 {(1.58) MISTAKE - Your opponent made a mistake! Better was 7... Nd7} 
+({BEST MOVE (0.26)} 7... Nd7 8. e5 Ne7 9. Bg5 f6 10. exf6 gxf6 11. Ne4   $10)
+({MISTAKE (1.58)} 7... Qf6 8. b3 cxb3 9. axb3 Qd8 10. e5 Be7 11. Bd3   $18)
+8. d5 $6 {(1) INACCURACY - Perhaps better was 8. b3} 
+({BEST MOVE (1.46)} 8. b3 cxb3 9. Bg5 b2 10. Bxf6 bxa1=Q 11. Qxa1 Nxf6   $16)
+({INACCURACY (1)} 8. d5 Qd8 9. dxe6 Bxe6 10. Qxd8+ Kxd8 11. Rd1+ Kc7   $16)
+8... Ne7 $2 {(2.14) MISTAKE - Your opponent made a mistake! Better was 8... Qd8} 
+({BEST MOVE (0.88)} 8... Qd8 9. Bf4 Nf6 10. d6 Nbd7 11. e5 Nd5 12. Bg3   $16)
+({MISTAKE (2.14)} 8... Ne7 9. d6 Ng8 10. e5 Qf5 11. a4 b4 12. Na2   $18)
+9. e5 $2 {(1.56) MISTAKE - That was a mistake. Much better was 9. d6} 
+({BEST MOVE (2.48)} 9. d6 Ng8 10. e5 Qf5 11. g3 h6 12. Bf4 g5   $18)
+({MISTAKE (1.56)} 9. e5 Qf5 10. dxe6 fxe6 11. Ng5 Ng6 12. Bh5 Be7   $18)
+9... Qg6 $4 {(4.42) BLUNDER - Lucky you! Your opponent blundered! The best move was 9... Qf5} 
+({BEST MOVE (1.56)} 9... Qf5 10. dxe6 fxe6 11. Ng5 Ng6 12. Bh5 Be7 13. g4   $18)
+({BLUNDER (4.42)} 9... Qg6 10. Nh4 cxd5 11. Nxg6 hxg6 12. Bf4 Nbc6 13. Bf3   $18)
+10. Nh4 {(4.42) WHITE WINS - Play might have continued...} 
+({CONTINUATION (4.42)} 10. Nh4 cxd5 11. Nxg6 hxg6 12. Bf3 Nd7 13. Re1 Bb7   $18)
+1-0
+
