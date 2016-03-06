@@ -11,7 +11,7 @@
 
 /dx 24 def                      % the size of the squares
 /half { .5 dx mul sub } def     % move into the SW intersection
-/r { .4 dx mul } def            % the size of the stones
+/r { .47 dx mul } def            % the size of the stones
 /coordsize  { dx 0.7 mul } def  % the size of the coordinates
 /insidesize { dx 0.6 mul } def  % the size of the letters inside the stones
 /pieceborder {dx .05 mul } def
@@ -124,7 +124,7 @@
     } if
 
     % Draw board edges
-    2 setlinewidth
+    1.25 setlinewidth
     newpath 
      0.5 dx mul 1 sub
      0.5 dx mul 1 sub
@@ -140,7 +140,7 @@
 
      cols 0.5 add dx mul 1 add
      0.5 dx mul 1 sub
-     lineto
+     moveto
 
      closepath
     stroke
@@ -263,7 +263,7 @@ gsave
 
 %--------------------------------------------------------------------------
 
-19 19 false Board
+10 10 false Board
 
 6 4 White
 3 5 White
@@ -271,6 +271,7 @@ gsave
 6 5 White
 7 5 White
 3 6 White
+10 10 White
 
 5 2 Black
 5 3 Black

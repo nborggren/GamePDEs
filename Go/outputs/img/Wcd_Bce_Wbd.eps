@@ -1,0 +1,126 @@
+%!PS-Adobe-3.0
+%%Creator: Cameron Browne and Joao Neto
+%%Title: go-test.ps
+%%CreationDate: 1/1/2004
+%%BoundingBox: 0 0 180 180
+%%Pages: 1
+%%Page: 1 1
+%%EndComments
+
+%---------------- Constants -------------------
+
+/dx 24 def                      % the size of the squares
+/half { .5 dx mul sub } def     % move into the SW intersection
+/r { .47 dx mul } def            % the size of the stones
+/pieceborder {dx .05 mul } def
+
+%---------------- Functions -------------------
+
+/White
+{
+    /i exch def
+    /j exch def
+
+    1 setgray
+    0 setlinewidth
+    newpath i dx mul half j dx mul half r 0 360 arc fill
+
+    0 setgray
+    pieceborder setlinewidth
+    newpath i dx mul half j dx mul half r 0 360 arc stroke
+} def
+
+/Black
+{
+    /i exch def
+    /j exch def
+
+    0 setgray
+    pieceborder setlinewidth
+    newpath i dx mul half j dx mul half r 0 360 arc fill
+    newpath i dx mul half j dx mul half r 0 360 arc stroke
+} def
+
+/Board
+{   % call: r(ows) c(ols)
+    /cols exch def
+    /rows exch def
+
+    /width  cols dx mul def
+    /height rows dx mul def
+
+    0 setgray
+    1 setlinecap
+    %1 setlinejoin
+
+    % Draw grid
+    0.5 setlinewidth
+
+    gsave
+
+    dx 2 div dx 2 div translate
+   
+    0 1 rows   % for each row
+    { 
+        dup
+        /i exch def     
+        /x i dx mul def
+        newpath 0 x moveto width x lineto stroke
+    } for
+
+
+    0 1 cols   % for each column
+    { 
+        dup
+        /i exch def     
+        /x i dx mul def
+        newpath x 0 moveto x height lineto stroke
+    } for
+
+    grestore
+
+    % Draw board edges
+    1 setlinewidth
+    newpath 
+     0.5 dx mul 1 sub
+     0.5 dx mul 1 sub
+     moveto
+
+     0.5 dx mul 1 sub
+     rows 0.5 add dx mul 1 add
+     lineto
+
+     cols 0.5 add dx mul 1 add
+     rows 0.5 add dx mul 1 add
+     lineto
+
+     cols 0.5 add dx mul 1 add
+     0.5 dx mul 1 sub
+     moveto
+
+     closepath
+    stroke
+} def
+
+%--------------------------------------------------------------------------
+%---------------- (make your diagram starting here) -----------------------
+%--------------------------------------------------------------------------
+
+dx 1 mul dx 1 mul translate
+
+gsave
+
+%--------------------------------------------------------------------------
+
+9 9 Board
+
+7 3 White 
+6 3 Black 
+7 2 White 
+
+
+%--------------------------------------------------------------------------
+
+grestore
+
+showpage
